@@ -1,0 +1,177 @@
+
+FUNDAÇÃO UNIVERSIDADE REGIONAL DE BLUMENAU
+
+Retificação do Extrato nº. 180/2020
+PARTES:  FUNDAÇÃO UNIVERSIDADE REGIONAL DE BLUMENAU
+
+E
+
+                 ELECTROINOX COMÉRCIO DE EQUIPAMENTOS E ELETRÔNICOS EIRELI
+OBJETO: Registro de Preços para aquisições futuras de equipamentos e produtos de informática para diversos setores da Universidade.
+
+FUNDAMENTO LEGAL: Pregão Presencial nº 473/2019 e Ata de Registro de Preços nº 076/2020, firmado em 22 de junho de 2020.  
+	Item
+	Código FURB
+	Qtde.
+	Und.
+	Descrição do Item
+	Marca/
+
+Modelo
+	Garantia (se houver, em meses)
+	Preço Unitário (em R$)
+	Preço Total do Item (em R$)
+
+	9
+	23365
+	150
+	Peça
+	Mouse óptico USB, com as seguintes características:
+
+Design:
+
+· Ambidestro
+
+· Ergonômico
+
+Tecnologia: Suporte a Plug & Play
+
+Sensor: óptico
+
+Resolução mínima: 400 dpi
+
+Botões: 2 botões de topo e um botão com scroll
+
+Informações no produto:
+
+· Logomarca na parte superior
+
+· Modelo
+
+· Part Number do fabricante
+
+· Serial Number ou Product Identifier (PID)
+
+· Origem de fabricação
+
+Carcaça: Não deverá conter estampas ou texturas na parte superior, somente o logo do fabricante
+Etiquetas: Obrigatoriamente plásticas e devem estar fixadas em local específico para esse fim além de adaptadas ao design do produto
+
+Lacre: não deve possuir lacre de papel
+
+Comprimento mínimo do fio/cabo: 1,4 m
+
+Interface: Compatível com USB 2.0 ou superior
+
+Certificação: Deve constar na Windows Hardware Compatibility List (HCL)
+
+Compatibilidade: Windows 7 ou superior
+
+Embalagem: Original do fabricante, lacrada e intacta.
+Garantia mínima: 24 (vinte e quatro) meses original do fabricante
+
+
+	Logitech – M1 / 00
+	
+	34,80
+	5.220,00
+
+	10
+	28488
+	150
+	Peça
+	Teclado USB ABNT2, com as seguintes características:
+
+Interface: Compatível com USB 2.0
+
+Teclas auxiliares: Não deve possuir as teclas FN, POWER, SLEEP, WAKE UP e TURBO
+
+Padrão: Português do Brasil ABNT2
+
+Peso mínimo: 500g (líquido)
+
+Comprimento mínimo do fio/cabo: 1,4 m
+
+Compatibilidade: Windows 7 ou superior
+
+Certificação: Deve constar na Windows Hardware Compatibility List (HCL)
+
+Informações impressas no produto:
+
+· Logomarca na parte superior e inferior
+
+· Modelo
+
+· Part Number do fabricante
+
+· Serial Number ou Product Identifier (PID)
+
+· Origem de fabricação
+
+· Selo Holográfico
+
+Etiquetas:
+
+· Devem estar fixadas em local específico para esse fim além de adaptadas ao design do produto
+
+· Deve conter etiqueta informativa sobre o uso do produto
+
+Apoios: Deve conter pelo menos dois de borracha ou material similar
+
+Regulagens: Deve conter dois pés para ajuste de altura
+
+Embalagem: Original do fabricante, lacrada e intacta.
+
+Garantia mínima: 24 (vinte e quatro) meses original do fabricante
+
+
+	Logitech – K12 0
+	
+	64,30
+	9.645,00
+
+	33
+	31923
+	20
+	Peça
+	Disco rígido (HD - Hard Disk) SATA3, 2 TB, com as seguintes características:
+Tipo: interno
+Dimensões: 3,5 polegadas
+Capacidade mínima: 2TB
+
+Interface: SATA III de 6 GB/s
+
+Alimentação: Interface padrão SATA
+
+Velocidade de rotação mínima: 7200 RPM
+
+Buffer mínimo: 64MB de cache
+
+Tecnologias: Suporte a SMART
+
+Embalagem: Original, lacrada e com os acessórios do fabricante
+
+Garantia do fabricante:
+
+· Mínima de 24 (vinte e quatro) meses no Brasil.
+
+· O fabricante deverá disponibilizar em seu site oficial, formulário para consulta da garantia do HD, devendo exibir assim que submetidos os dados do HD, seu prazo de garantia, modelo e número de série, sendo possível gerar uma ordem de troca/devolução direto no site, sem necessidade de atendimento via callcenter ou e-mail.
+
+· A garantia deverá ser atendida no Brasil, sem a necessidade de envio do disco para outros países.
+
+
+	Seagate – ST2
+
+Part number: 000DM006
+	
+	346,50
+	6.930,00
+
+	Preço Total 
+(em R$ e por extenso)
+	21.795,00 (vinte e um mil, setecentos e noventa e cinco reais)
+
+
+PAGAMENTO: O pagamento será realizado em até 30 (trinta) dias consecutivos após a efetiva entrega (com descarga) dos equipamento(s)/produto(s), desde que estes sejam aprovados pela Gestão Contratual e acompanhados da respectiva Nota Fiscal Eletrônica (NF-e), através de depósito bancário (hipótese na qual a NF-e deverá conter os dados bancários da CONTRATADA) ou de boleto bancário (caso no qual tal documento deverá acompanhar a NF-e).
+PRAZO DE VIGÊNCIA: A presente Ata de Registro de Preços terá a validade de 12 (doze) meses, contados a partir da data de sua assinatura.
+DATA: 22/06/2020.

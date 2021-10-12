@@ -1,0 +1,52 @@
+
+FUNDAÇÃO UNIVERSIDADE REGIONAL DE BLUMENAU
+
+Extrato nº. 402/2020
+PARTES:  FUNDAÇÃO UNIVERSIDADE REGIONAL DE BLUMENAU
+
+E
+
+                  FOOT COMERCIAL LTDA
+OBJETO: Registro de Preço para aquisições futuras de Equipamentos de Proteção Individual (EPI´s) para uso da Universidade.
+FUNDAMENTO LEGAL: Pregão Presencial nº 197/2020 e Ata de Registro de Preços nº 183/2020, firmado em 06 de outubro de 2020.  
+PREÇO: O preço ofertado pela empresa signatária da presente Ata de Registro de Preços é o abaixo informado, de acordo com a respectiva classificação.
+	Item
+	Código FURB
+	Qtde.
+	Und.
+	Descrição do Item
+	Marca
+	Preço Unitário (em R$)
+	Preço Total do Item (em R$)
+
+	9
+	23944
+	20.000
+	peça
+	Máscara / respirador purificador de ar tipo peça semifacial filtrante para partículas PFF2 - dobrável - com válvula de exalação. Proteção das vias respiratórias contra poeiras, névoas e fumos. Produto com Certificado de Aprovação (CA) válido.(RDC. Resolução da Diretoria Colegiada (RDC) 349/2020.)
+	Alliance
+	2,46
+	49.200,00
+
+	14
+	38140
+	500
+	peças
+	Óculos de segurança com lente de policarbonato incolor; modelo quadrado com ventilação lateral; para uso sobre óculos de grau do usuário; com tratamento antiriscos e antiembaçante; proteção UVA/UVB; lente formada por uma única peça; protetor nasal injetado do mesmo material; haste tipo vazada tipo espátula; com Certificado de Aprovação (CA) válido.
+	Libus
+	7,50
+	3.750,00
+
+	15
+	34275
+	500
+	peças
+	Óculos de segurança com lente de policarbonato incolor; modelo quadrado; com tratamento antiriscos; sem tratamento antiembaçante; proteção UVA/UVB; constituído de armação em nylon resistente e flexível; hastes tipo espátula, fixadas por meio de parafusos e com ajuste de comprimento; lente única confeccionada em policarbonato, acoplada a armação por meio de encaixes.
+	Libus
+	3,25
+	1.625,00
+
+
+PAGAMENTO: O pagamento será efetuado em até 30 (trinta) dias consecutivos após a efetiva entrega dos materiais, desde que os mesmos sejam aprovados pelo Gestor designado pela CONTRATANTE e sigam acompanhados da(s) respectiva(s) Nota(s) Fiscal(is) Eletrônica(s) (NF-e), através de depósitos bancários (hipótese na qual a NF-e deverá conter os dados bancários da CONTRATADA) ou de boletos bancários (caso no qual tais documentos deverão acompanhar a NF-e).
+PRAZO DE VIGÊNCIA: A presente Ata de Registro de Preços terá a validade de 12 (doze) meses, a partir da data de sua assinatura.
+DATA: 06/10/2020.

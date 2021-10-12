@@ -1,0 +1,578 @@
+
+FUNDAÇÃO UNIVERSIDADE REGIONAL DE BLUMENAU
+
+Extrato nº. 383/2020
+PARTES:  FUNDAÇÃO UNIVERSIDADE REGIONAL DE BLUMENAU
+
+E
+
+                  JOSE ARECIO REIS
+OBJETO: Registro de Preços para aquisições futuras de materiais elétricos destinados à manutenção e ampliação dos ambientes da Universidade.
+FUNDAMENTO LEGAL: Pregão Presencial (SRP) nº 157/2020 e Ata de Registro de Preços nº 176/2020, firmado em 30 de setembro de 2020.  
+PREÇO: O preço ofertado pela empresa signatária da presente Ata de Registro de Preços é o abaixo informado, de acordo com a respectiva classificação:
+
+	Lote: 01
+
+	Item
+	Código FURB
+	Qtde.
+	Und.
+	Descrição do Item
+	Marca
+	Preço Unitário (em R$)
+	Preço Total do Item
+
+ (em R$)
+
+	1
+	3981
+	20
+	Peça
+	Caixa para tomada com furo retangular de  36mm x 48mm para uso em perfilado Construído em chapa de aço carbono, Espessura mínima da chapa de 1,20mm (chapa 18),  Conforme as normas: SAE 1008-1010 e ABNT NBR11888-2/ NBR7013. Galvanizada pelo processo eletrolítico ou a fogo.
+	Eletropoll
+	4,27
+	85,40
+
+	2
+	2767
+	10
+	Peça
+	Curva horizontal 90° curta para eletrocalha perfurada 50X50mm. Construída em chapa de aço carbono, Espessura mínima da chapa de 1,20mm (chapa 18),  Conforme as normas: SAE 1008-1010 e ABNT NBR11888-2/ NBR7013. Galvanizada pelo processo eletrolítico ou a fogo. Providas de furos oblongos padrão, para união entre as mesmas com as dimensões de 7 x 25 mm, sendo espaçados entre si , no sentido transversal 25 mm, e no sentido longitudinal 38 mm.
+	Eletropoll
+	14,48
+	144,80
+
+	3
+	2735
+	100
+	Peça
+	Curva horizontal 90° curta para eletrocalha perfurada 100X50mm. Construída em chapa de aço carbono, Espessura mínima da chapa de 1,20mm (chapa 18),  Conforme as normas: SAE 1008-1010 e ABNT NBR11888-2/ NBR7013. Galvanizada pelo processo eletrolítico ou a fogo. Providas de furos oblongos padrão, para união entre as mesmas com as dimensões de 7 x 25 mm, sendo espaçados entre si , no sentido transversal 25 mm, e no sentido longitudinal 38 mm.
+	Eletropoll
+	18,75
+	1.875,00
+
+	4
+	24572
+	30
+	Peça
+	Curva horizontal 90° curta para eletrocalha perfurada 100X100mm. Construída em chapa de aço carbono, Espessura mínima da chapa de 1,20mm (chapa 18),  Conforme as normas: SAE 1008-1010 e ABNT NBR11888-2/ NBR7013. Galvanizada pelo processo eletrolítico ou a fogo. Providas de furos oblongos padrão, para união entre as mesmas com as dimensões de 7 x 25 mm, sendo espaçados entre si , no sentido transversal 25 mm, e no sentido longitudinal 38 mm.
+	Eletropoll
+	24,70
+	741,00
+
+	5
+	13908
+	15
+	Peça
+	Curva horizontal 90° curta para eletrocalha perfurada 200X100mm. Construída em chapa de aço carbono, Espessura mínima da chapa de 1,20mm (chapa 18),  Conforme as normas: SAE 1008-1010 e ABNT NBR11888-2/ NBR7013. Galvanizada pelo processo eletrolítico ou a fogo. Providas de furos oblongos padrão, para união entre as mesmas com as dimensões de 7 x 25 mm, sendo espaçados entre si , no sentido transversal 25 mm, e no sentido longitudinal 38 mm.
+	Eletropoll
+	42,60
+	639,00
+
+	6
+	19680
+	10
+	Peça
+	Curva vertical externa 90° curta para eletrocalha perfurada 50X50mm. Construída em chapa de aço carbono, Espessura mínima da chapa de 1,20mm (chapa 18),  Conforme as normas: SAE 1008-1010 e ABNT NBR11888-2/ NBR7013. Galvanizada pelo processo eletrolítico ou a fogo. Providas de furos oblongos padrão, para união entre as mesmas com as dimensões de 7 x 25 mm, sendo espaçados entre si , no sentido transversal 25 mm, e no sentido longitudinal 38 mm.
+	Eletropoll
+	16,18
+	161,80
+
+	7
+	2737
+	30
+	Peça
+	Curva vertical externa 90° curta para eletrocalha perfurada 100X50mm. Construída em chapa de aço carbono, Espessura mínima da chapa de 1,20mm (chapa 18),  Conforme as normas: SAE 1008-1010 e ABNT NBR11888-2/ NBR7013. Galvanizada pelo processo eletrolítico ou a fogo. Providas de furos oblongos padrão, para união entre as mesmas com as dimensões de 7 x 25 mm, sendo espaçados entre si , no sentido transversal 25 mm, e no sentido longitudinal 38 mm.
+	Eletropoll
+	22,15
+	664,50
+
+	8
+	24573
+	10
+	Peça
+	Curva vertical externa 90° curta para eletrocalha perfurada 100X100mm. Construída em chapa de aço carbono, Espessura mínima da chapa de 1,20mm (chapa 18),  Conforme as normas: SAE 1008-1010 e ABNT NBR11888-2/ NBR7013. Galvanizada pelo processo eletrolítico ou a fogo. Providas de furos oblongos padrão, para união entre as mesmas com as dimensões de 7 x 25 mm, sendo espaçados entre si , no sentido transversal 25 mm, e no sentido longitudinal 38 mm.
+	Eletropoll
+	34,07
+	340,70
+
+	9
+	19648
+	10
+	Peça
+	Curva vertical externa 90° curta para eletrocalha perfurada 200X100mm. Construída em chapa de aço carbono, Espessura mínima da chapa de 1,20mm (chapa 18),  Conforme as normas: SAE 1008-1010 e ABNT NBR11888-2/ NBR7013. Galvanizada pelo processo eletrolítico ou a fogo. Providas de furos oblongos padrão, para união entre as mesmas com as dimensões de 7 x 25 mm, sendo espaçados entre si , no sentido transversal 25 mm, e no sentido longitudinal 38 mm.
+	Eletropoll
+	42,59
+	425,90
+
+	10
+	24574
+	10
+	Peça
+	Curva vertical interna 90° curta para eletrocalha perfurada 100X100mm. Construída em chapa de aço carbono, Espessura mínima da chapa de 1,20mm (chapa 18),  Conforme as normas: SAE 1008-1010 e ABNT NBR11888-2/ NBR7013. Galvanizada pelo processo eletrolítico ou a fogo. Providas de furos oblongos padrão, para união entre as mesmas com as dimensões de 7 x 25 mm, sendo espaçados entre si , no sentido transversal 25 mm, e no sentido longitudinal 38 mm.
+	Eletropoll
+	34,07
+	340,70
+
+	11
+	2738
+	20
+	Peça
+	Curva vertical interna 90° curta para eletrocalha perfurada 100X50mm. Construída em chapa de aço carbono, Espessura mínima da chapa de 1,20mm (chapa 18),  Conforme as normas: SAE 1008-1010 e ABNT NBR11888-2/ NBR7013. Galvanizada pelo processo eletrolítico ou a fogo. Providas de furos oblongos padrão, para união entre as mesmas com as dimensões de 7 x 25 mm, sendo espaçados entre si , no sentido transversal 25 mm, e no sentido longitudinal 38 mm.
+	Eletropoll
+	21,29
+	425,80
+
+	12
+	19649
+	10
+	Peça
+	Curva vertical interna 90° curta para eletrocalha perfurada 200X100mm. Construída em chapa de aço carbono, Espessura mínima da chapa de 1,20mm (chapa 18),  Conforme as normas: SAE 1008-1010 e ABNT NBR11888-2/ NBR7013. Galvanizada pelo processo eletrolítico ou a fogo. Providas de furos oblongos padrão, para união entre as mesmas com as dimensões de 7 x 25 mm, sendo espaçados entre si , no sentido transversal 25 mm, e no sentido longitudinal 38 mm.
+	Eletropoll
+	42,59
+	425,90
+
+	13
+	19682
+	10
+	Peça
+	Curva vertical interna 90° curta para eletrocalha perfurada 50X50mm. Construída em chapa de aço carbono, Espessura mínima da chapa de 1,20mm (chapa 18),  Conforme as normas: SAE 1008-1010 e ABNT NBR11888-2/ NBR7013. Galvanizada pelo processo eletrolítico ou a fogo. Providas de furos oblongos padrão, para união entre as mesmas com as dimensões de 7 x 25 mm, sendo espaçados entre si , no sentido transversal 25 mm, e no sentido longitudinal 38 mm
+	Eletropoll
+	17,04
+	170,40
+
+	14
+	14186
+	300
+	Peça
+	Eletrocalha perfurada 100X50mm. barra com 3 metros. Construída em chapa de aço carbono, Espessura mínima da chapa de 1,20mm (chapa 18),  Conforme as normas: SAE 1008-1010 e ABNT NBR11888-2/ NBR7013. Galvanizada pelo processo eletrolítico ou a fogo. Providas de furos oblongos padrão, para união entre as mesmas com as dimensões de 7 x 25 mm, sendo espaçados entre si , no sentido transversal 25 mm, e no sentido longitudinal 38 mm.
+	Eletropoll
+	51,11
+	15.333,00
+
+	15
+	17403
+	100
+	Peça
+	Eletrocalha perfurada 100X100mm .barra com 3 metros. Construída em chapa de aço carbono, Espessura mínima da chapa de 1,20mm (chapa 18),  Conforme as normas: SAE 1008-1010 e ABNT NBR11888-2/ NBR7013. Galvanizada pelo processo eletrolítico ou a fogo. Providas de furos oblongos padrão, para união entre as mesmas com as dimensões de 7 x 25 mm, sendo espaçados entre si, no sentido transversal 25 mm, e no sentido longitudinal 38 mm.
+	Eletropoll
+	76,66
+	7.666,00
+
+	16
+	13907
+	50
+	Peça
+	Eletrocalha perfurada 200X100mm .barra com 3 metros. Construída em chapa de aço carbono, Espessura mínima da chapa de 1,20mm (chapa 18),  Conforme as normas: SAE 1008-1010 e ABNT NBR11888-2/ NBR7013. Galvanizada pelo processo eletrolítico ou a fogo. Providas de furos oblongos padrão, para união entre as mesmas com as dimensões de 7 x 25 mm, sendo espaçados entre si, no sentido transversal 25 mm, e no sentido longitudinal 38 mm. 
+	Eletropoll
+	102,22
+	5.111,00
+
+	17
+	2743
+	30
+	Peça
+	Eletrocalha perfurada 50X50mm, barra com 3 metros. Construída em chapa de aço carbono, Espessura mínima da chapa de 1,20mm (chapa 18), Conforme as normas: SAE 1008-1010 e ABNT NBR11888-2/ NBR7013. Galvanizada pelo processo eletrolítico ou a fogo. Providas de furos oblongos padrão, para união entre as mesmas com as dimensões de 7 x 25 mm, sendo espaçados entre si, no sentido transversal 25 mm, e no sentido longitudinal 38 mm.
+	Eletropoll
+	38,33
+	1.149,90
+
+	18
+	2777
+	50
+	Peça
+	Emenda interna tipo Junção telescópica para eletrocalha perfurada 50X50mm. Construída em chapa de aço carbono, Espessura mínima da chapa de 1,20mm (chapa 18), Conforme as normas: SAE 1008-1010 e ABNT NBR11888-2/ NBR7013. Galvanizada pelo processo eletrolítico ou a fogo. Providas de furos oblongos padrão, para união entre as mesmas com as dimensões de 7 x 25 mm, sendo espaçados entre si, no sentido transversal 25 mm, e no sentido longitudinal 38 mm.
+	Eletropoll
+	1,79
+	89,50
+
+	19
+	2807
+	300
+	Peça
+	Emenda interna tipo Junção telescópica para eletrocalha perfurada 100X50mm. Construída em chapa de aço carbono, Espessura mínima da chapa de 1,20mm (chapa 18), Conforme as normas: SAE 1008-1010 e ABNT NBR11888-2/ NBR7013. Galvanizada pelo processo eletrolítico ou a fogo. Providas de furos oblongos padrão, para união entre as mesmas com as dimensões de 7 x 25 mm, sendo espaçados entre si , no sentido transversal 25 mm, e no sentido longitudinal 38 mm.
+	Eletropoll
+	2,56
+	768,00
+
+	20
+	17404
+	40
+	Peça
+	Emenda interna tipo Junção telescópica para eletrocalha perfurada 100X100mm. Construída em chapa de aço carbono, Espessura mínima da chapa de 1,20mm (chapa 18), Conforme as normas: SAE 1008-1010 E ABNT NBR11888-2/ NBR7013. Galvanizada pelo processo eletrolítico ou a fogo. Providas de furos oblongos padrão, para união entre as mesmas com as dimensões de 7 x 25 mm, sendo espaçados entre si , no sentido transversal 25 mm, e no sentido longitudinal 38 mm.
+	Eletropoll
+	3,83
+	153,20
+
+	21
+	16300
+	30
+	Peça
+	Emenda interna tipo Junção telescópica para eletrocalha perfurada 200X100mm. Construída em chapa de aço carbono, Espessura mínima da chapa de 1,20mm (chapa 18), Conforme as normas: SAE 1008-1010 e ABNT NBR11888-2/ NBR7013. Galvanizada pelo processo eletrolítico ou a fogo. Providas de furos oblongos padrão, para união entre as mesmas com as dimensões de 7 x 25 mm, sendo espaçados entre si , no sentido transversal 25 mm, e no sentido longitudinal 38 mm.
+	Eletropoll
+	5,54
+	166,20
+
+	22
+	18710
+	400
+	Peça
+	Gancho curto para perfilado de 38mm, com 100 mm de comprimento. Construído em chapa de aço carbono, Espessura mínima da chapa de 2,00mm (chapa 14), Conforme as normas: SAE 1008-1010 e ABNT NBR11888-2/ NBR7013. Galvanizada pelo processo eletrolítico ou a fogo.
+	Eletropoll
+	1,79
+	716,00
+
+	23
+	16166
+	20
+	Peça
+	Junção Interna L para perfilado. Construído em chapa de aço carbono, Espessura mínima da chapa de 1,50mm (chapa 16), Conforme as normas: SAE 1008-1010 e ABNT NBR11888-2/ NBR7013. Galvanizada pelo processo eletrolítico ou a fogo. Providos de furos oblongos padrão, para união entre os mesmos. sendo espaçados no sentido longitudinal de 38 mm.
+	Eletropoll
+	2,38
+	47,60
+
+	24
+	2820
+	20
+	Peça
+	Junção Interna T para perfilado. Construído em chapa de aço carbono, Espessura mínima da chapa de 1,50mm (chapa 16), Conforme as normas: SAE 1008-1010 e ABNT NBR11888-2/ NBR7013. Galvanizada pelo processo eletrolítico ou a fogo. Providos de furos oblongos padrão, para união entre os mesmos. sendo espaçados no sentido longitudinal de 38 mm.
+	Eletropoll
+	2,98
+	59,60
+
+	25
+	2741
+	100
+	Peça
+	Mão francesa simples altura 114 mm, largura. 200mm. Espessura mínima da chapa de 1,50mm (chapa 16), Conforme norma: SAE 1008-1010.
+	Eletropoll
+	5,11
+	511,00
+
+	26
+	2803
+	300
+	Peça
+	Mão francesa simples altura 114 mm, largura. 300mm.  Espessura mínima da chapa de 1,50mm (chapa 16), Conforme norma: SAE 1008-1010.
+	Eletropoll
+	8,94
+	2.682,00
+
+	27
+	19663
+	200
+	Peça
+	Mão francesa simples altura 114 mm, largura. 400mm. Espessura mínima da chapa de 1,50mm (chapa 16), Conforme norma: SAE 1008-1010.
+	Eletropoll
+	11,07
+	2.214,00
+
+	28
+	2548
+	60
+	Barra
+	Perfilado com fundo perfurado 38x38mm, em barra de 6 metros. Construído em chapa de aço carbono, Espessura mínima da chapa de 1,50mm (chapa 16), Conforme as normas: SAE 1008-1010 e ABNT NBR11888-2/ NBR7013. Galvanizada pelo processo eletrolítico ou a fogo. Providos de furos oblongos padrão, para união entre os mesmos. sendo espaçados no sentido longitudinal de 38 mm.
+	Eletropoll
+	63,88
+	3.832,80
+
+	29
+	16162
+	15
+	Peça
+	Sapata interna para perfilado. Construído em chapa de aço carbono, Espessura mínima da chapa de 1,50mm (chapa 16), Conforme as normas: SAE 1008-1010 e ABNT  NBR11888-2/ NBR7013. Galvanizada pelo processo eletrolítico ou a fogo. Providos de furos oblongos padrão, para união entre os mesmos. sendo espaçados no sentido longitudinal de 38 mm.
+	Eletropoll
+	4,43
+	66,45
+
+	30
+	4103
+	20
+	Peça
+	Suporte horizontal fechado para eletrocalha perfurada 100X50mm ou 100X100mm suspensão do suporte por tirante. Construído em chapa de aço carbono, Espessura mínima da chapa de 2,00mm (chapa 14), Conforme as normas: SAE 1008-1010 e ABNT NBR11888-2/ NBR7013. Galvanizada pelo processo eletrolítico ou a fogo.
+	Eletropoll
+	2,13
+	42,60
+
+	31
+	22755
+	20
+	Peça
+	Suporte horizontal fechado para eletrocalha perfurada 200X100mm. suspensão do suporte por tirante Construído em chapa de aço carbono, Espessura mínima da chapa de 2,00mm (chapa 14), Conforme as normas: SAE 1008-1010 e ABNT NBR11888-2/ NBR7013. Galvanizada pelo processo eletrolítico ou a fogo.
+	Eletropoll
+	4,26
+	85,20
+
+	32
+	4318
+	20
+	Peça
+	Suporte horizontal fechado para eletrocalha perfurada 50X50mm. suspensão do suporte por tirante Construído em chapa de aço carbono, Espessura mínima da chapa de 2,00mm (chapa 14), Conforme as normas: SAE 1008-1010 e ABNT NBR11888-2/ NBR7013. Galvanizada pelo processo eletrolítico ou a fogo.
+	Eletropoll
+	1,62
+	32,40
+
+	33
+	22756
+	150
+	Peça
+	Suspensão para tirante tipo cantoneira ZZ , com encaixe de 38mm. Construída em chapa de aço carbono, Espessura mínima da chapa de 2,00mm (chapa 14),  Conforme as normas: SAE 1008-1010 e ABNT NBR11888-2/ NBR7013. Galvanizada pelo processo eletrolítico ou a fogo.
+	Eletropoll
+	1,53
+	229,50
+
+	34
+	2729
+	10
+	Barra
+	Tampa lisa para eletrocalha de 100mm. barra com 3 metros. Construída em chapa de aço carbono, Espessura mínima da chapa de 0,90mm (chapa 20),  Conforme as normas: SAE 1008-1010 e ABNT NBR11888-2/ NBR7013. Galvanizada pelo processo eletrolítico ou a fogo.
+	Eletropoll
+	21,29
+	212,90
+
+	35
+	17392
+	5
+	Barra
+	Tampa lisa para eletrocalha de 200mm. barra com 3 metros. Construída em chapa de aço carbono, Espessura mínima da chapa de 0,90mm (chapa 20),  Conforme as normas: SAE 1008-1010 e ABNT NBR11888-2/ NBR7013. Galvanizada pelo processo eletrolítico ou a fogo.
+	Eletropoll
+	34,07
+	170,35
+
+	36
+	2778
+	5
+	Barra
+	Tampa lisa para eletrocalha de 50mm. barra com 3 metros. Construída em chapa de aço carbono, Espessura mínima da chapa de 0,90mm (chapa 20),  Conforme as normas: SAE 1008-1010 e ABNT NBR11888-2/ NBR7013. Galvanizada pelo processo eletrolítico ou a fogo.
+	Eletropoll
+	12,78
+	63,90
+
+	37
+	2776
+	5
+	Peça
+	Tee horizontal p/ eletrocalha perfurada 50x50mm. Construído em chapa de aço carbono, Espessura mínima da chapa de 1,20mm (chapa 18), Conforme as normas: SAE 1008-1010 e ABNT NBR11888-2/ NBR7013. Galvanizada pelo processo eletrolítico ou a fogo. Providas de furos oblongos padrão, para união entre as mesmas com as dimensões de 7 x 25 mm, sendo espaçados entre si, no sentido transversal 25 mm, e no sentido longitudinal 38 mm.
+	Eletropoll
+	18,74
+	93,70
+
+	38
+	14171
+	30
+	Peça
+	Tee horizontal p/ eletrocalha perfurada 100x50mm. Construído em chapa de aço carbono, Espessura mínima da chapa de 1,20mm (chapa 18), Conforme as normas: SAE 1008-1010 e ABNT NBR11888-2/ NBR7013. Galvanizada pelo processo eletrolítico ou a fogo. Providas de furos oblongos padrão, para união entre as mesmas com as dimensões de 7 x 25 mm, sendo espaçados entre si, no sentido transversal 25 mm, e no sentido longitudinal 38 mm.
+	Eletropoll
+	25,55
+	766,50
+
+	39
+	24339
+	15
+	Peça
+	Tee horizontal p/ eletrocalha perfurada 100x100mm. Construído em chapa de aço carbono, Espessura mínima da chapa de 1,20mm (chapa 18),  Conforme as normas: SAE 1008-1010 e ABNT NBR11888-2/ NBR7013. Galvanizada pelo processo eletrolítico ou a fogo. Providas de furos oblongos padrão, para união entre as mesmas com as dimensões de 7 x 25 mm, sendo espaçados entre si, no sentido transversal 25 mm, e no sentido longitudinal 38 mm.
+	Eletropoll
+	42,56
+	638,40
+
+	40
+	13909
+	10
+	Peça
+	Tee horizontal p/ eletrocalha perfurada 200x100mm. Construído em chapa de aço carbono, Espessura mínima da chapa de 1,20mm (chapa 18),  Conforme as normas: SAE 1008-1010 e ABNT NBR11888-2/ NBR7013. Galvanizada pelo processo eletrolítico ou a fogo. Providas de furos oblongos padrão, para união entre as mesmas com as dimensões de 7 x 25 mm, sendo espaçados entre si , no sentido transversal 25 mm, e no sentido longitudinal 38 mm.
+	Eletropoll
+	51,11
+	511,10
+
+	41
+	24579
+	5
+	Peça
+	Tee vertical de descida  lateral (invertido) 90° para eletrocalha perfurada 200X100mm. Construído em chapa de aço carbono, Espessura mínima da chapa de 1,20mm (chapa 18),  Conforme as normas: SAE 1008-1010 e ABNT NBR11888-2/ NBR7013. Galvanizada pelo processo eletrolítico ou a fogo. Providas de furos oblongos padrão, para união entre as mesmas com as dimensões de 7 x 25 mm, sendo espaçados entre si , no sentido transversal 25 mm, e no sentido longitudinal 38 mm. 
+	Eletropoll
+	51,11
+	255,55
+
+	42
+	19713
+	15
+	Peça
+	Tee vertical de descida  lateral (invertido), 90° para eletrocalha perfurada 100X50mm. Construído em chapa de aço carbono, Espessura mínima da chapa de 1,20mm (chapa 18),  Conforme as normas: SAE 1008-1010 e ABNT NBR11888-2/ NBR7013. Galvanizada pelo processo eletrolítico ou a fogo. Providas de furos oblongos padrão, para união entre as mesmas com as dimensões de 7 x 25 mm, sendo espaçados entre si , no sentido transversal 25 mm, e no sentido longitudinal 38 mm.
+	Eletropoll
+	27,26
+	408,90
+
+	43
+	19708
+	5
+	Peça
+	Tee vertical de descida  lateral, 90° para eletrocalha perfurada 50X50mm. Construído em chapa de aço carbono, Espessura mínima da chapa de 1,20mm (chapa 18),  Conforme as normas: SAE 1008-1010 e ABNT NBR11888-2/ NBR7013. Galvanizada pelo processo eletrolítico ou a fogo. Providas de furos oblongos padrão, para união entre as mesmas com as dimensões de 7 x 25 mm, sendo espaçados entre si , no sentido transversal 25 mm, e no sentido longitudinal 38 mm.
+	Eletropoll
+	20,44
+	102,20
+
+	44
+	24580
+	10
+	Peça
+	Tee vertical de descida  lateral, 90° para eletrocalha perfurada 100X100mm. Construído em chapa de aço carbono, Espessura mínima da chapa de 1,20mm (chapa 18),  Conforme as normas: SAE 1008-1010 e ABNT NBR11888-2/ NBR7013. Galvanizada pelo processo eletrolítico ou a fogo. Providas de furos oblongos padrão, para união entre as mesmas com as dimensões de 7 x 25 mm, sendo espaçados entre si , no sentido transversal 25 mm, e no sentido longitudinal 38 mm.
+	
+	42,59
+	425,90
+
+	45
+	33066
+	300
+	Peça
+	Saída horizontal de eletrocalha para eletroduto, diametro de 3/4", Construido em chapa de aço carbono, espessura mínima da chapa de 1,20mm (chapa 18). Conforme as normas SAE 1008-1010 e ABNT NBR 11888-2 / NBR7013. Galvanizada pelo processo eletrolítico ou a fogo.
+	Eletropoll
+	1,70
+	510,00
+
+	46
+	4004
+	200
+	Peça
+	Conector reto com arruela em alumínio, com box para eletroduto 3/4" e parafuso de aperto, uso em eletrtocalha.
+	Wetzel
+	3,58
+	716,00
+
+	47
+	37521
+	5
+	Peça
+	Tee vertical de descida central para eletrocalha de 200mm x 100mm; construído em chapa de aço carbono; espessura mínima da chapa de 1,20mm (chapa 18); conforme as normas: SAE 1008-1010 / NBR11888-2/ NBR7013; galvanizada pelo processo eletrolítico ou a fogo; providas de furos oblongos padrão, para união entre as mesmas com as dimensões de 7 x 25 mm, sendo espaçados entre si no sentido transversal 25 mm, e no sentido longitudinal 38 mm.
+	Eletropoll
+	59,63
+	298,15
+
+	48
+	4721
+	20
+	Peça
+	Junção Interna I para perfilado. Construído em chapa de aço carbono, Espessura mínima da chapa de 1,50mm (chapa 16), Conforme as normas: SAE 1008-1010 e ABNT NBR11888-2/ NBR7013. Galvanizada pelo processo eletrolítico ou a fogo. Providos de furos oblongos padrão, para união entre os mesmos. sendo espaçados no sentido longitudinal de 38 mm.
+	Eletropoll
+	1,53
+	30,60
+
+	49
+	3781
+	10
+	peça
+	Trilho DIN para disjuntor de 35 x 7,5mm, perfurado em aço Galvanizado, barra com 2 metros.
+	Eletropoll
+	9,80
+	98,00
+
+	Preço Total do Lote 
+
+(em R$)
+	52.699,00
+
+	Preço Total do Lote 
+
+(em reais, por extenso)
+	Cinquenta e dois mil seiscentos e noventa e nove reais
+
+
+	Lote: 16
+
+	Item
+	Código FURB
+	Qtde.
+	Und.
+	Descrição do Item
+	Marca
+	Preço Unitário (em R$)
+	Preço Total do Item
+
+ (em R$)
+
+	1
+	33088
+	200
+	Peça
+	Luminária comercial, de sobrepor, sem aletas, de alto rendimento, para 2 lâmpadas fluorescentes tubulares T5 de 28 W, com as seguintes características:
+- Cor branca
+
+- Rendimento mínimo de 75%
+
+- Refletor multifacetado, fixado ao chassis removível, fabricado em alumínio anodizado  de alto brilho e pureza (99,85%) com espessura de no mínimo 0,3 mm. O refletor deverá ser entregue com película plástica removível no lado refletivo que servira para proteger contra pequenos riscos e poeira durante a instalação.
+- Alojamento para reator.
+
+- Corpo, chassis interno, tampa do alojamento e tampa soquetes fabricados em chapas de aço de espessura mínima de 0,4mm, tratada quimicamente e revestida com tinta pó, epóxi-poliester pelo sistema eletrostático. O tratamento e a pintura deverão ser uniformes em toda luminária e em seus componentes, sem diferenças entre parte externas e internas.
+
+- Furos de fixação do corpo.
+
+- Fornecida com soquetes para lâmpadas antivibratórios em policarbonato.
+
+- Apresentar formato, dimensões e aparência externa totalmente compatível com a Luminária da Lumepetro, ref. 74205
+	Lumepetro
+	106,81
+	21.362,00
+
+	2
+	33090
+	40
+	Peça
+	Luminária fechada de sobrepor auto rendimento, para lâmpadas fluorescentes tubulares, 2x28W, IP-65. Difusor prismático em acrílico na cor cristal ou em policarbonato. Corpo fabricado em ABS/Poliestireno na cor cinza claro, alojamento para o Reator. Presilhas fixas em aço inox, para garantir o fechamento do difusor junto ao corpo. Sua vedação é feita através de um perfil de borracha EPDM. Refletor em chapa de aço tratada quimicamente e revestida com tinta, epóxi-poliester na cor branca. Fornecida com soquetes para lâmpadas antivibratórios em policarbonato branco, com rotor de segurança e contatos em bronze fosforoso e sistema de engate. Grau de proteção IP-65.
+	Lumepetro
+	89,72
+	3.588,80
+
+	3
+	26196
+	5
+	Peça
+	Luminária para iluminação industrial e comercial para lâmpada vapor metálico ovóide 400W. Com Alojamento para reator e acessórios em liga de alumínio injetado, pintado eletrostaticamente em tinta epóxi na cor branca com gancho para sustentação em perfilado. Difusor acrílico transparente prismático Porta lâmpada tipo E-40, de porcelana reforçada, com mola estabilizadora e antivibratória. Rendimento mínimo de 93%.
+	Olivo
+	256,40
+	1.282,00
+
+	4
+	4485
+	30
+	Peça
+	PROJETOR RETANGULAR DE LONGO ALCANCE, para uso externo, fechado para lâmpada ovóide ou tubular de ate 400W (sódio, metálica, mercúrio). Corpo refletor em chapas de Alumínio Anodizado brilhante e tampas laterais fundidas ou estampadas em Alumínio.  Vidro plano temperado. Tampa de fácil abertura para substituição das lâmpadas com vedação. Bocal E40
+	Olivo
+	76,94
+	2.308,20
+
+
+Luminária comercial, de sobrepor, sem aletas, de alto rendimento, para 2 lâmpadas fluorescentes tubulares T8 de 32W, com as seguintes características: 
+
+- Cor branca
+
+- Rendimento mínimo de 75%
+
+
+- Alojamento para reator.
+
+- Corpo, chassis interno, tampa do alojamento e tampa soquetes fabricados em chapas de aço de espessura mínima de 0,4mm, tratada quimicamente e revestida com tinta pó, epóxi-poliester pelo sistema eletrostático. O tratamento e a pintura deverão ser uniformes em toda luminária e em seus componentes, sem diferenças entre parte externas e internas.
+
+- Furos de fixação do corpo.
+
+- Furação de entrada de alimentação no centro da luminária.
+
+- Apresentar formato, dimensões e aparência externa totalmente compatível com a Luminária  da Lumepetro, ref. 139205.
+
+	- Garantia total mínima de 3 anos.
+	Lumepetro
+	89,72
+	13.458,00
+
+	Preço Total do Lote 
+
+(em R$)
+	41.999,00
+
+	Preço Total do Lote 
+
+(em reais, por extenso)
+	Quarenta e um mil novecentos e noventa e nove reais
+
+
+PAGAMENTO: O pagamento será efetuado em até 30 (trinta) dias consecutivos após a efetiva entrega (com descarga) dos materiais, desde que os mesmos estejam em perfeitas condições de uso, sejam aprovados pelo Gestor designado pela CONTRATANTE e sigam acompanhados da respectiva Nota Fiscal Eletrônica (NF-e), através de depósitos bancários (hipótese na qual a NF-e deverá conter os dados bancários da CONTRATADA) ou de boletos bancários (caso no qual tais documentos deverão acompanhar a NF-e).
+PRAZO DE VIGÊNCIA: Esta Ata de Registro de Preços terá vigência de 12 (doze) meses, a partir de sua assinatura.
+DATA: 30/09/2020.

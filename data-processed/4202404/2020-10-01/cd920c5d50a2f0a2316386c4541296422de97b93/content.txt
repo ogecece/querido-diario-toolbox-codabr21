@@ -1,0 +1,439 @@
+
+
+
+
+
+
+
+
+
+
+
+
+PLANO DE CONTINGÊNCIA PARA O ENFRENTAMENTO DE DENGUE, CHIKUNGUNYA E ZIKA VÍRUS NO MUNICÍPIO DE BLUMENAU-SC
+
+
+
+
+
+
+
+2020/2021
+
+PREFEITURA MUNICIPAL DE BLUMENAU-SC
+SECRETARIA DE PROMOÇÃO DA SAÚDE DE BLUMENAU-SC
+
+
+Plano de Contingência para o Enfrentamento de Dengue, Chikungunya e Zika Vírus no Município de Blumenau-SC
+
+
+Prefeito Municipal
+ Mário Hildebrandt,
+Secretário de Saúde
+ Winnetou Krambeck
+Diretora de Vigilância em Saúde
+Jeckeline Maria Sartor
+Coordenadora de Vigilância Epidemiológica 
+Rosana Pfeilsticker Pereira Benevenutti
+Coordenadora Municipal de Prevenção e Combate à Dengue
+Eleandra Fátima Santos Casani
+
+
+
+2020/2021
+PREFEITURA MUNICIPAL DE BLUMENAU- SC
+Plano de Contingência para o Enfrentamento de Dengue, Chikungunya e Zika Vírus no Município de Blumenau-SC
+
+ÍNDICE
+· INTRODUÇÃO..................................................................................................3
+· OBJETIVO........................................................................................................3
+· Objetivo Específico.........................................................................................3
+· ARBOVIROSES E SUA RELEVÂNCIA EPIDEMIOLÓGICA...........................4
+· Dengue.............................................................................................................4
+· Chikungunya....................................................................................................6
+·  Zika Vírus.........................................................................................................7
+· VIGILÂNCIA EPIDEMIOLÓGICA.....................................................................8
+· Rede de Assistência ao Paciente.................................................................10
+· ESTRUTURA DO PROGRAMA DE COMBATE À DENGUE.........................11
+· AÇÕES DE CONTROLE VETORIAL..............................................................12
+· AÇÕES INTEGRADAS DE EDUCAÇÃO EM SAÚDE, COMUNICAÇÃO E MOBILIZAÇÃO SOCIAL.................................................................................13
+· ESTRATÉGIA DE AÇÃO................................................................................15
+· ESTRATÉGIA DE AÇÃO COM TRANSMISSÃO VÍRAL...............................17
+·  CONTATOS...................................................................................................26
+· REFERÊNCIAS...............................................................................................27
+
+
+· INTRODUÇÃO
+
+As ações de controle vetorial no município de Blumenau compreendem atividades distintas, com medidas preventivas de combate aos vetores, Aedes aegypti e Aedes albopictus, com ações de assistência ao paciente com suspeita e/ou com diagnóstico de dengue, Chikungunya e Zika Vírus.  
+	A posição geográfica e econômica do município de Blumenau determina a intensificação na vigilância preventiva, considerando que o núcleo do Médio Vale do Itajaí abrange mais de 1 milhão de habitantes que produzem e consomem produtos e matéria prima, os quais transitam por suas rodovias federais, estaduais e municipais, em áreas infestadas pelo vetor.
+	 Devido a estes fatores, Blumenau está mapeada epidemiologicamente como área infestada, fato que indica a necessidade de redobrar cuidados preventivos.
+	O plano de contingência está focado em quatro eixos: Controle vetorial, Vigilância dos casos, assistência ao paciente e ações integradas de educação em saúde, destacando-se como de fundamental importância as formas de prevenção e a gestão integrada do presente plano de contingência com monitoramento de todas as ações pactuadas. 
+
+· OBJETIVO
+Realizar ações definidas pelo Programa Nacional e Estadual de Enfrentamento ao Aedes aegypti, visando garantir de forma preventiva e eficaz o controle vetorial no município.
+
+· OBJETIVO ESPECÍFICO 
+Sistematizar as atividades de mobilização, comunicação e orientação à população, estabelecendo ações necessárias para combater os vetores Aedes aegypti e Aedes albopictus diminuindo os riscos de transmissão viral das doenças.
+· ARBOVIROSES E SUA RELEVÂNCIA EPIDEMIOLÓGICA
+
+Segundo a Organização Mundial de Saúde – OMS, arboviroses são doenças causadas por vírus que podem ser transmitidas ao homem por vetores artrópodes. Entre estes vetores, destacam-se os mosquitos.  Com a urbanização cada vez mais acelerada o mosquito se adaptou ao meio urbano e encontrou locais de reprodução nas habitações humanas, um fator de risco significativo para transmissão de Dengue, Chikungunya e Zika Vírus. 
+Este aspecto coloca a família Aedes como de extrema relevância epidemiológica por ser responsável pelo maior número de mortes por habitantes no mundo. Portanto a prevenção e o controle se baseiam na eliminação do número de criadouros naturais ou artificiais com água parada para a reprodução dos mosquitos.
+Faz-se necessária a mobilização das diversas esferas dos serviços públicos e das comunidades envolvidas, como associações de bairros, igrejas, escolas, e sociedade em geral. No sentido de fazer compreender que todo o cidadão em seu meio é responsável por ações preventivas que neutralizem e garantam a não proliferação de vetores. 
+As ações de bloqueio que garantam a não transmissão destas doenças se baseiam na remoção ou tratamento químico dos potenciais criadouros existentes no município de Blumenau, seguindo critérios técnicos preconizados pelo Ministério da Saúde.
+
+3.1 DENGUE
+A dengue é um dos principais problemas de saúde pública, o número de casos tem aumentado dramaticamente nos últimos anos. A Organização Mundial da Saúde (OMS) estima que quatro bilhões de pessoas estejam vivendo em áreas com risco de infecção pela doença. Anualmente, 3,2 milhões de casos são registrados no mundo, sendo que 500 mil são considerados graves e 21 mil resultam em morte, afetando mais de 120 países.
+Doença infecciosa febril, causada por um arbovírus do gênero Flavivírus, transmitida principalmente pelo mosquito Aedes aegypti (Brasil) e Aedes albopictus (Ásia), geralmente de caráter epidêmico.  Apresenta (de 4 sorotipos: DEN1, DEN2, DEN3 e DEN4) diversas formas clínicas sendo que todos podem causar tanto a forma clássica da doença quanto formas mais graves.
+No Brasil embora existam relatos da doença desde meados do século XIX e início do século XX, a circulação dos vírus da dengue só foi comprovada laboratorialmente em 1982, e a partir de 1986, ocorreram epidemias em várias regiões da Federação. Os Picos de incidência da doença coincidem na maioria das vezes com a introdução de um novo sorotipo.
+O mosquito transmissor da dengue, o Aedes aegypti, encontrou no mundo moderno condições muito favoráveis para uma rápida expansão. A urbanização acelerada que criou cidades com deficiências de abastecimento de água e de limpeza urbana, a intensa utilização de materiais não biodegradáveis, como recipientes descartáveis de plástico e vidro, as mudanças climáticas no planeta como as que acontecem em nossa região e o verão cada vez mais longo que provoca calor intenso e chuvas frequentes, são fatores que aceleram e contribuem para o aumento do número de casos. 
+No Município de Blumenau, segundo dados técnicos da Vigilância Epidemiológica, no ano de 2019 foram 19 casos suspeitos, sendo 02 casos de dengue confirmados, todos importados de outras cidades do estado de Santa Catarina ou outras de regiões do país.
+No ano de 2020 até o mês de agosto, foram notificados 123 casos suspeitos, sendo 15 casos confirmados importados de outras regiões do estado ou país e 03 autóctones com transmissão local.
+A implantação do Plano de Contingência para Epidemias de Dengue faz-se necessária para organizar e planejar estratégias de ações diante ao avanço da doença, prevenindo e monitorando a entrada do mosquito Aedes aegypti, com isso evitando a transmissão viral.
+Após suspeita de Dengue é efetuada a notificação compulsória conforme a Portaria Ministerial nº 1.271/14. 
+Em casos suspeitos da doença é realizada a Pesquisa Vetorial Especial (PVE), que consiste na procura eventual pelo vetor Aedes aegypti realizada a partir do local onde o paciente reside, trabalha ou estuda.
+O PVE é realizado num raio de 50 metros, no quarteirão todos os imóveis são visitados para identificação e eliminação de criadouros. 
+
+
+3.2. CHIKUNGUNYA
+A Febre Chikungunya é uma doença causada por um vírus do gênero Alphavirus, transmitido por mosquitos infectados do gênero Aedes, sendo as espécies Aedes aegypti e o Aedes albopictus os principais vetores, ambos presentes em nossa região.
+Doença com transmissão autóctone na África, na Ásia e a partir do final de 2013, em diversos países do Caribe e das Américas. 
+A partir de 2014 começaram a ser registrados casos de Chikungunya no Brasil. A doença pode manifestar-se clinicamente de três formas: Aguda, Subaguda e Crônica.
+Acredita-se que uma vez exposto ao CHIKV, obtém-se imunidade duradoura que protegerá o individuo de uma nova infecção. Todo caso suspeito deverá ser notificado, imediatamente ou no máximo em 24 (vinte e quatro) horas a partir da suspeita inicial, para as Vigilâncias Municipais e Estaduais. 
+As ações de bloqueio deverão ser desencadeadas imediatamente a partir da definição do Local Provável de Infecção, dada a rapidez com que se dispersa. 
+No Município de Blumenau, segundo dados técnicos da Vigilância Epidemiológica, até a presente data no ano de 2020, foram 05 casos notificados e todos descartados.
+ Em casos suspeitos da doença é realizada a Pesquisa Vetorial Especial (PVE), que se caracteriza na procura eventual pelo vetor Aedes aegypti e Aedes albopictus realizada a partir do local onde o paciente reside, trabalha ou estuda.
+O PVE é realizado num raio de 50 metros. No quarteirão todos os imóveis são visitados para identificação, eliminação e tratamento químico de potenciais criadouros. 
+
+
+3.3 ZIKA VÍRUS
+O Zika Vírus é uma doença causada por um vírus do gênero Flavivírus, transmitida por mosquitos Aedes, tendo sido isolado até o momento em Aedes aegypti.
+Isolado pela primeira vez em 1947 a partir de amostras de macaco Rhesus, na floresta de Zika, em Uganda.  Endêmico no leste e oeste africano, evidências sorológicas em humanos sugerem que a partir de 1996 o vírus tenha se disseminado no continente asiático e em 2014 em alguns países americanos. 
+	No Brasil foi confirmada a circulação viral em meados de maio/2015 com a ocorrência dos primeiros casos autóctones da doença na Bahia, Rio grande do Norte e São Paulo.
+	O modo de transmissão é pela picada dos vetores Aedes aegypti, no e entanto há relatos de ocorrência de transmissão ocupacional em laboratórios de pesquisa, Perinatal e sexual, além de possibilidades de transmissão transfusional.
+	Segundo a literatura científica, mais de 80% das pessoas infectadas não desenvolvem manifestação clínica da doença, outros podem desenvolver Síndrome de Guillan-Barré e recém-nascidos de mães que contraíram o vírus Zika durante a gestação estão sob risco elevado de terem microcefalia.
+A Síndrome de Guillan-Barré, é uma doença auto-imune em que o sistema imunológico ataca o sistema nervoso por engano, causando uma inflamação nos nervos e fraqueza muscular.
+Casos de microcefalia cresceram exponencialmente no Brasil em 2015, ano em que também cresceu o número de infectados pelo vírus Zika. Em 2015, foram registrados no Brasil 2.782 casos de bebês que nasceram com microcefalia em comparação com apenas 147 em 2014 e 167 em 2013. 
+De acordo com o Ministério da Saúde, as investigações sobre microcefalia e o Zika Vírus devem continuar para esclarecer questões como a transmissão desse agente, a sua atuação no organismo humano, a infecção do feto e o período de maior vulnerabilidade. 
+No Município de Blumenau, segundo dados técnicos da Vigilância epidemiológica, no ano de 2020 não foram registrados casos suspeitos de Zika Vírus.
+Em casos suspeitos da doença é realizada a Pesquisa Vetorial Especial (PVE), que se caracteriza na procura eventual pelo vetor Aedes aegypti e é realizada a partir do local onde o paciente reside, trabalha ou estuda.
+O PVE é realizado num raio de 50 metros. No quarteirão todos os imóveis são visitados para identificação, eliminação e tratamento químico de potenciais criadouros. 
+
+
+4. VIGILÂNCIA EPIDEMIOLÓGICA
+
+A Vigilância Epidemiológica cabe monitorar todos os casos de Dengue, Chikungunya e Zika Vírus, de acordo com as rotinas preconizadas pelo Ministério da Saúde, objetivando detectar precocemente casos suspeitos traçando o perfil epidemiológico das doenças no município de Blumenau.  
+Auxiliando na assistência e no manejo adequado ao paciente, com ações no âmbito individual e coletivo que abrange a promoção e proteção da saúde, com finalidade de adotar medidas de prevenção e controle das doenças e seus agravos. 
+Dentro do Programa Nacional de Combate à Dengue (PNCD), a Vigilância Epidemiológica está baseada em quatro subcomponentes: 
+- Vigilância de casos; 
+· Acompanhar a situação epidemiológica do município;
+· Investigação de casos suspeitos notificados. Realizar busca ativa, considerando o período de viremia dos casos suspeitos;
+· Dar continuidade as capacitações dos profissionais de saúde envolvidos na assistência aos pacientes, visando sensibilizar para a detecção precoce de novos casos.
+- Vigilância Laboratorial; 
+· Realizar diagnóstico laboratorial em amostras de pacientes com suspeita clínica;
+· As amostras inconclusivas devem ser encaminhadas ao laboratório de referência para realização de diagnóstico complementar;
+· Em situações com transmissão viral monitorar o sorotipo do vírus circulante com encaminhamento de amostras para laboratório de referência.
+- Vigilância em áreas de divisas; 
+· Manter o monitoramento constante em áreas de divisas;
+· Manter atualizada as informações sobre a situação epidemiológica dos municípios que fazem divisa ou áreas infestadas na região.
+- Vigilância entomológica. 
+· Cobertura de 100% das visitas na rede de armadilhas;
+· Cobertura de 100% das visitas na rede de Pontos Estratégicos;
+· Orientação e intensificação do controle vetorial nos locais de permanência dos casos suspeitos e confirmados em seu período de viremia.
+O município de Blumenau realiza todas as ações preconizadas pelo Ministério da Saúde, para que não ocorra a disseminação do vetor Aedes aegypti e Aedes albopictus e por consequência a transmissão viral de Dengue, Chikungunya e Zika Vírus. Assim que é emitida a notificação de caso suspeito, a equipe da Vigilância realiza as ações de assistência ao paciente e notifica imediatamente o Serviço de Controle da Dengue para realizar a Pesquisa Vetorial Especial (PVE) e efetuar as ações necessárias de combate e controle dos vetores.
+Com o objetivo de detectar precocemente os casos de arboviroses a Vigilância Epidemiológica vem capacitando profissionais da rede de Atenção Básica envolvidos no monitoramento de caso suspeito das doenças autóctone (transmissão local) ou importados.
+
+
+4.1. REDE DE ASSISTÊNCIA AO PACIENTE
+
+-Unidade Básica de Saúde: Porta de entrada do paciente;
+-Acolhimento: Consulta de enfermagem; 
+-Consulta Médica;
+-Exames laboratoriais; 
+-Notificação dos casos
+-Investigação epidemiológica;
+-Digitação no SINAN; 
+-Investigação entomológica; 
+-Acompanhamento ambulatorial ou internação hospitalar.
+
+
+5. ESTRUTURA DO PROGRAMA DE COMBATE À DENGUE
+
+O Programa Municipal de Controle da Dengue de Blumenau conta em sua estrutura de 01 coordenação, 01 técnico de laboratório de entomologia, 03 supervisores, 37 agentes de campo e 02 fiscais sanitários.
+- Estrutura física adequada; 
+- 01laboratório de entomologia;
+- 01veículo tipo Perua, para ações de DF (delimitação de foco) e LI+ T (levantamento de índice+ tratamento);
+- 13 veículos;
+- 03 bombas elétricas e 02 bombas a gasolina, todas costal para controle químico;
+- EPIs (máscaras, luvas, óculos, macacão e sapatos);
+- Insumos para a realização dos trabalhos de campo.
+
+
+
+6. AÇÕES DE CONTROLE VETORIAL
+
+As ações de controle de vetores são realizadas conforme preconizado pelo Plano Nacional de Combate à Dengue/Ministério da Saúde (PNCD/MS), com ações de Bloqueio e Controle de Criadouros, segundo critérios técnicos e operacionais.
+O programa de Controle da Dengue de Blumenau tem como principal objetivo o controle vetorial no município, com a realização de todas as ações de prevenção necessárias como: Atualização constante do (RG) Reconhecimento Geográfico, para o planejamento e programação de todas as operações de campo. 
+Para detectar a presença do vetor a metodologia utilizada é a rede de armadilhas com a finalidade de detecção precoce da presença do vetor. Dispostas a cada 250 metros em toda extensão urbana, que perfazem total de 1.657 pontos monitorados semanalmente, totalizando 6.628 inspeções/mês. 
+Desta forma monitoramos os 35 bairros. Número este preconizado pela quantidade de imóveis no município e que causaram acréscimo constante no número de armadilhas.
+Atualmente o município possui 356 Pontos Estratégicos cadastrados e visitados quinzenalmente pelos agentes totalizando um total de 712 visitas mês. Pontos onde há grande concentração de depósitos preferenciais pela fêmea do Aedes aegypti para postura dos ovos, locais vulneráveis à introdução do vetor.
+A atividade de Pesquisa Vetorial Especial (PVE) é a procura eventual de Aedes aegypti e Aedes albopictus realizada a partir da notificação de casos suspeitos de dengue, Chikungunya e Zika Vírus.
+O PVE é realizado num raio de 50 metros.  No quarteirão todos os imóveis são visitados para identificação e eliminação de potenciais criadouros onde há presença do vetor. 
+As investigações de denúncias consistem na procura e eliminação de criadouros de mosquito. 
+Nas áreas onde é encontrada a presença do vetor, realiza-se a delimitação de foco (DF), abrangendo um raio de 300 metros num ângulo de 360° graus, partindo do local de foco e posteriormente 1 ciclo de levantamento de índice + tratamento (LI+T), caso o foco reincida e haja disseminação a área delimitada passa ser considerada infestada, com  ciclos bimestrais consecutivos de tratamento durante o período de um ano.  
+	O bloqueio com as execuções das ações de controle mecânico consiste na adoção de práticas capazes de impedir a procriação do mosquito, tendo como principais atividades a proteção, destruição ou a destinação adequada de reservatórios e potenciais criadouros.
+A execução das ações de controle químico e biológico do vetor é realizada por uma equipe treinada e capacitada na realização das atividades de aplicação e bloqueio químico em pontos estratégicos e em área de paciente positivo ou transmissão de casos.
+	É realizada a revisão de área quando for detectado novo foco sem ampliação da área (RA), buscando intensivamente o foco gerador. 
+Em ação conjunta com a Vigilância Sanitária são atendidas denúncias da OuvidorSus, além das fiscalizações efetuadas pela ação imposta pela Lei n°. 15.243/2010, alterada pela Lei nº16.871/2016, Decreto de Lei n°. 3.687/2010 e Nota Técnica n° 013/2010.
+Nota técnica conjunta DIVS e DIVE nº 02/2016, considerando a Lei nº 16.871/2016 que altera a Lei nº 15.243/2010: Dispõem da obrigatoriedade de ferros velhos, empresas de transporte de carga, lojas de materiais de construção, borracharias, recauchutadoras e afins a adotarem medidas para evitar a existência de criadouros para Aedes aegypti e Aedes albopictus e adota providências para abranger a totalidade dos imóveis residenciais e comerciais públicos e privados.
+
+
+
+7. AÇÕES INTEGRADAS DE EDUCAÇÃO EM SAÚDE, COMUNICAÇÃO E MOBILIZAÇÃO SOCIAL. 
+
+As ações educativas são de fundamental importância para o sucesso dos trabalhos de rotina e também para a implantação de métodos alternativos de controle, visando à mudança de comportamento e a adotar práticas que promovam um ambiente livre de infestação por Aedes aegypti e Aedes albopictus.
+· Promover a comunicação e mobilização social sobre estratégias corretas de prevenção e remoção de recipientes nos domicílios que possam se transformar em criadouros de mosquito; 
+· Plano de mídia para intensificar a informação para a população do controle do Aedes aegypti e Aedes albopictus;
+· Dentro do eixo preventivo, realizamos palestras sobre Dengue, Chikungunya, Zika Vírus e educação ambiental na prevenção das doenças. Orientação sobre eliminação de reservatórios potencial criadouros de mosquitos, em escolas, centros comunitários, empresas, semáforos e comunidade em geral etc.
+· Distribuição de materiais educativos;
+· Divulgação em outdoor;
+· Parceria com a rede de ensino utilizando a temática Aedes, Dengue Chikungunya e Zika Vírus como temas transversais nas escolas.
+· Realização de campanhas publicitárias, sobre medidas preventivas para eliminação de criadouros, (colocar areia nos pratos de plantas, limpeza de terrenos, quintais, calhas, ralos, lajes, caixas d’água e piscinas), etc.
+· Parceria com os Agente Comunitários de Saúde (ACS’s) na orientação as comunidades para promover o descarte adequado de materiais inservíveis que possam servir de criadouros de mosquitos junto aos domicílios na micro área de abrangência;
+· Orientação e parceria com a comunidade, administradores de cemitérios para o descarte de reservatórios, embalagens e vasos de plantas, quando não for possível perfurar para evitar o acúmulo de água.
+· Dar continuidade aos trabalhos de orientações e educação em saúde direcionada a proprietários de transportadoras, ferros velhos, borracharias, materiais de construção e afins.
+8. ESTRATEGIA DE AÇÃO
+
+Manter e aprimorar as ações já existentes tornando possível o objetivo descrito com bases nas metas preconizadas pelo Plano Nacional de Combate às doenças transmitidas pelos vetores Aedes aegypti e Aedes albopictus.
+· Utilizar os meios de comunicação informando a população sobre as doenças vinculadas aos vetores, modo de transmissão, quadro clínico e tratamento, promovendo ações com distribuição de materiais educativos;
+· Intensificar as informações sobre o vetor Aedes aegypti e Aedes albopictus, seus hábitos e potenciais criadouros artificiais ou naturais, medidas de prevenção e controle adotando um novo comportamento frente ao problema;
+· Ações Intersetoriais à vigilância e controle vetorial com ações conjuntas com a Secretaria Municipal de Conservação e Manutenção Urbana (SEURB), a ampliação e regularização da coleta de resíduos sólidos em terrenos baldios e eventuais coletas de pneus inservíveis para o descarte adequado;
+· Desenvolver ações intersetoriais junto à Vigilância Sanitária Municipal, nas ações de vigilância e controle vetorial, que exigem o cumprimento da legislação sanitária nº 15.243/10, Decreto nº 3.687/10, Nota técnica nº 013/10 e Nota técnica conjunta DIVS e DIVE nº 02/2016, considerando a Lei nº 16.871/2016 que altera a Lei nº 15.243/2010;
+· Medidas e intervenções nos fatores de risco ambientais que impeçam ou minimizem a propagação do vetor, evitando ou destruindo os potenciais criadouros de Aedes aegypti e Aedes albopictus;
+· Atualização do Reconhecimento Geográfico em 100% da área urbana do município;  
+· Manter atualizado o número de armadilhas seguindo a proporção do número de imóveis no município conforme preconizado pela DIVE, através do Reconhecimento Geográfico (RG), com vistorias semanais em 100% da rede;
+· Manter atualizado o número de Pontos Estratégicos, com monitoramento em todos os comércios onde há grandes quantidades de reservatórios e potenciais criadouros, com visitas a cada quatorze dias em 100% da rede;
+· Efetuar 100% de vistorias em áreas de PVE (Pesquisa Vetorial Especial);
+· Monitoramento de imóveis desocupados e terrenos baldios, providenciando junto aos responsáveis a adequação destes locais; 
+· Manter monitoramento constante e fiscalização sanitária nos comércios de peças usadas (Ferro Velho), reciclados e reciclados domésticos; 
+· Equipamentos e insumos necessários para ações de controle ao vetor;
+· Manter alimentado o sistema Vigilantos;
+· Realizar o trabalho de LIRAa, (levantamento de índice amostral para Aedes aegypti), duas vezes ao ano conforme preconizado pela Diretoria de Vigilância Epidemiológica Estadual (DIVE) ;
+· Atendimento as denúncias do sistema OuvidorSus, Dengue SC e FormSus;
+· Ações de prevenções do combate ao Aedes em parceria com órgãos e entidades do município;
+· Manter parceria com o ECOPONTO privado existente no município de Blumenau o qual, em parceria com o Controle da Dengue, dá o descarte adequado aos pneus inservíveis recolhidos no município;
+· Utilização de leis federais, estaduais e municipais visando advertência e punição àqueles que não cumprirem as normas de prevenção do combate ao Aedes aegypti e Aedes albopictus;
+· Plano de mídia para intensificar a informação para a população do controle do Aedes aegypti e Aedes albopictus;
+· Capacitação permanente aos profissionais de saúde em relação ao diagnóstico e manejo clínico dos casos suspeitos de doenças causadas pelo Aedes aegypti e Aedes albopictus;
+· Capacitação dos profissionais envolvidos no ESF para atuarem junto à comunidade promovendo a eliminação de possíveis criadouros do vetor;
+· Manter assistência integral ao paciente acometido pelas doenças transmitidas pelo Aedes aegypti e Aedes albopictus;
+· Mobilizar a sociedade quanto à prevenção, combate ao Aedes aegypti e Aedes albopictus com orientações e cuidados em relação à Dengue, Chikungunya e Zika Vírus;
+· Fortalecer as ações das diferentes áreas e serviços, com integralidade nas ações para o enfrentamento das doenças.
+
+
+9. ESTRATÉGIA DE AÇÃO COM TRANSMISSÃO VÍRAL
+
+As ações de controle de vetores serão realizadas conforme preconizado pelo Plano de Contingência Estadual, com estratégias para organização de ações, que deverão ser incorporadas e desenvolvidas pelo município, em caso de infestação ou com risco de infestação.
+Serão realizadas atividades específicas a serem implantadas/implementadas em cinco níveis de alerta com seus respectivos indicadores. 
+Nível 0
+· Notificação dos casos suspeitos ou autóctones;
+· IIP > 0 e ≤ 1%.
+
+Nível 1
+· Introdução de soro tipo;
+· IIP acima de 1% (estrato) ou;
+· Incidência ou permanência em ascensão por 3 semanas consecutivas
+
+Nível 2
+· Incidência permanece em ascensão acima de 3 semanas consecutivas ou;
+· Notificação de caso grave suspeito ou;
+· Notificação de óbito suspeito.
+
+Nível 3
+· Somente o número de casos notificados para o ano ultrapassar os do limite máximo, permanecendo em elevação por mais que três semanas e com transmissão sustentada de acordo com o diagrama de controle ou;
+· Aglomerado de óbitos.
+
+Nível 4 
+· O número de casos notificados continua em ascensão, ocorrendo elevado número de casos graves, aglomerado de óbitos (mortalidade nas últimas 4 semanas é maior ou igual a 0,06/100 mil hab.) e as ações executadas no nível 2 são insuficientes para organização da rede de atenção e resposta a estas demandas.
+
+Níveis de Ativação 
+Nível 0 - a ameaça é importante, mas a jurisdição local responde aos recursos de emergência disponíveis permanentemente.
+Nível 1 - a ameaça é importante e a jurisdição local exige uma mobilização de mais recursos locais.
+Nível 2 - a ameaça é significativa e os níveis estadual e municipal exigem recursos federais (humanos, físicos ou financeiros). 
+Níveis 3 e 4 - a ameaça é importante e para maior impacto sobre os diferentes níveis, exige uma resposta ampla se constituindo numa situação de crise.
+
+Nível 0
+Vigilância em Saúde 
+· Acompanhar a situação epidemiológica do município; 
+· Assessorar a vigilância epidemiológica (VE) na investigação de casos suspeitos notificados, realizando busca ativa e considerando o período de viremia do caso suspeito; 
+· Utilizar as informações geradas pelo SINAN ONLINE, Vigilantos, Dados do Levantamento de Índice Rápido para Aedes aegypti e (LIRAa) 
+· Consolidar os dados laboratoriais (sorotipos/sorologia); 
+· Promover reuniões com os profissionais de saúde envolvidos na assistência aos pacientes visando sensibilizar para a detecção precoce de novos casos;
+· Promover a realização do diagnóstico laboratorial em amostras de pacientes com suspeita clínica; 
+· Encaminhar amostras inconclusivas ao laboratório de referência para realização de diagnóstico complementar; 
+· Garantir o acesso à informação dos dados laboratoriais para as instituições de interesse; 
+· Desenvolver ações intersetoriais junto à Vigilância Sanitária Municipal nas ações de vigilância e controle vetorial, que exigem o cumprimento da legislação sanitária nº 15.243/10, Decreto nº 3.687/10, Nota técnica º 013/10 e Nota técnica conjunta DIVS e DIVE nº 02/2016, considerando a Lei nº 16.871/2016 que altera a Lei nº 15.243/2010;
+Controle Vetorial
+· Atualização do Reconhecimento Geográfico em 100% da área urbana do município; 
+· Intensificar as ações controle vetorial nos locais de permanência dos casos suspeitos e confirmados em seu período de viremia;
+· Monitoramento de imóveis desocupados e terrenos baldios providenciando à adequação destes locais; 
+· Efetuar 100% de vistorias em áreas de PVE (Pesquisa Vetorial Especial);
+· Manter o quantitativo de equipamentos e insumos necessários para ações de controle ao vetorial e tratamento perifocal.
+
+ Assistência ao Paciente
+· Promover a capacitação de profissionais de saúde, para diagnóstico oportuno e manejo clínico dos casos suspeitos;
+· Efetuar atendimento efetivo e oportuno nos casos suspeitos de dengue, Chikungunya e Zika Vírus;
+· Capacitação dos profissionais envolvidos no ESF para atuarem junto à comunidade promovendo a eliminação de possíveis criadouros do vetor;
+· Parceria com os Agentes Comunitários de Saúde (ACS’s) na orientação as comunidades para promover o descarte adequado de materiais inservíveis que possam servir de criadouros de mosquitos junto aos domicílios em sua micro área de abrangência;
+· Distribuição de materiais educativos;
+· Promover a comunicação e mobilização sociais sobre estratégias corretas de prevenção e remoção de recipientes nos domicílios que possam se transformar em criadouros de mosquito em áreas infestadas ou com risco de infestação; 
+· Ações Intersetoriais à vigilância e controle vetorial com ações conjuntas nos diversos órgãos do município; 
+
+ Gestão
+· Manter sala de situação municipal atualizada com ações conjuntas de prevenção e desenvolvimento de ações intersetoriais de acordo com a situação entomo-epidemiológica do município.
+· Manter atualizado o Plano de Contingência;
+·  Acompanhar a execução do Plano de Contingência;
+·  Promover a integração da Atenção Básica fomentando ações efetivas dos ACS com orientações a comunidade.
+· Pautar a temática da doença no Conselho Municipal de Saúde, Conselho de Secretários Municipais de Saúde (COSEMS) e Comissão Intergestores Regionais (CIR), para fortalecer o compromisso dos representantes do segmento no enfrentamento das doenças.
+
+Comunicação, Mobilização e Publicidade.
+· Plano de mídia para intensificar a informação para a população sobre o controle do Aedes aegypti e Aedes albopictus;
+· Promover a comunicação e mobilização social sobre estratégias corretas de prevenção e remoção de recipientes nos domicílios, com informações entomológicas e epidemiológicas;
+· Distribuição de materiais educativos;
+· Divulgação a comunidade sobre as ações desenvolvidas e as estratégias a serem adotadas.
+
+Nível 1
+Vigilância em Saúde 
+· Intensificar as ações previstas no nível 0;
+· Avaliar as áreas com transmissão no mínimo 2 semanas consecutivas, para estabelecer a confirmação pelo critério clínico epidemiológico;
+· Realizar confirmação laboratorial e o monitoramento da circulação viral em 10% dos casos autóctones notificados;
+· Manter sala de situação, com acompanhamento de indicadores epidemiológicos, entomológicos, operacionais e assistenciais com ações integradas à diminuição de casos;
+· 
+Controle Vetorial
+· Intensificar todas as ações previstas no nível 0;
+·  Executar, mediante avaliação com o estado, ações de bloqueio de transmissão utilizando equipamento UBV portátil ou pesado; 
+· Solicitar ao estado auxílio para aplicação de UBV pesado (equipamento acoplado a veículo).
+
+Assistência ao Paciente
+· Intensificar todas as ações previstas no nível 0 e;
+· Implantação/implementação de protocolos de tratamento e fluxograma de manejo de pacientes; 
+· Orientar a utilização do cartão de acompanhamento de paciente;
+·  Identificar as Unidades de Reposição Volêmica (URV) nos municípios, estimulando todas as unidades que atendem os casos da doença, sobre a importância desse procedimento no manejo dos casos suspeitos.
+Gestão
+· Intensificar todas as ações previstas no nível 0. 
+
+Comunicação, Mobilização e Publicidade.
+· Intensificar todas as ações previstas no nível 0.
+
+Nível 2
+Vigilância em Saúde 
+· Intensificar todas as ações previstas no nível 1 e;
+·  Manter o acompanhamento da ocorrência de casos através do monitoramento da sala de situação;
+·  Realizar o monitoramento viral em pelo menos 10% dos casos autóctones; 
+· Realizar investigação dos casos graves e óbitos, sempre que necessário; 
+· Intensificar a ação da sala de situação, com informações por localidade;
+·  Definir indicadores que devem ser monitorados no nível local;
+·  Consolidar as informações epidemiológicas, laboratoriais e entomológicas diariamente. 
+
+Controle Vetorial
+· Intensificar todas as ações previstas no nível 1.
+
+Assistência ao Paciente
+· Intensificar todas as ações previstas no nível 1 e;
+· Definir unidades de referência para atendimento aos casos graves;
+·  Apoiar a implantação de Unidade de Reposição Volêmica (URV) no município; 
+· Fomentar a participação mais ativa dos ACS no acompanhamento de pacientes com dengue.  
+
+Gestão 
+· Intensificar todas as ações previstas no nível 1 e; 
+· Apoiar a implantação e/ou funcionamento das Unidades de Reposição Volêmica. 
+
+Comunicação, Mobilização e Publicidade. 
+· Intensificar todas as ações previstas no nível 1.
+.
+Níveis 3 e 4 
+Vigilância em Saúde 
+· Intensificar as ações desenvolvidas no nível 2. 
+
+Controle Vetorial 
+· Intensificar as ações desenvolvidas no nível 2. 
+
+Assistência ao Paciente 
+· Intensificar todas as ações previstas no nível 2. 
+
+
+Gestão
+· Intensificar todas as ações previstas no nível 2. 
+
+Comunicação, Mobilização e Publicidade.
+· Intensificar todas as ações previstas no nível 2.
+
+Observações
+· Aumento na procura por unidades de saúde por pacientes com suspeita de dengue; 
+· Aumento no número de internação;
+·  A definição das etapas não é estanque.;
+· Etapas de respostas iniciais (nível 1 e 2) podem ser suprimidas, ocorrendo a implantação imediata dos níveis 2, 3 e 4.
+
+Redução gradual das ações.
+A desativação gradual do plano de contingência será orientada de acordo com os indicadores abaixo:
+· Redução da incidência por 3 semanas consecutivas; 
+· Tendência de retomada ao nível endêmico da doença.
+
+OBSERVAÇÕES IMPORTANTES
+Caso ocorra alguma situação não prevista nos níveis de alerta, será efetuada uma reunião emergencial com os envolvidos para traçar a melhor estratégia nas ações a serem executadas. 
+SALA DE SITUAÇÃO	
+Conforme Decreto 12.577 de 05 de março de 2020 foi instituída a sala de situação para o enfrentamento da Dengue.
+Coordenada pelo GAPREF e assessorada pela SEMUS.
+
+
+CONTATOS
+Sala de situação GAPREF
+Paulo Henrique Koerich
+Telefone: 3381-6738
+e-mail: paulokoerich@blumenau.sc.gov.br
+
+Secretário de saúde 
+ Winnetou Krambeck
+Telefone: (47) 3381-6002
+e-mail: gabisemus@blumenau.sc.gov.br
+winnetoukrambeck@blumenau.sc.gov.br
+
+Diretora de Vigilância em Saúde
+Jeckeline Maria Sartor
+Telefone: (47) 3381-6070
+e-mail: diretor.vigilancia@blumenau.sc.gov.br
+
+Coordenadora Vigilância Epidemiológica
+Rosana Pfeilsticker Pereira Benevenutti
+Telefone: (47) 3381-7900
+e-mail: epidemiologia@blumenau.sc.gov.br
+
+Coordenadora de Prevenção e Combate à Dengue
+Eleandra Fátima santos casani
+Telefone: (47) 3381- 7774
+e-mail: dengue@blumenau.sc.gov.br
+
+Responsável comunicação 
+João Victor Korc
+Telefone: 3381-6945
+e-mail: imprensa@blumenau.sc.gov.br
+
+ 
+REFERÊNCIAS BIBLIOGRAFICAS
+
+· BRASIL. Ministério da Saúde. Secretaria de Vigilância em Saúde. Diretrizes Nacionais para a Prevenção e Controle de Epidemias de Dengue- 1. Ed. MS, 2009.
+
+· BRASIL. Ministério da Saúde. Secretaria de Vigilância em Saúde. Plano de Contingência Nacional para Epidemias de Dengue. Brasília: Ministério da Saúde, 2015.
+· BRASIL. Ministério da Saúde. Secretaria de Vigilância em Saúde. Diretoria Técnica de Gestão. Dengue: Diagnóstico e Manejo Clínico: adulto e criança. – 4. ed. Brasília: MS, 2013. 
+
+· BRASIL. Ministério da Saúde. Secretaria de Vigilância em Saúde. Levantamento Rápido de Índices para Aedes aegypti - LIRAa - para vigilância entomológica do Aedes aegypti no Brasil: Metodologia para Avaliação dos Índices de Breteau e Predial e Tipo de Recipientes. Brasília: MS, 2013. 
+
+· BRASIL. Ministério da Saúde. Secretaria de Vigilância em Saúde. Diretrizes Nacionais para a Prevenção e Controle de Epidemias de Dengue. Brasília: MS, 2009. 
+
+· SANTA CATARINA. Diretoria de Vigilância Epidemiológica. Gerência de Zoonoses e Entomologia. Orientações Técnicas para Pessoal de Campo do Programa de Controle da Dengue do Estado. DIVE, 2007.
+
+· BRASIL. Ministério da Saúde. Secretaria de Vigilância em Saúde. Diretrizes para a Organização dos Serviços de Atenção à Saúde em Situação de Aumento de Casos ou de Epidemia de Dengue. Brasília: MS, 2013. 
+
+· BRASIL. Ministério da Saúde. Secretaria de Vigilância em Saúde. Plano de Contingência Nacional para Epidemias de Dengue. Brasília: Ministério da Saúde, 2015.
+
+

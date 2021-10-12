@@ -1,0 +1,148 @@
+
+FUNDAÇÃO UNIVERSIDADE REGIONAL DE BLUMENAU
+
+Extrato nº. 327/2020
+PARTES:  FUNDAÇÃO UNIVERSIDADE REGIONAL DE BLUMENAU
+
+E
+
+                  SIGMAFONE COMÉRCIO DE TELEFONES E INFORMÁTICA LTDA
+OBJETO: Contratação de empresa para fornecimento de central telefônica, com serviços de instalação e todos materiais necessários, para o Centro de Inovação de Blumenau.
+FUNDAMENTO LEGAL: Pregão Presencial nº 214/2019 e Contrato nº 156/2020, firmado em 20 de agosto de 2020.  
+PREÇO: O preço ofertado pela empresa signatária da presente Ata de Registro de Preços é o abaixo informado, de acordo com a respectiva classificação: 
+	Item
+	Sub-item
+	Qtde.
+	Und.
+	Descrição do Item
+	Preço Unitário do sub-item
+
+ (em R$)
+	Preço Total do Item
+
+ (em R$) 
+
+	1
+	1
+	32
+	Unitário
+	Ramal analógico (hardware e licenciamento se houver)
+	70,57 
+	 
+
+ 
+
+ 
+
+ 
+
+ 
+
+29.525,46 
+
+ 
+
+ 
+
+ 
+
+ 
+
+	
+	2
+	60
+	Unitário
+	Licenciamento individual de ramal IP
+	114,27 
+	
+
+	
+	3
+	1
+	Unitário
+	Licenciamento de habilitação geral do PABX.
+	 8.498,20
+	
+
+	
+	4
+	30
+	Unitário
+	Porta de tronco digital PCM-R2 (1 E1)
+	150,60 
+	
+
+	
+	5
+	1
+	Unitário
+	Aparelho telefônico Digital ou IP para Mesa operadora (telefonista)
+	408,68 
+	
+
+	
+	6
+	5
+	Unitário
+	Aparelho telefônico IP
+	 428,52
+	
+
+	
+	7
+	1
+	Unitário
+	Sistema de atendimento automático conforme descrito no item específico
+	 862,21
+	
+
+	
+	8
+	1
+	Unitário
+	Sistema de energia conforme descrito no item específico
+	 598,56
+	
+
+	
+	9
+	1
+	Unitário
+	Materiais de Infraestrutura necessários a fixação, conexão elétrica  
+	 1.647,57
+	
+
+	
+	10
+	5
+	Unitário
+	Licenciamento de tronco IP
+	 228,57
+	
+
+	2
+	1
+	1
+	Serviço
+	Serviço completo de instalação e configuração do PABX do item 1 
+	2.454,54 
+
+	Informar a Marca e Modelo ofertado no Sub-Item 5 do Item 1
+	 Unify Desk phone CP400 + Key Module KM400
+
+	Informar a Marca e Modelo ofertado no Sub-Item 6 do Item 1
+	Unify Desk Phone CP400 
+
+	Informar a Marca e Modelo do PABX 
+	Unify Openscape Business X8 
+
+	Preço Total Global (em reais)
+	32.000,00 
+
+	Preço Total Global (em reais, por extenso)
+	 Trinta e dois mil reais
+
+
+PAGAMENTO: O pagamento será efetuado em até 30 (trinta) dias consecutivos após a entrega dos equipamento com instalação e treinamentos realizados, desde que os serviços sejam aprovados pelo Gestor designado pela CONTRATANTE e sigam acompanhados da(s) respectiva(s) Nota(s) Fiscal(is) Eletrônica(s) (NF-e), através de depósitos bancários (hipótese na qual a NF-e deverá conter os dados bancários da CONTRATADA) ou de boletos bancários (caso no qual tais documentos deverão acompanhar a NF-e).
+PRAZO DE VIGÊNCIA: Por se tratar de contratação imediata, este contrato terá início a partir da data de sua assinatura e encerramento vinculado ao término do respectivo exercício financeiro, em conformidade com o descrito no caput do artigo 57 da Lei Federal nº. 8.666/93.
+DATA: 27/08/2020.

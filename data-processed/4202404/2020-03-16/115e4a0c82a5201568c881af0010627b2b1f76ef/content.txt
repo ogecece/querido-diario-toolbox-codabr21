@@ -1,0 +1,623 @@
+
+FUNDAÇÃO UNIVERSIDADE REGIONAL DE BLUMENAU
+
+Extrato nº. 093/2020
+PARTES:
+FUNDAÇÃO UNIVERSIDADE REGIONAL DE BLUMENAU
+E
+
+LCI PRODUTOS DIAGNÓSTICOS LTDA
+OBJETO: Registro de preços para aquisições futuras de materiais médico hospitalar e de higiene e beleza para a Universidade.
+FUNDAMENTO LEGAL: Concorrência (SRP) nº 448/2019 e Ata (SRP) nº 031/2020 que será firmada em 16 de março de 2020. 
+PREÇO: O preço ofertado pela empresa signatária da presente Ata de Registro de Preços é o abaixo informado, de acordo com a respectiva classificação:
+	Item
+	Código FURB
+	Qtde.
+	Und.
+	Descrição do Item
+	Marca
+	Preço Unitário 
+
+(em R$)
+	Preço Total do Item 
+
+(em R$)
+
+	1
+	10626
+	6
+	Frasco
+	Ágar batata dextrose (ágar PDA) / frasco de 500g
+	Himedia
+	189,24
+	1.135,44
+
+	2
+	19860
+	20
+	Frasco
+	Ágar CLED (cistina lisina eletrólito deficiente) / frasco de 500g
+	Himedia
+	244,24
+	4.884,80
+
+	3
+	32456
+	8
+	Frasco
+	Ágar columbia blood base / frasco 500g
+	Himedia
+	262,39
+	2.099,12
+
+	4
+	14697
+	8
+	Frasco
+	Ágar de infusão cérebro-coração (BHI) / frasco de 500g
+	Himedia
+	230,63
+	1.845,04
+
+	6
+	10658
+	20
+	Frasco
+	Ágar Mac Conkey / frasco de 500g
+	Himedia
+	203,70
+	4.074,00
+
+	10
+	10657
+	12
+	Frasco
+	Ágar Muller Hinton / frasco de 500g
+	Himedia
+	231,20
+	2.774,40
+
+	33
+	10667
+	6
+	Frasco
+	Caldo infusão cérebro coração (BHI) / frasco de 500g
+	Himedia
+	192,15
+	1.152,90
+
+	34
+	10681
+	6
+	Frasco
+	Caldo lactose / frasco de 500g
+	Himedia
+	188,24
+	1.129,44
+
+	38
+	24554
+	6
+	Caixa
+	Calibrador para bioquímica / nível alto / caixa com 1 frasco de 3ml
+	Interkit
+	56,70
+	340,20
+
+	43
+	10394
+	6
+	Frasco
+	Cepa pura liofilizada de Escherichia coli (ATCC 25922)
+	Laborclin
+	47,25
+	283,50
+
+	45
+	10396
+	6
+	Frasco
+	Cepas puras liofilizadas de Staphylococus aureus (ATCC 25923)
+	Laborclin
+	47,25
+	283,50
+
+	47
+	10248
+	30
+	Conjunto
+	Conjunto de coloração de Gram II / conjunto com 4 frascos de 500ml cada
+	Laborclin
+	38,25
+	1.147,50
+
+	51
+	10616
+	6
+	Litro
+	Corante hematoxilina para Papanicolau.
+	Laborclin
+	58,87
+	353,22
+
+	55
+	15856
+	6
+	Caixa
+	Cubetas com mixer para coagulômetro Quick Timer / caixa com 100 unidades
+	Clot
+	81,00
+	486,00
+
+	58
+	34045
+	10
+	Galão
+	Diluente M-30-D de uso em contagem e medição de células sanguíneas / para uso em analisador hematológico BC3600 da Marca Mindray / galão com 20 litros.
+	Mindray
+	134,28
+	1.342,80
+
+	60
+	23068
+	20
+	Frasco
+	Discos de amoxicilina e ácido clavulônico / frasco com 50 discos
+	Laborclin
+	8,38
+	167,60
+
+	62
+	33802
+	20
+	Frasco
+	Discos de antibiograma cefalexina / frasco com 50 discos
+	Laborclin
+	8,38
+	167,60
+
+	75
+	24778
+	20
+	Frasco
+	Discos de doxiciclina / frasco com 50 discos
+	Laborclin
+	8,38
+	167,60
+
+	76
+	36269
+	20
+	Frasco
+	Discos de enrofloxacina (linha veterinária) / frasco com 50 discos
+	Laborclin
+	8,38
+	167,60
+
+	80
+	23635
+	20
+	Frasco
+	Discos de imipenem 10mg / frasco com 50 discos
+	Laborclin
+	9,42
+	188,40
+
+	88
+	24770
+	20
+	Frasco
+	Discos de piperacilina + tazobactam / frasco com 50 discos
+	Laborclin
+	8,38
+	167,60
+
+	100
+	11198
+	6
+	Frasco
+	Extrato de levedura / frasco de 500g.
+	Himedia
+	190,09
+	1.140,54
+
+	109
+	13892
+	10
+	Frasco
+	Hematoxilina de Harris / frasco de 1 litro.
+	Newprov
+	89,51
+	895,10
+
+	119
+	29377
+	15
+	Kit
+	Kit ASO por turbidimetria / reagente 1 (1x10 ml) + reagente 2 (2x25 ml) + padrão bireagente (1x1 ml)
+	Ebram
+	302,06
+	4.530,90
+
+	127
+	16183
+	15
+	Kit
+	Kit de reagente de tempo de tromboplastina parcial ativada (TTPA) / kit com 6 frascos de 2,5ml cada + cloreto de cálcio
+	Wama
+	83,70
+	1.255,50
+
+	130
+	19350
+	6
+	Kit
+	Kit de teste Elisa HIV (peptídeo sintético) / com 96 testes
+	Interkit
+	270,00
+	1.620,00
+
+	133
+	19353
+	6
+	Kit
+	Kit de teste Elisa TOXO IgG / com 96 testes
+	Interki
+	270,00
+	1.620,00
+
+	138
+	9273
+	40
+	Kit
+	Kit de triagem para sífilis (VDRL) com controle / com 250 testes
+	Wama
+	48,60
+	1.944,00
+
+	150
+	23100
+	30
+	Kit
+	Kit microalbuminúria por turbidimetria com calibrador
+	Ebram
+	248,40
+	7.452,00
+
+	152
+	38466
+	6
+	Kit
+	Kit multi drogas para detecção de 10 metabólicos das principais drogas de abuso
+	Biocon
+	162,00
+	972,00
+
+	153
+	25561
+	10
+	Kit
+	Kit p/ determinação de anticorpos anti-nucleares (ANA/FAN), completo com células Hep-2 e controles positivo e negativo, por Imunofluorescência indireta
+	Wama
+	675,00
+	6.750,00
+
+	156
+	20682
+	10
+	Kit
+	Kit para determinação da transferrina por turbidimetria / com 1 frasco de 25ml + 1frasco de 3ml (validade mínima de 1 ano)
+	Ebram
+	223,52
+	2.235,20
+
+	157
+	36393
+	10
+	Kit
+	Kit para determinação de ácido úrico / Metodologia: Enzimático/uricase-peroxidase, Procedimento para automação / Apresentação: 02 frascos de 50ml, 02 frascos de enzimas liofilizadas. / Estabilidade do reagente de trabalho: Mínimo de 04 (quatro) semanas, 2
+	Interkit
+	46,71
+	467,10
+
+	159
+	20681
+	6
+	Kit
+	Kit para determinação de alfa-1-glicoproteína ácida (AGP) por turbidimetria com controle
+	Ebram
+	189,00
+	1.134,00
+
+	172
+	24552
+	20
+	Kit
+	Kit para dosagem da CK-NAC liquiforme 
+	Interkit
+	127,58
+	2.551,60
+
+	173
+	16122
+	10
+	Kit
+	Kit para dosagem de albumina / kit com 1 frasco de 250ml
+	Interkit
+	31,79
+	317,90
+
+	175
+	16001
+	10
+	Kit
+	Kit para dosagem de cálcio colorimétrico
+	Interkit
+	48,24
+	482,40
+
+	176
+	15285
+	20
+	Kit
+	Kit para dosagem de colesterol enzimático pronto para uso / com 1 frasco de 200ml
+	Interkit
+	48,11
+	962,20
+
+	181
+	20683
+	6
+	Kit
+	Kit para dosagem de fósforo
+	Ebram
+	48,51
+	291,06
+
+	182
+	16000
+	10
+	Kit
+	Kit para dosagem de Gama GT
+	Interkit
+	43,86
+	438,60
+
+	183
+	11272
+	15
+	Kit
+	Kit para dosagem de glicose enzimático / com 1 frasco de 500 ml / com padrão
+	Ebram
+	44,02
+	660,30
+
+	188
+	17895
+	20
+	Kit
+	Kit para dosagem de sangue oculto (imunocromatográfico) / sem necessidade de dieta / kit com 20 testes
+	Wama
+	58,05
+	1.161,00
+
+	195
+	29378
+	6
+	Kit
+	Kit PCR por turbidimetria / reagente 1 (1 x 10ml) + reagente 2 (2 x 25ml) + padrão bireagente 1 x 1ml
+	Ebram
+	216,00
+	1.296,00
+
+	200
+	15451
+	20
+	Kit
+	Kit reagente para tempo de protombina (TAP) / kit com 10 frascos de 2ml cada (com ISI abaixo de 1,40)
+	Wama
+	66,15
+	1.323,00
+
+	209
+	34047
+	15
+	Frasco
+	Lise M-30-CFL para determinar quantitativamente hemoglobinas e para contagem de leucócitos / para uso em analisador hematológico BC3600 da Marca Mindray / frasco 500ml.
+	Mindray
+	225,68
+	3.385,20
+
+	213
+	19842
+	15
+	Frasco
+	Meio de cultura de SIM / frasco de 500g
+	Himedia
+	287,12
+	4.306,80
+
+	228
+	14688
+	6
+	Caixa
+	Placa de microtitulação para teste Elisa / 96 orifícios em poliestireno estéril / funda em U / caixa com 50 peças embaladas individualmente -  MARCA:CRAL
+	Cral
+	60,60
+	363,60
+
+	229
+	20853
+	6
+	Caixa
+	Placa de microtitulação para teste Elisa / com 96 orifícios em poliestireno estéril / funda chato / caixa com 50 peças embaladas individualmentes
+	Cral
+	60,60
+	363,60
+
+	230
+	10705
+	12
+	Caixa
+	Plasma de coelho liofilizado 
+	Newprov
+	12,29
+	147,48
+
+	239
+	34048
+	15
+	Frasco
+	Reagente M-30 E-Z Cleanzer para limpeza periódica das partes e tubulações que entram em contato com amostras de sangue / para uso em analisador hematológico BC3600 da Marca Mindray / frasco de 100ml.
+	Mindray
+	135,41
+	2.031,15
+
+	246
+	22476
+	14
+	Frasco
+	Sangue de carneiro desfibrilado / frasco de 100ml
+	Laborclin
+	99,99
+	1.399,86
+
+	248
+	16287
+	6
+	Kit
+	Sífilis FTA / ABS por imunofluorescência indireta
+	Wama
+	514,35
+	3.086,10
+
+	251
+	9275
+	10
+	Frasco
+	Soro anti A / frasco de 10ml
+	Ebram
+	12,15
+	121,50
+
+	252
+	9276
+	10
+	Frasco
+	Soro anti B / frasco de 10ml
+	Ebram
+	12,15
+	121,50
+
+	253
+	9277
+	10
+	Frasco
+	Soro anti Rh / frasco de 10ml
+	Ebram
+	12,15
+	121,50
+
+	254
+	19621
+	10
+	Frasco
+	Soro de Coombs / frasco de 10ml
+	Ebram
+	25,65
+	256,50
+
+	258
+	19420
+	20
+	Caixa
+	Swab / com haste de madeira / estéril / embalados individualmente / caixa com 100 unidades
+	Absorve
+	12,66
+	253,20
+
+	259
+	22580
+	6
+	Pacote
+	Swab de algodão / com haste de alumínio / estéril / embalado individualmente / pacote com 100 unidades
+	Absorve
+	42,89
+	257,34
+
+	262
+	9322
+	10
+	Caixa
+	Tira de teste reativa de urina com 10 áreas com densidade / para a determinação semi-quantitativa de densidade, pH, leucócitos, nitritos, proteínas, glucose, corpos cetónicos, urobilinogênio, bilirrubina e sangue na urina / caixa com 100 unidades
+	Wama
+	17,55
+	175,50
+
+	264
+	28908
+	30
+	Caixa
+	Tiras reagentes para analisador de lactato / caixa com 25 tiras.
+	Eco
+	269,66
+	8.089,80
+
+	270
+	9288
+	50
+	Caixa
+	Tubo de meio de Rugai com lisina (meio de Pessoa Silva) / caixa com 10 tubos.
+	Newprov
+	26,33
+	1.316,50
+
+	274
+	32871
+	15
+	Caixa
+	Tubo para vácuo com ativador de cóagulo / volume 10ml / caixa com 100 unidades.
+	Vacuplast
+	55,00
+	1.375,00
+
+	275
+	32872
+	35
+	Caixa
+	Tubo para vácuo com ativador de cóagulo / volume 4ml / caixa com 100 unidades.
+	Injex
+	33,75
+	1.181,25
+
+	276
+	32873
+	35
+	Caixa
+	Tubo para vácuo com citrato de sódio (3,2%) / volume 2,7ml / caixa com 100 unidades.
+	Injex
+	33,75
+	1.181,25
+
+	277
+	32874
+	35
+	Caixa
+	Tubo para vácuo com EDTA (K2) / volume 3ml / caixa com 100 unidades.
+	Vacuplast
+	35,25
+	1.233,75
+
+	283
+	39959
+	5
+	Caixa
+	Microtubo para coleta de sangue com EDTA 0,5ml / Em rack com 50 tubos de 0,5ml cada
+	Vacuplast
+	22,07
+	110,35
+
+
+PAGAMENTO: O pagamento será efetuado em até 20 (vinte) dias consecutivos após a efetiva entrega (com descarga) dos materiais, desde que os mesmos estejam em perfeitas condições de uso, sejam aprovados pelo Gestor designado pela CONTRATANTE e sigam acompanhados da respectiva Nota Fiscal Eletrônica (NF-e), através de depósitos bancários (hipótese na qual a NF-e deverá conter os dados bancários da CONTRATADA) ou de boletos bancários (caso no qual tais documentos deverão acompanhar a NF-e).
+PRAZO DE VIGÊNCIA: A presente Ata de Registro de Preços terá a validade de 12 (doze) meses, contados a partir da data de sua assinatura.
+DATA: 16/03/2020

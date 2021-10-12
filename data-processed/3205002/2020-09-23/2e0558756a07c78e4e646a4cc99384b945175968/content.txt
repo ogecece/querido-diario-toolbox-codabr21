@@ -1,0 +1,154 @@
+
+Prefeitura Municipal da Serra 
+Espirito Santo 
+
+DECRETO Nº 6657/2020 
+O PREFEITO MUNICIPAL DA SERRA, ESPÍRITO SANTO, usando de suas atribuições legais, e com base no artigo 9º inciso 
+I da Lei nº 5.155/2020 de 10/01/2020; 
+
+D E C R E T A: 
+Art. 1º. Ficam suplementadas no orçamento vigente as dotações orçamentárias constantes do Anexo I. 
+Art. 2º. Para efeito das suplementações constante no Artigo anterior, ficam anuladas as dotações orçamentárias, indicada 
+no anexo II. 
+Art. 3º. Este Decreto entra em vigor na data de sua publicação, revogadas as disposições em contrário 
+
+Palácio Municipal, em Serra, em 22 de setembro de 2020 
+AUDIFAX CHARLES PIMENTEL BARCELOS 
+
+Prefeito Municipal 
+LAURIETE CANEVA 
+
+Secretária de Planejamento Estratégico 
+CRÉDITO ADICIONAL SUPLEMENTAR - ANEXO I - SUPLEMENTAÇÃO 
+
+R$ 1,00 
+
+CÓDIGO ESPECIFICAÇÃO NATUREZA FR VALOR 
+
+11.00.00 SECRETARIA DE EDUCAÇÃO    
+
+11.01.00 Secretaria de Educação    
+
+12.361.0530.2001 Pagamento de Pessoal e Encargos 3.1.90.04.00 1.112.0000.0000 2.400.000 
+
+12.365.0530.2286 Pagamento de Pessoal e Encargos - Pré-Escola 3.1.90.04.00 1.113.0000.0000 20.000 
+
+12.00.00 SECRETARIA DE SAUDE    
+
+12.01.00 Fundo Municipal de Saúde    
+
+10.301.0230.2134 Ampliar e Melhorar os Serviços de Atenção Primária 4.4.90.52.00 1.211.0000.0000 500.000 
+
+10.305.0530.2001 Pagamento de Pessoal e Encargos 3.1.90.11.00 1.214.0000.0000 230.000 
+
+16.00.00 SECRETARIA DE DESENV. URBANO    
+
+16.01.00 Secretaria de Desenv. Urbano    
+
+04.122.0530.2001 Pagamento de Pessoal e Encargos 3.1.90.04.00 1.001.0000.0000 20.000 
+
+19.00.00 SECRETARIA DE DEFESA SOCIAL    
+
+19.01.00 Secretaria de Defesa Social    
+
+04.122.0530.2001 Pagamento de Pessoal e Encargos 3.1.90.16.00 1.001.0000.0000 50.000 
+
+04.122.0530.2001 Pagamento de Pessoal e Encargos 3.3.90.18.00 1.001.0000.0000 162.000 
+  TOTAL  3.382.000 
+
+ 
+CRÉDITO ADICIONAL SUPLEMENTAR - ANEXO II - ANULAÇÃO 
+
+R$ 1,00 
+
+CÓDIGO ESPECIFICAÇÃO NATUREZA FR VALOR 
+
+11.00.00 SECRETARIA DE EDUCAÇÃO    
+
+11.01.00 Secretaria de Educação    
+
+12.365.0530.2286 Pagamento de Pessoal e Encargos - Pré-Escola 3.1.90.11.00 1.112.0000.0000 2.400.000 
+
+12.365.0530.2286 Pagamento de Pessoal e Encargos - Pré-Escola 3.1.90.16.00 1.113.0000.0000 20.000 
+
+12.00.00 SECRETARIA DE SAUDE    
+
+12.01.00 Fundo Municipal de Saúde    
+
+10.122.0530.2003 Manutenção e Conservação de Bens Imóveis 3.3.90.34.00 1.211.0000.0000 500.000 
+
+10.301.0530.2001 Pagamento de Pessoal e Encargos 3.1.90.04.00 1.214.0000.0000 230.000 
+
+16.00.00 SECRETARIA DE DESENV. URBANO    
+
+16.01.00 Secretaria de Desenv. Urbano    
+
+04.122.0530.2001 Pagamento de Pessoal e Encargos 3.1.90.16.00 1.001.0000.0000 20.000 
+
+19.00.00 SECRETARIA DE DEFESA SOCIAL    
+
+19.01.00 Secretaria de Defesa Social    
+
+04.122.0530.2001 Pagamento de Pessoal e Encargos 3.1.90.11.00 1.001.0000.0000 50.000 
+
+06.183.0050.2209 Criar e Manter do Centro Integrado de Segurança Ci 3.3.90.39.00 1.001.0000.0000 5.000 
+
+06.183.0050.2209 Criar e Manter do Centro Integrado de Segurança Ci 4.4.90.52.00 1.001.0000.0000 5.000 
+
+06.183.0060.1070 Capacitação Continuada dos Servidores da SEDES 3.3.90.36.00 1.001.0000.0000 15.000 
+
+06.183.0060.1070 Capacitação Continuada dos Servidores da SEDES 3.3.90.39.00 1.001.0000.0000 10.000 
+
+06.183.0430.1161 Reestruturação do Observatório de Segurança Cidadã 3.3.90.30.00 1.001.0000.0000 5.000 
+
+06.183.0430.1161 Reestruturação do Observatório de Segurança Cidadã 3.3.90.39.00 1.001.0000.0000 5.000 
+
+06.183.0430.1161 Reestruturação do Observatório de Segurança Cidadã 4.4.90.52.00 1.001.0000.0000 5.000 
+
+06.183.0430.2156 Atualizar e Desenvolver Ações, Projetos e Programa 3.3.90.30.00 1.001.0000.0000 5.000 
+
+06.183.0430.2156 Atualizar e Desenvolver Ações, Projetos e Programa 3.3.90.39.00 1.001.0000.0000 5.000 
+
+06.183.0430.2156 Atualizar e Desenvolver Ações, Projetos e Programa 4.4.90.52.00 1.001.0000.0000 5.000 
+
+
+
+CRÉDITO ADICIONAL SUPLEMENTAR - ANEXO II - ANULAÇÃO 
+R$ 1,00 
+
+CÓDIGO ESPECIFICAÇÃO NATUREZA FR VALOR 
+
+06.183.0430.2157 Fortalecer os conselhos vinculados à SEDES (CISES 3.3.90.39.00 1.001.0000.0000 4.000 
+
+06.183.0430.2157 Fortalecer os conselhos vinculados à SEDES (CISES 4.4.90.52.00 1.001.0000.0000 4.000 
+
+06.183.0430.2158 Implementar ações primárias, secundárias e terciár 3.3.90.30.00 1.001.0000.0000 5.000 
+
+06.183.0430.2158 Implementar ações primárias, secundárias e terciár 3.3.90.39.00 1.001.0000.0000 5.000 
+
+06.183.0430.2158 Implementar ações primárias, secundárias e terciár 4.4.90.52.00 1.001.0000.0000 10.000 
+
+06.183.0440.2251 Criar e Manter Fundo Municipal de Segurança Cidadã 3.3.90.39.00 1.001.0000.0000 5.000 
+
+06.183.0440.2251 Criar e Manter Fundo Municipal de Segurança Cidadã 4.4.90.52.00 1.001.0000.0000 5.000 
+
+19.02.00 Coordenadoria Municipal de Defesa Civil    
+
+06.182.0420.2011 Criar e Manter Fundo Municipal de Proteção e Defes 3.3.90.39.00 1.001.0000.0000 2.500 
+
+06.182.0420.2011 Criar e Manter Fundo Municipal de Proteção e Defes 4.4.90.52.00 1.001.0000.0000 2.500 
+
+06.182.0420.2012 Elaborar e Manter o Plano de Investimento para Med 3.3.90.39.00 1.001.0000.0000 4.000 
+
+06.182.0420.2013 Estruturar e Manter o Monitoramento das Áreas de R 4.4.90.52.00 1.001.0000.0000 20.000 
+
+06.182.0420.2015 Implementar e Manter o Plano Municipal de Contingê 3.3.90.30.00 1.001.0000.0000 10.000 
+
+06.182.0420.2015 Implementar e Manter o Plano Municipal de Contingê 3.3.90.39.00 1.001.0000.0000 10.000 
+
+06.182.0420.2015 Implementar e Manter o Plano Municipal de Contingê 4.4.90.52.00 1.001.0000.0000 10.000 
+  TOTAL  3.382.000 
+
+ 
+
+

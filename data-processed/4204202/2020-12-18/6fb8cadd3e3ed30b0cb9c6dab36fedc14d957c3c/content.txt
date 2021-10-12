@@ -1,0 +1,898 @@
+ 
+
+
+
+ESTADO DE SANTA CATARINA
+
+MUNICÍPIO DE CHAPECÓ
+
+
+DECRETO Nº. 39.702, DE 15 DE DEZEMBRO DE 2020.
+Abre Crédito Orçamentário pela Movimentação de Dotações no Orçamento programa de 2020.
+
+O Prefeito Municipal de Chapecó no exercício das atribuições que lhe foram conferidas pela a Lei Orgânica do Município de Chapecó, autorização contida na Lei Municipal nº 7.448/20 de 14 de Dezembro de 2020.
+
+D E C R E T A :
+
+Art. 1º - Fica aberto no corrente exercício Crédito Suplementar pela anulação de dotações, para a seguinte dotação orçamentária:
+
+	Órgão Orçamentário:
+	18000 - Encargos Gerais do Município
+	 
+
+	Unidade Orçamentária:
+	18018 - Encargos Gerais do Município
+	 
+
+	Despesa 273
+	3.2.90.00.00 Aplicações Diretas
+	 
+
+	 
+	Fonte de 1000 - Recursos Ordinários - 0.1.00
+	2.407.854,71
+
+	Despesa 274
+	4.6.90.00.00 Aplicações Diretas
+	 
+
+	 
+	Fonte de 1000 - Recursos Ordinários - 0.1.00
+	6.831.418,84
+
+	 
+	 
+	 
+
+	Órgão Orçamentário:
+	21000 - Fundo Municipal de Saúde de Chapecó - FMS
+	 
+
+	Unidade Orçamentária:
+	21021 - Fundo Municipal de Saúde de Chapecó - FMS
+	 
+
+	Despesa 287
+	3.1.90.00.00 Aplicações Diretas
+	 
+
+	 
+	Fonte de 1020 - 02 Receitas de Imp e Transf. de Imp. - Saúde - 0.1.02
+	13.132.745,68
+
+	 
+	 
+	 
+
+	Órgão Orçamentário:
+	42000 - Fundo Mun. Assistência Social - FMAS
+	 
+
+	Unidade Orçamentária:
+	42042 - Fundo Mun. Assistência Social - FMAS
+	 
+
+	Despesa 369
+	3.1.90.00.00 Aplicações Diretas
+	 
+
+	 
+	Fonte de 1000 - Recursos Ordinários - 0.1.00
+	622.670,00
+
+	Despesa 372
+	3.1.90.00.00 Aplicações Diretas
+	 
+
+	 
+	Fonte de 1000 - Recursos Ordinários - 0.1.00
+	600.000,00
+
+
+Art. 2º - Para atendimento do Crédito Orçamentário de que trata o artigo 1º serão utilizados recursos provenientes da anulação parcial das seguintes dotações:
+
+	Órgão Orçamentário:
+	1000 - Gabinete do Prefeito - GP
+	 
+
+	Unidade Orçamentária:
+	1001 - Gabinete do Prefeito - GP
+	 
+
+	Despesa 1
+	3.1.90.00.00 Aplicações Diretas
+	 
+
+	 
+	Fonte de 1000 - Recursos Ordinários - 0.1.00
+	247.963,29
+
+	Despesa 2
+	3.1.91.00.00 Aplicação Direta Decorrente de Operação entre Órgãos, Fundos e 
+	 
+
+	 
+	Fonte de 1000 - Recursos Ordinários - 0.1.00
+	51.199,36
+
+	Despesa 3
+	3.3.90.00.00 Aplicações Diretas
+	 
+
+	 
+	Fonte de 1000 - Recursos Ordinários - 0.1.00
+	24.570,56
+
+	Despesa 5
+	3.1.90.00.00 Aplicações Diretas
+	 
+
+	 
+	Fonte de 1000 - Recursos Ordinários - 0.1.00
+	47.565,01
+
+	Despesa 7
+	3.3.90.00.00 Aplicações Diretas
+	 
+
+	 
+	Fonte de 1000 - Recursos Ordinários - 0.1.00
+	1.122,14
+
+	Despesa 386
+	3.1.90.00.00 Aplicações Diretas
+	 
+
+	 
+	Fonte de 1000 - Recursos Ordinários - 0.1.00
+	119.730,46
+
+	Despesa 9
+	3.1.91.00.00 Aplicação Direta Decorrente de Operação entre Órgãos, Fundos e 
+	 
+
+	 
+	Fonte de 1000 - Recursos Ordinários - 0.1.00
+	4.980,20
+
+	Despesa 11
+	3.1.90.00.00 Aplicações Diretas
+	 
+
+	 
+	Fonte de 1000 - Recursos Ordinários - 0.1.00
+	142.509,49
+
+	Despesa 12
+	3.1.91.00.00 Aplicação Direta Decorrente de Operação entre Órgãos, Fundos e 
+	 
+
+	 
+	Fonte de 1000 - Recursos Ordinários - 0.1.00
+	1.941,49
+
+	Despesa 17
+	3.1.90.00.00 Aplicações Diretas
+	 
+
+	 
+	Fonte de 1000 - Recursos Ordinários - 0.1.00
+	38.137,93
+
+	Despesa 20
+	4.4.90.00.00 Aplicações Diretas
+	 
+
+	 
+	Fonte de 1000 - Recursos Ordinários - 0.1.00
+	27.148,00
+
+	Despesa 21
+	3.3.90.00.00 Aplicações Diretas
+	 
+
+	 
+	Fonte de 1000 - Recursos Ordinários - 0.1.00
+	8.193,08
+
+	Despesa 25
+	3.3.90.00.00 Aplicações Diretas
+	 
+
+	 
+	Fonte de 1000 - Recursos Ordinários - 0.1.00
+	2.667,66
+
+	Despesa 26
+	4.4.90.00.00 Aplicações Diretas
+	 
+
+	 
+	Fonte de 1000 - Recursos Ordinários - 0.1.00
+	10.891,00
+
+	Despesa 28
+	3.1.90.00.00 Aplicações Diretas
+	 
+
+	 
+	Fonte de 1000 - Recursos Ordinários - 0.1.00
+	5.312,81
+
+	Despesa 30
+	3.3.90.00.00 Aplicações Diretas
+	 
+
+	 
+	Fonte de 1000 - Recursos Ordinários - 0.1.00
+	4.313,89
+
+	Despesa 22
+	3.1.90.00.00 Aplicações Diretas
+	 
+
+	 
+	Fonte de 1000 - Recursos Ordinários - 0.1.00
+	205.377,17
+
+	Despesa 33
+	3.3.90.00.00 Aplicações Diretas
+	 
+
+	 
+	Fonte de 1000 - Recursos Ordinários - 0.1.00
+	1.716,10
+
+	Despesa 34
+	3.3.90.00.00 Aplicações Diretas
+	 
+
+	 
+	Fonte de 1000 - Recursos Ordinários - 0.1.00
+	18.000,00
+
+	 
+	 
+	 
+
+	Órgão Orçamentário:
+	2000 - Secretaria de Coord. de Gov, e Gestão- SEGOV
+	 
+
+	Unidade Orçamentária:
+	2002 - Secretaria de Coord. de Gov, e Gestão- SEGOV
+	 
+
+	Despesa 39
+	3.1.90.00.00 Aplicações Diretas
+	 
+
+	 
+	Fonte de 1000 - Recursos Ordinários - 0.1.00
+	113.134,21
+
+	Despesa 44
+	3.3.90.00.00 Aplicações Diretas
+	 
+
+	 
+	Fonte de 1000 - Recursos Ordinários - 0.1.00
+	6.186,41
+
+	Despesa 35
+	3.1.90.00.00 Aplicações Diretas
+	 
+
+	 
+	Fonte de 1000 - Recursos Ordinários - 0.1.00
+	528.223,22
+
+	Despesa 48
+	3.1.90.00.00 Aplicações Diretas
+	 
+
+	 
+	Fonte de 1000 - Recursos Ordinários - 0.1.00
+	129.298,10
+
+	Despesa 50
+	3.3.90.00.00 Aplicações Diretas
+	 
+
+	 
+	Fonte de 1000 - Recursos Ordinários - 0.1.00
+	42.076,88
+
+	Despesa 53
+	3.3.90.00.00 Aplicações Diretas
+	 
+
+	 
+	Fonte de 1000 - Recursos Ordinários - 0.1.00
+	13.191,31
+
+	 
+	 
+	 
+
+	Órgão Orçamentário:
+	3000 - Secretaria de Fazenda - SEFAZ
+	 
+
+	Unidade Orçamentária:
+	3003 - Secretaria de Fazenda - SEFAZ
+	 
+
+	Despesa 66
+	3.1.90.00.00 Aplicações Diretas
+	 
+
+	 
+	Fonte de 1000 - Recursos Ordinários - 0.1.00
+	1.104.002,15
+
+	Despesa 67
+	3.1.91.00.00 Aplicação Direta Decorrente de Operação entre Órgãos, Fundos e 
+	 
+
+	 
+	Fonte de 1000 - Recursos Ordinários - 0.1.00
+	105.149,79
+
+	Despesa 68
+	3.3.90.00.00 Aplicações Diretas
+	 
+
+	 
+	Fonte de 1000 - Recursos Ordinários - 0.1.00
+	18.015,94
+
+	Despesa 69
+	3.3.93.00.00 Aplicação  Direta  Decorrente  de  Operação  de  Órgãos,  Fundos  e  
+	 
+
+	 
+	Fonte de 1000 - Recursos Ordinários - 0.1.00
+	65.000,00
+
+	 
+	 
+	 
+
+	Órgão Orçamentário:
+	4000 - Secretaria de Comunicação Social - SECOM
+	 
+
+	Unidade Orçamentária:
+	4004 - Secretaria de Comunicação Social - SECOM
+	 
+
+	Despesa 73
+	3.1.90.00.00 Aplicações Diretas
+	 
+
+	 
+	Fonte de 1000 - Recursos Ordinários - 0.1.00
+	396.038,86
+
+	Despesa 75
+	3.3.90.00.00 Aplicações Diretas
+	 
+
+	 
+	Fonte de 1000 - Recursos Ordinários - 0.1.00
+	105.488,77
+
+	 
+	 
+	 
+
+	Órgão Orçamentário:
+	5000 - Secretaria de Educação - SEDUC
+	 
+
+	Unidade Orçamentária:
+	5005 - Secretaria de Educação - SEDUC
+	 
+
+	Despesa 108
+	3.3.90.00.00 Aplicações Diretas
+	 
+
+	 
+	Fonte de 1000 - Recursos Ordinários - 0.1.00
+	7.842.446,81
+
+	Despesa 83
+	3.3.90.00.00 Aplicações Diretas
+	 
+
+	 
+	Fonte de 1000 - Recursos Ordinários - 0.1.00
+	588.311,13
+
+	Despesa 100
+	3.3.90.00.00 Aplicações Diretas
+	 
+
+	 
+	Fonte de 1000 - Recursos Ordinários - 0.1.00
+	335.721,84
+
+	Despesa 106
+	3.3.90.00.00 Aplicações Diretas
+	 
+
+	 
+	Fonte de 1000 - Recursos Ordinários - 0.1.00
+	55.900,00
+
+	 
+	 
+	 
+
+	Órgão Orçamentário:
+	6000 - Secretaria de Infraestrutura Urbana - SEINFRA
+	 
+
+	Unidade Orçamentária:
+	6006 - Secretaria de Infraestrutura Urbana - SEINFRA
+	 
+
+	Despesa 114
+	4.4.90.00.00 Aplicações Diretas
+	 
+
+	 
+	Fonte de 1000 - Recursos Ordinários - 0.1.00
+	17.106,00
+
+	Despesa 118
+	4.4.90.00.00 Aplicações Diretas
+	 
+
+	 
+	Fonte de 1000 - Recursos Ordinários - 0.1.00
+	12.000,00
+
+	Despesa 120
+	4.4.90.00.00 Aplicações Diretas
+	 
+
+	 
+	Fonte de 1000 - Recursos Ordinários - 0.1.00
+	104.914,88
+
+	Despesa 121
+	4.4.90.00.00 Aplicações Diretas
+	 
+
+	 
+	Fonte de 1000 - Recursos Ordinários - 0.1.00
+	394.810,61
+
+	Despesa 126
+	3.1.90.00.00 Aplicações Diretas
+	 
+
+	 
+	Fonte de 1000 - Recursos Ordinários - 0.1.00
+	284.227,64
+
+	Despesa 139
+	3.1.90.00.00 Aplicações Diretas
+	 
+
+	 
+	Fonte de 1000 - Recursos Ordinários - 0.1.00
+	590.472,84
+
+	Despesa 140
+	3.1.91.00.00 Aplicação Direta Decorrente de Operação entre Órgãos, Fundos e 
+	 
+
+	 
+	Fonte de 1000 - Recursos Ordinários - 0.1.00
+	193.615,93
+
+	Despesa 141
+	3.3.90.00.00 Aplicações Diretas
+	 
+
+	 
+	Fonte de 1000 - Recursos Ordinários - 0.1.00
+	80.617,80
+
+	Despesa 144
+	3.3.90.00.00 Aplicações Diretas
+	 
+
+	 
+	Fonte de 1000 - Recursos Ordinários - 0.1.00
+	20.323,13
+
+	Despesa 156
+	3.3.90.00.00 Aplicações Diretas
+	 
+
+	 
+	Fonte de 1000 - Recursos Ordinários - 0.1.00
+	19.096,25
+
+	Despesa 157
+	4.4.90.00.00 Aplicações Diretas
+	 
+
+	 
+	Fonte de 1000 - Recursos Ordinários - 0.1.00
+	128.495,15
+
+	Despesa 160
+	3.3.90.00.00 Aplicações Diretas
+	 
+
+	 
+	Fonte de 1000 - Recursos Ordinários - 0.1.00
+	7.371,67
+
+	 
+	 
+	 
+
+	Órgão Orçamentário:
+	7000 - Sec. de Defesa do Cidadão e Mob. - SEDEMOB
+	 
+
+	Unidade Orçamentária:
+	7007 - Sec. de Defesa do Cidadão e Mob. - SEDEMOB
+	 
+
+	Despesa 166
+	3.1.90.00.00 Aplicações Diretas
+	 
+
+	 
+	Fonte de 1000 - Recursos Ordinários - 0.1.00
+	1.069.615,86
+
+	Despesa 168
+	3.3.90.00.00 Aplicações Diretas
+	 
+
+	 
+	Fonte de 1000 - Recursos Ordinários - 0.1.00
+	79.615,79
+
+	Despesa 173
+	3.3.90.00.00 Aplicações Diretas
+	 
+
+	 
+	Fonte de 1000 - Recursos Ordinários - 0.1.00
+	3.252.729,57
+
+	Despesa 177
+	3.3.90.00.00 Aplicações Diretas
+	 
+
+	 
+	Fonte de 1000 - Recursos Ordinários - 0.1.00
+	181.238,50
+
+	Despesa 163
+	3.1.90.00.00 Aplicações Diretas
+	 
+
+	 
+	Fonte de 1000 - Recursos Ordinários - 0.1.00
+	82.598,21
+
+	Despesa 165
+	3.3.90.00.00 Aplicações Diretas
+	 
+
+	 
+	Fonte de 1000 - Recursos Ordinários - 0.1.00
+	1.595.378,03
+
+	Despesa 186
+	4.4.90.00.00 Aplicações Diretas
+	 
+
+	 
+	Fonte de 1000 - Recursos Ordinários - 0.1.00
+	102.000,00
+
+	Despesa 200
+	4.4.90.00.00 Aplicações Diretas
+	 
+
+	 
+	Fonte de 1000 - Recursos Ordinários - 0.1.00
+	4.910,00
+
+	Despesa 377
+	3.3.90.00.00 Aplicações Diretas
+	 
+
+	 
+	Fonte de 1000 - Recursos Ordinários - 0.1.00
+	149.714,96
+
+	Despesa 381
+	4.4.90.00.00 Aplicações Diretas
+	 
+
+	 
+	Fonte de 1000 - Recursos Ordinários - 0.1.00
+	50.000,00
+
+	 
+	 
+	 
+
+	Órgão Orçamentário:
+	8000 - Secretaria de Des. Rural e Meio Amb. - SEDEMA
+	 
+
+	Unidade Orçamentária:
+	8008 - Secretaria de Des. Rural e Meio Amb. - SEDEMA
+	 
+
+	Despesa 188
+	3.1.90.00.00 Aplicações Diretas
+	 
+
+	 
+	Fonte de 1000 - Recursos Ordinários - 0.1.00
+	347.546,84
+
+	Despesa 192
+	3.3.90.00.00 Aplicações Diretas
+	 
+
+	 
+	Fonte de 1000 - Recursos Ordinários - 0.1.00
+	108.047,56
+
+	Despesa 194
+	4.4.90.00.00 Aplicações Diretas
+	 
+
+	 
+	Fonte de 1000 - Recursos Ordinários - 0.1.00
+	102.000,00
+
+	Despesa 197
+	3.1.90.00.00 Aplicações Diretas
+	 
+
+	 
+	Fonte de 1000 - Recursos Ordinários - 0.1.00
+	19.621,37
+
+	Despesa 198
+	3.3.90.00.00 Aplicações Diretas
+	 
+
+	 
+	Fonte de 1000 - Recursos Ordinários - 0.1.00
+	223.852,13
+
+	 
+	 
+	 
+
+	Órgão Orçamentário:
+	9000 - Secretaria de Assistência Social - SEASC
+	 
+
+	Unidade Orçamentária:
+	9009 - Secretaria de Assistência Social - SEASC
+	 
+
+	Despesa 211
+	3.1.90.00.00 Aplicações Diretas
+	 
+
+	 
+	Fonte de 1000 - Recursos Ordinários - 0.1.00
+	22.043,19
+
+	Despesa 213
+	3.3.90.00.00 Aplicações Diretas
+	 
+
+	 
+	Fonte de 1000 - Recursos Ordinários - 0.1.00
+	174.684,92
+
+	Despesa 214
+	3.3.90.00.00 Aplicações Diretas
+	 
+
+	 
+	Fonte de 1000 - Recursos Ordinários - 0.1.00
+	47.403,16
+
+	 
+	 
+	 
+
+	Órgão Orçamentário:
+	10000 - Sec. de Desen. Econômico e Turismo - SEDET
+	 
+
+	Unidade Orçamentária:
+	10010 - Sec. de Desen. Econômico e Turismo - SEDET
+	 
+
+	Despesa 449
+	3.3.90.00.00 Aplicações Diretas
+	 
+
+	 
+	Fonte de 1000 - Recursos Ordinários - 0.1.00
+	99.000,00
+
+	Despesa 216
+	4.4.90.00.00 Aplicações Diretas
+	 
+
+	 
+	Fonte de 1000 - Recursos Ordinários - 0.1.00
+	4.000,00
+
+	Despesa 218
+	3.1.90.00.00 Aplicações Diretas
+	 
+
+	 
+	Fonte de 1000 - Recursos Ordinários - 0.1.00
+	425.173,34
+
+	Despesa 220
+	3.3.90.00.00 Aplicações Diretas
+	 
+
+	 
+	Fonte de 1000 - Recursos Ordinários - 0.1.00
+	9.480,26
+
+	Despesa 222
+	3.3.90.00.00 Aplicações Diretas
+	 
+
+	 
+	Fonte de 1000 - Recursos Ordinários - 0.1.00
+	9.480,26
+
+	Despesa 359
+	3.1.90.00.00 Aplicações Diretas
+	 
+
+	 
+	Fonte de 1000 - Recursos Ordinários - 0.1.00
+	107.000,00
+
+	Despesa 362
+	3.3.90.00.00 Aplicações Diretas
+	 
+
+	 
+	Fonte de 1000 - Recursos Ordinários - 0.1.00
+	24.048,03
+
+	Despesa 223
+	3.3.90.00.00 Aplicações Diretas
+	 
+
+	 
+	Fonte de 1000 - Recursos Ordinários - 0.1.00
+	10.924,50
+
+	 
+	 
+	 
+
+	Órgão Orçamentário:
+	11000 - Secretaria de Cultura - SECUL
+	 
+
+	Unidade Orçamentária:
+	11011 - Secretaria de Cultura - SECUL
+	 
+
+	Despesa 239
+	3.3.90.00.00 Aplicações Diretas
+	 
+
+	 
+	Fonte de 1000 - Recursos Ordinários - 0.1.00
+	3.477,95
+
+	Despesa 235
+	3.3.90.00.00 Aplicações Diretas
+	 
+
+	 
+	Fonte de 1000 - Recursos Ordinários - 0.1.00
+	19.974,61
+
+	Despesa 240
+	3.3.90.00.00 Aplicações Diretas
+	 
+
+	 
+	Fonte de 1000 - Recursos Ordinários - 0.1.00
+	12.214,69
+
+	Despesa 241
+	3.3.90.00.00 Aplicações Diretas
+	 
+
+	 
+	Fonte de 1000 - Recursos Ordinários - 0.1.00
+	16.149,40
+
+	 
+	 
+	 
+
+	Órgão Orçamentário:
+	13000 - Sec. de Juventude, Esporte e Lazer - SEJEL
+	 
+
+	Unidade Orçamentária:
+	13013 - Sec. de Juventude, Esporte e Lazer - SEJEL
+	 
+
+	Despesa 261
+	4.4.90.00.00 Aplicações Diretas
+	 
+
+	 
+	Fonte de 1000 - Recursos Ordinários - 0.1.00
+	153.893,78
+
+	Despesa 265
+	3.3.90.00.00 Aplicações Diretas
+	 
+
+	 
+	Fonte de 1000 - Recursos Ordinários - 0.1.00
+	554.746,96
+
+	Despesa 266
+	4.4.90.00.00 Aplicações Diretas
+	 
+
+	 
+	Fonte de 1000 - Recursos Ordinários - 0.1.00
+	11.100,00
+
+	Despesa 267
+	3.3.50.00.00 Transferências a Instituições Privadas sem Fins Lucrativos
+	 
+
+	 
+	Fonte de 1000 - Recursos Ordinários - 0.1.00
+	153.700,00
+
+	Despesa 268
+	3.3.90.00.00 Aplicações Diretas
+	 
+
+	 
+	Fonte de 1000 - Recursos Ordinários - 0.1.00
+	102.748,40
+
+
+Art. 3º - Este Decreto entra em vigor na data de sua publicação, revogada as disposições em contrário.
+
+Gabinete do Prefeito Municipal de Chapecó, Estado de Santa Catarina, em 15 de dezembro de 2020.
+LUCIANO JOSÉ BULIGON
+
+Prefeito Municipal
+PAGE  
+

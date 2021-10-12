@@ -1,0 +1,95 @@
+
+FUNDAÇÃO UNIVERSIDADE REGIONAL DE BLUMENAU
+
+Extrato nº. 384/2020
+PARTES:  FUNDAÇÃO UNIVERSIDADE REGIONAL DE BLUMENAU
+
+E
+
+                  RP COMERCIAL LTDA
+OBJETO: Registro de Preços para aquisições futuras de materiais elétricos destinados à manutenção e ampliação dos ambientes da Universidade.
+FUNDAMENTO LEGAL: Pregão Presencial (SRP) nº 157/2020 e Ata de Registro de Preços nº 175/2020, firmado em 30 de setembro de 2020.  
+PREÇO: O preço ofertado pela empresa signatária da presente Ata de Registro de Preços é o abaixo informado, de acordo com a respectiva classificação:
+
+	Lote: 26
+
+	Item
+	Código FURB
+	Qtde.
+	Und.
+	Descrição do Item
+	Marca
+	Preço Unitário (em R$)
+	Preço Total do Item
+
+ (em R$)
+
+	1
+	39665
+	60
+	Peça
+	Bloco autônomo de iluminação de emergência, com no mínimo 2 faróis regulaveis de LED, com as seguintes características: 
+Autonomia, definida conforme norma ABNT NBR 10898, mínima de 2,0 horas. Tensão de alimentação de 220Vac 60 Hz, que aceite uma variação de 10%. Característica mínima de bateria selada 12Vcc 4,5A/h. Não automotiva, Tipo Eletrólito absorvido (AGM), Livre de manutenção. Suportar temperatura de operação de -15 a 45ºC. Fluxo luminoso mínimo de 1200 lumens. Sistema de manutenção da carga por flutuação de tensão. Proteção dos circuitos de entrada e saída. Tempo de recarga máximo de 24 horas, no caso de descarga da bateria até o nível mínimo. Circuito para proteção contra descarga excessiva da bateria. Acendimento automático em caso de falta de energia. Sinalização de ''Alimentação Presente''  através de LED em local de fácil visualização. Acompanhar suportes para fixação. 
+	Luxprime
+	99,49
+	5.969,40
+
+	2
+	39666
+	200
+	Peça
+	Bloco autônomo de iluminação de emergência, com as seguintes características: Difusor frontal em acrílico. Autonomia, definida conforme norma ABNT NBR 10898, mínima de 1,5 horas. Tensão de alimentação de 220Vac 60 Hz , que aceite uma variação de 10%. Bateria selada não automotiva, deve suportar temperatura de operação de -15 a 45ºC. Não requerer carga de equalização. Permitir ser instalada em qualquer posição. Fluxo luminoso nominal, definido conforme a NBR 10898, de no mínimo 250 lumens. Lâmpada a LED. Temperatura de cor de no mínimo 4000K. Possuir botão  teste. Produzido com material antichama, alumínio  ou em chapa de aço tratadas e pintadas pelo processo eletrostático a pó, ou ABS, na cor branca. Circuito para proteção contra descarga excessiva da bateria. Acendimento Automático em caso de falta de energia. Sinalização de ''Alimentação Presente''  através de LED em local de fácil visualização. Instalação em qualquer posição. 
+	Luxprime
+	70,37
+	14.074,00
+
+	3
+	37238
+	20
+	Peça
+	Luminária com placa de SAÍDA face dupla  / com setas indicativas adesivas, placa acrílico branco com texto/adesivos  em vermelho / lâmpadas de LED alto brilho – tensão 24Vcc / fluxo luminoso mínimo de 30 lumens.(Dimensões mínimas do acrílico: 240 X 160 x 3mm) / Grau de proteção IP20. Atender os requisitos da norma ABNT NBR 10898.
+	Luxprime
+	58,68
+	1.173,60
+
+	4
+	37239
+	40
+	Peça
+	Luminária com placa de SAÍDA face simples / com setas indicativas adesivas, placa acrílico branco com texto/adesivo em vermelho / lâmpadas de LED alto brilho – tensão 24Vcc / fluxo luminoso mínimo de 30 lumens / (Dimensões mínimas do acrílico: 240 X 160 x 3mm) / Grau de proteção IP 20. Atender os requisitos da norma ABNT NBR 10898
+	Luxprime
+	58,25
+	2.330,00
+
+	5
+	37242
+	50
+	Peça
+	Luminária autônoma com placa indicativa de SAÍDA face dupla,  com setas indicativas adesivas / placa acrílico branco com texto/adesivos em vermelho / lâmpadas de LED alto brilho – tensão 220Vca / fluxo luminoso mínimo de 30 lumens / autonomia mínima de 2 horas (Dimensões mínimas do acrílico: 240 X 160 x 3mm). Atender os requisitos da norma ABNT NBR 10898.
+	Luxprime
+	62,30
+	3.115,00
+
+	6
+	37245
+	100
+	Peça
+	Luminária autônoma com placa indicativa de SAÍDA face simples, com setas indicativas adesivas, placa acrílico branco com texto/adesivos em vermelho / lâmpadas de LED alto brilho – tensão 220Vca /fluxo luminoso mínimo de 30 lumens / autonomia mínima de 2 horas (Dimensões mínimas do acrílico: 240 X 160 x 3mm). Atender os requisitos da norma ABNT NBR 10898. 
+	Luxprime
+	60,37
+	6.037,00
+
+	Preço Total do Lote 
+
+(em R$)
+	32.699,00
+
+	Preço Total do Lote 
+
+(em reais, por extenso)
+	Trinta e dois mil seiscentos e noventa e nove reais
+
+
+PAGAMENTO: O pagamento será efetuado em até 30 (trinta) dias consecutivos após a efetiva entrega (com descarga) dos materiais, desde que os mesmos estejam em perfeitas condições de uso, sejam aprovados pelo Gestor designado pela CONTRATANTE e sigam acompanhados da respectiva Nota Fiscal Eletrônica (NF-e), através de depósitos bancários (hipótese na qual a NF-e deverá conter os dados bancários da CONTRATADA) ou de boletos bancários (caso no qual tais documentos deverão acompanhar a NF-e).
+PRAZO DE VIGÊNCIA: Esta Ata de Registro de Preços terá vigência de 12 (doze) meses, a partir de sua assinatura.
+DATA: 30/09/2020.

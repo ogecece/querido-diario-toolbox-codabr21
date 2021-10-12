@@ -1,0 +1,110 @@
+
+FUNDAÇÃO UNIVERSIDADE REGIONAL DE BLUMENAU
+
+Extrato nº. 444/2020
+PARTES:  FUNDAÇÃO UNIVERSIDADE REGIONAL DE BLUMENAU
+
+E
+
+                  CHARIS COMÉRCIO E REPRESENTAÇÕES LTDA
+OBJETO: Aquisição de peças, com serviços de manutenção preventiva, no caso do Lote 02, para equipamentos do Laboratório de Combustíveis da Universidade.
+FUNDAMENTO LEGAL: Pregão Presencial nº 208/2020 e Contrato nº 192/2020, firmado em 20 de outubro de 2020.  
+PREÇO: O preço ofertado pela empresa signatária do presente Contrato é o abaixo informado, de acordo com a respectiva classificação:
+
+	Lote 02
+
+	Item
+	Código FURB
+	Qtde.
+	Und.
+	Marca
+	Descrição do Item
+	Preço Unitário (em R$)
+	Preço Total do Item (em R$)
+
+	01
+	40126
+	01
+	PÇ
+	Thermo Fisher Scientfic
+	Fonte de alimentação para uso em Espectrômetro de Infravermelho, da marca Thermo Scientific, modelo Nicolet IS5 (número de série ASC1300013).
+	5.201,00
+	5.201,00
+
+	02
+	40127
+	01
+	PÇ
+	Thermo Fisher Scientfic
+	Fonte de alimentação para uso em Espectrômetro de Infravermelho, da marca Thermo Scientific, modelo Nicolet IR200 (número de série AFN0800910).
+	5.201,00
+	5.201,00
+
+	03
+	33964
+	01
+	SV
+	
+	Despesa com pagamento de serviço de manutenção preventiva/corretiva de equipamento de laboratório – Espectrômetro de Infravermelho.
+
+- Teste de mudanças na distribuição de energia no espectro de Background, verificando o desempenho da fonte IR, bem como alinhamento do instrumento e integridade das pastes ópticas ao longo do tempo.
+
+- Verificação dos ruídos do sistema.
+
+- Precisão dos picos em várias posições, juntamente com as absorbâncias da amostra, em diversas frequências, conforme Norma ASTM 1421, procedimento USP e Farmacopeias Chinesa, Japonesa e Europeia.
+
+- Medida sensível indireta dos sistema de resolução, conforme Norma ASTM 1421 e Farmacopeias Chinesa, Japonesa e Europeia.
+
+- Medições do valor zero em várias frequências para a amostra de poliestireno 3,0 mil, conforme Norma ASTM 1421.
+
+- Execução do serviço com padrões rastreáveis NIST com validade máxima de 2 anos conforme pede as diretrizes do fabricante.
+
+- Emissão de certificado de manutenção preventiva, junto ao Laudo Técnico.
+	6.000,00
+	6.000,00
+
+	Preço Total do Lote 02
+
+ (em reais, R$)
+	16.402,00
+
+	Preço Total do Lote 02
+
+ (em reais, por extenso)
+	Dezesseis mil, quatrocentos e dois reais.
+
+
+	Lote 03
+
+	Item
+	Código FURB
+	Qtde.
+	Und.
+	Marca
+	Descrição do Item
+	Preço Unitário (em R$)
+	Preço Total do Item (em R$)
+
+	01
+	38457
+	01
+	SV
+	Thermo Fisher Scientfic
+	Célula de CaF2 selada, com caminho óptico 0,05mm, calibrada, compatível com Espectrômetro de Infravermelho da marca Thermo Scientific, modelo Nicolet IS5.
+	18.338,00
+	18.338,00
+
+	Preço Total do Lote 03
+
+ (em reais, R$)
+	18.338,00
+
+	Preço Total do Lote 03
+
+ (em reais, por extenso)
+	Dezoito mil, trinta e trinta e oito reais.
+
+
+PAGAMENTO: O pagamento será efetuado em até 10 (dez) dias após a efetiva entrega das peças e prestação de serviços, desde que as mesmas sejam aprovadas pelo Gestor designado pela CONTRATANTE e sigam acompanhadas da(s) respectiva(s) Nota(s) Fiscal(is) Eletrônica(s) (NF-e), através de depósitos bancários (hipótese na qual a NF-e deverá conter os dados bancários da CONTRATADA) ou de boletos bancários (caso no qual tais documentos deverão acompanhar a NF-e).
+PRAZO DE VIGÊNCIA: O contrato resultante deste processo licitatório terá vigência de 90 (noventa) dias, contados a partir de sua assinatura.
+DATA: 29/10/2020.

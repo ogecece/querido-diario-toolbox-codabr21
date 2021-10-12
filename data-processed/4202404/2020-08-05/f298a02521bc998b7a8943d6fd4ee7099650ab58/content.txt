@@ -1,0 +1,48 @@
+
+FUNDAÇÃO UNIVERSIDADE REGIONAL DE BLUMENAU
+
+Extrato nº. 296/2020
+PARTES:
+FUNDAÇÃO UNIVERSIDADE REGIONAL DE BLUMENAU
+E
+SANTIAGO & CINTRA IMPORTAÇÃO E EXPORTAÇÃO LTDA
+OBJETO: AQUISIÇÃO DE SOFTWARE PARA PÓS PROCESSAMENTO DE DADOS LAS, PARA PROJETO P&D, EM ATENDIMENTO AO CONTRATO CEEE-GT/9953355 FIRMADO COM A UNIVERSIDADE..
+FUNDAMENTO LEGAL: Inexigibilidade nº 94/2020 e Contrato nº 136/2020, firmado em 31 de julho de 2020. 
+PREÇO: A CONTRATANTE/ LICENCIADA pagará a CONTRATADA/ LICENCIANTE em uma única parcela em até 15 (quinze) dias após o recebimento da Nota Fiscal, o valor constante em sua Proposta Comercial, conforme folhas 131 à 133 do processo de Inexigibilidade de Licitação nº 94/2020, e tabela abaixo:
+	Item
+	Código FURB
+	Produto
+	Descrição
+	Valor Total do Item (em R$)
+
+	1
+	
+	Software.LIDAR 360. Módulo Framework
+	Licença de uso módulo básico para o LIDAR 360.
+	30.490,00
+
+	1
+	
+	Software.LIDAR 360. Módulo Terrain.
+	Módulo para geração de modelo digital de terreno e superfície (necessita doLIDAR360 e do módulo Framework).
+	15.250,00
+
+	1
+	
+	Software LIDAR 360.Módulo Foresty
+	Módulo para extração de métricas floretais (necessita do LIDAR360 e dos módulos Framework e Terrain).
+	15.250,00
+
+	1
+	
+	LiPowerline
+	Software específico para linhas de transmissão.
+	60.990,00
+
+	Valor total (em R$ e por extenso)
+	R$ 121.980,00 (cento e vinte e um mil, novecentos e oitenta reais)
+
+
+PRAZO DE VIGÊNCIA: O contrato gerado terá vigência de 12 (doze) meses, contados a partir de sua assinatura.
+
+DATA: 04/08/2020

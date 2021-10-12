@@ -1,0 +1,64 @@
+
+Prefeitura Municipal da Serra 
+Espirito Santo 
+
+DECRETO Nº 6172/2020 
+
+O PREFEITO MUNICIPAL DA SERRA, ESPÍRITO SANTO, usando de suas atribuições legais, e com base no artigo 9º inciso I da Lei nº 
+5.155/2020 de 10/01/2020; 
+
+D E C R E T A: 
+
+Art. 1º. Fica Aberto o Crédito Adicional Suplementar no valor de R$ 3.009.354,00 (Três milhões e nove mil e trezentos e cinquenta e quatro 
+reais) no orçamento vigente na dotação orçamentária constante do Anexo I. 
+
+Art. 2º. Os recursos necessários para efeito das suplementações constante no Artigo anterior, são provenientes do superávit financeiro do 
+exercício de 2019 com valor de R$ 3.009.354,00 (Três milhões e nove mil e trezentos e cinquenta e quatro reais). 
+
+Art. 3º. Este Decreto entra em vigor na data de sua publicação, revogadas as disposições em contrário 
+
+Palácio Municipal, em Serra, em 17 de junho de 2020 
+
+AUDIFAX CHARLES PIMENTEL BARCELOS 
+Prefeito Municipal 
+
+LAURIETE CANEVA 
+Secretária de Planejamento Estratégico 
+
+CRÉDITO ADICIONAL SUPLEMENTAR - ANEXO I - SUPLEMENTAÇÃO 
+R$ 1,00 
+
+CÓDIGO ESPECIFICAÇÃO NATUREZA FR VALOR 
+
+05.00.00 SEC. ADM. E RECURSOS HUMANOS    
+
+05.01.00 Sec. Adm. e Recursos Humanos    
+
+04.122.0050.1210 Desenvolvimento de Sistemas de Informação 4.4.90.39.00 2.920.0010.0000 447.120 
+
+06.00.00 SEC. DE PLANEJAMENTO ESTRATÉGICO    
+
+06.01.00 Sec. de Planejamento Estratégico    
+
+19.126.0080.1150 Reestruturar e manter o Datacenter 4.4.90.39.00 2.920.0010.0000 265.131 
+
+19.126.0080.2145 Aquisição e Manutenção de Equipamentos de Informát 4.4.90.52.00 2.920.0010.0000 575.000 
+
+07.00.00 SECRETARIA DA FAZENDA    
+
+07.01.00 Secretaria da Fazenda    
+
+04.123.0090.1089 Atualizar a Planta Genérica de Valores e Realizar 4.4.90.39.00 2.920.0010.0000 1.465.103 
+
+08.00.00 SECRETARIA DE OBRAS    
+
+08.01.00 Secretaria de Obras    
+
+15.451.0100.2127 Manter, Reformar, Adequar e Ampliar Sistema, Equip 4.4.90.51.00 2.530.0000.0000 130.000 
+
+15.451.0100.2130 Urbanizar, Ampliar, Revitalizar e Melhorar as Vias 4.4.90.51.00 2.530.0000.0000 127.000 
+  TOTAL  3.009.354 
+
+ 
+
+

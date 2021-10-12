@@ -1,0 +1,478 @@
+
+FUNDAÇÃO UNIVERSIDADE REGIONAL DE BLUMENAU
+
+Extrato nº. 408/2020
+PARTES:  FUNDAÇÃO UNIVERSIDADE REGIONAL DE BLUMENAU
+
+E
+
+                  INGALAB EQUIPAMENTOS PARA LABORATÓRIOS LTDA ME
+OBJETO: Registro de Preços para aquisições futuras de material laboratorial para utilização em diversos setores da Universidade.
+FUNDAMENTO LEGAL: Concorrência (SRP) nº 164/2020 e Ata de Registro de Preços nº 188/2020, firmada em 09 de outubro de 2020.  
+PREÇO: O preço ofertado pela empresa signatária da presente Ata de Registro de Preços é o abaixo informado, de acordo com a respectiva classificação:
+
+	Item
+	Código FURB
+	Qtde.
+	Und.
+	Descrição dos Materiais
+	Marca
+	Preço Unitário 
+
+(em R$)
+	Preço Total (em R$)
+
+	1
+	19024
+	10
+	caixa
+	Alça calibrada / descartável / estéril / volume de 10 microlitros / caixa com 100 alças
+	Cral
+	14,00
+	140,00
+
+	28
+	10456
+	30
+	peça
+	Caixa em polipropileno (plástico) para acondicionar 100 lâminas
+	Cral
+	12,00
+	360,00
+
+	29
+	26721
+	40
+	peça
+	Caixa em polipropileno (plástico) para acondicionar 50 lâminas
+	Cral
+	7,00
+	280,00
+
+	30
+	17689
+	50
+	peça
+	Caixa para armazenamento de 100 tubos criogênicos ou microtubos Eppendorf de 1,5ml a 2ml / fabricado em polipropileno (plástico)
+	Cral
+	8,40
+	420,00
+
+	31
+	9766
+	15
+	peça
+	Câmara de contagem Neubauer espelhada / fabricado em vidro ótico especial / base inicialmente revestida com ródio e as divisões (quadrantes) são gravadas no revestimento / acompanha duas lamínulas de 20 x 26 x 0.4mm
+	Global
+	239,00
+	3.585,00
+
+	33
+	10235
+	35
+	peça
+	Copo Berzelius (Becker) / volume 100ml / graduado / forma alta / em vidro borossilicato branco
+	Precision
+	4,28
+	149,80
+
+	35
+	9620
+	10
+	peça
+	Copo Berzelius (Becker) / volume 250ml / graduado / forma alta / em vidro borossilicato branco
+	Precision
+	6,00
+	60,00
+
+	37
+	9619
+	20
+	peça
+	Copo Berzelius (Becker) / volume 50ml / graduado / forma alta / em vidro borossilicato branco
+	Precision
+	3,50
+	70,00
+
+	38
+	10056
+	15
+	peça
+	Copo de Griffin (Becker) / volume 10ml / graduado / forma baixa / em vidro borossilicato branco
+	Precision
+	2,89
+	43,35
+
+	41
+	9602
+	30
+	peça
+	Copo de Griffin (Becker) / volume 1L / graduado / forma baixa / em vidro borossilicato branco
+	Precision
+	12,45
+	373,50
+
+	43
+	10110
+	20
+	peça
+	Copo de Griffin (Becker) / volume 2L / graduado / forma baixa / em vidro borossilicato branco
+	Precision
+	29,00
+	580,00
+
+	44
+	9936
+	15
+	peça
+	Copo de Griffin (Becker) / volume 3L / graduado / forma baixa / em vidro borossilicato branco
+	Precision
+	56,00
+	840,00
+
+	47
+	9939
+	40
+	peça
+	Copo de Griffin (Becker) / volume 500ml / graduado / forma baixa / em vidro borossilicato branco
+	Precision
+	7,60
+	304,00
+
+	48
+	19144
+	50
+	peça
+	Copo de Griffin (Becker) / volume 50ml / graduado / forma baixa / em vidro borossilicato branco
+	Precision
+	3,10
+	155,00
+
+	70
+	35071
+	150
+	peça
+	Filtro para seringa, membrana pes 0,22 um, 30 mm.
+	Kasvi
+	10,20
+	1.530,00
+
+	81
+	9392
+	20
+	peça
+	Frasco Erlenmeyer / volume 100ml / graduado / boca larga / em vidro borossilicato branco
+	Precision
+	7,20
+	144,00
+
+	83
+	14720
+	5
+	peça
+	Frasco Erlenmeyer / volume 1L / graduado / boca estreita / em vidro borossilicato branco
+	Precision
+	23,80
+	119,00
+
+	84
+	9394
+	25
+	peça
+	Frasco Erlenmeyer / volume 250ml / graduado / boca larga / em vidro borossilicato branco
+	Precision
+	9,87
+	246,75
+
+	85
+	9398
+	4
+	peça
+	Frasco Erlenmeyer / volume 500ml / graduado / boca estreita / em vidro borossilicato branco
+	Precision
+	11,50
+	46,00
+
+	86
+	9412
+	20
+	peça
+	Frasco Erlenmeyer / volume 50ml / graduado / boca larga / em vidro borossilicato branco.
+	Precision
+	6,40
+	128,00
+
+	87
+	9560
+	10
+	peça
+	Frasco Kitasato / volume 500ml / graduado / parede reforçada / em vidro borossilicato branco
+	Precision
+	25,00
+	250,00
+
+	94
+	20515
+	10
+	peça
+	Jarra anaeróbica / volume 3,5L / para 18 placas de Petri (GasPak)
+	Union
+	465,00
+	4.650,00
+
+	96
+	25877
+	3
+	caixa
+	Lâmina de precisão celular (K-Cell) / caixa com 100 lâminas.
+	Cral
+	260,00
+	780,00
+
+	99
+	9618
+	150
+	caixa
+	Lâmina para microscopia / de vidro / tamanho 26mm x 76mm / com extremidade fosca / caixa com 50 unidades
+	Firstlab
+	4,42
+	663,00
+
+	101
+	18411
+	20
+	caixa
+	Lamínula de vidro para microscopia / tamanho 20mm x 20mm / caixa com 100 unidades.
+	Precision
+	2,60
+	52,00
+
+	102
+	18302
+	10
+	caixa
+	Lamínula de vidro para microscopia / tamanho 24mm x 24mm / caixa com 100 unidades.
+	Precision
+	3,30
+	33,00
+
+	103
+	18421
+	100
+	caixa
+	Lamínula de vidro para microscopia / tamanho 24mm x 60mm / caixa com 100 unidades.
+	Precision
+	7,20
+	720,00
+
+	104
+	9589
+	20
+	caixa
+	Lamínula para microscopia / de vidro / tamanho 18mm x 18mm / caixa com 100 unidades
+	Precision
+	2,35
+	47,00
+
+	105
+	10020
+	60
+	caixa
+	Lamínula para microscopia / de vidro / tamanho 22mm x 22mm / caixa com 100 unidades
+	Precision
+	2,89
+	173,40
+
+	106
+	13883
+	30
+	caixa
+	Lamínula para microscopia / de vidro / tamanho 24mm x 32mm / caixa com 100 unidades
+	Precision
+	4,88
+	146,40
+
+	111
+	16114
+	3
+	peça
+	Micropipetador automático mecânico / monocanal / volume fixo 1000 microlitros / com ejetor automático de ponteiras.
+	Kacil
+	77,00
+	231,00
+
+	112
+	16031
+	20
+	peça
+	Micropipetador automático mecânico / monocanal / volume variável de 10 - 100 microlitros / com ejetor automático de ponteiras.
+	Olen
+	160,00
+	3.200,00
+
+	123
+	9665
+	61
+	caixa
+	Papel indicador de pH / de 00 a 14 / caixa com 100 tiras / validade mínima de 01 ano
+	Cral
+	21,90
+	1.335,90
+
+	132
+	9105
+	10
+	peça
+	Pipeta automática / volume fixo de 100ul
+	Kacil
+	77,00
+	770,00
+
+	133
+	9142
+	5
+	peça
+	Pipeta automática / volume fixo de 50ul
+	Kacil
+	77,00
+	385,00
+
+	134
+	14758
+	5
+	peça
+	Pipeta automática / volume regulável de 100 a 1000ul
+	Kacil
+	160,00
+	800,00
+
+	135
+	14757
+	5
+	peça
+	Pipeta automática / volume regulável de 1000 a 5000ul
+	Kacil
+	160,00
+	800,00
+
+	147
+	15402
+	7
+	peça
+	Pipetador (tipo Pi-Pump) / para acoplamento em pipetas de vidro ou plástico / resistente a ácidos e soluções alcalinas / cor azul / para pipetas com volume de até 2 ml / com dispositivo de liberação rápida.
+	Cral
+	16,10
+	112,70
+
+	148
+	15403
+	10
+	peça
+	Pipetador (tipo Pi-Pump) / para acoplamento em pipetas de vidro ou plástico / resistente a ácidos e soluções alcalinas / cor verde / para pipetas com volume de até 10 ml / com dispositivo de liberação rápida
+	Cral
+	16,10
+	161,00
+
+	149
+	15404
+	10
+	peça
+	Pipetador (tipo Pi-Pump) / para acoplamento em pipetas de vidro ou plástico / resistente a ácidos e soluções alcalinas / cor vermelha / para pipetas com volume de até 25 ml / com dispositivo de liberação rápida
+	Cral
+	19,45
+	194,50
+
+	159
+	19879
+	500
+	peça
+	Placa de Petri / completa / sem divisão / descartável / diâmetro 60mm / altura 15mm / fabricado em poliestireno cristal
+	Olen
+	0,25
+	125,00
+
+	164
+	17018
+	10
+	pacote
+	Ponteira para micropipeta / volume 200ul/ pacote com 1000 unidades
+	Kasvi
+	8,20
+	82,00
+
+	171
+	9624
+	20
+	peça
+	Proveta / volume 100ml / graduação permanente / bico vertedor / base sextavada de polietileno
+	Precision
+	10,90
+	218,00
+
+	172
+	9955
+	15
+	peça
+	Proveta / volume 10ml / graduação permanente / bico vertedor / base sextavada de polietileno
+	Precision
+	6,40
+	96,00
+
+	173
+	9957
+	25
+	pacote
+	Proveta / volume 1L / graduação permanente / bico vertedor / base sextavada de polietileno
+	Precision
+	44,70
+	1.117,50
+
+	175
+	9623
+	20
+	peça
+	Proveta / volume 50ml / graduação permanente / bico vertedor / base sextavada de polietileno
+	Precision
+	9,33
+	186,60
+
+	209
+	15834
+	40
+	pacote
+	Tubo de Eppendorf (microtubo) / volume 1,5ml / fabricados em polipropileno / pacote com 1000 unidades.
+	Cral
+	37,50
+	1.500,00
+
+	210
+	10457
+	25
+	pacote
+	Tubo de Eppendorf (microtubo) / volume 2,0ml / fabricados em polipropileno / pacote com 1000 unidades.
+	Cral
+	35,75
+	893,75
+
+	213
+	27635
+	13
+	pacote
+	Tubo plástico translúcido / fabricado em polipropileno / diâmetro de 12mm / comprimento de 75mm / volume de 5ml / pacote c/ 1000 unidades
+	Cral
+	51,00
+	663,00
+
+	214
+	10081
+	300
+	peça
+	Tubo porta lâminas para citologia / em polipropileno / com tampa rosca / capacidade 3 lâminas.
+	Cral
+	0,33
+	99,00
+
+
+PAGAMENTO: O pagamento será efetuado em até 30 (trinta) dias consecutivos após a efetiva entrega (com descarga) dos materiais, desde que os mesmos estejam em perfeitas condições de uso, sejam aprovados pelo Gestor designado pela CONTRATANTE e sigam acompanhados da respectiva Nota Fiscal Eletrônica (NF-e), através de depósitos bancários (hipótese na qual a NF-e deverá conter os dados bancários da CONTRATADA) ou de boletos bancários (caso no qual tais documentos deverão acompanhar a NF-e).
+PRAZO DE VIGÊNCIA: A presente Ata de Registro de Preços terá a validade de 12 (doze) meses, contados a partir da data de sua assinatura.
+DATA: 09/10/2020.

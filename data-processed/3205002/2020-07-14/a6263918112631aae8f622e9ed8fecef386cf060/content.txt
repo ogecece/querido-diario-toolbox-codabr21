@@ -1,0 +1,1094 @@
+
+ 
+
+ 
+
+ORIENTAÇÃO TÉCNICA Nº 002/2020 
+
+ 
+
+ORIENTA OS ÓRGÃOS E ENTIDADES DA ADMINISTRAÇÃO 
+
+PÚBLICA MUNICIPAL A RESPEITO DA PADRONIZAÇÃO DE 
+
+PROCEDIMENTOS EM RELAÇÃO AOS ADITIVOS DOS 
+
+CONTRATOS DE OBRAS E SERVIÇOS DE ENGENHARIA. 
+
+ 
+
+A Controladoria Geral do Município, com fulcro no que estabelece a Lei Municipal nº 4865/2018, 
+
+orienta os Órgãos e Entidades Municipais, quanto aos procedimentos a serem adotados em relação aos 
+
+aditivos dos contratos de obras e serviços de engenharia, a fim de propiciar aos gestores públicos, de forma 
+
+sintetizada e objetiva. 
+
+ 
+
+1. CONSIDERAÇÕES INICIAIS 
+
+ 
+
+Cumprindo a missão institucional da Controladoria Geral do Município de buscar qualidade, 
+
+legalidade e responsabilidade fiscal na gestão dos recursos públicos no âmbito do Poder Executivo, 
+
+apresentamos orientação, em relação à condução dos processos para aditivo ou replanilhamento nos contratos 
+
+de Obras e Serviços de Engenharia. 
+
+ 
+
+Esta Normativa foi editada com base em pesquisas, jurisprudências e processos que chegam a 
+
+Controladoria, bem como na Lei Federal nº 8.666, de 21 de junho de 1993, conhecida como Lei das Licitações 
+
+e Contratos Administrativos, a qual constitui a legislação básica juridicamente aplicada nas situações de 
+
+maiores ocorrências ocasionados pelas alterações contratuais de aditamento ou replanilhamento nos 
+
+processos de obras e serviços de engenharia. 
+
+ 
+
+2. CONCEITOS 
+
+ 
+
+Contratos administrativos: São todos os contratos celebrados pela Administração Pública, seja sob o 
+
+regime de direito público ou de direito privado. 
+
+Serviço: É toda atividade destinada a obter determinada utilidade de interesse para a administração. 
+
+Obra: É toda construção, reforma, fabricação, recuperação ou ampliação, realizada por execução direta ou 
+
+indireta. 
+
+Serviços de Engenharia: São os serviços que só podem ser contratados com profissionais ou empresas que 
+
+atendam às disposições da Lei Federal nº 5.194, de 24/12/1966, e satisfaçam as disposições do CONFEA/CREA 
+
+e CauBR/Caus. 
+
+Projeto Básico: Nos termos do inciso IX, do art. 6º, da Lei nº 8.666/93, é o conjunto de elementos 
+
+necessários e suficientes, com nível de precisão adequado, para caracterizar a obra ou serviço. 
+
+Aditamento: Qualquer alteração contratual que venha acrescentar um fato ao que foi inicialmente firmado 
+
+em contrato, pode ser quantidade de itens, novos itens de serviços, prazos de execução e vigência ou valores 
+
+contratados. 
+
+Fiscal designado: Servidor dos órgãos da Administração Direta ou da entidade da Administração Indireta do 
+
+Poder Executivo Municipal designado pela autoridade competente, ou contratados, com as atribuições de 
+
+subsidiar ou assistir ao gestor designado. 
+
+Gestor designado: Servidor dos órgãos da Administração Direta o da entidade da Administração Indireta do 
+
+Poder Executivo Municipal, designado pela autoridade competente, para acompanhar a execução do contrato 
+
+e promover as medidas necessárias à fiel execução das condições previstas no ato convocatório e no 
+
+instrumento contratual. 
+
+
+
+ 
+
+ 
+
+Replanilhamento: Conjunto de alterações nos serviços contratados, acréscimos ou supressões em itens, 
+
+justificáveis devido a fatos novos ocorridos após o início da obra e que modificam parte do projeto ou das 
+
+especificações, para melhor adequação técnica aos objetivos da contratação. 
+
+Termo Aditivo: Instrumento jurídico que formaliza as alterações contratuais autorizadas em lei, assinado 
+
+por quem detenha capacidade jurídica de representação e publicado oficialmente de forma resumida, 
+
+observadas as disposições legais. 
+
+Vantajosidade: Vantagem obtida pela diferença percentual entre o preço global do contrato celebrado e o 
+
+valor global de referência da licitação, que deverá ser mantida após os aditamentos contratuais quantitativos 
+
+e qualitativos, pelos órgãos e entidades da Administração Pública Direta, autárquica do Poder Executivo na 
+
+proposta vencedora da licitação para obras ou serviços de engenharia. 
+
+COAD: Comitê de Gestão Orçamentária e Financeira. 
+
+SEOB/DPO/PMS: Secretária de Obras - Departamento de Projetos de Obras Públicas – Prefeitura Municipal 
+
+da Serra. 
+
+PROGER: Procuradoria Geral do Município. 
+
+Nota de Empenho: Documento utilizado para registar as despesas orçamentárias realizadas pela 
+
+Administração Pública e que identifica o nome do credor, a especificação, a importância da despesa e a célula 
+
+orçamentária, deduzindo o saldo da dotação aprovada. 
+
+ 
+
+3. DAS RESPONSABILIDADES DO FISCAL/GESTOR E DO ORDENADOR DE DESPESAS 
+
+ 
+
+A Lei nº 8.666/93, no seu artigo 67, caput, exige que a execução do contrato seja fiscalizada e 
+
+acompanhada por um representante da Administração formalmente designado. Esta figura é denominada de 
+
+“fiscal do contrato”.  
+
+ 
+
+No entanto, a referida Lei não fez distinção entre as figuras do fiscal e gestor do contrato. Assim, 
+
+tanto a doutrina jurídica quanto a jurisprudência têm alertado que estas funções são diferentes e devem, 
+
+preferencialmente, ser realizadas por servidores distintos.  
+
+ 
+
+O fiscal é responsável pelo acompanhamento da execução do objeto do contrato. Dentre outras 
+
+atribuições, deve exigir da contratada o fiel cumprimento de todas as obrigações contratuais e adotar medidas 
+
+para que a fiscalização garanta a quantidade e a qualidade do produto final.  
+
+ 
+
+O fiscal deve auxiliar o gestor quanto à fiscalização do contrato. No entanto, ao contrário deste, 
+
+não possui poder decisório. Assim, caso o fiscal identifique vícios ou irregularidades na execução contratual, 
+
+deverá comunicar ao gestor. 
+
+ 
+
+O gestor, por outro lado, desempenha atividades administrativas, que podem ser realizadas por 
+
+um servidor, comissão ou setor. A sua função consiste em coordenar toda a execução do contrato, que engloba 
+
+inclusive o monitoramento e a orientação do fiscal. É responsável, por exemplo, por analisar (e decidir) sobre 
+
+os pedidos de aditamentos contratuais, abertura de processo sancionatório, entre outros. 
+
+ 
+
+Vale a pena destacar os seguintes entendimentos do Tribunal de Contas do Estado do Espírito 
+
+Santo: 
+
+ 
+
+Súmula nº 01 TCEES 
+A designação do agente responsável pela fiscalização da execução contratual deve 
+ser realizada de maneira formal, através de ato próprio ou por termo nos autos 
+do processo inerente à contratação. 
+ 
+
+
+
+ 
+
+ 
+
+Acórdão TC 1121/2017 – Plenário 
+A indicação de determinada repartição da estrutura administrativa como 
+responsável pela fiscalização da execução contratual não implica na designação 
+do respectivo gerente como fiscal do contrato, que deve ser indicado por meio de 
+ato formal que descreva, de forma clara e objetiva, nome, cargo e matrícula, bem 
+como as respectivas atribuições genéricas (art. 67, §§ 1º e 2º da Lei 8.666/93) 
+e específicas, se houver. (Informativo de Jurisprudência n. 74) 
+ 
+Acórdão TC 1204/2017 – Primeira Câmara  
+A escolha do fiscal do contrato deve recair sobre servidor que tenha conhecimento 
+técnico suficiente acerca do objeto fiscalizado, ficando a autoridade nomeante 
+passível de responsabilização por culpa in elegendo. (Informativo de 
+Jurisprudência n. 71) 
+
+ 
+
+Portanto, a indicação de gestor e fiscal de contrato deve ser realizada de maneira formal, por 
+
+ato que descreva o nome, cargo, matrícula, bem como as atribuições genéricas, devendo a escolha recair 
+
+sobre servidor que tenha conhecimento técnico suficiente acerca do objeto fiscalizado, caso não seja assim a 
+
+autoridade nomeante estará sujeita a responsabilização. 
+
+ 
+
+Além destas duas figuras, há o ordenador de despesa, que é a autoridade com atribuição para 
+
+ordenar a execução de despesas orçamentárias, envolvendo a emissão de empenho, autorização de 
+
+pagamento, suprimento ou dispêndio de recursos públicos. Esta figura está prevista no Decreto-Lei nº 200, 
+
+de 25 de fevereiro de 1967 e no Decreto nº 93.872, de 23 de dezembro de 1986. 
+
+ 
+
+A respeito da função de ordenador de despesas, o Tribunal de Contas da União já se manifestou 
+
+da seguinte forma: 
+
+ 
+
+“O ordenador de despesas é pessoalmente responsável por todos os atos dos 
+
+quais resultem despesas para a União. Deve, por isso, cercar-se de todas as 
+
+cautelas possíveis ao autorizar despesas. Não basta aferir a regularidade formal 
+
+do processo. É preciso que os elementos formadores do processo tenham sido 
+
+constituídos de acordo com as normas que regem a matéria e o princípio da 
+
+economicidade seja observado. A afirmação de que apenas deram seqüência a 
+
+ato já previamente constituído não pode ser acolhida. O poder/dever de diligência 
+
+do ordenador de despesas impõe a ele a verificação da regularidade dos atos de 
+
+gestão sob todos os aspectos, sobretudo da adequação do valor do contrato ao 
+
+seu objeto.” Acórdão nº 661. Relator Ministro Walton Alencar Rodrigues. Brasília, 
+
+DF, 19.06.2002 
+
+ 
+
+Como adverte a Corte de Contas, o ordenador somente deve realizar o pagamento pelo serviço 
+
+prestado mediante evidência documental da realização dos serviços contratados, de acordo com a qualidade 
+
+prevista no edital da licitação e após o efetivo controle do fiscal do contrato. 
+
+ 
+
+Assim, percebe-se que o ordenador é responsável pela autorização do pagamento, ao passo 
+
+que o fiscal e o gestor do contrato são responsáveis por fornecer os elementos que formarão a convicção do 
+
+ordenador sobre a pertinência do pagamento. 
+
+ 
+
+Para cada processo de alteração contratual, deverá constar a informação do nome e matrícula 
+
+dos fiscal e gestor do contrato em foco, havendo a possibilidade, a inclusão da Portaria de designação.  
+
+ 
+
+4. DA ALTERAÇÃO CONTRATUAL  
+
+ 
+
+A Lei nº 8666/93 que trata das licitações e contratos, em seu Art. 65 permite que sejam 
+
+realizadas alterações contratuais unilateralmente ou por acordo entre as partes, vejamos: 
+
+ 
+
+
+
+ 
+
+ 
+
+Art. 65.  Os contratos regidos por esta Lei poderão ser alterados, com as devidas 
+justificativas, nos seguintes casos: 
+I - unilateralmente pela Administração: 
+a) quando houver modificação do projeto ou das especificações, para melhor 
+adequação técnica aos seus objetivos; 
+b) quando necessária a modificação do valor contratual em decorrência de 
+acréscimo ou diminuição quantitativa de seu objeto, nos limites permitidos por 
+esta Lei; 
+II - por acordo das partes: 
+a) quando conveniente a substituição da garantia de execução; 
+b) quando necessária a modificação do regime de execução da obra ou serviço, 
+bem como do modo de fornecimento, em face de verificação técnica da 
+inaplicabilidade dos termos contratuais originários; 
+c) quando necessária a modificação da forma de pagamento, por imposição de 
+circunstâncias supervenientes, mantido o valor inicial atualizado, vedada a 
+antecipação do pagamento, com relação ao cronograma financeiro fixado, sem a 
+correspondente contraprestação de fornecimento de bens ou execução de obra 
+ou serviço; 
+d) para restabelecer a relação que as partes pactuaram inicialmente entre os 
+encargos do contratado e a retribuição da administração para a justa 
+remuneração da obra, serviço ou fornecimento, objetivando a manutenção do 
+equilíbrio econômico-financeiro inicial do contrato, na hipótese de sobrevirem 
+fatos imprevisíveis, ou previsíveis porém de conseqüências incalculáveis, 
+retardadores ou impeditivos da execução do ajustado, ou, ainda, em caso de força 
+maior, caso fortuito ou fato do príncipe, configurando álea econômica 
+extraordinária e extracontratual. 
+ 
+
+Em qualquer das hipóteses, seja por vontade unilateral da Administração ou por acordo das 
+
+partes, a alteração contratual não pode transfigurar o objeto inicialmente contratado e deve dizer respeito 
+
+sempre a fato superveniente à celebração do contrato original, devidamente comprovado, vez que a regra é 
+
+que os contratos públicos sejam pactuados com base em projeto básico consistente e fundamentado nos 
+
+estudos prévios à elaboração do edital. 
+
+ 
+
+Reforça ainda o TCU na edição da Súmula nº 261 que em licitações de obras e serviços de 
+
+engenharia, é necessária a elaboração de projeto básico adequado e atualizado, assim considerado aquele 
+
+aprovado com todos os elementos descritos no art. 6º, inciso IX, da Lei nº 8.666/93, constituindo prática 
+
+ilegal a revisão de projeto básico ou a elaboração de projeto executivo que transfigurem o objeto 
+
+originalmente contratado em outro de natureza e propósito diversos. 
+
+ 
+
+A possibilidade de alteração dos contratos pode ser entendida como um dever do administrador 
+
+quando assim exigir o interesse público. Entretanto, é ilegal que a Administração promova alterações que 
+
+possam transfigurar o objeto licitado, ou seja, que levem à execução de um novo objeto em relação àquele 
+
+inicialmente licitado, pois, desta forma, a Administração estaria contratando uma obra sem licitação. 
+
+ 
+
+Além do mais, no caso de alteração nos serviços contratados, o pagamento pela execução dos 
+
+novos serviços somente pode ser efetuado após a realização do aditivo contratual. Em caso contrário, será 
+
+considerada antecipação de pagamento. 
+
+ 
+
+4.1 DO LIMITE DE ACRÉSCIMOS OU DE SUPRESSÕES CONTRATUAIS 
+
+ 
+
+O Art. 65, § 1º da Lei nº 8666/93, obriga o contratado a aceitar, nas mesmas condições 
+
+contratuais, os acréscimos ou supressões nas obras, serviços e compras até o limite de 25% (vinte e cinco 
+
+por cento), ou no caso de reforma de edifício ou equipamento, até o limite de 50% (cinquenta por cento). 
+
+Para isso, o cálculo das modificações deve ser feito de forma individual e sobre o valor inicial atualizado do 
+
+contrato. 
+
+ 
+
+
+
+ 
+
+ 
+
+É importante explicar que o “valor inicial atualizado do contrato” é o equivalente ao valor 
+
+inicialmente contratado, com as devidas correções monetárias decorrentes de reajustes e/ou revisões até o 
+
+momento em que se decide pela alteração do contrato. Salienta-se que outras modificações de valores, 
+
+decorrentes da modificação do objeto, tal como, uma alteração quantitativa feita anteriormente, não são 
+
+computadas para efeitos de cálculos do valor inicial atualizado do contrato. 
+
+ 
+
+Acréscimos de serviços devem ser objeto de aditivos ao contrato pelos mesmos preços unitários 
+
+da planilha orçamentária apresentada na licitação. 
+
+ 
+
+Importante lembrar que a Lei nº 8.666/93 (inciso II do §2º do art. 65) permite que somente as 
+
+supressões, jamais os acréscimos de quantitativos, possam exceder o limite estabelecido, desde que 
+
+resultantes de acordo entre as partes. 
+
+ 
+
+4.1.1 DOS ACRÉSCIMOS E DECRÉSCIMOS 
+
+ 
+
+A prática de decréscimos e acréscimos, conhecida como “troca de serviços”, foi uma forma 
+
+encontrada e utilizada durante muitos anos para que o limite legal para as alterações contratuais nunca fosse 
+
+extrapolado, pois quando o percentual de acréscimos alcançava o teto de 25%, a administração suprimia os 
+
+serviços menos importantes de modo que a compensação não caracterizasse o descumprimento ao art. 65 da 
+
+Lei 8.666/93. 
+
+ 
+
+Porém, tal prática conduziu a execução de contratos completamente modificados, permitindo 
+
+que Projetos Básicos deficientes fossem ajustados, abrindo margem para o conhecido “jogo de planilha”. 
+
+ 
+
+Esse foi o motivo para que o TCU editasse o Acórdão nº 749/2010-P, que proíbe a Compensação 
+
+de Serviços nas alterações contratuais, não apenas pela questão do jogo de planilhas, mas porque as práticas 
+
+mantidas dentro do previsto legalmente evitam dúvidas quanto a conduta dos fiscais e gestores de contratos, 
+
+que por vezes, no ímpeto de concluir um serviço ou uma obra, acabam por albergar para si problemas que 
+
+foram causados anteriormente por outros e culminam se envolvendo em processos administrativos.  
+
+ 
+
+Ressalta-se que os acréscimos e supressões não se compensam, ou seja, a prática de, por 
+
+exemplo, acrescer ao contrato 40% do seu valor original, com a justificativa de que foram suprimidos 15%, 
+
+resultando numa diferença de 25% é ilegal e vem sendo enfaticamente coibida pelos órgãos de controle 
+
+externo (Tribunais de Contas da União e dos Estados), portanto não pode haver compensação entre acréscimo 
+
+e decréscimo com intuito de permanecer dentro do percentual permitido por lei. 
+
+ 
+
+4.1.2 DO JOGO DE PLANILHAS 
+
+ 
+
+A caracterização de jogo de planilha prescinde da intenção de conferir vantagem indevida por 
+
+parte dos agentes administrativos ou dos prepostos da contrata, superfaturando alguns itens, modificando 
+
+quantitativos previstos, causando o desequilíbrio econômico-financeiro inicialmente contratado com dolo para 
+
+a Administração.  
+
+ 
+
+O Tribunal de Contas da União, em seu informativo nº 294, define “jogo de planilha” como: 
+
+intenção de conferir vantagem indevida, com aumento dos quantitativos mediante aditivos contratuais. 
+
+ 
+
+Tal prática tem demonstrado preocupação pela possibilidade da Contratada obter lucro acima 
+
+do constante em sua proposta de preços ou por julgar que o contrato não está sendo suficientemente 
+
+
+
+ 
+
+ 
+
+vantajoso, então, por meio do replanilhamento se aplica o chamado “jogo de planilhas” ou “jogo de preços”, 
+
+com objetivo de maximizar os seus ganhos, proporcionando danos ao erário e desvirtuando o dever 
+
+constitucional da licitação. 
+
+ 
+
+Segundo a doutrina do Auditor Federal de Controle Externo do TCU – André Pachioni Baeta, o 
+
+“jogo de planilhas” ou “superfaturamento por desequilíbrio econômico-financeiro”, ocorre quando: 
+
+ 
+
+ Há acréscimos de quantidades de itens originais com sobrepreços; 
+
+ Há decréscimos ou supressão de quantidades de itens originais com subpreços; 
+
+ Há alteração dos preços originais por meio de termos aditivos (reequilíbrio econômico-
+
+financeiro); 
+
+ Há inclusão de itens novos com sobrepreços ou com descontos inferiores ao ponto de 
+
+equilíbrio econômico-financeiro do contrato; 
+
+ Há paralisação ou abandono da obra pela contratada, após a execução dos serviços com os 
+
+preços mais vantajosos ao contratado; 
+
+ 
+
+É importante ressaltar que o terreno fértil para a ocorrência do “jogo de planilhas”, se inicia na 
+
+preparação das peças que conduzirão ao processo de licitação de obra pública, principalmente quando o 
+
+projeto básico é deficiente ou inadequado. 
+
+ 
+
+Portanto, nos processos com solicitação de replanilhamento e acréscimos de serviços, é 
+
+necessário que seja demonstrada, de forma analítica e pormenorizada, a correlação entre o aumento 
+
+superveniente da demanda e os montantes que se pretende reduzir e acrescer ao contrato originário, 
+
+comprovando, ainda, a inexistência do chamado “jogo de planilhas”. 
+
+ 
+
+4.2 DA JUSTIFICATIVA PARA O REPLANILHAMENTO 
+
+ 
+
+Os aditivos que vierem a ser celebrados deverão ser justificados quanto à sua pertinência e 
+
+conformidade às características e diretrizes fundamentais estabelecidas no projeto básico, devendo ser 
+
+devidamente registrados nos respectivos processos administrativos, disponíveis à fiscalização dos órgãos de 
+
+controle. 
+
+ 
+
+No tocante as justificativas, essas devem embasar as principais modificações suscitadas, 
+
+demonstrando a superveniência dos fatos motivadores, ou seja, é necessário que o processo seja instruído 
+
+não somente com a declaração do gestor nesse sentido, mas também, por elementos documentais que sirvam 
+
+de comprovação, como laudos, pareceres, registros fotográficos, entre outros. 
+
+ 
+
+De igual forma, entende predominante o TCU, conforme exposto no voto condutor do Acórdão 
+
+170/2018 – Plenário, in verbis: 
+
+ 
+
+(...) As alterações contratuais devem estar embasadas em pareceres e estudos 
+técnicos pertinentes, nos quais reste caracterizada a superveniência dos fatos 
+motivadores das alterações em relação à época da licitação.  
+
+ 
+
+Além disso, entende o TCU ainda, que as alterações contratuais devem ser devidamente 
+
+motivadas, conforme Acórdão 944/2007 – Plenário: 
+
+ 
+
+(..) Se por motivo de caso fortuito ou de força maior, o remanejamento de 
+componentes e/ou o acréscimo contratual forem de fato necessários, tais 
+
+
+
+ 
+
+ 
+
+alterações contratuais devem ser devidamente motivadas, de forma a não deixar 
+dúvidas a respeito de sua legitimidade 
+
+ 
+
+Portanto, deve ser evidenciada a vantajosidade em manter a contratação, bem como, que as 
+
+alterações decorreram de fato supervenientes, em obediência ao princípio da isonomia, pois, não é viável que 
+
+o replanilhamento sirva como meio de solucionar equívocos nas especificações técnicas (quantitativos, 
+
+medidas, procedimentos, etc) estabelecidas na fase interna do certame licitatório. 
+
+ 
+
+4.2 DA INCLUSÃO DE NOVOS ITENS 
+
+ 
+
+A inclusão de novos itens/serviços, por meio de Aditivos contratuais, não previstos 
+
+originalmente na planilha do projeto básico, é prática questionada pelo Tribunal de Contas do Estado do 
+
+Espírito Santo, bem como não recomendada pela PROGER porque, em tese, os novos serviços deveriam ter 
+
+sido objeto da planilha inicialmente licitada. 
+
+ 
+
+Entretanto, mesmo quando os projetos e levantamentos para a execução de uma obra são 
+
+fidedignos, ainda assim poderão ocorrer problemas imprevisíveis na execução da obra, como fatos não 
+
+previstos, mesmo não se tratando de força maior, porém que necessitam de alteração contratual com inclusão 
+
+de novos itens para a conclusão e o bom andamento da obra, nessas ocorrências é fundamental a função do 
+
+fiscal e do gestor do contrato, para análise das planilhas de preços com comparativos com os praticados no 
+
+mercado, dos serviços a serem acrescidos com a realidade das ocorrências na obra e outros mais, cuja análise 
+
+é possível para quem está acompanhando a execução dos serviços, ou seja, o fiscal/gestor do contrato.  
+
+ 
+
+Por esse ângulo, quanto a inclusão de itens/serviços novos à planilha original, o Plenário do 
+
+Tribunal de Contas da União já se manifestou favorável sobre essa modalidade, com as devidas cautelas, 
+
+como segue: 
+
+ 
+
+2. A inclusão de novos serviços, mediante termos aditivos, deve observar o valor 
+médio de serviços similares presentes nos demais lotes de uma mesma licitação, 
+em atendimento ao que determina o Acórdão 2013/2004 – Plenário, bem como 
+ao disposto no § 6º do art. 109 da Lei 11.768/08, mantendo-se, no que se refere 
+ao valor total contrato, o percentual de desconto oferecido no certame licitatório. 
+Acórdão 1754/2013-Plenário. TC 007.407/2009-9. 
+ 
+
+Portanto, para a inclusão de novos itens deverá ser mantido: 
+
+ 
+
+ Valor médio dos serviços similares; 
+
+ O percentual de desconto oferecido no certame licitatório. 
+
+ 
+
+Objetivando não caracterizar irregularidades, prevendo a necessidade de inclusão de novos 
+
+itens por meio de Termos Aditivos, a Secretaria Municipal de Obras tem firmado seus contratos constando na 
+
+Cláusula de Acréscimos e Supressões um subitem com o seguinte texto: 
+
+ 
+
+Quando houver acréscimos de itens novos nas planilhas, estes receberão o 
+mesmo fator médio de desconto aplicado na licitação. 
+ 
+
+Mesmo nos contratos constando o acima descrito, a PROGER, em seus pareceres para 
+
+replanilhamento com inclusão de novos itens e serviços não previstos originariamente naqueles contratados, 
+
+tem se posicionado conforme abaixo transcrito: 
+
+ 
+
+Tais questionamentos, de cunho repetitivo, nos impõe uma visão mais 
+conservadora à interpretação do artigo 65, I, b, da Lei de Licitações, e nos força 
+
+
+
+ 
+
+ 
+
+a aderir respeitosamente à tese de que, em regra, as alterações contratuais 
+decorrentes de acréscimo, ou diminuição de quantitativos deverão se estender 
+essencialmente aos itens já previstos na planilha inicial. Noutras palavras, NÃO 
+recomendamos a inclusão de itens novos à planilha, mormente porque, em tese, 
+deveriam ter sido objeto da planilha inicialmente licitada. 
+No entanto, acaso o Gestor da Pasta, por questões de conveniência e 
+oportunidade divirja do nosso ponto de vista – compreendendo que a inclusão de 
+itens novos seja a medida mais econômica e tecnicamente viável – ou seja, 
+considerada exceção à regra geral descrita no parágrafo anterior, SUGERE-SE
+ , como forma de orientação e preservação do princípio da moralidade, 
+eficiência, economicidade e probidade administrativa – segundo o que propõe o 
+próprio TCU – que haja prévia justificativa quanto ao atendimento dos seguintes 
+requisitos: 
+a) Apresentação do memorial de cálculo dos quantitativos do item novo; b) 
+que o preço final do novo serviço seja menor ou igual aos referenciais oficiais da 
+Administração; c) que, em se tratando de serviço sem correspondência oficial de 
+preços nos sistemas públicos, seja realizada pesquisa de preços com no mínimo 
+três fornecedores distintos; d) que essa inclusão NÃO 
+transfigure/desnature/modifique o objeto contratado e que os mesmos sejam 
+necessários à plena execução do contrato; e) que os limites legais para se efetuar 
+o acréscimo contratual sejam respeitados (até 25%); f) que seja certificado nos 
+autos que os preços dos “novos” itens estão em compatibilidade com o valor de 
+mercado; g) que seja garantido, aos novos itens, o mesmo desconto ofertado 
+pela contratada, no momento da realização do certame licitatório; h) que a 
+inclusão desses itens decorram de fatos/eventos imprevisíveis e que sua inclusão 
+mostra-se imprescindível à execução da obra; e i) que essa medida seja 
+considerado menos dispendiosa (técnica e financeiramente) do que iniciar um 
+novo procedimento licitatório. 
+
+ 
+
+Esta Controladoria tem o entendimento de que, havendo previsão no contrato para inclusão de 
+
+novos itens e atendidas às recomendações do TCU e da PROGER, com o devido acompanhamento do 
+
+fiscal/gestor do contrato, é possível a inclusão de novos itens nas alterações contratuais por meio de termo 
+
+aditivo.  
+
+ 
+
+4.3 DA HABILITAÇÃO DA CONTRATADA E DA ATUALIZAÇÃO DA GARANTIA 
+
+ 
+
+Ao firmar um Termo Aditivo, as exigências quanto a habilitação da Contratada e a apresentação 
+
+da garantia contratual, serão as mesmas por ocasião do início da contratação, portanto, deverá ser observado 
+
+o que constou no Edital. 
+
+ 
+
+Normalmente a garantia contratual é estipulada em 5% do valor contratado, então, o valor 
+
+firmado no aditivo contratual deverá também ter sua garantia, devendo a Contratada apresentar renovação 
+
+e acréscimo no percentual estabelecido no contrato. 
+
+ 
+
+De acordo com o Art. 55, inciso XIII da Lei 8.666/93 é obrigação da Contratada manter durante 
+
+toda execução contratual todas as condições de habilitação e qualificação exigidas por ocasião da licitação, 
+
+devendo o gestor do contrato fazer tal verificação ao iniciar o Termo Aditivo. 
+
+ 
+
+Deverá haver consulta e anexar ao processo os Comprovantes de Regularidade (certidões), que 
+
+deverão estar devidamente válidos na ocasião da assinatura do Termo Aditivo.  
+
+ 
+
+As certidões exigidas são as mesmas constantes do Edital da licitação, normalmente são: 
+
+ 
+
+ Referente aos tributos federais, expedida pela Secretaria da Receita Federal; 
+
+ Referente à Fazenda Pública do Estado onde o licitante estiver domiciliado; 
+
+ Referente a Tributos Mobiliários, inerentes à atividade comercial (ISS/ISQN e outros), 
+
+expedido pela Fazenda Pública do Município onde o licitante estiver domiciliado; 
+
+
+
+ 
+
+ 
+
+ Referente ao Fundo de Garantia por Tempo de Serviço – FGTS; 
+
+ Referente a exigência da Lei Federal nº 12.440/2011. 
+
+ 
+
+4.4 DO ORÇAMENTÁRIO E FINANCEIRO 
+
+ 
+
+Por cautela e exigência legal o Ordenador de despesa deverá observar a adequação 
+
+orçamentária e financeira para o atendimento ao disposto na Lei Complementar 101/2000, em especial, ao 
+
+estabelece o art. 16 em se tratando de criação, expansão ou aperfeiçoamento de ação governamental, in 
+
+verbis: 
+
+ 
+
+Art. 16. A criação, expansão ou aperfeiçoamento de ação governamental que 
+acarrete aumento da despesa será acompanhado de:  
+(...) 
+II - declaração do ordenador da despesa de que o aumento tem adequação 
+orçamentária e financeira com a lei orçamentária anual e compatibilidade com o 
+plano plurianual e com a lei de diretrizes orçamentárias. 
+ 
+
+Por conseguinte, é necessário que o Gestor, antes de contrair despesas no exercício, verifique 
+
+a existência de lastro financeiro, devendo os processos serem instruídos com elementos documentais e 
+
+declaração do Ordenador no comprometimento orçamentário. 
+
+ 
+
+5. DA INSTRUÇÃO PROCESSUAL 
+
+ 
+
+Para facilitar o encaminhamento dos processos de replanilhamento ou acréscimos de serviços, 
+
+sugerimos utilizar o checklist – Anexo I, para os procedimentos, ressaltando que, conforme o entendimento 
+
+do fiscal/gestor deverá ser acrescentados novas atitudes com alterações no modelo proposto, objetivando a 
+
+adequação à necessidade.  
+
+ 
+
+Abaixo segue orientação quanto o sequenciamento e peças que deverão compor o processo, 
+
+sendo relacionado o mínimo necessário exigido. 
+
+ 
+
+1) Deve se iniciar com a solicitação do Aditivo Contratual, informando o número do contrato, 
+
+a empresa contratada, o valor e percentual a ser acrescido, o objetivo do contrato e o valor 
+
+firmado. Se este documento for feito pela Contratada, o fiscal/gestor do contrato deverá 
+
+ratificá-lo; 
+
+2) Justificativa para o replanilhamento, de forma detalhada (todos os itens aditados deverão 
+
+ser justificados). 
+
+3) Planilha do replanilhamento pleiteado, devidamente conferida e assinada; 
+
+4) Memória de cálculo e planilha orçamentária com preços referenciais dos itens originalmente 
+
+não contratados; 
+
+5) Demonstrativo e cálculo da vantajosidade no replanilhamento; 
+
+6) Cópia da planilha original da contratação; 
+
+7) Cronograma atualizado da obra, datado e assinado pelo representante da Contratada e 
+
+pelo responsável pela aprovação (fiscal designado); 
+
+8) Cópia do contrato e, se houver, dos Termos Aditivos; 
+
+9) Portarias ou informação sobre o fiscal e gestor do contrato; 
+
+10) Declaração de que há reserva orçamentária para atender ao Aditivo; 
+
+11)  Outros documentos ou informações deverão ser acrescentados ao processo para elucidar 
+
+dúvidas ou demonstrar a necessidade do replanilhamento/acréscimo;  
+
+12)  Minuta do Termo Aditivo 
+
+
+
+ 
+
+ 
+
+13)  Parecer da PROGER; 
+
+14)  Reserva de saldo orçamentário; 
+
+15)  Análise Orçamentária e Financeira do COAD; 
+
+16)  Nota de Empenho; 
+
+17)  Formalização do Aditivo; 
+
+18)  Publicação; 
+
+19)  Disponibilização no Portal da Transparência. 
+
+ 
+
+6. CONSIDERAÇÕES FINAIS 
+
+ 
+
+O Controle Interno tem atuado, previamente, por meio de levantamentos de informação, 
+
+recomendações e estabelecimento de rotinas preventivas, posteriormente, por meio de Auditorias e 
+
+Inspeções, e concomitantemente, através de monitoramento e acompanhamento das atividades, pois, os 
+
+entendimentos predominantes, inclusive dos Tribunais de Contas, operam no sentido de que não há coerência 
+
+na exigência de uma atuação processual do Controle Interno, dispondo expressamente sua concordância ou 
+
+não diante do fato, sendo que eventualmente poderá vir a realizar fiscalizações posteriores sobre o mesmo 
+
+objeto. 
+
+ 
+
+Assim, a presente Orientação Técnica visa o aprimoramento dos atos administrativos e o melhor 
+
+planejamento, assegurando, por conseguinte, a preservação do interesse público na correta execução dos 
+
+seus contratos de obras e serviços de engenharia.  
+
+ 
+
+Desta forma, conduzimos este trabalho objetivando, de maneira ORIENTATIVA e PREVENTIVA, 
+
+indicando pontos que, necessariamente, devem ser tratados quando das solicitações de aditivos de 
+
+replanilhamento ou acréscimos de serviços de engenharia em contratos de obras, cabendo a Secretaria 
+
+demandante o atendimento ao que preconiza esta orientação técnica. 
+
+ 
+
+É o que temos a orientar. 
+
+ 
+
+Serra/ES, 02 de julho de 2020. 
+
+ 
+
+ 
+
+MAGALY NUNES DO NASCIMENTO 
+
+Controladora Geral do Município 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+ 
+
+ 
+
+ANEXO I – CHECK LIST – ALTERAÇÃO CONTRATUAL 
+PROCEDIMENTOS E DOCUMENTOS BÁSÍCOS  
+
+ 
+
+ITEM DESCRIÇÃO SIM/NÃO 
+
+01 O motivo determinante para a solicitação do Aditamento é fato 
+superveniente à data da contratação? 
+
+ 
+
+ 
+
+02 Consta a elaboração da alteração contratual com fundamentação técnica;  
+
+03 Foi observado e calculado os limites legais (25%) para acréscimos e 
+supressões? 
+
+ 
+
+04 A alteração necessária ocorreu por erro dos projetos? 
+Se SIM, solicitar o refazimento aos seus autores, sem ônus para a 
+Administração. 
+
+ 
+
+05 A alteração do contrato for solicitada pela contratada? 
+Se SIM, juntar solicitação formal e parecer do engenheiro fiscal da obra. 
+
+ 
+
+06 Será necessário prorrogação de prazos de execução dos serviços e vigência 
+do contrato? 
+
+ 
+
+07 Consta justificativa detalhada para o replanilhamento?  
+
+08 Consta planilha do replanilhamento com base na planilha inicial da 
+contratação? 
+
+ 
+
+09 Consta memória de cálculo e planilha orçamentária com preços referenciais 
+dos itens originalmente não contratados? 
+
+ 
+
+10 Consta demonstrativo e cálculo da vantajosidade no replanilhamento?  
+
+11 Havendo inclusão de novos itens, foi calculado conforme orienta a Acórdão 
+2013/2004 – Plenário, bem como ao disposto no § 6º do art. 109 da Lei 
+11.768/08 e orientações da PROGER? 
+
+ 
+
+12 O fiscal e o gestor do contrato estão favoráveis ao replanilhamento na 
+forma e valores calculados? 
+
+ 
+
+13 Consta cronograma atualizado da obra, datado e assinado pelo responsável 
+pela aprovação? 
+
+ 
+
+14 Consta cópia do contrato e dos Termos Aditivos?  
+
+15 Consta portaria ou informação sobre o fiscal e gestor do contrato?  
+
+16 Consta manifestação ou assinatura do Secretário da SEOB em algum 
+documento que demonstre seu conhecimento e favorável ao 
+replanilhamento? 
+
+ 
+
+17 Há dotação orçamentária para atender ao solicitado, conforme Art. 16 da 
+LC 101/2000? 
+
+ 
+
+18 A contratada está com a habilitação válida?  
+
+19 Há Minuta do Termo Aditivo?  
+
+Serra-ES, XX/XX/XXXX 
+
+ 
+
+ASSINATURA DO FISCAL/GESTOR DO CONTRATO: 
+
+ 
+
+

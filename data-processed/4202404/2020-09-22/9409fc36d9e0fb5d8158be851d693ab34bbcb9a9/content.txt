@@ -1,0 +1,185 @@
+FUNDAÇÃO UNIVERSIDADE REGIONAL DE BLUMENAU
+
+Extrato nº. 375/020
+PARTES:
+FUNDAÇÃO UNIVERSIDADE REGIONAL DE BLUMENAU
+
+e
+
+GARIB INFORMÁTICA E ELETRÔNICA LTDA.
+ADITIVO DE PRORROGAÇÃO 
+CONTRATO Nº. 281/2018 - TERMO ADITIVO Nº. 003
+OBJETO: Contratação de empresa credenciada pela Microsoft Corporation para prestação de serviços de consultoria de licenciamento Microsoft Open Value Subscription Education Solutions (OVS-ES), contendo softwares, unidades de FTE's (Full Time Equivalence), com todas as mídias para instalação, manutenção, testes e consultoria técnica.
+FUNDAMENTO LEGAL: Pregão Presencial nº 432/2018 e Contrato nº. 281/2018, firmado em 15 de outubro de 2018.
+CLÁUSULA PRIMEIRA – DO PRAZO: 
+
+O prazo de vigência previsto na Cláusula Primeira, Item 1.3. do Contrato nº. 281/2018 fica prorrogado por mais doze (12) meses, a contar de 1º de novembro de 2020 até 31 de outubro de 2021, totalizando 36 (trinta e seis) meses contratados.
+
+CLÁUSULA SEGUNDA – DO PREÇO: 
+
+Fica a Cláusula Primeira parcialmente alterada, e passa a ter o seguinte texto em seu item 1.2:
+
+Pelo objeto contratado, a CONTRATANTE pagará o preço total de R$ 386.795,22 (trezentos e oitenta e seis mil, setecentos e noventa e cinco reais e vinte e dois centavos), de acordo com proposta apresentada pela CONTRATADA para a vigência deste aditivo, que incluem as licenças e quantidades abaixo:
+	Quant. FTE's
+	Part Number
+	Descrição
+	Preço Unit R$
+	Preço Total R$
+
+	500
+	2UJ-00011
+	Dsktp Edu ALNG LicSAPk OLV E 1Y Acdmc Ent
+	360,71
+	180.355,00
+
+	250
+	6VC-01522
+	Windows Remote Dsktp Srvcs CAL ALNG LicSAPk OLV E 1Y Acdmc AP DvcCAL
+	46,67
+	11.667,50
+
+	329
+	2FJ-00005
+	Office Pro Plus Edu ALNG LicSAPk OLV E 1Y Acdmc Entw/Faculty (alunos)
+	146,45
+	48.182,05
+
+	20.000
+	S2Y-00002
+	Office 365 Pro Plus Open Students ShrdSvr ALNG SubsVL OLV NL 1Mth Acdmc Stdnt STU Use Bnft (Alunos)
+	0,00
+	0,00
+
+	5000
+	S3Y-00004
+	Office 365 Pro Plus Open Fclty ShrdSvr ALNG SubsVL OLV E 1Mth Acdmc AP AddOn to OPP
+	0,00
+	0,00
+
+	329
+	W06-01836
+	CoreCAL ALNG LicSAPk OLV E 1Y Acdmc Ent DvcCAL
+	78,47
+	25.816,63
+
+	66
+	9EM-00292
+	Windows Svr STD Core ALNG LicSAPk  OLV 16Lic E 1y Acdmc AP CoreLic
+	317,92
+	20.982,72
+
+	07
+	9EA - 0310
+	Windows Svr DataCtr Core ALNG LicSAPk OLV 16Lic E  1Y Acdmc AP Corelic
+	1.711,21
+	11.978,47
+
+	02 
+	R39-01107
+	Windows Svr Ext Connect ALNG LicSAPK OLV E 1Y Acdmc AP 
+	1.100,89
+	2.201,78
+
+	50
+	D87-06007
+	Visio Pro ALNG LicSAPk OLV E 1Y Acdmc En
+	31,28
+	1.564,00
+
+	150
+	DW7-00001
+	Power Bl Pro Open Fac ShrdSvr ALNG SubsVL OLV E 1 Mth Acdmc AP 
+	130,89
+	19.633,50
+
+	25
+	7RJ -00001
+	Project Plan 5 Open Fac Shrd Svr ALNG SubsVL OLV E 1Mth Acdmc AP
+	640,25
+	16.006,25
+
+	01
+	9EP-00240
+	System Ctr Datactr ALNG LicSAPk OLV 16 Lic E 1Y Acdmc AP Corelic
+	1.311,10
+	1.311,10
+
+	02
+	77D-00161
+	Visual Studio Pro wMSDN ALNG LicSAPk OLV E 1Y Acdmc AP
+	357,50
+	715,00
+
+	06
+	HVH-00007
+	Office 365EDU A3 Opn Fac ShrdSvr ALNG SubsVL OLV E 1Mth Acdmc AP
+	201,91
+	1.211,46
+
+	2
+	7JQ-00038
+	SQL Svr ENT Core ALNG LicSPAk OLV 2Lic E 1Y Acdmc  AP Corelic
+	7.494,89
+	14.989,78
+
+	08
+	GPS-00001
+	Dyn 365 E Team Members Open Fac Old Shrd ALNG SubsVLOLV E 1Mth Acdmc AP PerUsr
+
+
+	219,16
+	1.753,28
+
+	03
+	EWK-00001
+	MS StreamOPEN FAC ShrdSvr ALNG SubsVL OLV E 1Mth Acdmc AP (Docentes)
+
+
+	65,78
+	197,34
+
+	01
+	DV2-0001
+	VisioPlan2OpenFaculty ShrdSvr ALNG Subsvl olv e 1Mth Acdmc AP 
+	125,65
+	125,65
+
+	02
+	GNV-00010
+	Dyn 365 E for Sales Opn Fac ALNG OLV E 1M Acdmc AP Qlfd off for CRM OL Pro Per Usr
+
+
+	2.081,73
+	4.163,46
+
+	12
+	ENJ-00856
+	Dyn 365 For Sales ALNG LisSAPK OLV E 1Y Acdmc AP Qlfd off for CRM OL Pro Per Usr
+	801,58
+	9.618,96
+
+	03
+	3W1-00005
+	Office 365 A5 with Calling Minutes for faculty (CSP ANUAL)
+	2.512,81
+	7.538,43
+
+	01
+	SEK-00002
+	PowerApps per user Plan for Faculty (CSP ANUAL)
+	6.782,86
+	6.782,86
+
+	
+	
+	
+	Total R$
+	386.795,22
+
+
+CLÁUSULA TERCEIRA – DA MANUTENTAÇÃO DAS DEMAIS CLÁUSULAS:
+
+Permanecem inalteradas as demais cláusulas e condições previstas no Contrato nº. 281/2018 e Termos Aditivo nºs 01 e 02 que não colidirem com o presente documento.
+
+Blumenau/SC, 18 de setembro de 2020.
+

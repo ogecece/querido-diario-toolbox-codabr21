@@ -1,0 +1,248 @@
+          PREFEITURA MUNICIPAL DE BLUMENAU
+
+ANEXO I
+	CREDOR:
+	Fernanda Tressi
+
+	DOCUMENTO:
+	Memorando 108/2020
+
+	DATA:
+	31/01/2020
+
+	ORIGEM DA DESPESA:
+	Auxílio escolar Lei Municipal 8793/2019, referente diferença período outubro, novembro e dezembro de 2019.
+
+	DOTAÇÃO:
+	72
+
+	FONTE DE RECURSO
+	0100.00000
+
+	VALOR:
+	R$ 527,71
+
+	CREDOR:
+	Bruna Winter
+
+	DOCUMENTO:
+	Memorando 112/2020
+
+	DATA:
+	05/02/2020
+
+	ORIGEM DA DESPESA:
+	Auxílio escolar Lei Municipal 8793/2019, período novembro e dezembro de 2019.
+
+	DOTAÇÃO:
+	72
+
+	FONTE DE RECURSO
+	0100.00000
+
+	VALOR:
+	R$ 1.207,17
+
+	CREDOR:
+	Bárbara Linhares Silva
+
+	DOCUMENTO:
+	Memorando 113/2020
+
+	DATA:
+	05/02/2020
+
+	ORIGEM DA DESPESA:
+	Auxílio escolar Lei Municipal 8793/2019, período dezembro de 2019.
+
+	DOTAÇÃO:
+	72
+
+	FONTE DE RECURSO
+	0100.00000
+
+	VALOR:
+	R$ 879,90
+
+	CREDOR:
+	Stefanie Elis Uller
+
+	DOCUMENTO:
+	Memorando 114/2020
+
+	DATA:
+	05/02/2020
+
+	ORIGEM DA DESPESA:
+	Auxílio escolar Lei Municipal 8793/2019, período dezembro de 2019.
+
+	DOTAÇÃO:
+	72
+
+	FONTE DE RECURSO
+	0100.00000
+
+	VALOR:
+	428,50
+
+	CREDOR:
+	Thiago Goll
+
+	DOCUMENTO:
+	Memorando 115/2020
+
+	DATA:
+	05/02/2020
+
+	ORIGEM DA DESPESA:
+	Auxílio escolar Lei Municipal 8793/2019, período novembro e dezembro de 2019.
+
+	DOTAÇÃO:
+	72
+
+	FONTE DE RECURSO
+	0100.00000
+
+	VALOR:
+	912,00
+
+	CREDOR:
+	Caixa Econômica Federal
+
+	DOCUMENTO:
+	Laudo de avaliação n. 6995.6995.000430134/2018.01.01.01
+
+	DATA:
+	11/12/2018
+
+	ORIGEM DA DESPESA:
+	Laudo de avaliação de compra e venda de imóvel comercial no centro de Blumenau (antigo Besc e Banco do Brasil, na Rua XV de Novembro, 1525)
+
+	DOTAÇÃO:
+	76
+
+	FONTE DE RECURSO
+	0100.00000
+
+	VALOR:
+	R$ 11.850,00
+
+	CREDOR:
+	Grossenbacher Administradora Ltda
+
+	DOCUMENTO:
+	Contrato 325/2016
+
+	DATA:
+	
+
+	ORIGEM DA DESPESA:
+	Reajuste no contrato de locação de imóvel ocupado pela Central de veículos, período de 28/11 a 31/12/2019.
+
+	DOTAÇÃO:
+	76
+
+	FONTE DE RECURSO:
+	0100.00000
+
+	VALOR:
+	R$ 292,04
+
+	CREDOR:
+	Prevenção Extintores Ltda
+
+	DOCUMENTO:
+	Ata 33/2019
+
+	DATA:
+	
+
+	ORIGEM DA DESPESA:
+	Manutenção de extintores, período de 15/11 a 20/12/2019.
+
+	DOTAÇÃO:
+	66 
+
+	FONTE DE RECURSO:
+	0100.00000
+
+	VALOR:
+	R$ 7.652,70
+
+	CREDOR:
+	Prevenção Extintores Ltda
+
+	DOCUMENTO:
+	Ata 33/2019
+
+	DATA:
+	
+
+	ORIGEM DA DESPESA:
+	Aquisição de extintores novos, período de 15/11 a 20/12/2019.
+
+	DOTAÇÃO:
+	67
+
+	FONTE DE RECURSO:
+	0100.00000
+
+	VALOR:
+	R$ 3.681,00
+
+	CREDOR:
+	Fast Veículos Ltda.
+
+	DOCUMENTO:
+	Processo Praça do Cidadão Web 2019/20475
+
+	DATA:
+	09/08/2019
+
+	ORIGEM DA DESPESA:
+	Avaria em carro locado, Sandero placa QHO2108
+
+	DOTAÇÃO:
+	76
+
+	FONTE DE RECURSO:
+	0100.00000
+
+	VALOR:
+	R$ 870,50
+
+	CREDOR:
+	Fast Veículos Ltda.
+
+	DOCUMENTO:
+	Processo Praça do Cidadão Web 2019/32135
+
+	DATA:
+	19/12/2019
+
+	ORIGEM DA DESPESA:
+	Avaria em carro locado, Kwid placa QJS8606
+
+	DOTAÇÃO:
+	76
+
+	FONTE DE RECURSO:
+	0100.00000
+
+	VALOR:
+	R$ 982,50
+
+	TOTAL A RECONHECER
+	R$ 29.284,02 (Vinte e nove mil, duzentos e oitenta e quatro reais e dois centavos)
+
+
+Reconheço as despesas desta relação.                                            Blumenau, 07 de fevereiro de 2020.   
+                                                                 ANDERSON ROSA
+Secretário Municipal de Administração
+
+
+
+
+Prefeitura Municipal de Blumenau – Praça Victor Konder, 2 – CEP 89010-904 – Centro – Blumenau – Santa Catarina - Brasil
+
+

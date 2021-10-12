@@ -1,0 +1,48 @@
+
+FUNDAÇÃO UNIVERSIDADE REGIONAL DE BLUMENAU
+
+Extrato nº. 438/2020
+PARTES:
+FUNDAÇÃO UNIVERSIDADE REGIONAL DE BLUMENAU
+E
+
+TCM  INFORMÁTICA LTDA.
+OBJETO: Contratação de licença de uso do software Esmeralda Visual, da empresa TCM Informática, para o Laboratório de Análises Clínicas da FURB.
+FUNDAMENTO LEGAL: Inexigibilidade nº 246/2020 e Contrato nº 202/2020, firmado em 28 de outubro de 2020. 
+PREÇO: Pelo objeto contratado, a CONTRATANTE pagará o preço de R$ 9.444,93 (nove mil, quatrocentos e quarenta e quatro reais e noventa e três centavos), conforme constante dos autos do processo de Inexigibilidade de Licitação nº. 246/2020, especialmente quanto a Proposta de folhas 04 à 08 dos autos, que passa a fazer parte integrante deste instrumento contratual, independente de transcrição, sendo estes os preços unitários e as descrições básicas dos itens:
+
+	Item
+	Código FURB
+	Qtde.
+	Und.
+	Descrição do Item
+	Preço Unitário (em R$)
+	Preço Total (em R$)
+
+	1
+	36729
+	6
+	Licença
+	Renovação de licença de uso anual do módulo Soroteca para o software Esmeralda Visual. Terminal (aquisição e/ou renovação)
+	902,52
+	5.415,12
+
+	2
+	37974
+	1
+	Licença
+	Licença anual para uso do Software S-Line (acesso via internet dos exames do Software Esmeralda Virtual). 
+	4.029,81
+	4.029,81
+
+	Preço Total (em reais, R$)
+	9.444,93
+
+	Preço Total (em reais, por extenso)
+	Nove mil, quatrocentos e quarenta e quatro reais e noventa e três centavos
+
+
+PAGAMENTO: O pagamento será efetuado em até 05 (cinco) dias úteis após a efetiva disponibilização da licença do software Esmeralda Visual, desde que o mesmo esteja em perfeitas condições de uso, seja aprovados pelo Gestor designado pela CONTRATANTE e siga acompanhado da respectiva Nota Fiscal Eletrônica (NF-e), através de depósitos bancários (hipótese na qual a NF-e deverá conter os dados bancários da CONTRATADA) ou de boletos bancários (caso no qual tais documentos deverão acompanhar a NF-e).
+PRAZO DE VIGÊNCIA: A vigência do presente contrato será de 12 (doze) meses, contados a partir de 01 de janeiro de 2021, com possibilidade de extensão da referida duração até o limite de 48 (quarenta e oito) meses, de acordo com o expresso no artigo 57, IV da Lei Federal nº. 8.666/93.
+
+DATA: 23/10/2020

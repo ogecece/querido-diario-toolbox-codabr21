@@ -1,0 +1,355 @@
+
+FUNDAÇÃO UNIVERSIDADE REGIONAL DE BLUMENAU
+
+Extrato nº. 286/2020
+PARTES:  FUNDAÇÃO UNIVERSIDADE REGIONAL DE BLUMENAU
+
+E
+
+                  Concórdia Informática Ltda ME
+OBJETO: Contratação de empresa para fornecimento de equipamentos de rede, com serviços de instalação e todos materiais necessários, para o Centro de Inovação de Blumenau.
+FUNDAMENTO LEGAL: Pregão Presencial nº 213/2019 e Contrato nº 145/2020, firmado em 31 de julho de 2020.  
+PREÇO: O preço ofertado pela empresa signatária da presente Ata de Registro de Preços é o abaixo informado, de acordo com a respectiva classificação:
+
+	Item
+	Código FURB
+	Qtde.
+	Und.
+	Descrição do Item
+	Marca e Modelo
+	Preço Total do Item
+
+(em R$) 
+
+	1
+	40141
+	2
+	Peça
+	Equipamento Switch Core (camada 3) com as seguintes características:
+
+1.1. Interfaces:
+
+1.1.1. Deve possuir no mínimo 24 portas Switch Gigabit Ethernet 10/100/1000BaseT.
+1.1.2. Deve possuir no mínimo 4 (quatro) SFP+ 10Gigabit (não populado). Podendo duas destas serem utilizadas para empilhamento.
+1.1.3. Deve possuir uma interface console com cabo de comunicação incluso.
+1.1.4. Todas as interfaces da solução a ser ofertada deverão ser do tipo “non-blocking”.
+
+1.1.5. Cada switch core deve ser fornecido com os seguintes acessórios:
+
+1.1.5.1. DOIS módulos Mini-GBIC de 10Gbps  
+
+1.1.5.1.1 Transceiver óptico (mini-GBIC) de 10 (dez) Gigabit-Ethernet com conector LC compatível com fibra óptica multimodo (multi-mode).
+1.1.5.1.2. Deve ser compatível com as portas 10 (dez) Gigabit-Ethernet SFP+ descrito no item 1.1.2.
+
+1.1.5.2. UM Cabo stack para switch core
+
+1.1.5.2.1. Deve ser do mesmo fabricante do switch core.
+1.1.5.2.2. Deve ter o comprimento mínimo de 1.2m necessário para empilhamento.
+ 1.1.5.2.3. Deve permitir o empilhamento dos switches core.
+ 1.1.5.2.4. Deve permitir atingir a performance máxima da porta de stack conforme item 1.2.13.1.
+1.2. Recursos instalados:
+
+1.2.1. Deve ser fornecido com recursos instalados para operar em modo Full-Duplex nas portas Gigabit e 10Gigabit Ethernet.
+
+1.2.2. Deve possuir buffer de pacotes de no mínimo 4MB.
+1.2.3. Deve ser fornecido com recursos instalados para operação conforme o padrão IEEE 802.3x - Flow Control.
+1.2.4. Deve ser fornecido com recursos instalados para operação conforme padrões IEEE 802.1d - Spanning Tree Protocol; IEEE 802.1w - Rapid Spanning Tree Protocol; IEEE 802.1s - Multiple Spanning Tree Protocol.
+
+1.2.5. Deve ser fornecido com recursos instalados para operação conforme o padrão IEEE 802.3ad – Link Aggregation Control Protocol (LACP).
+
+1.2.5.1. Deve suportar a criação de grupos de agregação de link contendo portas em unidades diferentes da pilha.
+
+1.2.5.2. Deve implementar grupos de agregação de links (LAG’s), com suporte à criação de até 128 grupos. 
+
+1.2.5.3. Deve ser possível a formação de grupos (LAG) de até 8 portas, contendo até 2 portas 10Gbps.
+1.2.6. Deve implementar a configuração de limites para tráfego broadcast por porta. Caso os limites configurados sejam excedidos, deve ser possível desabilitar ou bloquear a porta.
+
+1.2.7. Deve ser fornecido com recursos instalados para suportar espelhamento de portas (port-mirroring) 1-to-1 e Many-to-1.
+
+1.2.8. Deve ser fornecido com recursos instalados para operação conforme o padrão IEEE 802.1x - Port Based Network Access Control.
+
+1.2.9. Deve implementar autenticação 802.1x de múltiplos usuários por porta.
+
+1.2.9.1. Deve implementar RADIUS e RADIUS Accounting (RFC 2865 e 2866).
+
+1.2.9.2. Deve permitir controle de acesso nas portas através de autenticação RADIUS.
+
+1.2.9.3. Deve implementar autenticação de endereço MAC em servidor RADIUS.
+
+1.2.9.4. Deve implementar autenticação através de navegador web (Web Authentication).
+
+1.2.9.5. Deve permitir atribuição de VLAN e filtros de ACL conforme o perfil do dispositivo cadastrado no servidor RADIUS (atribuição de VLAN e ACL).
+1.2.9.6. Deve implementar associação automática de VLAN, qualidade de serviço e ACL de acordo com usuário autenticado.
+1.2.10. Deve ser fornecido com recursos instalados para operar com a funcionalidade de DHCP Relay, DHCP Snooping e DHCP Client para IPv4.
+
+1.2.11. Deve ser fornecido com recursos instalados para operar com a funcionalidade de DHCP Relay e DHCP Client para IPv6.
+
+1.2.12. Deve ser fornecido com recursos instalados para ajustar a data e hora do equipamento utilizando funcionalidade como NTP e/ou SNTP.
+
+1.2.13. Deve ser fornecido com recursos instalados (cabos, hardware, software, licença) para permitir empilhamento (STACK) de no mínimo 8 UNIDADES e gerência através de um único endereço IP.
+
+1.2.13.1. Deve ser fornecido com hardware e software necessário para empilhamento com banda mínima de 40Gbps. Este empilhamento pode ser realizado através de módulo opcional ou através de portas 10Gbps (2 x 10Gbps full duplex). Caso seja necessário módulo adicional, o mesmo deverá ser fornecido juntamente com o equipamento.
+
+1.2.14. Deve ser fornecido com protocolo específico LLDP e LLDP-MED.
+
+1.2.15. Deve implementar proteção contra ataques de ARP.
+1.2.16. Deve implementar proteção contra IP spoofing ou similar.
+1.3. VLAN:
+
+1.3.1. Deve ser fornecido com recursos instalados para a configuração de redes virtuais conforme o padrão IEEE 802.1Q Tagged VLAN.
+1.3.2. Deve ser fornecido com recursos instalados para permitir no mínimo 4000 VLANs ativas simultaneamente.
+1.3.3. Deve ser fornecido com recursos instalados para a configuração de VLAN por porta.
+1.3.4. Deve ser fornecido com recursos instalados para operar com VLAN (Q-in-Q).
+1.3.5. Deve implementar Private VLAN ou similar.
+
+1.3.6. Deve implementar Voice VLAN ou similar.
+
+1.3.7. Deve implementar registro dinâmico de Vlans (GVRP).
+1.4. Desempenho:
+
+1.4.1. Deve ser fornecido com capacidade de comutação de no mínimo 128Gbps.
+1.4.2. Deve ser fornecido com taxa de encaminhamento de pacotes (64-bytes) de 90Mpps (throughtput wire-speed).
+1.4.3. Deve ser fornecido com tabela de endereçamento MAC de 32000 por dispositivo.
+1.4.4. Deve ser fornecido com suporte a jumbo frame em todas as portas de no mínimo 9000 bytes.
+1.5. Administração e Gerência:
+
+1.5.1. Deve ser fornecido com recursos instalados para gerenciamento através de interface de comando (CLI).
+1.5.2. Deve ser fornecido com recursos instalados para gerenciamento por SNMP v1, v2c, v3.
+1.5.3. Deve ser fornecido com recursos instalados para suportar RMON 4 grupos (estatísticas, histórico, alarmes e eventos).
+1.5.4. Deve ser fornecido com recursos instalados para gerenciamento Telnet, SSH, SSL.
+1.5.5. Deve ser fornecido com recursos instalados para detecção e proteção contra ataques Denial of Service (DoS).
+1.5.6. Deve ser fornecido com recursos instalados para operar com a funcionalidade de SYSLOG.
+
+1.5.7. Deve ser fornecido com recursos instalados para operar com a funcionalidade de sFlow ou NetFlow.
+1.5.8. Deve ser fornecido com recursos instalados para monitorar a utilização de CPU através de comando CLI.
+1.5.9. Deve ser fornecido com recursos instalados para monitorar o trafego nas portas através de comando CLI.
+1.5.10. Deve ser fornecido com a versão de software mais completa disponível para o equipamento
+
+1.5.11. Deve permitir múltiplos arquivos de configuração.
+
+1.6. Camada 3 (Roteamento IP)
+
+1.6.1. Deve ser fornecido com recursos instalados para configurar rotas estáticas (roteamento estático) para IPv4 e IPv6 (dual stack).
+1.6.2. Deve ser fornecido com recursos instalados para operar com as seguintes funcionalidades: RIP, OSPF.
+
+1.6.3. Deve ser fornecido com recursos instalados para operar com IPv4 e IPv6 ativos (DUAL  STACK enable).
+1.6.4. Deve ser fornecido com recursos instalados para operar com Loopback interface ou similar.
+1.6.6. Requisitos de suporte a IPv6
+
+1.6.6.1. Deve implementar o protocolo IPv6, com equivalência de recursos com o protocolo IPv4 para as funções de “host” (por exemplo: gerência, sessões SSH, gerência Web, SNMP);
+1.6.6.2. Os equipamentos devem ser gerenciáveis em IPv6, inclusive SNMP.;
+1.6.6.3. A capacidade de comutação em IPv6 deverá ser idêntica a capacidade de comutação em IPv4;
+1.6.6.4. A capacidade de comutação deve ser atendida em qualquer combinação de tráfego IPv4, IPv6, e outros protocolos sobre ethernet;
+
+1.6.6.5. Deve implementar filtros/ACLs em IPv6 equivalentes à funcionalidade em IPv4;
+1.7. ACL (Access Control List)
+
+1.7.1. Deve ser fornecido com recursos instalados para criação de ACLs baseados em: Endereço MAC, Endereço IP, Porta TCP, Porta UDP.
+1.7.2. A implementação das ACLs deve ser feita em hardware, sem perda de performance do equipamento (wire-speed).
+1.8. QoS (Quality of Service)
+
+1.8.1. Deve ser fornecido com recursos instalados para suportar os modos WRR (Weighted Round Robin) ou WRED (Weighted Random Early Discard) ou DDR (Deficit Round Robin).
+1.8.1.1. Deve ser fornecido com recursos instalados para suportar o modo SP (Strict Priority). 
+1.8.2. Deve suportar no mínimo 8 filas QoS por porta.
+1.9. Alimentação (Tensão e Frequência):
+
+1.9.1. Deve ser fornecido com pelo menos 1(uma) fonte de alimentação interna com tensão de alimentação de 220V e frequência de 60Hz.
+1.9.2. O equipamento proposto deverá ser alimentado diretamente na rede de energia elétrica fornecida pela companhia fornecedora local.
+1.9.3. Não deverá ser exigida, além do fornecido junto com o equipamento, a utilização adicional de estabilizadores ou quaisquer outros meios para regulação ou conversão de energia.
+1.9.4. O equipamento deve vir acompanhado de cabo elétrico, no padrão brasileiro com 3 pinos, segundo norma NBR 14136:2002.
+1.10. Instalação:
+
+1.10.1. Deve ser fornecido com altura máxima de 1U (1,75”).
+1.10.2. Deve ser fornecido com todos os cabos e acessórios necessários para instalação.
+1.10.3. Deve ser fornecido todo o Hardware e Software necessários para o correto funcionamento do equipamento com todas as características solicitadas.
+1.10.4. Deve ser fornecido com o kit de suporte específico para montagem em Rack de 19 polegadas.
+1.11. Documentação:
+
+1.11.1. O equipamento deverá vir acompanhado de manuais de instalação, configuração e operação de forma a viabilizar e/ou facilitar a sua aplicação dentro das características solicitadas. Poderá ser impresso ou mídia eletrônica ou endereço da internet). 
+
+1.11.2. O equipamento ofertado deve possuir homologação junto à ANATEL com certificados disponíveis publicamente no endereço eletrônico desta Agência, conforme resolução 242. (O mesmo apresentado no Envelope de Habilitação). 
+	HPE 2930F – 24G JL253A
+
++
+
+3x Transceiver HPE Transeiver 10GBase-SR 10Gb E SFP+ 300m LC J9150D 
+
++ 
+
+3x HP 2M Multimode OM3 LC/LC
+
+FC Cable
+
+
+	29.000,00
+
+	2
+	40142
+	4
+	Peça
+	Equipamento Switch de Borda (camada 2) com as seguintes características:
+
+2.1. Interfaces:
+
+2.1.1. Deve possuir no mínimo 48 portas Switch Gigabit Ethernet 10/100/1000BaseT.
+2.1.2. Deve possuir no mínimo 4 (quatro) SFP+ 10Gigabit (não populado). Podendo duas destas serem utilizadas para empilhamento.
+2.1.3. Deve possuir uma interface console com cabo de comunicação incluso.
+2.1.4. Todas as interfaces da solução a ser ofertada deverão ser do tipo “non-blocking”.
+
+2.1.5. Cada Switch de Borda deve ser fornecido com os seguintes acessórios:
+
+2.1.5.1. UM módulo Mini-GBIC de 10Gbps  
+
+2.1.5.1.1 Transceiver óptico (mini-GBIC) de 10 (dez) Gigabit-Ethernet com conector LC compatível com fibra óptica multimodo (multi-mode).
+2.1.5.1.2. Deve ser compatível com as portas 10 (dez) Gigabit-Ethernet SFP+ descrito no item 2.1.2.
+
+2.1.5.2. UM Cabo stack para switch de borda
+
+2.1.5.2.1. Deve ser do mesmo fabricante do switch de borda.
+2.1.5.2.2. Deve ter o comprimento mínimo de 1.2m necessário para empilhamento.
+2.1.5.2.3. Deve permitir o empilhamento dos switches de distribuição.
+2.1.5.2.4. Deve permitir atingir a performance máxima da porta de stack conforme item 2.2.13.1.
+2.2. Recursos instalados:
+
+2.2.1. Deve ser fornecido com recursos instalados para operar em modo Full-Duplex nas portas Gigabit e 10Gigabit Ethernet.
+2.2.2. Deve possuir buffer de pacotes de no mínimo 1.5MB.
+2.2.3. Deve ser fornecido com recursos instalados para operação conforme o padrão IEEE 802.3x – Flow Control.
+2.2.4. Deve ser fornecido com recursos instalados para operação conforme padrões IEEE 802.1d – Spanning Tree Protocol; IEEE 802.1w – Rapid Spanning Tree Protocol; IEEE 802.1s – Multiple Spanning Tree Protocol.
+
+2.2.5. Deve ser fornecido com recursos instalados para operação conforme o padrão IEEE 802.3ad – Link Aggregation Control Protocol (LACP).
+
+2.2.5.1. Deve suportar a criação de grupos de agregação de link contendo portas em unidades diferentes da pilha.
+
+2.2.5.2. Deve implementar grupos agregação de links (LAG’s), com suporte à criação de até 128 grupos. 
+
+2.2.5.3. Deve ser possível a formação de grupos (LAG) de até 8 portas, contendo até 2 portas 10Gbps.
+2.2.6. Deve implementar a configuração de limites para tráfego broadcast por porta. Caso os limites configurados sejam excedidos, deve ser possível desabilitar ou bloquear a porta.
+
+2.2.7. Deve ser fornecido com recursos instalados para suportar espelhamento de portas (port-mirroring) 1-to-1 e Many-to-1.
+
+2.2.8. Deve ser fornecido com recursos instalados para operação conforme o padrão IEEE 802.1x – Port Based Network Access Control.
+
+2.2.9. Deve implementar autenticação 802.1x de múltiplos usuários por porta.
+
+2.2.9.1. Deve implementar RADIUS e RADIUS Accounting (RFC 2865 e 2866).
+
+2.2.9.2. Deve permitir controle de acesso nas portas através de autenticação RADIUS.
+
+2.2.9.3. Deve implementar autenticação de endereço MAC em servidor RADIUS.
+
+2.2.9.4. Deve implementar autenticação através de navegador web (Web Authentication).
+
+2.2.9.5. Deve permitir atribuição de VLAN e filtros de ACL conforme o perfil do dispositivo cadastrado no servidor RADIUS (atribuição de VLAN e ACL).
+2.2.9.6. Deve implementar associação automática de VLAN, qualidade de serviço e ACL de acordo com usuário autenticado.
+2.2.10. Deve ser fornecido com recursos instalados para operar com a funcionalidade de DHCP Relay, DHCP Snooping e DHCP Client para Ipv4.
+
+2.2.11. Deve ser fornecido com recursos instalados para operar com a funcionalidade de DHCP Relay e DHCP Client para Ipv6.
+
+2.2.12. Deve ser fornecido com recursos instalados para ajustar a data e hora do equipamento utilizando funcionalidade como NTP e/ou SNTP.
+
+2.2.13. Deve ser fornecido com recursos instalados (cabos, hardware, software, licença) para permitir empilhamento (STACK) de no mínimo 8 UNIDADES e gerência através de um único endereço IP.
+
+2.2.13.1. Deve ser fornecido com hardware e software necessário para empilhamento com banda mínima de 40Gbps. Este empilhamento pode ser realizado através de módulo opcional ou através de portas 10Gbps (2 x 10Gbps full duplex). Caso seja necessário módulo adicional, os mesmos deveram ser fornecidos juntamente com o equipamento.
+
+2.2.14. Deve ser fornecido com protocolo específico LLDP e LLDP-MED.
+
+2.2.15. Deve implementar proteção contra ataques de ARP.
+2.2.16. Deve implementar proteção contra IP spoofing ou similar.
+
+2.2.17. Deve implementar roteamento estático Ipv4 e Ipv6.
+2.3. VLAN:
+
+2.3.1. Deve ser fornecido com recursos instalados para a configuração de redes virtuais conforme o padrão IEEE 802.1Q Tagged VLAN.
+2.3.2. Deve ser fornecido com recursos instalados para permitir um mínimo 4000 VLANs ativas simultaneamente.
+2.3.3. Deve ser fornecido com recursos instalados para a configuração de VLAN por porta.
+2.3.4. Deve implementar Private VLAN ou similar.
+
+2.3.5. Deve implementar Voice VLAN ou similar.
+
+2.3.6. Deve implementar registro dinâmico de Vlans (GVRP).
+2.4. Desempenho:
+
+2.4.1. Deve ser fornecido com capacidade de comutação de no mínimo 176Gbps.
+2.4.2. Deve ser fornecido com taxa de encaminhamento de pacotes (64-bytes) de 96Mpps (throughtput wire-speed).
+2.4.3. Deve ser fornecido com tabela de endereçamento MAC de 16000 por dispositivo.
+2.4.4. Deve ser fornecido com suporte a jumbo frame em todas as portas de no mínimo 9000 bytes.
+2.5. Administração e Gerência:
+
+2.5.1. Deve ser fornecido com recursos instalados para gerenciamento através de interface de comando (CLI).
+2.5.2. Deve ser fornecido com recursos instalados para gerenciamento por SNMP v1, v2c, v3.
+2.5.3. Deve ser fornecido com recursos instalados para suportar RMON 4 grupos (estatísticas, histórico, alarmes e eventos).
+2.5.4. Deve ser fornecido com recursos instalados para gerenciamento Telnet, SSH, SSL.
+2.5.5. Deve ser fornecido com recursos instalados para detecção e proteção contra ataques Denial of Service (DoS).
+2.5.6. Deve ser fornecido com recursos instalados para operar com a funcionalidade de SYSLOG.
+
+2.5.7. Deve ser fornecido com recursos instalados para operar com a funcionalidade de sFlow ou NetFlow.
+2.5.8. Deve ser fornecido com recursos instalados para monitorar a utilização de CPU através de comando CLI.
+2.5.9. Deve ser fornecido com recursos instalados para monitorar o trafego nas portas através de comando CLI.
+2.5.10. Deve ser fornecido com a versão de software mais completa disponível para o equipamento
+
+2.5.11. Deve permitir múltiplos arquivos de configuração.
+
+2.6.6. Requisitos de suporte a Ipv6
+
+2.6.6.1. Deve implementar o protocolo Ipv6, com equivalência de recursos com o protocolo Ipv4 para as funções de “host” (por exemplo: gerência, sessões SSH, gerência Web, SNMP);
+2.6.6.2. Os equipamentos devem ser gerenciáveis em Ipv6, inclusive SNMP;
+2.6.6.3. A capacidade de comutação em Ipv6 deverá ser idêntica a capacidade de comutação em Ipv4;
+2.6.6.4. A capacidade de comutação deve ser atendida em qualquer combinação de tráfego Ipv4, Ipv6, e outros protocolos sobre ethernet;
+
+2.6.6.5. Deve implementar filtros/ACLs em Ipv6 equivalente à funcionalidade em Ipv4;
+2.7. ACL (Access Control List)
+
+2.7.1. Deve ser fornecido com recursos instalados para criação de ACLs baseados em: Endereço MAC, Endereço IP, Porta TCP, Porta UDP.
+2.7.2. A implementação das ACLs deve ser feita em hardware, sem perda de performance do equipamento (wire-speed).
+2.8. QoS (Quality of Service)
+
+2.8.1. Deve ser fornecido com recursos instalados para suportar os modos WRR (Weighted Round Robin) ou WRED (Weighted Random Early Discard) ou DDR (Deficit Round Robin).
+2.8.2. Deve ser fornecido com recursos instalados para suportar o modo SP (Strict Priority). 
+2.8.3. Deve suportar no mínimo 8 filas QoS por porta.
+2.9. Alimentação (Tensão e Frequência):
+
+2.9.1. Deve ser fornecido com pelo menos 1(uma) fonte de alimentação interna com tensão de alimentação de 220V e frequência de 60Hz.
+2.9.2. O equipamento proposto deverá ser alimentado diretamente na rede de energia elétrica fornecida pela companhia fornecedora local.
+2.9.3. Não deverá ser exigida, além do fornecido junto com o equipamento, a utilização adicional de estabilizadores ou quaisquer outros meios para regulação ou conversão de energia.
+2.9.4. O equipamento deve vir acompanhado de cabo elétrico, no padrão brasileiro com 3 pinos, segundo norma NBR 14136:2002.
+2.10. Instalação:
+
+2.10.1. Deve ser fornecido com altura máxima de 1U (1,75”).
+2.10.2. Deve ser fornecido com todos os cabos e acessórios necessários para instalação.
+2.10.3. Deve ser fornecido todo o Hardware e Software necessários para o correto funcionamento do equipamento com todas as características solicitadas.
+2.10.4. Deve ser fornecido com o kit de suporte específico para montagem em Rack de 19 polegadas.
+2.11. Documentação:
+
+2.11.1. O equipamento deverá vir acompanhado de manuais de instalação, configuração e operação de forma a viabilizar e/ou facilitar a sua aplicação dentro das características solicitadas. Poderá ser impresso ou mídia eletrônica ou endereço da internet). 
+
+2.11.2. O equipamento ofertado deve possuir homologação junto à ANATEL com certificados disponíveis publicamente no endereço eletrônico desta Agência, conforme resolução 242. (O mesmo apresentado no Envelope de Habilitação).
+	HPE 2930F – 48G JL 254A
+
++
+
+2x Transceiver HPE Transceiver
+
+10Gbase-SR 10Gb E SFP+ 300m LC J9150D
+
++
+
+2x HP 2M Multimode OM3 LC/LC FC Cable
+	65.200,00
+
+	3
+	40143
+	1
+	Serviço
+	Instalação dos equipamentos e configuração, com todos os materiais necessários. 
+	5.300,00
+
+	Preço Global (em reais, R$)
+	99.500,00
+
+	Preço Global (em reais, por extenso)
+	Noventa e nove mil e quinhentos reais
+
+
+PAGAMENTO: O pagamento será efetuado em até 30 (trinta) dias consecutivos após a entrega dos equipamentos e dos materiais com instalação à Administração, desde que os serviços sejam aprovados pelo Gestor designado pela CONTRATANTE e sigam acompanhados da(s) respectiva(s) Nota(s) Fiscal(is) Eletrônica(s) (NF-e), através de depósitos bancários (hipótese na qual a NF-e deverá conter os dados bancários da CONTRATADA) ou de boletos bancários (caso no qual tais documentos deverão acompanhar a NF-e).
+PRAZO DE VIGÊNCIA: O contrato gerado em decorrência deste Edital terá vigência a contar de sua assinatura, até o término deste exercício financeiro (2019), em conformidade com o disposto no caput do artigo 57 da Lei Federal nº 8.666/93.
+DATA: 31/07/2020.

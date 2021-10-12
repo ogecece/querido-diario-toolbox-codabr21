@@ -1,0 +1,39 @@
+
+FUNDAÇÃO UNIVERSIDADE REGIONAL DE BLUMENAU
+
+Extrato nº. 439/2020
+PARTES:
+FUNDAÇÃO UNIVERSIDADE REGIONAL DE BLUMENAU
+e
+WORKCONNECT COMÉRCIO DE TELECOMUNICAÇÕES E INFORMÁTICA LTDA.
+ADITIVO DE SUPLEMENTAÇÃO
+TERMO ADITIVO Nº 005 AO CONTRATO Nº 268/2019
+OBJETO: Contratação de empresa especializada para o fornecimento, instalação e manutenção de Data Center para a Universidade.
+
+FUNDAMENTO LEGAL: Pregão Presencial nº 151/2019 e Contrato nº. 268/2019, de 14 de novembro de 2019. 
+CLÁUSULA PRIMEIRA – DA SUPLEMENTAÇÃO:
+
+Fica o Termo de Contrato nº 268/2019 suplementado em R$ 11.900,00 (onze mil e novecentos reais), decorrente do acréscimo quantitativo do objeto, correspondente a 0,7318583% em relação ao valor inicial, conforme quadro a seguir:  
+	Lote 01
+
+	Item
+	Código FURB
+	Descrição do Item
+	Valor a ser suplementado
+
+	03
+	40216
+	150 painéis de fechamento – frentes falsas com instalação.
+	3.000,00
+
+	
+	40217
+	4 pares de organizadores vertical 42U para cabos VRA 1016 com instalação.
+	8.900,00
+
+
+CLÁUSULA SEGUNDA – DA MANUTENÇÃO DAS DEMAIS CLÁUSULAS:
+
+Permanecem inalteradas as demais cláusulas e condições previstas no Contrato nº. 268/2019 e aditivos nos 001 à 003, que não colidirem com o presente documento.
+
+DATA: Blumenau/SC, 20 de outubro de 2020.

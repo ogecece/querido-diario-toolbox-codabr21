@@ -1,0 +1,208 @@
+
+Prefeitura Municipal da Serra 
+Espirito Santo 
+
+DECRETO Nº 6136/2020 
+
+O PREFEITO MUNICIPAL DA SERRA, ESPÍRITO SANTO, usando de suas atribuições legais, e com base no artigo 9º inciso I da Lei nº 
+5.155/2020 de 10/01/2020; 
+
+D E C R E T A: 
+
+Art. 1º. Ficam suplementadas no orçamento vigente as dotações orçamentárias constantes do Anexo I. 
+
+Art. 2º. Para efeito das suplementações constante no Artigo anterior, ficam anuladas as dotações orçamentárias, indicada no anexo II. 
+
+Art. 3º. Este Decreto entra em vigor na data de sua publicação, revogadas as disposições em contrário 
+
+Palácio Municipal, em Serra, em 28 de maio de 2020 
+
+AUDIFAX CHARLES PIMENTEL BARCELOS 
+Prefeito Municipal 
+
+LAURIETE CANEVA 
+Secretária de Planejamento Estratégico 
+
+CRÉDITO ADICIONAL SUPLEMENTAR - ANEXO I - SUPLEMENTAÇÃO 
+R$ 1,00 
+
+CÓDIGO ESPECIFICAÇÃO NATUREZA FR VALOR 
+
+09.00.00 SECRETARIA DE SERVIÇOS    
+
+09.01.00 Secretaria de Serviços    
+
+04.122.0530.2003 Manutenção e Conservação de Bens Imóveis 3.3.90.34.00 1.001.0000.0000 100.000 
+
+04.122.0530.2004 Manutenção dos Serviços de Transporte 3.3.90.30.00 1.001.0000.0000 95.000 
+
+04.122.0530.2004 Manutenção dos Serviços de Transporte 3.3.90.39.00 1.001.0000.0000 3.200 
+
+10.00.00 SEC. TURISMO, CULTURA, ESPORTE E LAZER    
+
+10.01.00 Sec. Turismo, Cultura, Esporte e Lazer    
+
+13.392.0150.2232 Valorizar e Preservar o Patrimônio Histórico Mater 3.3.90.93.00 1.001.0000.0000 12.700 
+
+11.00.00 SECRETARIA DE EDUCAÇÃO    
+
+11.01.00 Secretaria de Educação    
+
+12.122.0530.2001 Pagamento de Pessoal e Encargos 3.1.90.96.00 1.111.0000.0000 600.000 
+
+12.122.0530.2003 Manutenção e Conservação de Bens Imóveis 3.3.90.34.00 1.111.0000.0000 200.000 
+
+12.00.00 SECRETARIA DE SAUDE    
+
+12.01.00 Fundo Municipal de Saúde    
+
+10.122.0530.2003 Manutenção e Conservação de Bens Imóveis 3.3.90.92.00 1.211.0000.0000 210.000 
+
+10.301.0220.2199 Estruturação e informatização da rede municipal de 3.3.90.39.00 1.211.0000.0000 15.000 
+
+10.302.0230.2135 Ampliar e Melhorar os Serviços de Urgência e Emerg 4.4.90.52.00 1.211.0000.0000 32.500 
+
+13.00.00 SECRETARIA DE ASSISTÊNCIA SOCIAL    
+
+13.01.00 Secretaria de Assistência Social    
+
+08.122.0530.2001 Pagamento de Pessoal e Encargos 3.1.90.04.00 1.311.0000.0000 320.000 
+
+08.122.0530.2003 Manutenção e Conservação de Bens Imóveis 3.3.90.93.00 1.001.0000.0000 2.000 
+
+08.122.0530.2004 Manutenção dos Serviços de Transporte 3.3.90.39.00 1.001.0000.0000 20.000 
+
+13.02.00 Fundo Munic. Assistência Social    
+
+08.244.0250.1179 Construir, implantar, reformar e manter equipament 4.4.90.93.00 1.390.0090.0000 120 
+
+08.244.0280.2184 Apoiar e Manter Técnico e Financeiro as Organizaçõ 3.3.50.43.00 1.311.0000.0000 420.000 
+
+08.244.0280.2187 Garantir e manter Serviços de ação Continuada de P 3.3.90.30.00 1.311.0000.0000 55.000 
+
+08.244.0280.2187 Garantir e manter Serviços de ação Continuada de P 3.3.90.32.00 1.311.0000.0000 550.000 
+
+08.244.0280.2187 Garantir e manter Serviços de ação Continuada de P 3.3.90.39.00 1.311.0000.0000 750.000 
+
+14.00.00 SECRETARIA DE MEIO AMBIENTE    
+
+14.01.00 Secretaria de Meio Ambiente    
+
+04.122.0530.2004 Manutenção dos Serviços de Transporte 3.3.90.39.00 1.001.0000.0000 12.000 
+  TOTAL  3.397.520 
+
+ 
+
+
+
+CRÉDITO ADICIONAL SUPLEMENTAR - ANEXO II - ANULAÇÃO 
+R$ 1,00 
+
+CÓDIGO ESPECIFICAÇÃO NATUREZA FR VALOR 
+
+09.00.00 SECRETARIA DE SERVIÇOS    
+
+09.01.00 Secretaria de Serviços    
+
+04.122.0530.2004 Manutenção dos Serviços de Transporte 3.3.90.92.00 1.001.0000.0000 3.200 
+
+15.452.0110.2085 Intensificar e Manter os Serviços de Limpeza Urban 3.3.90.39.00 1.001.0000.0000 100.000 
+
+15.452.0110.2086 Intensificar Procedimentos para Manutenções em Via 3.3.90.30.00 1.001.0000.0000 95.000 
+
+10.00.00 SEC. TURISMO, CULTURA, ESPORTE E LAZER    
+
+10.01.00 Sec. Turismo, Cultura, Esporte e Lazer    
+
+13.392.0150.2232 Valorizar e Preservar o Patrimônio Histórico Mater 3.3.90.30.00 1.001.0000.0000 12.700 
+
+11.00.00 SECRETARIA DE EDUCAÇÃO    
+
+11.01.00 Secretaria de Educação    
+
+12.122.0530.2001 Pagamento de Pessoal e Encargos 3.1.90.11.00 1.111.0000.0000 600.000 
+
+12.361.0180.2098 Descentralização de Recursos Financeiros na Educaç 3.3.50.43.00 1.111.0000.0000 200.000 
+
+12.00.00 SECRETARIA DE SAUDE    
+
+12.01.00 Fundo Municipal de Saúde    
+
+10.122.0530.2003 Manutenção e Conservação de Bens Imóveis 3.3.90.39.00 1.211.0000.0000 210.000 
+
+10.122.0530.2004 Manutenção dos Serviços de Transporte 4.4.90.52.00 1.211.0000.0000 10.000 
+
+10.301.0220.2199 Estruturação e informatização da rede municipal de 3.3.90.92.00 1.211.0000.0000 15.000 
+
+10.302.0230.2132 Ampliar e Melhorar dos Serviços de Atenção Especia 4.4.90.51.00 1.211.0000.0000 10.000 
+
+10.305.0230.2131 Ampliar e Manter os Serviços de Vigilância em Saúd 4.4.90.52.00 1.211.0000.0000 12.500 
+
+13.00.00 SECRETARIA DE ASSISTÊNCIA SOCIAL    
+
+13.01.00 Secretaria de Assistência Social    
+
+08.122.0530.2003 Manutenção e Conservação de Bens Imóveis 3.3.90.92.00 1.001.0000.0000 2.000 
+
+08.244.0260.2066 Fortalecer e Manter as Atividades dos Conselhos 3.3.90.33.00 1.311.0000.0000 10.000 
+
+08.244.0260.2066 Fortalecer e Manter as Atividades dos Conselhos 4.4.90.52.00 1.311.0000.0000 30.000 
+
+08.244.0260.2067 Implementar a Gestão do Trabalho e Educação Perman 3.3.90.30.00 1.001.0000.0000 20.000 
+
+13.02.00 Fundo Munic. Assistência Social    
+
+08.244.0250.1179 Construir, implantar, reformar e manter equipament 4.4.90.52.00 1.390.0090.0000 120 
+
+08.244.0250.1179 Construir, implantar, reformar e manter equipament 4.4.90.52.00 1.311.0000.0000 50.000 
+
+08.244.0250.2178 Assegurar o Apoio Técnico e Financeiro das Metas P 4.4.50.42.00 1.311.0000.0000 100.000 
+
+08.244.0250.2178 Assegurar o Apoio Técnico e Financeiro das Metas P 4.4.90.52.00 1.311.0000.0000 250.000 
+
+08.244.0250.2183 Manter e Desenvolver Serv. Continuados da Proteção 3.3.90.30.00 1.311.0000.0000 100.000 
+
+08.244.0250.2183 Manter e Desenvolver Serv. Continuados da Proteção 3.3.90.36.00 1.311.0000.0000 80.000 
+
+08.244.0250.2183 Manter e Desenvolver Serv. Continuados da Proteção 3.3.90.39.00 1.311.0000.0000 230.000 
+
+08.244.0260.2062 Acompanhar as Ações de IGD - SUAS (Índice de Gestã 3.3.90.14.00 1.311.0000.0000 10.000 
+
+08.244.0260.2062 Acompanhar as Ações de IGD - SUAS (Índice de Gestã 3.3.90.30.00 1.311.0000.0000 45.000 
+
+08.244.0260.2062 Acompanhar as Ações de IGD - SUAS (Índice de Gestã 3.3.90.33.00 1.311.0000.0000 15.000 
+
+08.244.0260.2062 Acompanhar as Ações de IGD - SUAS (Índice de Gestã 3.3.90.36.00 1.311.0000.0000 20.000 
+
+08.244.0260.2062 Acompanhar as Ações de IGD - SUAS (Índice de Gestã 4.4.90.52.00 1.311.0000.0000 40.000 
+
+08.244.0260.2063 Desenvolver Ações Gestão IGD-Bolsa Família 3.3.90.14.00 1.311.0000.0000 10.000 
+
+08.244.0260.2063 Desenvolver Ações Gestão IGD-Bolsa Família 3.3.90.30.00 1.311.0000.0000 40.000 
+
+08.244.0260.2063 Desenvolver Ações Gestão IGD-Bolsa Família 3.3.90.36.00 1.311.0000.0000 240.000 
+
+08.244.0260.2063 Desenvolver Ações Gestão IGD-Bolsa Família 4.4.90.52.00 1.311.0000.0000 100.000 
+
+08.244.0280.1186 Desenvolver ações de combate e erradicação do trab 3.3.90.39.00 1.311.0000.0000 225.000 
+
+08.244.0280.1186 Desenvolver ações de combate e erradicação do trab 4.4.90.52.00 1.311.0000.0000 70.000 
+
+08.244.0280.2184 Apoiar e Manter Técnico e Financeiro as Organizaçõ 4.4.50.42.00 1.311.0000.0000 50.000 
+
+08.244.0280.2184 Apoiar e Manter Técnico e Financeiro as Organizaçõ 4.4.90.52.00 1.311.0000.0000 130.000 
+
+08.244.0280.2185 Construir, implantar, manter e reformar equipament 4.4.90.52.00 1.311.0000.0000 50.000 
+
+08.244.0280.2188 Garantir e Manter os Serviços Continuados de Prote 3.3.90.39.00 1.311.0000.0000 200.000 
+
+14.00.00 SECRETARIA DE MEIO AMBIENTE    
+
+14.01.00 Secretaria de Meio Ambiente    
+
+04.122.0080.1148 Implementar e Integrar o Sistema Municipal de Info 3.3.90.39.00 1.001.0000.0000 12.000 
+  TOTAL  3.397.520 
+
+ 
+
+

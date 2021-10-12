@@ -1,0 +1,75 @@
+
+FUNDAÇÃO UNIVERSIDADE REGIONAL DE BLUMENAU
+
+Extrato nº. 525/2020
+PARTES:  FUNDAÇÃO UNIVERSIDADE REGIONAL DE BLUMENAU
+
+E
+
+                  MM COMÉRCIO DE EQUIPAMENTOS LTDA EPP
+OBJETO: Registro de Preços para aquisições futuras de peças e equipamentos de informática para uso de diversos setores da Universidade.
+FUNDAMENTO LEGAL: Pregão Presencial (SRP) nº 263/2020 e Contrato nº 240/2020, firmado em 11 de dezembro de 2020.  
+PREÇO: O preço ofertado pela empresa signatária da presente Ata de Registro de Preços é o abaixo informado, de acordo com a respectiva classificação:
+
+	Item
+	Código FURB
+	Qtde.
+	Und.
+	Descrição do Item
+	Preço Unitário 
+(em R$)
+	Preço Total do Item 
+(em R$)
+
+	5
+	39967
+	15
+	Peça
+	Disco rígido (HD) SATA III de 1TB / 3,5 polegadas, com as seguintes características:
+
+Tipo: interno
+
+Dimensões: 3,5 polegadas
+
+Capacidade mínima: 1000 GB
+
+Interface: SATA III de 6 GB/s
+
+Alimentação: Interface padrão SATA 
+
+Velocidade de rotação mínima: 7200 RPM
+
+Buffer mínimo: 16MB de cache
+
+Tecnologias: Suporte a SMART
+
+Embalagem: Original, lacrada e com os acessórios do fabricante
+
+Garantia do fabricante: 
+
+-Mínima de 24 (vinte e quatro) meses no Brasil.
+
+-O fabricante deverá disponibilizar em seu site oficial, formulário para consulta da garantia do HD, devendo exibir assim que submetidos os dados do HD, seu prazo de garantia, modelo e número de série, sendo possível gerar uma ordem de troca/devolução direto no site, sem necessidade de atendimento via callcenter ou e-mail.
+
+A garantia deverá ser atendida no Brasil, sem a necessidade de envio do disco para outros países.
+	342,00
+	5.130,00
+
+	Preço Total do Item (em reais, por extenso)
+	Cinco mil, cento e trinta reais.
+
+	Detalhamento das especificações técnicas
+
+	Marca
+	SEAGATE
+
+	Modelo
+	ST 1000 DM010
+
+	Garantia (em meses)
+	12 (doze) meses
+
+
+PAGAMENTO: O pagamento será realizado em até 30 (trinta) dias consecutivos após a efetiva entrega (com descarga) do(s) equipamento(s) desde que estas sejam aprovados pela Gestão Contratual e sigam acompanhados da respectiva Nota Fiscal Eletrônica (NF-e), através de depósito bancário (hipótese na qual a NF-e deverá conter os dados bancários da CONTRATADA) ou de boleto bancário (caso no qual tal documento deverá acompanhar a NF-e).
+PRAZO DE VIGÊNCIA: A presente Ata de Registro de Preços terá a validade de 12 (doze) meses, contados a partir da data de sua assinatura.
+DATA: 11/12/2020.

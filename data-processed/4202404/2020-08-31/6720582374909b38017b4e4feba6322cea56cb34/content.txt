@@ -1,0 +1,121 @@
+	
+PORTARIA Nº 575/2020/GABSEMUS
+
+ESTABELECE AS REGRAS PARA A REALIZAÇÃO DO INQUÉRITO EPIDEMIOLÓGICO A SER DESENVOLVIDO PELA SECRETARIA MUNICIPAL DE PROMOÇÃO DA SAÚDE E DA OUTRAS PROVIDÊNCIAS
+
+WINNETOU MICHEL KRAMBECK, no uso de suas atribuições de Gestor Municipal de Saúde estabelecidas no Art. 18 da Lei nº 8.080/90 e com base no Artigo 14 da Lei Complementar nº 1.234 de 06 de junho de 2019 e inciso II do Artigo 8º da Lei complementar 84 de 09 de junho de 1995;
+RESOLVE:
+Art. 1º Realizar-se-á inquérito epidemiológico, através da coleta de testes RT-PCR, nos Ambulatórios Gerais do Município entre o dia 31/08/2020 e 04/09/2020 com objetivo de guiar medidas de saúde pública para o combate ao Covid-19, nos termos do ANEXO I.
+Art. 2º Para a realização do teste o paciente deverá preencher o termo de consentimento que consta do ANEXO II.
+Art. 3º Será designada equipe técnica responsável pela análise de resultado dos exames coletados.
+Art. 4º Esta Portaria entra em vigor na data de sua publicação.
+
+
+ Blumenau (SC), em 27 de agosto de 2020.
+
+
+
+
+WINNETOU MICHEL KRAMBECK
+Secretário Municipal de Promoção da Saúde
+Gestor do Fundo Municipal de Saúde
+
+
+
+
+
+
+
+
+
+
+
+
+					ANEXO I
+
+1. Serão realizados entre os dias 31/08 a 04/09/2020 mil e trezentos (1.300) testes RT-PCR, distribuídos proporcionalmente entre as 7 regiões de Blumenau e categorizados pela faixa etária, do item 4. Os testes serão realizados pelos 7 Ambulatórios Gerais do município.
+2. A população testada deverá ser escolhida aleatoriamente pela equipe de saúde, independente de raça/cor e sexo, sem prévio agendamento, devendo-se utilizar a população que acessar os serviços de saúde por quaisquer motivos, exceto se consulta por suspeita de Síndrome Gripal ou Covid-19, ou se o paciente já tiver sido previamente diagnosticado para COVID-19. Salienta-se que os pacientes selecionados não deverão entrar nos espaços denominados FAST-Tracks, a fim de diminuir a chance de transmissão do SARS-CoV 2 para a população hígida.
+3. As Unidades de Saúde poderão, no máximo, selecionar 01 (um) representante por família a cada etapa de coletas.
+4.A distribuição dos testes será feita da seguinte forma:
+
+	Número de testes a serem realizados por região
+
+	Região
+	10 - 59 anos
+	60 anos ou mais
+	Total
+
+	Itoupavas
+	135
+	14
+	149
+
+	Badenfurt
+	173
+	18
+	191
+
+	Fortaleza
+	186
+	20
+	206
+
+	Velha
+	274
+	29
+	303
+
+	Vila Nova
+	118
+	13
+	131
+
+	Central
+	134
+	14
+	148
+
+	Garcia
+	155
+	17
+	172
+
+	Total 
+	1175
+	125
+	1300
+
+
+
+* Divisão realizada de acordo com a população estimada pela SEPLAN.[footnoteRef:2] [2: Bairros que compõem cada região:Itoupavas: Vila Itoupava e Itoupava central.Badenfurt: Testo Salto, Badenfurt, Itoupavazinha e Salto do Norte.Fortaleza: Fidélis, Fortaleza Alta, Fortaleza, Tribess, Nova Esperança e Itoupava Norte.Velha: Passo Manso, Salto Weissbach, Água Verde, Velha, Velha Central e Velha Grande.Vila Nova: Salto, Escola Agrícola, Vila Nova e Itoupava Seca.Central: Victor Konder, Boa Vista, Ponta Aguda, Vorstadt, Bom Retiro, Centro, Jardim Blumenau, Vila Formosa e Ribeirão Fresco.Garcia: Progresso, Glória, Valparaíso e Garcia.
+] 
+
+
+5. No momento da coleta, o profissional de saúde deve, dentro dos critérios mencionados acima, realizar anotação do nome, data de nascimento e CPF de cada paciente coletado, orientá-lo sobre as informações constantes no Termo de Consentimento e coletar sua assinatura em duas vias originais, sendo que uma via será de posse do serviço e outra de posse do paciente.
+6. As listas com os dados dos pacientes coletados deverão ser encaminhadas ao final de cada dia de coleta à equipe técnica responsável pela análise de resultados nomeada pelo Secretário Municipal de Promoção da Saúde e os termos de consentimento deverão ser enviados ao final do período de testagem (04/09/2020).
+
+
+
+ANEXO II
+Termo de Consentimento Livre e Esclarecido
+
+A pesquisa intitulada “Inquérito Epidemiológico para COVID-19” está sendo desenvolvida pela Secretaria Municipal de Promoção da Saúde de Blumenau (SEMUS) com objetivo de estimar a extensão da pandemia em Blumenau, mapear sua distribuição geográfica, especialmente pontos críticos e populações de maior risco, ao longo dos próximos meses, através da realização de testes RT-PCR. 
+A pesquisa se dá através da coleta do exame RT-PCR através de um swab inserido na cavidade nasal e na orofaringe, sendo que, resultados possíveis para esse teste são: positivo para SARS-CoV 2, o que indica infecção ativa para esse vírus; negativo para SARS-CoV 2, o que indica a não infecção ativa para esse vírus e resultado inconclusivo.
+O exame é de execução segura realizado por profissional de saúde, sendo possível que ocorra desconforto, espirros, irritação ou até mesmo sangramento da mucosa, dor local, entre outros, que deverão ser esclarecidos pelo executante da coleta.
+Os resultados deste estudo poderão ser utilizados em comunicados internos da SEMUS, Prefeitura Municipal de Blumenau, jornais, revistas, entre outros, com caráter orientativo e de auxílio à gestão na tomada de decisão pela gestão.
+Por ocasião da publicação dos resultados, o nome do paciente será mantido em sigilo absoluto. Asseguramos também que seu material biológico não servirá para outros fins que não a pesquisa do vírus SARS-CoV-2 em nossos laboratórios conveniados.
+Elucidamos que sua participação (ou a participação do menor ou outro participante pelo qual o sr(a) é responsável) no estudo é voluntária e, portanto, o(a) senhor(a) não é obrigado(a) a fornecer as informações e/ou colaborar com as atividades solicitadas pelo Pesquisador(a). Caso decida não participar do estudo, ou resolver a qualquer momento desistir do mesmo, não sofrerá nenhum dano, tampouco haverá modificação na assistência que vem recebendo na sua Unidade Básica de Saúde.
+
+Desse modo, eu __________________________________________, RG nº ___________________, CPF nº ___________________declaro que fui devidamente informado(a) através do exposto acima e pelo profissional de saúde __________________________________, Matrícula ________________, dos objetivos e da relevância do inquérito epidemiológico, de como será minha participação, dos procedimentos e riscos decorrentes deste estudo, declaro o meu consentimento em participar do inquérito.
+Ciente ainda, que se o resultado do meu exame for positivo, devo me submeter ao isolamento social de até 14 (quatorze) dias a partir da data da coleta, a critério do médico emissor do atestado, bem como deverão permanecer isoladas as pessoas que residem no mesmo endereço que eu, e trabalhadores domésticos que exercem atividades no âmbito da minha residência.
+
+Estou ciente que receberei uma via desse documento.
+
+
+Blumenau , ____de _________de 2020.
+
+
+_____________________________________________
+Assinatura do participante ou responsável legal
+
+1

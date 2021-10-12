@@ -1,0 +1,213 @@
+ESTADO DE SANTA CATARINA
+MUNICÍPIO DE BLUMENAU
+Gabinete do Prefeito
+
+DECRETO Nº 12.801, DE 28 DE AGOSTO DE 2020.
+
+
+INSTITUI O SISTEMA ELETRÔNICO DE INFORMAÇÕES DO MUNICÍPIO DE BLUMENAU – SEIB, COMO SISTEMA OFICIAL E ÚNICO DE PROCESSO ELETRÔNICO ADMINISTRATIVO E GESTÃO DOCONHECIMENTO NO ÂMBITO DO MUNICÍPIO DE BLUMENAU, E DÁ OUTRAS PROVIDÊNCIAS.
+
+
+MÁRIO HILDEBRANDT, Prefeito Municipal de Blumenau, no uso das atribuições que lhe conferem os incisos II, V e VII, do artigo 59, e na forma das alíneas “f” e “o”, do inciso I, do artigo 75, todos da Lei Orgânica do Município, promulgada em 29 de março de 1990, e
+
+CONSIDERANDO o disposto na Medida Provisória 
+nº 2.200-2, de 24 de agosto de 2001, que institui a Infraestrutura de Chaves Públicas Brasileira (ICP - Brasil), para garantir a autenticidade, a integridade e a validade jurídica de documentos eletrônicos;
+
+CONSIDERANDO que os documentos em meio eletrônico produzidos com a utilização de processo de certificação disponibilizado pela ICP-Brasil presumem-se verdadeiros em relação aos signatários, na forma do art. 219, da Lei nº 10.406, de 10 de janeiro de 2002 (Código Civil);
+
+CONSIDERNADO o estabelecido na Lei Federal 
+nº 12.527, de 18 de novembro de 2011, que dispõe sobre o acesso a informações previsto no inciso XXXIII do caput do art. 5º, no inciso II do §3º do art. 37 e no art. 216 da Constituição Federal;
+
+CONSIDERANDO a necessidade de implementar processos que organizem e sistematizem a capacidade do Município de gerar, analisar, compartilhar e fornecer conhecimento de maneira rápida e precisa, incorporar recursos da tecnologia da informação aos trâmites processuais administrativos, objetivando maior eficiência na gestão pública, observando os requisitos de segurança e autenticidade dos documentos administrativos em meios eletrônicos;
+
+CONSIDERANDO a necessidade de regulamentar e padronizar a tramitação eletrônica de procedimentos e processos por meio do Sistema Eletrônico de Informações de Blumenau – SEIB no âmbito da Administração Direta e Indireta do Município de Blumenau, 
+
+CONSIDERANDO o disposto na MP 983/2020, que Estabelece regras e procedimentos sobre assinatura eletrônica no âmbito da comunicação interna dos órgãos e entidades da administração direta, autárquica e fundacional dos Poderes e órgãos constitucionalmente autônomos dos entes federativos, da comunicação entre pessoas naturais ou pessoas jurídicas de direito privado e os entes públicos mencionados e da comunicação entre os entes públicos aludidos. 
+
+
+DECRETA:
+
+
+Art. 1º Este Decreto institui o Sistema Eletrônico de Informações do Município de Blumenau - SEIB, como sistema oficial e único de processo eletrônico administrativo e gestão de conhecimento no âmbito da Administração Direta e Indireta do Município de Blumenau.
+
+Art. 2º São diretrizes do SEIB:
+
+I - garantia da confiabilidade e integridade das informações relativas a documentos e processos realizados;
+
+II - transparência;
+
+III - gestão do conhecimento visando a facilidade e a agilidade na obtenção de informações gerenciais e de caráter estratégico relativas a documentos e processos, bens e serviços administrativos;
+
+IV - celeridade no andamento processual e na movimentação de documentos no âmbito da Administração Direta e Indireta do Município de Blumenau;
+
+V - adoção de práticas de gestão alinhadas com os princípios da sustentabilidade e com a redução dos impactos ambientais decorrentes da atividade institucional.
+
+Art. 3º A tramitação dos processos administrativos, a comunicação de atos, a formação de autos, transmissão de peças processuais e a publicação oficial dos atos produzidos no âmbito da Administração Direta e Indireta do Município de Blumenau serão realizados exclusivamente por intermédio do SEIB, regulamentado pelo presente Decreto.
+
+§ 1º Os documentos impressos de origem externa, necessários à utilização do SEIB, serão digitalizados para sua incorporação aos autos dos processos.
+
+§ 2º A obrigatoriedade de abertura dos processos administrativos, no âmbito da Administração Direta e Indireta do Município de Blumenau, bem como sua respectiva tramitação no SEIB, ocorrerá de maneira gradual, de acordo com instruções normativas exaradas pela Secretaria Municipal de Gestão Governamental - SEGG, Controladoria Geral do Município - CGM, Procuradoria Geral do Município - PGM ou a Secretaria responsável pelo processo, devidamente aprovadas por Decreto.
+
+Art. 4ºPara fins deste Decreto, considera-se:
+
+I - arquivo eletrônico: repositório de documentos ou de processos eletrônicos ou digitalizados;
+
+II - documento eletrônico: documento produzido sob a forma de arquivo eletrônico, inclusive aquele resultante de processo de digitalização;
+
+III - processo eletrônico: conjunto de documentos eletrônicos e eventos produzidos e registrados no SEIB;
+
+IV - transmissão eletrônica: toda forma de comunicação à distância de documentos ou arquivos digitais.
+
+V - usuário interno: servidor público em exercício no âmbito da Administração Direta e Indireta doMunicípio de Blumenau, que tenha acesso, de forma autorizada, ao SEIB;
+
+VI - usuário externo: qualquer cidadão ou pessoa jurídica que tenha acesso, de forma autorizada, a informações produzidas no âmbito do SEIB e que não seja caracterizado como usuário interno;
+
+VII - assinatura eletrônica: as seguintes formas de identificações inequívocas do signatário:
+
+a) registro realizado eletronicamente por usuário identificado de modo inequívoco, mediante "login" e "senha", com vistas a firmar determinado documento com sua assinatura;
+
+b) assinatura digital baseada em certificado digital emitido por autoridade certificadora credenciada, na forma, da lei especifica.
+
+VIII - tarefa: etapa do processo executada individualmente por um usuário e possui numeração única cronológica e automática atribuída pelo sistema;
+
+IX - área competente: área que detém atribuição legal afeta ao assunto principal tratado em determinado documento;
+
+X - órgão gestor do SEIB: é responsável por realizar a implementação e a gestão do SEIB, por meio da Diretoria de Sistemas e Inovação da Secretaria de Gestão Governamental.
+
+Parágrafo Único. Em casos de divergências entre áreas caberá ao Comitê Gestor a tomada de decisão.
+
+Art. 5º O credenciamento do usuário externo será realizado mediante procedimento no qual esteja assegurada a adequada identificação do interessado.
+
+§ 1º Ao credenciado será atribuído registro e meio de acesso ao sistema, de modo a preservar o sigilo, a identificação e a autenticidade de suas comunicações.
+
+§ 2º No caso de utilização de assinatura eletrônica o usuário deverá assinar recebimento/autorização da mesma pessoalmente.
+
+Art. 6º O SEIB contempla, entre outras, as seguintes funcionalidades:
+
+I - assinatura eletrônica de documentos produzidos eletronicamente;
+
+II - instrução e gestão de informações, documentos e processos; 
+
+III - comunicações e demais atos processuais;
+
+IV - intercâmbio eletrônico de informações com as áreas competentes.
+
+Art. 7º A consulta às tarefas e decisões administrativas será pública, mediante prévio credenciamento, ressalvados os caso de sigilo.
+
+§ 1º As peças e documentos enviados para os usuários externos serão acessíveis apenas aos que forem credenciados no SEIB para o respectivo processo.
+
+§ 2º Qualquer pessoa poderá requerer consulta aos autos, mediante requerimento justificado na forma da lei, situação em que poderá ser fornecida chave específica para consulta pelo órgão competente.
+
+§ 3º Os processos protegidos por sigilo não serão acessíveis por meio de consulta pública.
+
+Art. 8º Os processos do SEIB terão os seguintes níveis de acesso:
+
+I - Nível Público: visualização por todos os usuários internos, os usuários externos do processo e por terceiros, sendo que estes devem estar munidos do número do processo;
+
+II - Nível Reservado: visualização por todos os usuários das unidades nas quais o processo e os documentos tramitem com algumas funcionalidades restritas a unidade que autuou o processo;
+
+III - Nível Sigiloso: visualização somente pelos usuários que receberem credencial de acesso concedida pelo usuário que autuou o processo.
+
+Art. 9º São considerados sigilosos somente os tipos processuais previamente classificados no sistema como tal.
+
+§ 1º A solicitação de inclusão de novos tipos processuais de caráter sigiloso deve ser encaminhada à Diretoria de sistemas.
+
+§ 2º A conversão de processos administrativos públicos ou reservados em processos sigilosos somente será possível pela alteração do tipo processual.
+
+§ 3º A responsabilidade pela atribuição de credencial de acesso ao processo sigiloso é da autoridade que fizer a concessão.
+
+§ 4º A atribuição de credencial para autoridade de outra unidade somente deverá ser efetivada mediante autorização do secretário ou dirigente máximo da unidade correspondente.
+
+§ 5º O detentor de credencial em processos administrativos sigilosos, concluídos ou em tramitação, que tenha sua lotação ou função alterada ou quando solicitado, por razão justificada, pela gestão do SEIB, deverá realizar a transferência de credencial nos referidos processos ao seu sucessor.
+
+Art. 10. Os documentos arquivados em forma eletrônica que tiverem sua integridade e autoria asseguradas nos termos deste Decreto terão o mesmo valor probante, para todos os fins de direito, que os documentos arquivados em papel ou em outra forma ou meio legalmente admitidos.
+
+§ 1º As reproduções em papel obtidas a partir de documentos arquivados em meio eletrônico, na forma deste Decreto, presumem-se fiéis para todos os fins de direito.
+
+§ 2º Os autos dos processos eletrônicos devem ser protegidos por meio de sistemas de segurança de acesso e de armazenamento digital que garantam a autenticidade, preservação e integridade dos dados, sendo dispensada a sua formação física.
+
+3º Os documentos cuja digitalização seja tecnicamente inviável, devido ao grande volume ou por motivo de ilegibilidade, devem ser identificados e indicados no sistema eletrônico, podendo ser mantidos nas unidades ou nos setores responsáveis pelo tempo necessário à conclusão do respectivo processo.
+
+Art. 11. A autoridade administrativa poderá determinar que sejam realizados por meio eletrônico a exibição e o envio de dados e de documentos necessários à instrução do processo.
+
+§ 1º As tarefas praticadas no SEIB consideram-se realizadas na data e horário registrados pelo sistema, conforme horário oficial de Brasília.
+
+§ 2º O nome atribuído ao documento eletrônico deve ser coincidente com o seu conteúdo, com vistas a facilitar a compreensão do histórico do processo.
+
+§ 3º Quando o ato for praticado para atender prazo processual, será considerado tempestivo aquele transmitido integralmente até as 23h 59min e 59s (vinte e três horas, cinquenta e nove minutos e cinquenta e nove segundos) do último dia.
+
+§ 4º Não serão considerados, para efeito de tempestividade, o horário inicial da conexão do usuário à Internet, o horário inicial do acesso do usuário ao SEIB ou os horários registrados pelos equipamentos do remetente.
+
+Art. 12. Observado o disposto na legislação arquivística brasileira proposta pelo Conselho Nacional de Arquivos - CONARQ, os documentos originais, independentemente do meio onde forem gerados, após serem arquivados eletronicamente na forma deste Decreto, poderão ser transferidos para outro suporte local repositório digital.
+
+§ 1º Os documentos externos que forem digitalizados e inseridos no SEIB serão considerados como originais e deverão tramitar somente em meio eletrônico.
+
+§ 2º As certidões, os contratos, as notas fiscais e os demais documentos comprobatórios originais emitidos por entes externos ao âmbito da Administração Direta e Indireta do Município de Blumenau deverão ser mantidos em arquivo, após inserção no SEIB, nos seus respectivos órgãos, que deverão promover a guarda, determinada pela Instrução Normativa que regulamentam o tipo de processo e pelo Plano de Classificação e Tabela de Temporalidade - PCTT proposta pelo Conselho Nacional de Arquivos - CONARQ.
+
+§ 3º Antes de seu envio para arquivamento, deve ser registrado fisicamente na parte superior direita do documento o número do processo gerado pelo SEIB, juntamente com a palavra SEIB.
+
+§ 4º A responsabilidade pelo envio imediato dos documentos referidos no parágrafo segundo é da unidade que os inseriu no SEIB.
+
+Art. 13. A conservação dos autos do processo poderá ser efetuada prioritariamente por meio eletrônico.
+
+Parágrafo Único. Os autos dos processos eletrônicos deverão ser protegidos por meio de sistemas de segurança de acesso e armazenados em meio que garanta a preservação e integridade dos dados, sendo dispensada a formação de autos suplementares.
+
+Art. 14. Toda movimentação gerada no SEIB será registrada com a indicação da data e do horário de sua realização e a identificação do usuário que lhe deu causa.
+
+§ 1º É de exclusiva responsabilidade do usuário identificado à movimentação gerada registrada no sistema.
+
+§ 2º As anulações e retificações de eventos realizados por usuários internos deverão ser justificados e registrados no histórico do processo.
+
+§ 3º Após a publicação, tramitação e assinatura, os documentos não poderão ser alterados ou excluídos, sendo a retificação realizada somente com justificativa e a inclusão de novo documento.
+
+Art. 15. São deveres de todos os usuários do Sistema:
+
+I - cumprir a Instrução Normativa que institui as diretrizes gerais para cada processo;
+
+II - registrar todas as atividades de gestão documental no SEIB do Município de Blumenau;
+
+III - não revelar, fora do âmbito profissional, fato ou informação de qualquer natureza de que tenha conhecimento por força de suas atribuições, salvo em decorrência de decisão competente na esfera legal;
+
+IV - manter a cautela necessária na utilização do Sistema, a fim de evitar que pessoas não autorizadas tenham acesso às informações do SEIB;
+
+V - encerrar a sessão de uso do SEIB ou bloquear a estação de trabalho sempre que se ausentar do computador, evitando assim a possibilidade de uso indevido das informações por pessoas não autorizadas;
+
+VI – utilizar política de senha com nível médio de segurança, bem como evitar o uso de senhas compostas de elementos facilmente identificáveis por possíveis invasores, tais como, nome do próprio usuário, nome de membros da família, datas, números de telefone, letras e números repetidos, entre outros;
+
+VII - responder pelas consequências decorrentes das ações ou omissões que possam por em risco ou comprometer a exclusividade de conhecimento de sua senha ou das transações em que esteja habilitado;
+
+VIII – a senha de acesso ao SEIB é pessoal e intransferível, ousuário é responsável pela utilização da mesma, sob pena de responsabilização;
+
+IX - comunicar à Secretaria de Gestão Governamental, unidade gestora do SEIB, toda e qualquer mudança percebida em privilégios, inferiores ou superiores, de acesso ao sistema de disponibilização para alteração de documentos e processos estabelecidos para seu perfil.
+
+Parágrafo Único. O disposto no inciso IX deste artigo não afasta a responsabilidade dos titulares das respectivas unidades que não comunicarem ou alterarem os perfis e a lotação dos servidores, conforme o caso.
+
+Art. 16. Encerrado o processamento administrativo, os autos serão concluídos eletronicamente no SEIB.
+
+Art. 17. No caso de ocorrer inoperabilidade parcial ou completa do sistema os documentos deverão ser apresentados fisicamente de acordo com os modelos, e autuados imediatamente, quando do restabelecimento do sistema, sendo prioritários os documentos que devam ser apreciados com urgência em virtude de prazo legal instituído.
+
+§ 1º Considera-se para efeitos da instrução processual a data e o horário do recebimento do documento físico na unidade que efetuar o recebimento.
+
+§ 2º Todos os documentos recebidos em virtude da inoperabilidade parcial ou completa do sistema devem ser entendidos como documentos comprobatórios, inclusive para fins de arquivo.
+
+§ 3º Em caso de a inoperabilidade retornar, o sistema deverá disponibilizar a certidão constando período de inoperabilidade, considerando os prazos interrompidos. 
+
+Art. 18. A SEGG, órgão gestor do SEIB, poderá baixar normas complementares, necessárias ao fiel cumprimento do disposto neste Decreto.
+
+Art. 19. Compete à SEGG emitir orientações e resolver os casos omissos sobre os procedimentos de gestão documental no âmbito do SEIB.
+
+Art. 20. A implantação do SEIB no âmbito da Administração Direta e Indireta do Município de Blumenau será gradual, de acordo com instruções normativas exaradas pelos órgãos competentes, aprovadas por Decreto.
+
+Art. 21. Este Decreto entra em vigor na data de sua publicação.
+
+PREFEITURA MUNICIPAL DE BLUMENAU, em 28 de agosto de 2020.
+
+
+
+MÁRIO HILDEBRANDT
+Prefeito Municipal
+  
+
+z> W e _]
+BLUMENA U
+

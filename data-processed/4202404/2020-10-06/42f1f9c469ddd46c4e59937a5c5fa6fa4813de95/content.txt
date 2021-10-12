@@ -1,0 +1,97 @@
+
+FUNDAÇÃO UNIVERSIDADE REGIONAL DE BLUMENAU
+
+Extrato nº. 404/2020
+PARTES:  FUNDAÇÃO UNIVERSIDADE REGIONAL DE BLUMENAU
+
+E
+
+                  RP COMERCIAL LTDA
+OBJETO: Registro de Preço para aquisições futuras de Equipamentos de Proteção Individual (EPI´s) para uso da Universidade.
+FUNDAMENTO LEGAL: Pregão Presencial nº 197/2020 e Ata de Registro de Preços nº 182/2020, firmado em 06 de outubro de 2020.  
+PREÇO: O preço ofertado pela empresa signatária da presente Ata de Registro de Preços é o abaixo informado, de acordo com a respectiva classificação.
+	Item
+	Código FURB
+	Qtde.
+	Und.
+	Descrição do Item
+	Marca
+	Preço Unitário (em R$)
+	Preço Total do Item (em R$)
+
+	7
+	39094
+	20.000
+	peça
+	Máscara (respirador purificador de ar) tipo peça semifacial filtrante para partículas PFF2 / Dobrável / Sem válvula de exalação / Produto com Certificado de Aprovação (CA) válido.)
+	Alliance
+	2,05
+	41.000,00
+
+	10
+	38286
+	20
+	peças
+	Máscara semi-facial sem filtro; marca 3M, referência 6100 (tamanho pequeno).
+	3M
+	84,00
+	1.680,00
+
+	11
+	38287
+	20
+	peça
+	Máscara semi-facial sem filtro; marca 3M, referência 6300 (tamanho grande).
+	3M
+	84,00
+	1.680,0
+
+	16
+	38275
+	500
+	peças
+	Óculos de segurança com lente de policarbonato transparente com tratamento antirriscos proteção UVA/UVB / Armação e visor confeccionados em uma única peça de policarbonato, com apoio nasal injetado na mesma peça sendo específico para o encaixe de lentes corretivas, hastes tipo espátula confeccionadas em nylon / Produto com Certificado de Aprovação (CA) válido em conformidade com a NR-6
+	Kalipso
+	8,35
+	4.175,00
+
+	20
+	552
+	40
+	pares
+	Luva tricotada de algodão; pigmentada de PVC na palma das mãos e nos dedos; punho com elástico.
+	Super Safety
+	1,75
+	70,00
+
+	21
+	6038
+	10
+	peça
+	Vestimenta tipo avental de segurança - confeccionado em raspa de couro, tiras em raspa, com ou sem fivelas metálicas para ajustes - sem emendas - tamanho mínimo de 100cm x 60cm. Produto com certificado de aprovação (CA) válido
+	Schmitz
+	17,00
+	170,00
+
+	22
+	29775
+	40
+	pares
+	Luva de segurança em tecido de algodão / revestida com borracha nitrílica / com punho em malha.
+	Super Safety
+	4,90
+	196,00
+
+	26
+	37963
+	50
+	pares
+	Luva nitrílica curta; comprimento 32cm; palma antiderrapante; interior revestido com flocos de algodão. ( P- M- G)
+	Volk
+	4,90
+	245,00
+
+
+PAGAMENTO: O pagamento será efetuado em até 30 (trinta) dias consecutivos após a efetiva entrega dos materiais, desde que os mesmos sejam aprovados pelo Gestor designado pela CONTRATANTE e sigam acompanhados da(s) respectiva(s) Nota(s) Fiscal(is) Eletrônica(s) (NF-e), através de depósitos bancários (hipótese na qual a NF-e deverá conter os dados bancários da CONTRATADA) ou de boletos bancários (caso no qual tais documentos deverão acompanhar a NF-e).
+PRAZO DE VIGÊNCIA: A presente Ata de Registro de Preços terá a validade de 12 (doze) meses, a partir da data de sua assinatura.
+DATA: 06/10/2020.

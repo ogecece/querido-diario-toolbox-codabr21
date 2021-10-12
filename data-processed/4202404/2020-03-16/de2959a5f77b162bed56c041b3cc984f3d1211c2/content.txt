@@ -1,0 +1,290 @@
+
+FUNDAÇÃO UNIVERSIDADE REGIONAL DE BLUMENAU
+
+Extrato nº. 100/2020
+PARTES:
+FUNDAÇÃO UNIVERSIDADE REGIONAL DE BLUMENAU
+E
+
+REAGEN PRODUTOS PARA LABORATÓRIOS EIRELI
+OBJETO: Registro de preços para aquisições futuras de materiais médico hospitalar e de higiene e beleza para a Universidade.
+FUNDAMENTO LEGAL: Concorrência (SRP) nº 448/2019 e Ata (SRP) nº 033/2020 que será firmada em 16 de março de 2020. 
+PREÇO: O preço ofertado pela empresa signatária da presente Ata de Registro de Preços é o abaixo informado, de acordo com a respectiva classificação:
+	Item
+	Código FURB
+	Qtde.
+	Und.
+	Descrição do Item
+	Marca
+	Preço Unitário 
+
+(em R$)
+	Preço Total do Item 
+
+(em R$)
+
+	8
+	16706
+	20
+	Frasco
+	Ágar Mitis salivarius / frasco de 454g
+	Reatec
+	427,00
+	8.540,00
+
+	11
+	10684
+	6
+	Frasco
+	Ágar plate count (agar PCA) / frasco de 500g
+	Reatec
+	288,00
+	1.728,00
+
+	12
+	10675
+	12
+	Frasco
+	Ágar Sabouraud Dextrose / frasco de 100g
+	Reatec
+	50,00
+	600,00
+
+	14
+	24000
+	12
+	Frasco
+	Ágar seletivo para fungos patogênicos (peptona de farinha de soja + ágar + cicloheximida + cloranfenicol + dextrose) / frasco de 500g
+	Reatec
+	1.165,00
+	13.980,00
+
+	15
+	15002
+	6
+	Frasco
+	Ágar triptose sulfito cicloxerina (Agar TSC) / frasco de 500g
+	Reatec
+	384,00
+	2.304,00
+
+	16
+	10925
+	6
+	Frasco
+	Ágar-Ágar / frasco de 500g
+	Reatec
+	252,00
+	1.512,00
+
+	20
+	28742
+	6
+	Frasco
+	Albumina sérica bovina / frasco de 10g (marca Sigma / código A7906)
+	Reatec
+	242,00
+	1.452,00
+
+	23
+	10939
+	6
+	Frasco
+	Aloxana (Alloxan monohydrate) / frasco 10 g
+	Reatec
+	255,00
+	1.530,00
+
+	24
+	10943
+	6
+	Frasco
+	Azul de Astra - frasco 25 gr
+	Reatec
+	2.650,00
+	15.900,00
+
+	26
+	10849
+	6
+	Frasco
+	Azul de metileno (C.I. 52015) / frasco de 25g
+	Reatec
+	13,60
+	81,60
+
+	28
+	26773
+	10
+	Frasco
+	Azul de tiazol (MTT) / em pó / para teste de cultura celular / para teste de cultura celular de insetos / frasco com 500 mg / marca Sigma (código M5655-500MG)
+	Reatec
+	297,00
+	2.970,00
+
+	37
+	22915
+	6
+	Frasco
+	Caldo verde malaquita (base) para microbiologia / frasco de 500g.
+	Reatec
+	2.700,00
+	16.200,00
+
+	39
+	23918
+	6
+	Caixa
+	Cartelas Quanti-tray 2000 / plástica e aluminizada estéril / com 97 células / caixa com 100 unidades
+	Idexx
+	2.599,10
+	15.594,60
+
+	57
+	22241
+	6
+	Frasco
+	D-frutose pura (levulose) / frasco de 100g
+	Reatec
+	15,00
+	90,00
+
+	96
+	11192
+	6
+	Frasco
+	Eosina amarelada / entrega em frasco de 25g
+	Reatec
+	19,00
+	114,00
+
+	101
+	21197
+	6
+	Frasco
+	Fast Green FCF para microscopia (marca Merck / código 104022); frasco 25g
+	Reatec
+	146,00
+	876,00
+
+	102
+	38974
+	6
+	Pacote
+	Filtro de seringa, pré-limpo, soldado, membrana de PTFE hidrofílico / Diâmetro do filtro 13mm, diâmetro do poro 0.22um /  Cor dourada, em pacote com 100 unidades
+	Filtrilo
+	310,00
+	1.860,00
+
+	140
+	22142
+	6
+	Kit
+	Kit DNTP
+	Reatec
+	368,00
+	2.208,00
+
+	196
+	25328
+	6
+	Kit
+	Kit Platinum TAQ polimerase
+	Ludwig
+	510,00
+	3.060,00
+
+	205
+	14705
+	6
+	Frasco
+	Lactose D(+) Monohidratada P.A. - 500g
+	Reatec
+	21,30
+	127,80
+
+	215
+	26233
+	6
+	Frasco
+	N-(1-naftil) Etilenodiamina (N-(1-Naphthyl)ethylenediamine dihydrochloride) / frasco de 10g (marca Sigma / código 222488-10G).
+	Reatec
+	313,00
+	1.878,00
+
+	227
+	17810
+	6
+	Frasco
+	Pepsina 1:10000 / 700-u/g / frasco de 100g
+	Reatec
+	148,88
+	893,28
+
+	231
+	10702
+	6
+	Frasco
+	Polimixina sulfato purex 1.000.000 un
+	Reatec
+	187,00
+	1.122,00
+
+	238
+	17867
+	6
+	Frasco
+	Reagente Fenol de Folin & Ciocalteu's / frasco de 100 ml (marca Sigma / código F-9252)
+	Reatec
+	272,00
+	1.632,00
+
+	260
+	19456
+	35
+	Pacote
+	Swab de Rayon / estéril / embalado individualmente / pacote com 100 unidades
+	Absorve
+	16,50
+	577,50
+
+	266
+	21946
+	10
+	Caixa
+	Tubo capilar / comprimento 75mm / diâmetro interno 1mm e externo 1,5mm / com heparina / frasco com 500 unidades
+	Ion
+	43,35
+	433,50
+
+	269
+	18044
+	20
+	Pacote
+	Tubo de Eppendorf para PCR / fabricados em polipropileno / volume 0,2ml / pacote com 1000 unidades.
+	Cral
+	190,00
+	3.800,00
+
+	280
+	15950
+	4
+	Peça
+	Alça de platina / com cabo de Kohle / calibrada / volume de 0,001ml
+	Reagen
+	212,00
+	848,00
+
+	281
+	18632
+	1000
+	Peça
+	Frasco conta-gotas com volume 30ml; vidro âmbar; com pipeta de vidro esmerilhada e tetina de borracha
+	Uniglas
+	7,76
+	7.760,00
+
+
+PAGAMENTO: O pagamento será efetuado em até 20 (vinte) dias consecutivos após a efetiva entrega (com descarga) dos materiais, desde que os mesmos estejam em perfeitas condições de uso, sejam aprovados pelo Gestor designado pela CONTRATANTE e sigam acompanhados da respectiva Nota Fiscal Eletrônica (NF-e), através de depósitos bancários (hipótese na qual a NF-e deverá conter os dados bancários da CONTRATADA) ou de boletos bancários (caso no qual tais documentos deverão acompanhar a NF-e).
+PRAZO DE VIGÊNCIA: A presente Ata de Registro de Preços terá a validade de 12 (doze) meses, contados a partir da data de sua assinatura.
+DATA: 16/03/2020

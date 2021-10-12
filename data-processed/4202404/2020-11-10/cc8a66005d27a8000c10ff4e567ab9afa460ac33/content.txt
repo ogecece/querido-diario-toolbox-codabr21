@@ -1,0 +1,217 @@
+ 
+
+ESTADO DE SANTA CATARINA
+MUNICÍPIO DE BLUMENAU
+
+SECRETARIA MUNICIPAL DE EDUCAÇÃO
+
+
+	ANEXO ÚNICO
+
+	Portaria SEMED nº 278, de 05 de novembro de 2020.
+
+	CADASTRO
+	SERVIDOR
+	UNIDADE
+	DISCIPLINA/CARGO
+	CH
+	TURNO
+
+	192287
+	Janete Bizatto Ferreira
+	CEI Frieda Zadrozny
+	Coordenador Pedagógico
+	40
+	Matutino/Vespertino
+
+	195669
+	Mônica Letícia Deschamps
+	CEI Paulo Tallmann
+	Coordenador Pedagógico
+	40
+	Matutino/Vespertino
+
+	155845
+	Mariza Ehalt Graciano
+	EBM Prof Oscar Unbehaun
+	Professor - Educação Física
+	20
+	Vespertino
+
+	184764
+	Cleia Aparecida Pereira
+	EBM Alberto Stein
+	Professor - Educação Física
+	20
+	Vespertino
+
+	229430
+	Luciana Merlo
+	CEI Max Scheidemantel
+	Professor - Educação Infantil
+	40
+	Matutino/Vespertino
+
+	228561
+	Eliete Vinotti Waldrich
+	CEI Profª Marlise S. Theis
+	Professor - Educação Infantil
+	40
+	Matutino/Vespertino
+
+	229288
+	Claudethi Montibeler Soares
+	CEI Leonardo Laurindo Terres
+	Professor - Educação Infantil
+	40
+	Matutino/Vespertino
+
+	188484
+	Noeli Aparecida Ribeiro Vieira
+	CEI Bertha Muller
+	Professor - Educação Infantil
+	40
+	Matutino/Vespertino
+
+	230083
+	Maria Dos Anjos de Souza Lima Zancanella
+	CEI Heinrich Reif
+	Professor - Educação Infantil
+	40
+	Matutino/Vespertino
+
+	231293
+	Mara Denise Pamplona Pissaia
+	CEI Oswaldo Burger
+	Professor - Educação Infantil
+	40
+	Matutino/Vespertino
+
+	196185
+	Marilda Thomaz
+	CEI Antonio José Curtipassi
+	Professor - Educação Infantil
+	40
+	Matutino/Vespertino
+
+	229510
+	Maria Eleusa Zabel Moraes.
+	CEI Luiz Vargas
+	Professor - Educação Infantil
+	40
+	Matutino/Vespertino
+
+	229570
+	Mari Célia Morais Wosniak
+	EBM Quintino Bocaiuva
+	Professor - Geografia
+	10
+	Matutino
+
+	188190
+	Íria Steiner
+	EBM Prof Friedrich K. Kemmelmeier
+	Professor - Geografia
+	10
+	Matutino
+
+	228676
+	Caique Fernando da Silva Fistarol
+	EBM Prof Oscar Unbehaun
+	Professor - Inglês
+	10
+	Vespertino
+
+	201170
+	Cláudia Pereira Maueler
+	EBM Machado de Assis
+	Professor - Inglês
+	10
+	Vespertino
+
+	87874
+	Sônia Liesenberg
+	EBM Anita Garibaldi
+	Professor - Inglês
+	10
+	Matutino
+
+	116793
+	Marlene Scheller Boos
+	EBM Visconde de Taunay
+	Professor - Inglês
+	10
+	Matutino
+
+	230296
+	Márcio Alexandre Lourenço de Lima
+	EBM Prof Oscar Unbehaun
+	Professor - Português
+	20
+	Matutino
+
+	223689
+	Vanezia Maria de Andrade e Souza
+	EBM Profª Hella Altenburg
+	Professor - Português
+	20
+	Matutino
+
+	230296
+	Márcio Alexandre Lourenço de Lima
+	EBM Prof Oscar Unbehaun
+	Professor - Português
+	10
+	Vespertino
+
+	230089
+	Tamara Reis Leal
+	EBM Alberto Stein
+	Professor - Português
+	10
+	Vespertino
+
+	197777
+	Adriana Rafael Rech Furlani
+	EBM Machado de Assis
+	Professor - Português
+	10
+	Vespertino
+
+	230089
+	Tamara Reis Leal
+	EBM Alberto Stein
+	Professor - Português
+	10
+	Vespertino
+
+	139149
+	Doralice Maria de Farias
+	EBM Alberto Stein
+	Professor - Português
+	10
+	Vespertino
+
+	223689
+	Vanezia Maria de Andrade e Souza
+	EBM Lauro Muller
+	Professor - Português
+	10
+	Vespertino
+
+
+
+
+
+
+
+ 
+
+_1562068953.doc
+ 
+
+
+
+
+
+

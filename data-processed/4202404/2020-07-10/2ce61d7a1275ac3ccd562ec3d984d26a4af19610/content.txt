@@ -1,0 +1,106 @@
+
+FUNDAÇÃO UNIVERSIDADE REGIONAL DE BLUMENAU
+
+Extrato nº. 240/2020
+PARTES:
+FUNDAÇÃO UNIVERSIDADE REGIONAL DE BLUMENAU
+E
+
+Techne Engenharia e Sistemas Ltda
+OBJETO: licenciamento do software LYCEUM para gerenciamento de instituições de ensino, além dos serviços associados de implantação, migração de dados e suporte do produto.
+FUNDAMENTO LEGAL: Inexigibilidade nº 128/2020 e Contrato nº 119/2020 firmado em 1º de julho de 2020. 
+1.1. Este certame é composto pelos itens abaixo que, por sua vez, possuem suas respectivas características e etapas de execução, conforme especificado a seguir:
+ITENS PONTUAIS:
+
+	Item
+	Código FURB
+	Qtde. Estimada
+	Und.
+	Descrição do Item
+	Preço Unitário (em R$)
+	Preço Total do Item (em R$)
+
+	1
+	40050
+	3005
+	Hora técnica de empreitada
+	Serviços especializados de implantação, migração de dados, consultoria e treinamento do software LYCEUM
+	248,00
+	745.240,00
+
+	2
+	40049
+	12
+	Mensalidade por volume de uso
+	Licenciamento de uso do software LYCEUM para gestão de instituições de ensino e serviços de suporte em garantia, modalidade “on premises” 
+	35.457,97
+	‭425.495,64‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬
+
+	Preço (em R$)
+	‭‭‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬1.170.735,64‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬
+
+	Preço (em reais, por extenso)
+	Hum milhão, cento e setenta mil, setecentos e trinta e cinco reais e sessenta e quatro centavos.
+
+
+ITENS SOB DEMANDA:
+
+	Item
+	Código FURB
+	Qtde. Estimada
+	Und.
+	Descrição do Item
+	Preço Unitário (em R$)
+	Preço Total do Item (em R$)
+
+	3
+	40052
+	795
+	Hora técnica sob demanda
+	Serviços de implantação de plugins opcionais do software LYCEUM 
+	100,00
+	79.500,00
+
+	4
+	40053
+	12
+	Mensalidade sob volume de uso
+	Mensalidade sobre o uso de plugins opcionais do software LYCEUM
+	21.483.40
+	257.800,80
+
+	5
+	40051
+	1300
+	Hora técnica sob demanda
+	Serviços de customização do software LYCEUM
+	245,00
+	318.500,00
+
+	Preço (em R$)
+	‭‭655.800,80‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬
+
+	Preço (em reais, por extenso)
+	Seiscentos e cinquenta e cinco mil, oitocentos reais e oitenta centavos.
+
+
+1.4.16PAGAMENTO: Os pagamentos deste item serão efetuados da seguinte maneira:
+Após 10 (dez) dias do início dos trabalhos, no caso da primeira parcela prevista na proposta comercial de R$ 350.176,00 (trezentos e cinquenta mil, cento e setenta e seis reais), desde que aprovado pelo gestor contratual e acompanhado da(s) respectiva(s) Nota(s) Fiscal(is) Eletrônica(s) (NF-e), e boleto bancário.
+Para as demais parcelas previstas no orçamento estimado, o faturamento será realizado somente após o 9º (nono) mês a contar do início dos trabalhos e os pagamentos serão executados mensal e sucessivamente no 10º (decimo) dia útil de cada mês, acompanhados da(s) respectiva(s) Nota(s) Fiscal(is) Eletrônica(s) (NF-e), e boleto bancário, e relatório descritivo de atividades executadas com quantitativos em horas.
+
+1.5.6.O pagamento será efetuado da seguinte maneira:
+Mensalmente, em até 10 (dez) dias úteis após o faturamento, desde que os mesmos sejam aprovados pelo Gestor designado pela CONTRATANTE e sigam acompanhados da(s) respectiva(s) Nota(s) Fiscal(is) Eletrônica(s) (NF-e), através de boletos bancários (caso no qual tais documentos deverão acompanhar a NF-e).
+1.6.8. O pagamento será efetuado da seguinte maneira:
+
+Em uma única parcela por plugin implantado, em até 10 (dez) dias úteis após o faturamento, desde que os mesmos sejam aprovados pelo Gestor designado pela CONTRATANTE e sigam acompanhados da(s) respectiva(s) Nota(s) Fiscal(is) Eletrônica(s) (NF-e), através de depósitos bancários (hipótese na qual a NF-e deverá conter os dados bancários da CONTRATADA) ou de boletos bancários (caso no qual tais documentos deverão acompanhar a NF-e).
+2.1.6. O pagamento será efetuado da seguinte maneira:
+
+Mensalmente, em até 10 (dez) dias úteis após o faturamento, desde que os mesmos sejam aprovados pelo Gestor designado pela CONTRATANTE e sigam acompanhados da(s) respectiva(s) Nota(s) Fiscal(is) Eletrônica(s) (NF-e), através de depósitos bancários (hipótese na qual a NF-e deverá conter os dados bancários da CONTRATADA) ou de boletos bancários (caso no qual tais documentos deverão acompanhar a NF-e).
+3.3.15 SERVIÇOS DE CUTOMIZAÇÃO: O pagamento será efetuado em até 5 (cinco) dias úteis após o fechamento e fornecimento do relatório mensal de serviços efetivamente prestados, desde que o mesmo seja aprovado pelo Gestor designado pela CONTRATANTE e siga acompanhado da(s) respectiva(s) Nota(s) Fiscal(is) Eletrônica(s) (NF-e), através de depósitos bancários (hipótese na qual a NF-e deverá conter os dados bancários da CONTRATADA) ou de boletos bancários (caso no qual tais documentos deverão acompanhar a NF-e).
+PRAZO DE VIGÊNCIA: O contrato gerado em decorrência deste processo terá vigência:
+
+Para os Itens 1.1.1 e 1.1.3 do objeto: terá início na data de assinatura do respectivo instrumento e encerramento vinculado ao término dos prazos de garantia conferidos aos serviços;
+
+Para o Itens 1.1.2, 1.1.4 e 1.1.5 do objeto: será de 12 (doze) meses, contados a partir da data de assinatura do mesmo, podendo se estender até o limite de 60 (sessenta) meses, conforme previsto no artigo 57, IV da Lei Federal nº. 8.666/1993.
+
+DATA: 09/07/2020

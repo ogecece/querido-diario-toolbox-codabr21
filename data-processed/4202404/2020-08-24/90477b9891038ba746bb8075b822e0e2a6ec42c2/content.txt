@@ -1,0 +1,453 @@
+ 
+
+ESTADO DE SANTA CATARINA
+MUNICÍPIO DE BLUMENAU 
+
+ 
+
+GABINETE DO PREFEITO
+
+DECRETO Nº 12.785, DE 20 DE AGOSTO DE 2020.
+ABRE CRÉDITOS ADICIONAIS SUPLEMENTARES NO ORÇAMENTO DA ADMINISTRAÇÃO DIRETA E INDIRETA DO MUNICÍPIO DE BLUMENAU.
+MÁRIO HILDEBRANDT, Prefeito Municipal de Blumenau, no uso das atribuições que lhe confere o art. 59, V, da Lei Orgânica do Município, promulgada em 29 de março de 1990, de acordo com o art. 43, §1º, III, da Lei Federal nº 4.320, de 17 de março de 1964, e com fundamento na Lei Municipal nº 8.904, de 20 de agosto de 2020,
+DECRETA:
+
+Art. 1º Ficam abertos os créditos adicionais suplementares no orçamento da Administração Direta, até o valor de R$ 7.947.240,00 (sete milhões, novecentos e quarenta e sete mil e duzentos e quarenta reais), nas seguintes dotações orçamentárias:
+05 – SECRETARIA MUNICIPAL DE ADMINISTRAÇÃO
+0502 – Diretoria de Compras e Licitações 
+
+Atividade
+05.02.04.122.0020.2018 – Manut. das Atividades de Compras e Licitações 
+
+Modalidade
+3.3.90 (62) Aplicações Diretas
+
+
+     R$      350.000,00
+
+Fonte de Recursos 0100.00000
+
+0504 – Diretoria de Patrimônio 
+
+Atividade
+05.04.04.122.0020.2021 – Manut. das Ativ. de Guarda e Conservação do Patrimônio 
+
+Modalidade
+3.3.90 (76) Aplicações Diretas
+
+
+     R$      210.000,00
+
+Fonte de Recursos 0100.00000
+
+08 – SECRETARIA MUNICIPAL DE COMUNICAÇÃO SOCIAL 
+0802 – Diretoria de Jornalismo  
+
+Atividade
+08.02.04.131.0023.2031 – Manut. das Ativ. de Divulgação das Ações do Governo 
+
+Modalidade
+3.3.90 (136) Aplicações Diretas
+
+
+     R$      500.000,00
+
+Fonte de Recursos 0100.00000
+
+09 – SECRETARIA MUNICIPAL DE EDUCAÇÃO
+0901 – Diretoria Administrativo - Financeira 
+
+Atividade
+09.01.12.122.0026.2035 – Manut. das Ativ. Administrativas da Semed 
+
+Modalidade
+3.1.90 (147) Aplicações Diretas
+
+
+     R$      200.000,00
+
+Fonte de Recursos 0101.00000
+
+0903 – Diretoria de Educação Básica 
+
+Atividade
+09.03.12.361.0047.1003 – Construção/Ampliação/Reformas UEs
+Modalidade
+4.4.90 (157) Aplicações Diretas
+
+
+     R$      400.000,00
+
+Fonte de Recursos 0101.00000
+
+Atividade
+09.03.12.361.0050.2336 – Manut. Ativ. Educação de Jovens e Adultos
+
+Modalidade
+3.1.90 (193) Aplicações Diretas
+
+
+     R$       50.000,00
+
+Fonte de Recursos 0101.00000
+
+Atividade
+09.03.12.361.0051.2047 – Manut. Atividades da Educação Especial - Ens.Fundamental
+
+Modalidade
+3.3.90 (199) Aplicações Diretas
+
+
+     R$       15.000,00
+
+Fonte de Recursos 0101.00000
+
+Atividade
+09.03.12.365.0047.1006 – Construção/Ampliação/Reforma Ceis - Creche
+
+Modalidade
+4.4.90 (208) Aplicações Diretas
+
+
+     R$      500.000,00
+
+Fonte de Recursos 0101.00000
+
+Atividade
+09.03.12.365.0049.2046 – Manut. Desenv. Ensino Educação Basica- Fundeb/Creche
+
+Modalidade
+3.1.90 (226) Aplicações Diretas
+
+
+     R$    3.800.000,00
+
+Fonte de Recursos 0118.00000
+
+Modalidade
+3.1.90 (227) Aplicações Diretas
+
+
+     R$    1.600.000,00
+
+Fonte de Recursos 0119.00000
+
+Modalidade
+3.3.50 (231) Aplicações Diretas
+
+
+     R$      180.000,00
+
+Fonte de Recursos 0119.00000
+
+35 – SECRETARIA MUNICICIPAL DA CULTURA E RELAÇÕES INSTITUCIONAIS
+3503 – Diretoria Administrativo - Financeira
+
+Atividade
+35.03.13.122.0037.2499 – Manut. Ativ. Diretoria Administrativo-Financeira da Cultura 
+
+Modalidade
+3.3.90 (805) Aplicações Diretas
+
+
+     R$       24.740,00
+
+Fonte de Recursos 0100.00000
+
+3504 – Fundo Municipal de Apoio a Cultura
+
+Atividade
+35.04.13.392.0084.2500 – Fundo Municipal de Apoio a Cultura 
+
+Modalidade
+3.3.90 (824) Aplicações Diretas
+
+
+     R$       18.000,00
+
+Fonte de Recursos 0100.00000
+
+37 – SECRETARIA MUNICIPAL DO MEIO AMBIENTE E SUSTENTABILIDADE
+3705 – Diretoria de Educação Ambiental e Bem Estar Animal
+
+Atividade
+37.05.18.541.0003.2514 – Manut. Ativ. Diret. De Educação Ambiental e  Bem-Estar Animal 
+
+Modalidade
+3.3.90 (882) Aplicações Diretas
+
+
+     R$       99.500,00
+
+Fonte de Recursos 0100.00080
+
+Art. 2º Os créditos adicionais suplementares abertos no artigo 1º deste Decreto, correrão por conta da redução das seguintes dotações orçamentárias: 
+04 – PROCURADORIA-GERAL DO MUNICIPIO
+0403 – Diretoria de Contencioso Judicial
+
+Atividade
+04.03.28.846.0000.2012 – Execução de Sentenças Judiciais/Precatórios 
+
+Modalidade
+3.3.90 (43) Aplicações Diretas
+
+
+      R$     500.000,00
+
+Fonte de Recursos 0100.00000
+
+05 – SECRETARIA MUNICIPAL DE ADMINISTRAÇÃO
+0501 – Administrativo do Gabinete 
+
+Atividade
+05.01.04.122.0020.2017 – Manut. das Ativ. Administrativas da Sedead 
+
+Modalidade
+4.4.90 (60) Aplicações Diretas
+
+
+      R$       5.000,00
+
+Fonte de Recursos 0100.00000
+
+0502 – Diretoria de Compras e Licitações 
+
+Atividade
+05.02.04.122.0020.2018 – Manut. das Atividades de Compras e Licitações 
+
+Modalidade
+4.4.90 (63) Aplicações Diretas
+
+
+      R$       5.000,00
+
+Fonte de Recursos 0100.00000
+
+0503 – Diretoria de Pessoal 
+
+Atividade
+05.03.04.128.0020.2020 – Manutenção das Atividades de Pessoal 
+
+Modalidade
+3.3.90 (66) Aplicações Diretas
+
+
+      R$     200.000,00
+
+Fonte de Recursos 0100.00000
+
+Atividade
+05.03.04.128.0020.2332 – Manut. de Bolsa de Estudos á Estudantes  
+
+Modalidade
+3.3.90 (72) Aplicações Diretas
+
+
+      R$     350.000,00
+
+Fonte de Recursos 0100.00000
+
+09 – SECRETARIA MUNICIPAL DE EDUCAÇÃO
+0903 – Diretoria de Educação Básica  
+
+Atividade
+09.03.12.361.0048.2043 – Manut. Desenv. Ensino Educação Básica- Fundeb/Ens. Fundamental  
+
+Modalidade
+3.1.90 (182) Aplicações Diretas
+
+
+      R$     250.000,00
+
+Fonte de Recursos 0101.00000
+
+Modalidade
+3.1.90 (183) Aplicações Diretas
+
+
+      R$   3.800.000,00
+
+Fonte de Recursos 0118.00000
+
+Atividade
+09.03.12.361.0048.2326 – Manut. da Concessão de Benefícios ao Servidor Público - EF  
+
+Modalidade
+3.3.90 (190) Aplicações Diretas
+
+
+      R$     915.000,00
+
+Fonte de Recursos 0101.00000
+
+Atividade
+09.03.12.365.0049.2340 – Manut. Desenv. Ensino Educação Básica - Fundeb/Pré Escola  
+
+Modalidade
+3.1.90 (238) Aplicações Diretas
+
+
+      R$   1.600.000,00
+
+Fonte de Recursos 0119.00000
+
+Modalidade
+3.3.50 (242) Aplicações Diretas
+
+
+      R$     180.000,00
+
+Fonte de Recursos 0119.00000
+
+35 – SECRETARIA MUNICIPAL DA CULTURA E RELAÇÕES INSTITUCIONAIS
+3501 – Diretoria de Cultura
+
+Atividade
+35.01.13.392.0084.2493 – Banda Municipal 
+
+Modalidade
+3.3.50 (772) Aplicações Diretas
+
+
+      R$      12.740,00
+
+Fonte de Recursos 0100.00000
+
+Atividade
+35.01.13.392.0084.2494 – Promoção de Eventos Culturais 
+
+Modalidade
+3.3.90 (773) Aplicações Diretas
+
+
+      R$      30.000,00
+
+Fonte de Recursos 0100.00000
+37 – SECRETARIA MUNICIPAL DO MEIO AMBIENTE E SUSTENTABILIDADE
+3705 – Diretoria de Educação Ambiental e Bem Estar Animal
+
+Atividade
+37.05.18.541.0003.2515 – Manut. Ampliação das Ações de Educação Ambiental 
+
+Modalidade
+3.3.90 (887) Aplicações Diretas
+
+
+      R$      49.500,00
+
+Fonte de Recursos 0100.00080
+
+3706 – Diretoria de Desenvolvimento Rural 
+Atividade
+37.06.20.606.0095.2538 – Manut. Ativ. Desenvolvimento Rural 
+
+Modalidade
+3.3.90 (902) Aplicações Diretas
+
+
+      R$      50.000,00
+
+Fonte de Recursos 0100.00000
+
+Art. 3º Ficam abertos os créditos adicionais suplementares no orçamento da Administração Indireta do Município, até o valor de R$ R$ 2.021.788,34 (dois milhões, vinte e um mil, setecentos e oitenta e oito reais e trinta e quatro centavos), nas seguintes dotações orçamentárias: 
+26 – FUNDAÇÃO PROMOTORA DE EXPOSIÇÕES DE BLUMENAU - PROEB
+2601 – Fundação Promot. de Exposições de Blumenau - Proeb 
+
+Atividade
+26.01.23.122.0033.2138 – Manutenção das Atividades da Proeb 
+
+Modalidade
+3.1.90 (04) Aplicações Diretas
+
+
+       R$    350.000,00
+
+Fonte de Recursos 0100.00000
+
+Modalidade
+3.3.90 (26) Aplicações Diretas
+
+
+       R$  1.460.788,34
+
+Fonte de Recursos 0100.00000
+
+Modalidade
+4.4.90 (29) Aplicações Diretas
+
+
+       R$     11.000,00
+
+Fonte de Recursos 0100.00000
+
+Modalidade
+3.1.91 (30) Aplicações Diretas
+
+
+       R$     40.000,00
+
+Fonte de Recursos 0100.00000
+
+Modalidade
+3.3.91 (31) Aplicações Diretas
+
+
+       R$    160.000,00
+
+Fonte de Recursos 0100.00000
+
+         Art. 4º Os créditos adicionais suplementares abertos no artigo 3º deste Decreto, correrão por conta das reduções das seguintes dotações orçamentárias: 
+16 – SECRETARIA MUNICIPAL DE TURISMO E LAZER
+1602 – Diretoria de Planejamento e Promoção
+
+Atividade
+16.02.23.695.0080.2280 – Manut. Atividades de Planejamento e Promoção 
+
+Modalidade
+3.3.50 (1078) Aplicações Diretas
+
+             R$     36.000,00
+
+Fonte de Recursos 0100.00000
+
+38 – SECRETARIA MUNICIPAL DE TRÂNSITO E TRANSPORTES
+3801 – Diretoria Administrativa
+
+Atividade
+38.01.04.122.0043.2517 – Manut. Ativ. Diretoria Administrativa da SMTT 
+
+Modalidade
+3.1.90 (931) Aplicações Diretas
+
+            R$   1.200.000,00
+
+Fonte de Recursos 0100.00000
+
+39 – SECRETARIA MUNICIPAL DA FAMÍLIA
+3901 – Diretoria Administrativa
+
+Atividade
+39.01.08.122.0044.2525 – Manut. Ativ. Diretoria Administrativa da Família 
+
+Modalidade
+3.1.90 (973) Aplicações Diretas
+
+            R$     785.788,34
+
+Fonte de Recursos 0100.00000
+
+           Art. 5º Este Decreto entra em vigor na data de sua publicação.
+PREFEITURA MUNICIPAL DE BLUMENAU, em 20 de agosto de 2020.
+
+MÁRIO HILDEBRANDT
+
+Prefeito Municipal
+
+_1244888468.doc
+ 
+
+
+
+
+
+

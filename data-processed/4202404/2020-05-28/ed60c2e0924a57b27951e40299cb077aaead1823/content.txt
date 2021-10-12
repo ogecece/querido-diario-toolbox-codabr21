@@ -1,0 +1,228 @@
+
+FUNDAÇÃO UNIVERSIDADE REGIONAL DE BLUMENAU
+
+Extrato nº. 179/2020
+PARTES:  FUNDAÇÃO UNIVERSIDADE REGIONAL DE BLUMENAU
+
+E
+
+                 SCHINATO & SILVA TECNOLOGIA LTDA
+OBJETO: Aquisição de materiais laboratoriais para uso em diversos setores da Universidade.
+FUNDAMENTO LEGAL: Pregão Presencial (SRP) nº 473/2019 e Ata de Registro de Preços nº 080/2020, firmado em 20 de maio de 2020.  
+	Item
+	Código FURB
+	Qtde.
+	Und.
+	Descrição do Item
+	Marca/
+
+Modelo
+	Garantia (se houver, em meses)
+	Preço Unitário (em R$)
+	Preço Total do Item (em R$)
+
+	13
+	29803
+	20
+	Peça
+	Pendrive (memória flash USB – externa), capacidade 16GB, com as seguintes características:
+
+Capacidade: 16GB
+
+Conectividade: Suporte a USB 3.0
+Conector: obrigatoriamente no padrão USB-A
+
+Instalação: Não deve necessitar software adicional para uso
+
+Características gerais:
+
+· Sem funções ou botões adicionais como MP3 player e similares
+
+· O conector USB deve ser fixo ao corpo do produto, não podendo ser retrátil ou móvel.
+
+Embalagem:
+
+· Original do fabricante e lacrada
+
+· Deverá conter na parte posterior o modelo, capacidade, número de série, código de autenticidade e código de licença do fabricante.
+
+Garantia mínima: 60 (sessenta) meses original do fabricante
+
+
+	Kingston – DT100G3 / 16GB
+	60 meses
+	49,00
+	980,00
+
+	14
+	29466
+	20
+	Peça
+	Pendrive (memória flash USB – externa), capacidade 32GB, com as seguintes características:
+
+Capacidade: 32GB
+Conector: obrigatoriamente no padrão USB-A
+Conectividade: Suporte a USB 3.0
+
+Instalação: Não deve necessitar software adicional para uso.
+
+Características gerais:
+
+· Sem funções ou botões adicionais como MP3 player.
+
+· O conector USB deve ser fixo ao corpo do produto, não podendo ser retrátil ou móvel.
+
+Embalagem:
+
+· Original do fabricante e lacrada.
+
+· Deverá conter na parte posterior o modelo, capacidade, número de série, código de autenticidade e código de licença do fabricante.
+
+Garantia mínima: 60 (sessenta) meses original do fabricante
+
+	Kingston – DT100G3 / 32GB
+	60 meses
+	141,00
+	8.460,00
+
+	16
+	39357
+	30
+	Peça
+	Pente de memória DDR4 de 4GB, com as seguintes características:
+
+Tipo: DDR4
+
+Capacidade: 4GB
+
+Quantidade de pentes: 1 x 4GB
+
+Frequência mínima: 2133 MHz
+
+Selos: Deverá ter etiqueta do fabricante contendo o modelo, número de série, logotipo e dados do fabricante impressos
+Embalagem: Original do fabricante, lacrada e intacta.
+
+Garantia mínima: 12 (doze) meses
+
+
+	Adata – AD4U2400J4G17-S
+	12 meses
+	144,00
+	4.320,00
+
+	20
+	35519
+	10
+	Peça
+	Disco rígido (HD) 4TB / SATA 3 / 3,5 polegadas., com as seguintes características:
+Tipo: interno
+Dimensões: 3,5 polegadas
+Capacidade mínima: 4TB
+
+Interface: SATA III de 6 GB/s
+
+Alimentação: Interface padrão SATA
+
+Velocidade de rotação mínima: 5400 RPM
+
+Buffer mínimo: 64MB de cache
+
+Tempo entre falhas (MTBF) mínimo: 1.000.000 horas
+Tecnologias: Suporte a SMART
+
+Aplicação típica:
+
+· O fabricante deve indicar, na documentação técnica do produto, que o modelo é indicado para uso em NAS (Network-Attached Storage) e RAID (Redundant Array of Independent Drives).
+
+Embalagem: Original, lacrada e com os acessórios do fabricante
+
+Garantia do fabricante:
+
+· Mínima de 24 (vinte e quatro) meses no Brasil.
+
+· O fabricante deverá disponibilizar em seu site oficial, formulário para consulta da garantia do HD, devendo exibir assim que submetidos os dados do HD, seu prazo de garantia, modelo e número de série, sendo possível gerar uma ordem de troca/devolução direto no site, sem necessidade de atendimento via callcenter ou e-mail.
+
+· A garantia deverá ser atendida no Brasil, sem a necessidade de envio do disco para outros países.
+
+
+	SEAGATE – ST 4000VN008
+	24 meses
+	834,48
+	8.344,80
+
+	31
+	33112
+	10
+	Peça
+	Fita de limpeza Ultrium Universal Cleaning / para fitas de backup LTO, com as seguintes características:
+
+Modelo: LTO Ultrium
+
+Capacidade: 50 LIMPEZAS
+
+Compatibilidade: Compatível com todos os drives Ultrium padrão LTO1, LTO2, LTO3, LTO4, LTO5, LTO6, LTO7
+
+Características adicionais:
+
+· Original do fabricante, nova e em embalagem lacrada.
+
+· Não serão aceitas fitas recondicionadas ou remanufaturadas (refurbished).
+
+Garantia mínima: 12 (doze) meses
+
+
+	Sony - LTXCL
+	12 meses
+	238,78
+	2.378,80
+
+	1 
+	39969
+	10
+	Peça
+	Placa de Vídeo Profissional 4 GB, GDDR5, 128 Bits Com as seguintes características:
+
+Interface de Comunicação: PCI Express 3.0 x16
+Núcleos de Processamento: Mínimo de 640 núcleos
+Memória mínima dedicada: 4 GB dedicados GDDR5 ou superior
+Interface mínima de memória: 128 bits
+Taxa de transferência suportada:  Até 82 GB/s ou superior
+Consumo de Energia:  Máximo de 50W.
+Conectores de vídeo: 4 Saídas Mini Display Port 1.4
+
+· Deverá ser entregue no mínimo 2 (dois) adaptadores Mini Display Port 1.4 para HDMI.
+Resolução de saída Máxima Suportada:
+
+· 4x 4096x2160 @ 60 Hz
+· 1x 5120x2880 @ 60 Hz
+Suporte às tecnologias:
+
+· Shader Model versão 5.1 ou superior;
+· OpenGL versão 4.5 ou superior;
+· DirectX versão 12.0 ou superior;
+· OpenCL
+
+Protocolos Suportados: Suporte a HDCP versão 2.2 ou superior
+Áudio: Integrado nas saídas Mini Display Port
+Sistema Operacionais Suportados: Windows 10 ou superior
+Instalação: Deverá acompanhar bracket para instalação em gabinetes do tipo “full-height (ATX)”.
+Refrigeração: Cooler original do fabricante devidamente fixado e alimentado na própria placa de vídeo
+Embalagem: Original do fabricante, lacrada e intacta.
+Garantia mínima: Mínima de 12 (doze) meses.
+
+
+	PNY QUADRO P1000
+
+Part Number: VCQP1000-PORPB
+	12 meses
+	2.147,30
+	21.473,00
+
+	Preço Total 
+(em R$ e por extenso)
+	37.725,00 (trinta e sete mil, setecentos e vinte e cinco reais)
+
+
+PAGAMENTO: O pagamento será realizado em até 30 (trinta) dias consecutivos após a efetiva entrega (com descarga) dos equipamento(s)/produto(s), desde que estes sejam aprovados pela Gestão Contratual e acompanhados da respectiva Nota Fiscal Eletrônica (NF-e), através de depósito bancário (hipótese na qual a NF-e deverá conter os dados bancários da CONTRATADA) ou de boleto bancário (caso no qual tal documento deverá acompanhar a NF-e).
+PRAZO DE VIGÊNCIA: A presente Ata de Registro de Preços terá a validade de 12 (doze) meses, contados a partir da data de sua assinatura.
+DATA: 27/05/2020.

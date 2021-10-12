@@ -1,0 +1,89 @@
+
+Prefeitura Municipal da Serra 
+Espirito Santo 
+
+DECRETO Nº 5920/2020 
+O PREFEITO MUNICIPAL DA SERRA, ESPÍRITO SANTO, usando de suas atribuições legais, e com base no 
+artigo 9º inciso I da Lei nº 5.155/2020 de 10/01/2020; 
+
+D E C R E T A: 
+Art. 1º. Ficam suplementadas no orçamento vigente as dotações orçamentárias constantes do Anexo I. 
+ 
+
+Art. 2º. Para efeito das suplementações constante no Artigo anterior, ficam anuladas as dotações orçamentárias, indicada 
+no anexo II. 
+Art. 3º. Este Decreto entra em vigor na data de sua publicação, revogadas as disposições em contrário 
+
+Palácio Municipal, em Serra, em 20 de março de 2020 
+AUDIFAX CHARLES PIMENTEL BARCELOS 
+
+Prefeito Municipal 
+LAURIETE CANEVA 
+
+Secretária de Planejamento Estratégico 
+CRÉDITO ADICIONAL SUPLEMENTAR - ANEXO I - SUPLEMENTAÇÃO 
+
+R$ 1,00 
+
+CÓDIGO ESPECIFICAÇÃO NATUREZA FR VALOR 
+
+12.00.00 SECRETARIA DE SAUDE    
+
+12.01.00 Fundo Municipal de Saúde    
+
+10.302.0190.2195 Manter a rede de urgência e emergência. 3.3.50.39.00 1.211.0000.0000 1.800.000 
+
+10.302.0230.2132 Ampliar e Melhorar dos Serviços de Atenção Especia 4.4.90.51.00 1.230.0000.0000 9.500.000 
+
+13.00.00 SECRETARIA DE ASSISTÊNCIA SOCIAL    
+
+13.02.00 Fundo Munic. Assistência Social    
+
+08.244.0250.1180 Desenvolver Ações de Segurança Alimentar e Nutrici 3.3.90.32.00 1.001.0000.0000 700.000 
+
+08.244.0250.2183 Manter e Desenvolver Serv. Continuados da Proteção 4.4.90.52.00 1.311.0000.0000 60.000 
+  TOTAL  12.060.000 
+
+ 
+
+CRÉDITO ADICIONAL SUPLEMENTAR - ANEXO II - ANULAÇÃO 
+R$ 1,00 
+
+CÓDIGO ESPECIFICAÇÃO NATUREZA FR VALOR 
+
+08.00.00 SECRETARIA DE OBRAS    
+
+08.01.00 Secretaria de Obras    
+
+15.451.0100.1129 Recuperar ou Urbanizar Áreas Degradadas 4.4.90.51.00 1.920.0010.0000 2.000.000 
+
+15.451.0100.2130 Urbanizar, Ampliar, Revitalizar e Melhorar as Vias 4.4.90.51.00 1.920.0010.0000 5.500.000 
+
+09.00.00 SECRETARIA DE SERVIÇOS    
+
+09.01.00 Secretaria de Serviços    
+
+15.451.0130.1217 Elaborar e Revisar o Plano Municipal de Saneamento 4.4.90.39.00 1.920.0010.0000 1.000.000 
+
+15.452.0110.2084 Fortalecer, Intensificar e Manter Áreas Verdes na 3.3.90.92.00 1.001.0000.0000 1.500.000 
+
+15.452.0110.2085 Intensificar e Manter os Serviços de Limpeza Urban 3.3.90.34.00 1.001.0000.0000 700.000 
+
+15.452.0110.2086 Intensificar Procedimentos para Manutenções em Via 3.3.90.92.00 1.001.0000.0000 300.000 
+
+13.00.00 SECRETARIA DE ASSISTÊNCIA SOCIAL    
+
+13.02.00 Fundo Munic. Assistência Social    
+
+08.244.0260.2062 Acompanhar as Ações de IGD - SUAS (Índice de Gestã 4.4.90.52.00 1.311.0000.0000 60.000 
+
+16.00.00 SECRETARIA DE DESENV. URBANO    
+
+16.01.00 Secretaria de Desenv. Urbano    
+
+15.452.0330.1109 Revisar e Regulamentar a Legislação e Instrumentos 4.4.90.39.00 1.920.0010.0000 1.000.000 
+  TOTAL  12.060.000 
+
+ 
+
+

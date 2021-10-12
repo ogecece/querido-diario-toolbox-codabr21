@@ -1,0 +1,84 @@
+
+FUNDAÇÃO UNIVERSIDADE REGIONAL DE BLUMENAU
+
+Extrato nº. 451/2020
+PARTES:  FUNDAÇÃO UNIVERSIDADE REGIONAL DE BLUMENAU
+
+E
+
+                  AGREMIX COMÉRCIO DE AGREGADOS LTDA
+OBJETO: Registro de Preços para aquisições futuras de cimento, areia, brita e afins para uso em manutenções e obras da Universidade.
+FUNDAMENTO LEGAL: Pregão Presencial (SRP) nº 227/2020 e Ata de Registro de Preços nº 209/2020, firmada em 30 de outubro de 2020.  
+PREÇO: O preço ofertado pela empresa signatária da presente Ata de Registro de Preços é o abaixo informado, de acordo com a respectiva classificação:
+
+	Item
+	Código FURB
+	Qtde.
+	Und.
+	Descrição do Item
+	Preço Unitário (R$)
+	Preço Total do Item (R$)
+
+	5
+	7296
+	150
+	Metro Cúbico
+	Brita corrida (brita contaminada). Conjunto de pedra britada, pedrisco e pó-de-pedra, sem graduação definida, obtido diretamente do britador, sem separação por peneiração. A brita corrida deve estar isenta de impurezas e outros materiais como argila, substâncias orgânicas ou terrosas e deve atender as normas técnicas da ABNT NBR 7225 OU 9935/2011.
+	64,00
+	9.600,00
+
+	6
+	7364
+	50
+	Metro Cúbico
+	Pedra britada número 0.  Material proveniente do britamento de pedra, de dimensão nominal máxima inferior a 4,8 mm e de dimensão nominal mínima igual ou superior a 0,075 mm.  O pedrisco deve estar isento de impurezas e outros materiais como argila, substâncias orgânicas ou terrosas e deve atender as normas técnicas da ABNT NBR 7225 OU 9935/2011.
+	68,25
+	3.412,50
+
+	7
+	7262
+	50
+	Metro Cúbico
+	Pedra britada n.º 1 (Brita 1). Material proveniente do britamento de pedra, de dimensão nominal máxima inferior a 12,5 mm e de dimensão nominal mínima igual ou superior a 4,8 mm. A pedra britada deve estar isenta de impurezas e outros materiais como argila, substâncias orgânicas ou terrosas e deve atender as normas técnicas da ABNT NBR 7225 OU 9935/2011.
+	67,70
+	3.385,00
+
+	8
+	7263
+	50
+	Metro Cúbico
+	Pedra britada n.º 2 (Brita 2). Material proveniente do britamento de pedra, de dimensão nominal máxima inferior a 25 mm e de dimensão nominal mínima igual ou superior a 12,5 mm. A pedra britada deve estar isenta de impurezas e outros materiais como argila, substâncias orgânicas ou terrosas e deve atender as normas técnicas da ABNT NBR 7225 OU 9935/2011.
+	66,50
+	3.325,00
+
+	10
+	7248
+	50
+	Metro Cúbico
+	Areia média. Material natural, de propriedades adequadas, de dimensão máxima inferior a 1,20 mm e de dimensão nominal mínima igual ou superior a 0,42 mm. A areia deve estar isenta de impurezas e outros materiais como argila, substâncias orgânicas ou terrosas e deve atender as normas técnicas da ABNT NBR 7225 OU 9935/2011.
+	71,50
+	3.575,00
+
+	11
+	30343
+	200
+	Metro Cúbico
+	Pó de pedra (brita) 60% com pedrisco 40% / mistura isenta de impurezas e outros materiais como argila, substâncias orgânicas ou terrosas.
+	70,50
+	14.100,00
+
+	12
+	7258
+	80
+	Metro Cúbico
+	Pó de pedra (pó de brita).
+	69,50
+	5.560,00
+
+	Preço Total do item (em reais, por extenso)
+	Quarenta e dois mil novecentos e cinquenta e sete reais e cinquenta centavos
+
+
+PAGAMENTO: O pagamento será efetuado em até 15 (quinze) dias consecutivos, após a efetiva entrega (com descarga) dos materiais, desde que os mesmos estejam em perfeitas condições de uso, sejam aprovados pelo Gestor designado pela CONTRATANTE e sigam acompanhados da respectiva Nota Fiscal Eletrônica (NF-e), através de depósitos bancários (hipótese na qual a NF-e deverá conter os dados bancários da CONTRATADA) ou de boletos bancários (caso no qual tais documentos deverão acompanhar a NF-e).
+PRAZO DE VIGÊNCIA: A presente Ata de Registro de Preços terá a validade de 12 (doze) meses, contados a partir de 12/11/2020, ou da data de sua assinatura, caso aconteça em momento posterior.
+DATA: 30/10/2020.

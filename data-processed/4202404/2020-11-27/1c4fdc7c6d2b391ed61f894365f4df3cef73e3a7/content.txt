@@ -1,0 +1,1232 @@
+
+
+
+
+INSTRUÇÃO NORMATIVA CGM N° 001, DE 26 DE NOVEMBRO DE 2020.
+
+
+DISPÕE SOBRE AS AÇÕES E OS PROCEDIMENTOS DE FISCALIZAÇÃO, AUDITORIA INTERNA GOVERNAMENTAL E CONTROLE REALIZADOS PELA CONTROLADORIA-GERAL DO MUNICÍPIO (CGM).
+
+
+RODRIGO JANSEN, Controlador-Geral do Município de Blumenau, no uso das atribuições que lhe conferem os incisos X e XI do art. 13, da Lei Complementar Municipal n° 1.220, de 17 de dezembro de 2018, e
+
+CONSIDERANDO que a Controladoria-Geral do Município (CGM) é órgão de Controle Interno, instalada para fiscalizar e controlar as contas públicas, realizar auditorias, avaliar os atos de gestão dos administradores públicos e zelar pelos princípios constitucionais da legalidade, impessoalidade, moralidade, publicidade e eficiência;
+
+CONSIDERANDO que o sistema de Controle Interno é exercido ao disposto na Constituição Federal, nas Normas Gerais do Direito Financeiro contidas na Lei Federal n° 4.320/1964, Lei Complementar Federal n° 101/2001, Lei Orgânica Municipal e demais legislações, bem como as normas específicas do Tribunal de Contas do Estado de Santa Catarina;
+
+CONSIDERANDO que o Tribunal de Contas do Estado de Santa Catarina determina por meio da Instrução Normativa N.TC-20/2015, em seu art. 22, inciso IX, a programação de auditorias contábil, financeira, orçamentária, operacional e patrimonial nas unidades administrativas sob a égide da Controladoria-Geral do Município (CGM);
+
+CONSIDERANDO o teor da Lei Complementar Municipal nº 1.220, de 17 de dezembro de 2018, que instituiu o Sistema de Controle Interno do Poder Executivo Municipal, que tem como objetivo a fiscalização contábil, financeira, orçamentária, operacional e patrimonial da Administração Pública e ainda a verificação e avaliação de resultados obtidos pelos administradores em geral;
+
+CONSIDERANDO que o sistema de Controle Interno do Poder executivo municipal utiliza como técnicas de trabalho, para consecução de suas atividades, a auditoria;
+
+CONSIDERANDO que a Controladoria-Geral (CGM) do Município é órgão central do sistema de controle interno, responsável pela execução centralizada das atividades de auditoria, fiscalização, orientação e controle da gestão administrativa;
+
+CONSIDERANDO que a auditoria visa avaliar a gestão pública, pelos processos e resultados gerenciais e a aplicação de recursos públicos por entidades de direito privado;
+
+CONSIDERANDO a necessidade de obter dados, informações, elementos e demonstrativos de natureza administrativa, técnica, contábil e jurídica dos órgãos que integram a Estrutura Administrativa Municipal para a tomada de decisões, bem como a necessidade de verificar a regularidade, a legalidade e a legitimidade das aquisições, compras, contratações de serviços, processos licitatórios e outros fatos e atos administrativos, que possam causar (ou ter causado) prejuízo ao erário, proporcionando o enriquecimento ilícito de terceiros e a necessidade premente de averiguar a situação dos bens móveis e imóveis;
+
+CONSIDERANDO, que entre as finalidades da Controladoria-Geral do Município (CGM) estão a de apoiar o controle externo no exercício de sua missão constitucional;
+
+CONSIDERANDO as solicitações e/ou requisições em procedimentos instaurados no âmbito do Ministério Público na apuração de denúncias relatadas àquele órgão;
+
+CONSIDERANDO as investigações promovidas pelos órgãos de controle externo, notadamente o Ministério Público do Estado de Santa Catarina e Tribunal de Contas de Santa Catarina;
+
+CONSIDERANDO as denúncias recebidas por meio de Conselhos Municipais e pelos canais de Ouvidoria do Município de Blumenau;
+
+CONSIDERANDO, ainda, que a Administração Pública tem o poder-dever de rever seus próprios atos em consonância com o princípio da autotutela e com o disposto nas súmulas 346 e 473 do Supremo Tribunal Federal;
+
+CONSIDERANDO, a necessidade de sistematização e uniformização dos procedimentos de fiscalização, auditoria e controle realizados pela Controladoria-Geral do Município (CGM); e
+
+CONSIDERANDO, finalmente, a necessidade de avaliar as rotinas de trabalho, recomendando alternativas e soluções capazes de ampliar a sua eficiência, eficácia e efetividade; 
+
+RESOLVE:
+
+CAPÍTULO I
+DISPOSIÇÕES PRELIMINARES
+
+Art. 1º Esta Instrução Normativa dispõe sobre as ações e os procedimentos de fiscalização, auditoria interna governamental e controle realizados pela Controladoria-Geral do Município (CGM).
+
+§ 1º Para os fins desta Instrução Normativa, considera-se:
+
+I - Administração Municipal: conjunto de órgãos da Administração Direta e entidades da Administração Indireta do Poder Executivo do Município de Blumenau;
+
+II - Unidade Auditada: órgão ou entidade da Administração Municipal, fundos municipais ou ainda, pessoa jurídica de natureza privada, que utilize, arrecade, guarde, gerencie ou administre dinheiros, bens e valores públicos ou pelos quais o Município responda, ou que, em nome deste assuma obrigações de natureza pecuniária;
+
+III - Plano Anual de Atividades de Auditoria Interna (PAINT): instrumento de gestão, elaborado ao final de cada exercício financeiro, que contempla o conjunto de auditorias internas programadas para o exercício seguinte, devendo observar, pelo menos, os critérios de:
+
+a) Materialidade: representatividade dos valores orçamentários ou financeiros, ou ainda do volume de bens administrados no âmbito do programa, da ação ou de outros objetos sujeitos aos procedimentos de fiscalização;
+
+b) Relevância: importância do programa, da ação ou de outros objetos sujeitos aos procedimentos de fiscalização, assim como do papel desempenhado por uma determinada questão, situação ou unidade organizacional, existentes em um dado contexto;
+
+c) Risco: possibilidade de ocorrer evento que venha a ter impacto no cumprimento das normas e dos objetivos da gestão, considerando as situações críticas e fragilidades efetivas ou potenciais, identificadas em unidade organizacional, programa, ação ou em outros objetos sujeitos aos procedimentos de fiscalização; e
+
+d) Oportunidade: motivação especial quanto ao momento de efetuar a ação de fiscalização e controle;
+
+IV - Auditoria: procedimento sistemático, realizado com técnicas e metodologia própria, a fim de avaliar e identificar objetivamente evidências e determinar se as informações, as situações ou as condições reais de um objeto estão de acordo com critérios aplicáveis e relatar os resultados dessa avaliação e, conforme o caso aplicará conjunta ou individualmente as técnicas de auditoria;
+
+V - Processo de Auditoria: expediente devidamente autuado e numerado, instruído com elementos suficientes para sustentar os diagnósticos e recomendações, sem prejuízo de outras peças que possam contribuir para a clareza dos achados ou das constatações de auditoria;
+
+VI - Matriz de Planejamento: documento que organiza e sistematiza o planejamento dos procedimentos de auditoria, relacionando, a partir do enunciado do objetivo da fiscalização, as diversas questões de auditoria que serão respondidas, auxiliando, dessa forma, a elaboração conceitual do trabalho e orientando a equipe na fase de execução;
+ 
+VII – Execução dos Trabalhos da Auditoria: declaração precisa da finalidade ou daquilo que a auditoria pretende apurar/realizar e/ou da questão fundamental que deverá ser esclarecida, mediante análise;
+
+VIII - Objeto da Auditoria: avaliação de programa, ação, projeto, atividade, processo e procedimento administrativos, sistema, dentre outros itens sujeitos à análise ou no qual o procedimento de auditoria será aplicado e, porventura, o achado será constatado, a exemplos de contratos, convênios, parcerias, folhas de pessoal, base de dados, procedimentos licitatórios, orçamento, processos de contratação e pagamento, dívida pública e demonstrações contábeis ou financeiras;
+
+IX - Solicitação de Informações e Documentos: expediente padrão por meio do qual são ordinariamente solicitados processos, documentos, informações e acesso (físico ou digital, conforme o caso) a instalações, materiais, sistemas de informação e produtos de serviços, devendo uma via do aludido documento ser apensada ao respectivo processo de auditoria;
+
+X – Matriz de Achados: documento que estrutura o desenvolvimento dos achados, explicitando, para cada um, a situação encontrada, o critério adotado, as evidências e as propostas de encaminhamento;
+
+a) Achado de Auditoria: constatação de qualquer fato significativo, digno de relato, decorrente da comparação da condição (situação encontrada ou existente) com o critério (situação correta ou esperada), podendo ser favorável (quando há conformidade entre o critério e a situação identificada) ou desfavorável (quando não há conformidade entre o critério e a situação identificada, que pode configurar ato irregular), e constituído de quatro atributos essenciais: fato ou situação encontrada, critério, causa e efeito;
+
+XI - Papéis de Trabalho: são os documentos e registros dos fatos, informações e provas, obtidos, a fim de evidenciar os exames realizados e dar suporte à sua conclusão, críticas e recomendações;
+
+XII - Comunicação dos Resultados: após finalizar a etapa de execução, é necessário que a Equipe de Auditoria Interna informe ao Controlador-Geral do Município acerca dos trabalhos da auditoria, para que este proceda com a deliberação e comunicação dos resultados, cuja deliberação será manifestada por meio dos seguintes relatórios de auditoria:
+
+a) Relatório Preventivo de Auditoria: documento contendo diagnóstico emitido pela Equipe de Auditoria Interna, no decorrer dos exames, cuja apuração dos fatos, denote o potencial risco de dano aos cidadãos ou à Administração Pública, os quais demandam providências pontuais e específicas a serem tomadas pela unidade auditada, em caráter de urgência;
+
+b) Relatório Preliminar de Auditoria: documento contendo os resultados e as constatações ou achados preliminares decorrentes da realização das atividades de auditoria, prévio à manifestação de esclarecimentos ou justificativas a respeito dos achados preliminares de auditoria, e/ou adoção de providências com vistas à devida correção, pelo titular da unidade auditada e, quando for o caso, pelas partes interessadas e responsáveis; e
+
+c) Relatório Conclusivo de Auditoria: documento contendo os resultados e as constatações ou achados conclusivos decorrentes da realização das atividades de auditoria, após o prazo para manifestação de esclarecimentos ou justificativas a respeito dos achados preliminares de auditoria, e/ou adoção de providências com vistas à devida correção, pelo titular da unidade auditada e, quando for o caso, pelas partes interessadas e responsáveis.
+
+XIII - Monitoramento: fase do processo de auditoria cuja finalidade é avaliar, acompanhar, e aferir o cumprimento das providências adotadas pela unidade auditada, em resposta às recomendações emanadas pela Equipe de Auditoria Interna, em sede de Relatório Conclusivo de Auditoria;
+
+XIV - Revisão de Opinião: documento proveniente da revisão da opinião exarada pela Equipe de Auditoria Interna nos Relatórios de Comunicação de Resultados ou de Monitoramento, em face da apresentação intempestiva de informações nas mencionadas etapas ou a partir de fatos supervenientes, ou, ainda, quando modificadas as circunstâncias que sustentaram as conclusões anteriores ou tratar-se de razões técnicas; e
+
+XV – Relatório Anual de Atividades de Auditoria Interna (RAINT): documento técnico contendo, entre outros assuntos, o relato das atividades de auditoria desenvolvidas durante o ano, de acordo com as previsões elencadas no Plano Anual de Atividades de Auditoria Interna (PAINT).
+
+§ 2º Os procedimentos de controle no âmbito da Administração Municipal serão prévios, concomitantes e subsequentes.
+
+Art. 2º Salvo as informações sigilosas estão sujeitos às ações e aos procedimentos de fiscalização e controle da Controladoria-Geral do Município (CGM):
+
+I - os órgãos e as entidades da Administração Municipal;
+
+II - qualquer pessoa natural ou jurídica, pública ou privada, fundo municipal que utilize, arrecade, guarde, gerencie ou administre dinheiros, bens e valores públicos ou pelos quais o Município responda, ou que, em nome deste assuma obrigações de natureza pecuniária;
+
+III - os atos e registros contábeis, orçamentários, financeiros, fiscais, operacionais, patrimoniais, incluindo os procedimentos e processos de despesa, licitatórios, contratos, convênios, termos de parceria e instrumentos congêneres, os processos de gerenciamento de riscos, de controles internos, de integridade e de governança;
+
+IV - as operações de créditos, os avais e as garantias, assim como os direitos, as obrigações e os haveres do Município;
+
+V - os sistemas eletrônicos de processamento de informações, plataformas eletrônicas de receita e despesa e o portal da transparência da gestão municipal;
+
+VI - os atos administrativos, bens e valores que estejam sujeitos à sua fiscalização por expressa disposição legal;
+
+VII - todos os atos de admissão de pessoal, assim como os de concessões de aposentadorias e pensões;
+
+VIII - os procedimentos e processos de sindicância, administrativo disciplinar, tomada de contas especial, responsabilização de pessoas jurídicas e demais procedimentos correcionais; e
+
+IX - outros atos e fatos previstos em lei e regulamentos.
+
+CAPÍTULO II
+DO PLANO ANUAL DE ATIVIDADES DE AUDITORIA INTERNA (PAINT)
+
+Art. 3° O Plano Anual de Atividades de Auditoria Interna (PAINT) será elaborado em conjunto com a Gerência de Auditoria e Fiscalização de Contratos e pela Equipe de Auditoria Interna e será submetido até o dia 15 de dezembro à apreciação do Controlador-Geral do Município para aprovação.
+
+§ 1º Na elaboração do Plano Anual de Atividades de Auditoria Interna (PAINT), conforme modelo constante no Anexo I desta Instrução Normativa, será considerado o tempo e os recursos necessários para a efetivação dos trabalhos, os critérios de materialidade, a relevância, o risco e a oportunidade e, demonstrará a relação das atividades de auditorias a serem realizadas no exercício subsequente, contendo, pelo menos as seguintes informações.
+
+§ 2º O Plano Anual de Atividades de Auditoria Interna (PAINT) poderá conter a previsão de capacitação anual dos membros da Equipe de Auditoria Interna, visando permitir o aperfeiçoamento de seus conhecimentos, suas habilidades e de outras competências, por meio do desenvolvimento profissional contínuo.
+
+§ 3º A Controladoria-Geral do Município (CGM) poderá levantar e requisitar outras informações à Administração Pública para subsidiar a elaboração do Plano Anual de Atividades de Auditoria Interna (PAINT) e a realização das atividades de auditoria.
+
+Art. 4º As auditorias que não constem do Plano Anual de Atividades de Auditoria Interna (PAINT) poderão ser realizadas extraordinariamente.
+
+Art. 5º O Plano Anual de Atividades de Auditoria Interna (PAINT) poderá ser alterado ao longo de sua execução, considerando a possibilidade de mudanças no contexto da Administração Municipal.
+
+Parágrafo único. O Controlador-Geral do Município poderá determinar a inclusão de novas auditorias e monitoramentos no respectivo Plano Anual de Atividades de Auditoria Interna (PAINT), ensejando reprogramação das atividades.
+
+CAPÍTULO III
+DA EQUIPE DE AUDITORIA INTERNA 
+E ANDAMENTOS DOS TRABALHOS
+
+Art. 6º A Equipe de Auditoria Interna é o grupo designado para a realização das atividades de auditoria.
+
+Parágrafo único. Os membros da Equipe de Auditoria Interna serão designados mediante Portaria do Controlador-Geral do Município.
+
+Art. 7º A função desempenhada pelos membros da Equipe de Auditoria Interna, não importará remuneração adicional e as atividades serão consideradas de relevante interesse público.
+
+Art. 8º Os procedimentos de auditoria serão conduzidos pela Equipe de Auditoria Interna e supervisionados pelo Controlador-Geral do Município, em todas as suas fases, de modo a garantir que sejam realizados de acordo com as normas aplicáveis, o alcance dos objetivos, a qualidade e resultados dos trabalhos.
+
+Parágrafo único. A Equipe de Auditoria Interna é responsável, observados os limites das atribuições individuais, pelo atendimento das normas aplicáveis à realização de auditoria e à conduta do servidor, e pelas regras e procedimentos destinados a promover a qualidade dos seus trabalhos.
+
+Art. 9º Durante toda a realização das atividades de auditoria deverá ocorrer constante troca de informações entre a Equipe de Auditoria Interna com o Gerente de Auditoria e Fiscalização de Contratos e o Diretor de Controle Interno.
+
+Parágrafo único. A troca de informações ao longo do trabalho destina-se a manter o Gerente de Auditoria e Fiscalização de Contratos e o Diretor de Controle Interno informados acerca dos andamentos das auditorias no que se refere principalmente, à qualidade dos trabalhos, ao cumprimento dos prazos previstos para aplicação dos procedimentos e eventuais problemas ou dificuldades enfrentadas.
+
+Art. 10. Quando o trabalho de auditoria resultar em informações sensíveis ou de natureza confidencial, sobretudo se a publicação dessas informações puder comprometer investigações ou procedimentos legais em curso, ou que possam ser realizados, o Controlador-Geral do Município deverá ser consultado sobre a necessidade de tratar o processo como sigiloso.
+
+Art. 11. A Equipe de Auditoria Interna atuará nas análises em processo administrativo próprio, o qual deverá ser juntado todas as peças documentais relacionadas aos procedimentos de auditoria, incluindo os respectivos planejamentos, relatórios e papéis de trabalho.
+
+SEÇÃO I
+DOS PRINCÍPIOS ÉTICOS E PROFISSIONAIS
+
+Art. 12. Aos servidores designados para comporem a Equipe de Auditoria Interna, deverão atuar em conformidade com princípios e requisitos éticos estabelecidos em normas e manuais, de modo que a atividade de auditoria seja pautada pelos seguintes princípios éticos:
+
+I – integridade;
+
+II – proficiência e zelo profissional; 
+
+III – autonomia técnica e objetividade; 
+
+IV – respeito e idoneidade;
+
+V – aderência às normas legais; 
+
+VI – atuação objetiva e isenta; e 
+
+VII – honestidade.
+
+Parágrafo único. Os membros da Equipe de Auditoria Interna deverão guardar sigilo sobre dados e informações pertinentes aos assuntos a que tiverem acesso em decorrência do exercício de suas funções, utilizando-os, exclusivamente, para a elaboração de relatórios, sob pena de responsabilidade administrativa, civil e penal.
+
+Art. 13. Aos servidores designados para comporem a Equipe de Auditoria Interna, devem: 
+
+I - servir ao interesse público e honrar a confiança pública, executando seus trabalhos com honestidade, diligência e responsabilidade, contribuindo para o alcance dos objetivos institucionais; 
+
+II – proceder com conduta idônea, íntegra e irreparável quando necessário lidar com pressões ou situações que possam ameaçar seus princípios éticos; e
+
+III - se comportar com cortesia e respeito no trato com pessoas, abstendo-se de emitir juízo ou adotar práticas que indiquem qualquer tipo de discriminação ou preconceito.
+
+Art. 14. Aos servidores designados para comporem a Equipe de Auditoria Interna, é vedada a divulgação de informações relativas aos trabalhos desenvolvidos ou a serem realizados, e nem repassar a terceiros sem prévia anuência do Controlador-Geral do Município ou a quem este delegar.
+
+Parágrafo único. É vedada a utilização de informações obtidas em decorrência dos trabalhos de fiscalização, auditoria e controle em benefício de interesses pessoais ou de qualquer outra forma que seja contrária à lei, em detrimento dos objetivos da Administração Municipal.
+
+SEÇÃO II
+DAS PRERROGATIVAS E DA AUTONOMIA FUNCIONAL
+
+Art. 15. Aos servidores designados para comporem a Equipe de Auditoria Interna, serão asseguradas as prerrogativas no desempenho de suas competências, de acordo com o disposto na Lei Complementar n° 1.220/2018.
+
+Art. 16. A Equipe de Auditoria Interna atuará com autonomia técnica e permanecerá livre de qualquer interferência ou influência na seleção do tema, na determinação do escopo, na execução dos procedimentos, no julgamento profissional e no reporte dos resultados, o que possibilitará a manutenção de avaliações e posicionamentos independentes e objetivos.
+
+SEÇÃO III
+IMPEDIMENTOS
+
+Art. 17. Os servidores designados para comporem a Equipe de Auditoria Interna devem declarar impedimento ou suspeição nas situações que possam afetar o seu julgamento ou desempenho das suas atribuições e oferecer risco para a objetividade das atividades de auditoria.
+
+Parágrafo único. Quando houver dúvida sobre situação específica que possa ferir a objetividade das atividades de auditoria ou a ética profissional, os servidores designados para compor a Equipe de Auditoria Interna devem buscar orientação junto à chefia imediata, sem prejuízo da comunicação ao Controlador-Geral do Município.
+
+CAPÍTULO IV
+DAS AUDITORIAS
+
+SEÇÃO I
+FINALIDADE, OBJETIVOS, OBJETOS E CLASSIFICAÇÃO
+
+Art. 18. A finalidade básica da auditoria interna é avaliar os atos e fatos administrativos relacionados à gestão orçamentária, contábil, financeira, fiscal, patrimonial, operacional e de pessoal, contribuindo para que os processos de gestão sejam regulares, eficazes e eficientes.
+
+Art. 19. São objetivos básicos da auditoria interna:
+
+I - revisar os controles internos administrativos, monitorar suas operações e recomendar melhorias;
+
+II - examinar as informações e operações contábeis, revisando os meios usados para identificar, mensurar, classificar e reportar essas informações e operações, assim como realizar indagações específicas sobre itens individuais, testes detalhados de transações e conferência de saldos e procedimentos;
+
+III - verificar as atividades operacionais financeiras e não financeiras, observando sua economia, eficácia e eficiência;
+
+IV - examinar a conformidade dos atos, fatos e operações administrativas com as normas legais, regulamentos, princípios, políticas e diretrizes da Administração Municipal e demais regras procedimentais aplicáveis;
+
+V - avaliar a gestão de risco, identificar potenciais erros, fraudes e outros eventos que possam afetar a Administração Municipal na realização de seus objetivos com segurança razoável; assim como, verificar se a unidade auditada possui controles adequados para o tratamento desses riscos e recomendar melhorias para sua gestão; e
+
+VI - avaliar o processo de governança, considerando o conjunto de diretrizes, medidas, mecanismos e práticas organizacionais de liderança, estratégia e controle definidos pela Administração Pública para avaliar, direcionar e monitorar a gestão, com vistas à realização de políticas públicas e à prestação de serviços de interesse da sociedade.
+
+Parágrafo único. A aplicação dos objetivos da auditoria interna poderá variar e depender do volume e da estrutura da unidade a ser auditada, do plano e das solicitações de auditoria e, quando aplicável, dos responsáveis pela governança, sendo incluído um ou mais dos objetivos previstos neste artigo.
+
+Art. 20. Constituem objetos da realização de auditoria:
+
+I - a gestão orçamentária, contábil, financeira, fiscal, patrimonial, operacional e de pessoal, assim como os seus respectivos sistemas eletrônicos de informações e plataformas eletrônicas de receita e despesa;
+
+II - as metas previstas no plano plurianual, a execução dos programas de governo e orçamentos do Município, assim como os resultados alcançados pelos administradores;
+
+III - os procedimentos e processos administrativos de despesas, incluindo os licitatórios, contratos, convênios, termos de parceria, acordos e outros instrumentos congêneres realizados pela Administração Municipal;
+
+IV - os balancetes e as demonstrações contábeis e financeiras produzidos pela Administração Municipal;
+
+V - a aplicação dos recursos do Tesouro Municipal transferidas a entidades públicas ou privadas;
+
+VI - as operações de créditos, os avais e as garantias, assim como os direitos, as obrigações e os haveres do Município;
+
+VII - atos e registros de que resultem a arrecadação, o recolhimento e a renúncia das receitas, assim como a criação, a modificação ou a extinção de direitos e obrigações do Município;
+
+VIII - os procedimentos administrativos e gerenciais dos controles internos, com vistas à apresentação de subsídios para o seu aperfeiçoamento; e
+
+IX - outros objetos passíveis de auditoria definidos em lei e regulamento.
+
+Art. 21. Para efeitos desta Instrução Normativa, as auditorias são classificadas de acordo com a sua previsibilidade, finalidade e forma.
+
+§ 1º Quanto à previsibilidade, as auditorias são:
+
+I - Programadas: são as previstas e relacionadas no Plano Anual de Atividades de Auditoria Interna (PAINT);
+
+II - Não programadas ou extraordinárias: são aquelas realizadas extraordinariamente por não estarem previstas no Plano Anual de Atividades de Auditoria.
+
+§ 2º Quanto ao tipo, as auditorias são:
+
+I - Auditoria Financeira ou de Demonstrações Contábeis: verificar a legalidade dos atos de natureza contábil, financeira, orçamentária e patrimonial, praticados pelos órgãos e entidades da Administração Pública Municipal, e das aplicações de recursos públicos por entidades de direito privado;
+
+II - Auditoria de Conformidade: fiscalização que objetiva avaliar evidências para verificar se os atos e fatos de gestão obedecem às normas legais, os princípios, os regulamentos, as diretrizes e demais regras procedimentais aplicáveis;
+
+III - Auditoria Operacional ou de Desempenho: fiscalização utilizada para avaliar o funcionamento dos processos operacionais, os planos e programas de governo, as ações gerenciais, os projetos e as atividades da Administração Municipal, com a finalidade de verificar se os objetivos estabelecidos vêm sendo alcançados, fornecendo análises objetivas para auxiliar a administração a melhorar suas operações e seu desempenho na gestão pública com base nos critérios de eficácia, eficiência, economicidade e efetividade; e
+
+IV - Auditoria Especial: classificam-se nessa categoria as demais atividades de auditoria não inseridos nos tipos acima.
+
+Art. 22. Os procedimentos de auditoria reger-se-ão, especialmente, pelos princípios da legalidade, impessoalidade, moralidade, economicidade, eficiência, efetividade, legitimidade, confidencialidade, razoabilidade, proporcionalidade, transparência, objetividade e competência.
+
+CAPÍTULO V
+DOS PROCEDIMENTOS DE AUDITORIA INTERNA
+
+SEÇÃO I
+FASES
+
+Art. 23. As auditorias observarão as seguintes fases:
+
+I – iniciativa e instauração;
+
+II - planejamento;
+
+III - execução;
+
+IV - comunicação dos resultados; e 
+
+V – monitoramento.
+
+SEÇÃO II
+DA INICIATIVA E DA INSTAURAÇÃO
+
+Art. 24. As auditorias poderão ser iniciadas em decorrência: 
+
+I – da programação do Plano Anual de Atividades de Auditoria Interna (PAINT);
+
+II – de determinação do Prefeito Municipal ou do Controlador-Geral do Município;
+
+III – por solicitação formal e motivada do titular máximo do órgão ou entidade da Administração Pública Municipal;
+
+IV – por solicitação ou recomendação dos Órgãos de Controle Externo; e
+
+V – de denúncias, ao verificarem fatos relevantes que configurem indícios de irregularidades.
+
+Art. 25. A realização de auditoria com iniciativa prevista no inciso III do art. 24 desta Instrução Normativa está condicionada à análise prévia do Controlador-Geral do Município.
+
+Art. 26. A instauração da auditoria será efetuada mediante despacho, preferencialmente eletrônico, do Controlador-Geral do Município aos membros da Equipe de Auditoria Interna.
+
+§ 1º A instauração da auditoria será comunicada previamente à sua execução, por meio de expediente interno, ao titular da unidade auditada, podendo solicitar, quando for o caso, além de documentos e informações, disponibilização de ambiente reservado e seguro para a instalação da Equipe de Auditoria Interna.
+
+§ 2º O Controlador-Geral do Município poderá dispensar a comunicação prévia da auditoria ao titular da unidade auditada, caso entenda que a dispensa seja necessária para o atendimento à finalidade da auditoria.
+
+Art. 27. Instaurada a auditoria, seus procedimentos deverão ser iniciados imediatamente.
+
+SEÇÃO III
+DO PLANEJAMENTO
+
+Art. 28. O planejamento das atividades de auditoria é a fase destinada a orientar a execução dos seus procedimentos, desenvolvido pela Equipe de Auditoria Interna, conforme modelo constante no Anexo II desta Instrução Normativa.
+
+§ 1° Para fins de estimativa dos prazos de planejamento da auditoria, caso necessário, poderão ser realizados levantamentos preliminares, a fim de melhor a unidade auditada, seus riscos e controles, e o detalhamento dos procedimentos imprescindíveis ao alcance do objetivo pretendido.
+
+§ 2º O planejamento deverá descrever os procedimentos e métodos para identificar, analisar, avaliar e documentar as informações, descrever o cronograma de sua execução, consistindo em:
+
+I – identificar a unidade a ser auditada;
+
+II - delimitar o escopo da auditoria (tipo, objeto e objetivo);
+
+III - informar o período de tempo abrangido pela auditoria;
+
+IV - estabelecer as etapas dos trabalhos e o respectivo cronograma de execução, contendo o prazo inicial e final estimado para realização;
+
+V - elaborar as questões de auditoria;
+
+VI - levantar os testes e procedimentos de auditoria a serem aplicados;
+
+VII - identificar os possíveis achados; e
+VIII – extrair outros elementos que considerar necessários.
+
+§ 3º Durante os exames, a Equipe de Auditoria Interna poderá avaliar a conveniência e oportunidade e ampliar os testes e procedimentos de auditoria quanto à extensão e/ou à profundidade, caso necessário.
+
+Art. 29. A análise dos riscos da auditoria interna será realizada na fase de planejamento dos trabalhos, avaliando-se a possibilidade de não se atingir, de forma satisfatória, o objetivo da fiscalização, devendo ser considerando e registrado, especialmente, os seguintes aspectos:
+
+I - a verificação e comunicação de eventuais limitações ao alcance dos procedimentos da auditoria interna a serem aplicados, ponderando o volume ou a complexidade das transações e das operações, dentre outros motivos; e
+
+II - a extensão da responsabilidade do servidor no uso dos trabalhos de especialistas.
+
+Art. 30. A fase de planejamento de cada auditoria é concluída com a elaboração da matriz de planejamento, a qual formaliza as diretrizes que serão adotadas durante a execução da auditoria.
+
+Art. 31. Os procedimentos de auditoria adotarão, naquilo que couber, as seguintes técnicas de auditoria existentes:
+
+I – Inspeção: verificação de registros, de documentos ou de ativos, que proporcionará a formação de opinião quanto à existência do objeto ou informação do item examinado.
+
+II – Observação: consiste no exame de processo ou procedimento executado por servidores da unidade auditada, com a finalidade de averiguar o item sob exame, e se este opera em conformidade com os critérios definidos;
+
+III - Análise documental: procedimento que consiste na verificação de processos e documentos que conduzam à formação de indícios e evidências e podem ser objeto desta análise:
+
+a) os processos administrativos de despesas;
+
+b) os processos e atos de admissão de pessoal, assim como os de concessões de aposentadorias e pensões;
+
+c) salvo as informações sigilosas, os procedimentos e processos de sindicância, administrativo disciplinar e tomada de contas especial e demais procedimentos correcionais;
+
+d) os processos de prestação de contas de adiantamentos, diárias ou suprimentos de fundos; e
+
+e) outros objetos passíveis de análise de conformidade processual definidos em lei e regulamento.
+
+IV – Confirmação externa: procedimento que consiste na obtenção de declaração formal e independente de partes externas (pessoas, empresas, órgãos fiscalizadores), a respeito de fatos ligados às operações da unidade auditada;
+
+V – Entrevista: procedimento que consiste na indagação oral ou escrita, executada mediante elaboração de quesitos, elaborados com a finalidade de obter informações, dados, explicações e/ou esclarecimentos que contribuam, efetivamente, para o alcance dos objetivos do trabalho da auditoria;
+
+VI – Recálculo: verificação e análise das memórias de cálculo que deram origem a registros, manual ou informatizada;
+
+VII - Procedimentos de revisão analítica: procedimento que consiste em avaliar as informações contábeis (montantes financeiros, quantidades físicas, índices, percentuais), mediante comparações e exames com parâmetros ou expectativas identificadas ou desenvolvidas pela Equipe de Auditoria Interna, com posterior diagnóstico de relacionamentos entre dados, buscando a identificação de situações ou tendências atípicas;
+
+VIII – Reexecução: procedimento que consiste em executar, novamente, os procedimentos, cálculos, atividades de controle, a fim de testar os sistemas, processos e controles internos, confirmando assim, a veracidade, a correção e a legitimidade dos atos/fatos registrados.
+
+IX – Rastreamento e Vouching: procedimento que consiste em verificar a correspondência entre lançamentos contábeis e a documentação apresentada como base:
+
+a) Rastreamento: auxilia a detectar quantias lançadas a menos nos registros contábeis, permitindo a Equipe de Auditoria Interna, a obtenção de evidências relacionadas com as afirmações de integridade; e
+
+b) Vouching: auxilia a detectar quantias lançadas à maior nos registros contábeis, permitindo a Equipe de Auditoria Interna, a obtenção de evidências sobre afirmações de existência ou ocorrência; 
+
+X – Benchmarking: procedimento que consiste na comparação de algum aspecto de uma área/organização com o de outra, cujo desempenho positivo, pode ser considerado um parâmetro/referência.
+
+SEÇÃO IV
+DA EXECUÇÃO
+
+Art. 32. A execução da auditoria compreende:
+
+I - reunião de abertura dos trabalhos pela Equipe de Auditoria Interna;
+
+II - captação de informações e documentos;
+
+III - aplicação dos testes e procedimentos previstos no planejamento de auditoria; e
+
+IV - outras medidas necessárias para subsidiar a auditagem, podendo, inclusive, valer-se de perícias.
+
+Art. 33. Em todas as fases da auditoria, a captação de informações e documentos, e os acessos pretendidos serão efetivados por solicitação, conforme modelo constante no Anexo IV desta Instrução Normativa, preferencialmente por meio de comunicação eletrônica, sem prejuízo da utilização do meio convencional.
+
+Art. 34. Para a realização e execução do processo de auditoria e seus objetivos, a Equipe de Auditoria Interna poderá:
+
+I – ter acesso às dependências e instalações da Administração Municipal;
+
+II – ter acesso completo, livre e irrestrito a todo e qualquer processo, documento, relatório, registro ou informações, em todo e qualquer meio, suporte ou formato disponível, inclusive em sistemas e banco de dados informatizados para realizar, com ou sem aviso prévio, diligências, verificações, vistorias, levantamentos e elaborar relatórios relacionados com a Auditoria Interna;
+
+III – salvo informações sigilosas, ter acesso a toda documentação necessária;
+
+IV – solicitar expedições de informações e documentos necessários ao esclarecimento do objeto da auditoria;
+
+V - desempenhar outras atribuições afetas e relacionadas com a sua órbita de competência;
+
+VI - sugerir, ao Controlador-Geral do Município, em sendo necessário, a contratação, na forma da lei, de serviços técnicos profissionais de pessoas físicas ou jurídicas especializada, com o propósito de realizar a análise de documento, atos e fatos administrativos sujeitos a auditoria interna; e
+
+VII - promover convocações e notificações de pessoas para prestar declarações, esclarecimentos e justificativas, bem como para apresentação e exercício do direito de defesa, ocasião em que se reduzirá o conteúdo a termo;
+
+§ 1º O impedimento de acesso, a sonegação ou a recusa imotivada na concessão de documentos e informações, assim como qualquer ocorrência de ameaça velada ou explícita, de indisposição ou intimidação aos membros da Equipe de Auditoria Interna no desenvolvimento dos trabalhos constituem falta disciplinar, punível nos termos da legislação vigente.
+
+§ 2º A ocorrência de atos e fatos previstos no § 1º desse artigo deverá ser comunicada imediatamente ao Controlador-Geral do Município para as providências cabíveis.
+
+Art. 35. Durante a execução dos trabalhos serão identificados os achados de auditoria, para os quais a Equipe de Auditoria Interna deverá identificar e analisar informações suficientes, confiáveis, relevantes e úteis para cumprir os objetivos da auditoria, mediante processo de comparação entre a condição (situação encontrada ou existente) e um critério (situação correta ou esperada).
+
+§ 1º Para aspectos de conformidade, o critério pode ser oriundo de legislação, regulamentos, cláusulas contratuais, convênios, termos de parceria ou outros ajustes, jurisprudência e entendimento doutrinário.
+
+§ 2° Para aspectos operacionais, o critério pode ser o indicador estratégico ou operacional que a gestão está utilizando para gerenciar os riscos relevantes para atingir seus objetivos ou um referencial aceito como benchmarking para a atividade auditada, como padrões e boas práticas.
+
+§ 3º Os achados, as conclusões e os resultados das atividades de auditoria deverão ser baseados em análises e avaliações apropriadas, devidamente comprovadas e sustentadas por evidências e documentados por meio dos papéis de trabalho.
+
+Art. 36. Todo o trabalho de auditoria deve ser documentado com as evidências obtidas e com as informações relevantes para dar suporte às conclusões e aos resultados da auditoria, devendo ser adotados papéis de trabalho que evidenciem atos e fatos observados pela Equipe de Auditoria Interna, os quais devem:
+
+I - subsidiar o relatório de auditoria, contendo o registro da metodologia adotada, os procedimentos, as verificações, as fontes de informações, os testes, procedimentos e demais informações relacionadas ao trabalho de auditoria;
+
+II - documentar os elementos significativos dos exames realizados e evidenciar que a auditoria foi executada de acordo com as normas aplicáveis; e
+
+III - ser elaborados em meio físico ou eletrônico, organizados e arquivados de forma sistemática e racional;
+
+§ 1º Os papéis de trabalho devem ter abrangência e grau de detalhes suficientes para propiciarem a compreensão do planejamento, da natureza, oportunidade e extensão dos procedimentos de Auditoria Interna aplicados, bem como do julgamento exercido e suporte das conclusões alcançadas.
+
+§ 2º Análises, demonstrações ou quaisquer outros documentos devem ter sua integridade verificada sempre que forem anexados aos papéis de trabalho.
+
+Art. 37. A Equipe de Auditoria Interna poderá realizar reunião de encerramento com o objetivo de discutir conclusões e recomendações com o responsável pela atividade auditada.
+
+Parágrafo único. A reunião de encerramento terá por objetivo comunicar a finalização das atividades de auditoria, assegurar a efetiva disponibilização e precisão das informações e documentos, bem como melhorar as relações com as unidades auditadas, devendo ser documentada caso surja alguma controvérsia.
+
+SEÇÃO V
+COMUNICAÇÃO DOS RESULTADOS 
+
+Art. 38. Finalizado os trabalhos de coleta de dados da auditoria, tais resultados construídos com base nas análises realizadas pela Equipe de Auditoria Interna, nas informações e nos esclarecimentos prestados pela unidade auditada, deverão ser comunicados, adotando um dos instrumentos mencionados no art. 1°, § 1º, inciso XIV, desta Instrução Normativa.
+
+Art. 39. Os Relatórios serão submetidos ao Controlador-Geral do Município para providências.
+
+§ 1° Todos os relatórios de auditoria serão encaminhados, preferencialmente, em formato digital, para ciência do titular da unidade auditada, quanto às deliberações e aos prazos para cumprimento das recomendações.
+
+§ 2º As estruturas dos relatórios poderão ser revisadas e alteradas pelo Controlador-Geral do Município.
+
+Art. 40. O Controlador-Geral do Município poderá determinar a revisão das recomendações constantes dos Relatórios, caso ocorra algum fato ou situação que justifique a alteração de entendimento. 
+
+SUBSEÇÃO I
+DO RELATÓRIO PREVENTIVO DE AUDITORIA
+
+Art. 41. Em qualquer fase do procedimento de auditoria, poderá ser emitido Relatório Preventivo de Auditoria, conforme modelo constante no Anexo V desta Instrução Normativa.
+
+Parágrafo único. O relatório preventivo de que trata o caput, trata-se de imediata adoção de medidas saneadoras, quando verificado o risco para a segurança de pessoas ou dano para o patrimônio do Município ou de terceiros.
+
+SUBSEÇÃO II
+DO RELATÓRIO PRELIMINAR DE AUDITORIA
+
+Art. 42. Os resultados preliminares decorrentes da realização de auditoria serão expressos em Relatório Preliminar de Auditoria, conforme Anexo VI desta Instrução Normativa, o qual deverá ser encaminhado ao titular da unidade auditada, para manifestação de esclarecimentos, justificativas e/ou adoção de providências com vistas à devida correção.
+
+§ 1º Na hipótese de não detecção de achados de auditoria desfavoráveis como resultado preliminar, dependendo da finalidade do procedimento de fiscalização, será proposto o arquivamento do processo de auditoria ao Controlador-Geral do Município, a quem competirá à decisão final.
+
+§ 2º Os achados de auditoria desfavoráveis e menos complexos podem prescindir da descrição da causa e do efeito, sendo suficiente a explanação da condição e do critério.
+
+Art. 43. O Controlador-Geral do Município poderá determinar novas diligências, sempre que julgar necessária a complementação dos procedimentos de execução, observando, em todo caso, o escopo da auditoria e a independência funcional da Equipe de Auditoria Interna.
+
+SUBSEÇÃO III
+DO RELATÓRIO CONCLUSIVO DE AUDITORIA
+
+Art. 44. Os resultados decorrentes da realização de auditoria, após o cumprimento do prazo para manifestação do titular da unidade auditada e, com a devida interação das informações junto a Equipe de Auditoria Interna, conforme previsto no art. 42 desta Instrução Normativa, serão expressos em Relatório Conclusivo de Auditoria, conforme modelo constante no Anexo VII desta Instrução Normativa.
+
+Parágrafo único. Da manifestação do titular da unidade auditada, acerca dos achados preliminares de auditoria, ensejará avaliação por parte da Equipe de Auditoria Interna, cujos dados serão incorporados ao Relatório Conclusivo, como um dos elementos de cada achado, individualmente, e como resultado dessa avaliação, serão exaradas recomendações pertinentes à matéria auditada.
+
+Art. 45. Ao formular recomendações para posterior monitoramento, a Equipe de Auditoria Interna priorizará a correção dos problemas de natureza grave, que impliquem em risco de dano ao erário ou de comprometimento direto das metas estratégicas definidas pela unidade auditada.
+
+SEÇÃO VI
+DO MONITORAMENTO DA AUDITORIA
+
+Art. 46. A Equipe de Auditoria Interna monitorará o cumprimento das recomendações e, ao final, emitirá Relatório de Monitoramento, conforme modelo constante no Anexo VIII desta Instrução Normativa.
+
+§ 1º O relatório de monitoramento conterá o resultado do acompanhamento e da avaliação das medidas adotadas em face das recomendações da Equipe de Auditoria Interna, das determinações emitidas pelos Órgãos de Controle Externo, assim como em decorrência do acompanhamento e da avaliação periódica e concomitante da execução dos atos, indicadores, sistemas de informação da gestão municipal, dentre outros objetos de fiscalização por monitoramento.
+
+Art. 47. Poderão ser considerados para fins de monitoramento os seguintes resultados: 
+
+I – atendida: quando apresentado documento ou verificado que a recomendação foi realmente atendida;
+
+II – em andamento: quando iniciada as ações que atendem a recomendação, porém, ainda faltam procedimentos para que a recomendação seja integralmente atendida. 
+
+III – parcialmente atendida: quando realizado algum procedimento, mas a recomendação não foi totalmente atendida e não há ação em andamento para concluir a recomendação.
+
+IV – não atendida: quando constatado que nenhuma medida foi implementada e não tenha previsão para o atendimento da recomendação, bem como quando o prazo de atendimento já houver ultrapassado 06 (seis) meses; e
+
+V – baixada/cancelada: quando ocorrer mudança na condição observada, caracterizando perda do objeto e inviabilizando o cumprimento da medida recomendada.
+
+Art. 48. Caberá ao Controlador-Geral do Município, amparado pelo resultado do monitoramento, as seguintes providências: 
+
+I - encerramento e arquivamento do processo de auditoria sem ressalva, nos casos de inexistência ou de saneamento dos achados, ou ainda, acatamento total das alegações e justificativas apresentadas pela unidade auditada;
+
+II - expedição de comunicado interno para saneamento de irregularidade ou aprimoramento de gestão;
+
+III – encaminhamento para instauração de Tomada de Contas Especial (TCE) pelo órgão competente, quando houver indícios de dano ao erário e/ou elementos suficientes para identificação dos responsáveis e nas demais hipóteses previstas na legislação;
+
+IV - encaminhamento ao Tribunal de Contas do Estado de Santa Catarina (TCE/SC), respeitando o disposto no § 1º do art. 74 da Constituição Federal;
+
+V - encaminhamento à unidade de correição, quando houver indícios de autoria ou participação de servidores na prática de atos caracterizadores, em tese, de infração administrativa disciplinar;
+
+VI - encaminhamento à Procuradoria-Geral do Município (PGM), para conhecimento e adoção de providências cabíveis quanto à responsabilização civil, penal ou administrativa, quando for o caso; e
+
+VII - encaminhamento para instauração de procedimento administrativo de responsabilização (PAR), quando houver indícios de autoria ou participação de pessoas jurídicas de direito privado na prática de atos caracterizadores, em tese, de ato lesivo à Administração Municipal, nos termos do art. 5° da Lei Federal n° 12.846, de 2013.
+
+CAPÍTULO VI
+DOS DEVERES DAS UNIDADES AUDITADAS
+
+Art. 49. São deveres das unidades auditadas perante a Controladoria-Geral do Município (CGM):
+
+I – assegurar aos membros da Equipe de Auditoria Interna acesso as suas dependências e instalações, seus processos, documentos, sistemas e banco de dados informatizados, e demais informações para realização de seus trabalhos, não podendo sonegar, sob qualquer pretexto; 
+
+II – atender, em caráter prioritário e no prazo indicado, às demandas e solicitações da Controladoria-Geral do Município (CGM), assim como disponibilizar espaço físico e demais condições indispensáveis ao exercício das suas competências; 
+
+III – manifestar-se formalmente em resposta a cada constatação, achado de auditoria e recomendação contidos nos relatórios de fiscalização, auditoria e controle recebidos; 
+
+IV – adotar medidas que objetivem o cumprimento de determinações e recomendações decorrentes das fiscalizações, auditorias e controles realizados pela Equipe de Auditoria Interna;
+
+V – adotar medidas de prevenção e correção de atos ilegais, ilegítimos e antieconômicos; e
+
+VI - atender às solicitações da Equipe de Auditoria Interna, prestando total apoio técnico e operacional, inclusive no que tange à entrega de documentação e à disponibilização de espaço físico adequado aos trabalhos.
+
+§ 1º As unidades auditadas deverão atender, com prioridade e no prazo, as solicitações de informações e documentos requisitados.
+
+§ 2º As pessoas naturais ou jurídicas que tenham celebrado contratos ou convênios, acordos, termos de parceria e outros instrumentos congêneres com a Administração Municipal ficam obrigados a atender as solicitações de informações e documentos formalizadas pela Equipe de Auditoria Interna.
+
+CAPÍTULO VII
+DO RELATÓRIO FINAL DE ATIVIDADES DE
+ AUDITORIA INTERNA (RAINT)
+
+Art. 50. O Relatório Final de Atividades de Auditoria Interna (RAINT) será elaborado em conjunto pela Gerência de Auditoria e Fiscalização de Contratos e pela Equipe de Auditoria Interna e será submetido à apreciação do Controlador-Geral do Município, que deverá aprová-lo.
+
+§ 1º Na elaboração do Relatório Final de Atividades de Auditoria Interna (RAINT), conforme modelo constante no Anexo IX desta Instrução Normativa, serão consideradas todas as atividades previstas no Plano Anual de Atividades de Auditoria Interna (PAINT), bem como todas as demais atividades que se operaram de modo espontâneo/extraordinário.
+
+§ 2° A apresentação do Relatório Final de Atividades de Auditoria Interna (RAINT), deverá ser apresentado ao Controlador-Geral do Município, até o dia 31 de janeiro de cada ano.
+
+CAPÍTULO VIII
+DAS DISPOSIÇÕES FINAIS
+
+Art. 51. Aplicam-se as disposições desta Instrução Normativa, no que couber, aos procedimentos de fiscalização, auditoria e controle em curso.
+
+Art. 52. Esta Instrução Normativa entra em vigor na data de sua publicação no Diário Oficial do Município.
+
+Blumenau, 26 de novembro de 2020.
+
+
+
+RODRIGO JANSEN
+Controlador-Geral do Município
+
+
+
+ANEXO I - PLANO ANUAL DE ATIVIDADES DE AUDITORIA INTERNA (PAINT)
+	PLANO ANUAL DE ATIVIDADES DE AUDITORIA INTERNA (PAINT) CGM – 20____.
+
+	Nº
+	Unidade Auditada
+	
+Tipo de Auditoria[footnoteRef:2] [2:  Tipo de Auditoria: conforme art. 21, § 2º, da Instrução Normativa ____/2020.] 
+
+
+	Objeto da Auditoria[footnoteRef:3] [3:  Objeto da Auditoria: conforme art. 20, da Instrução Normativa ____/2020.] 
+
+	Finalidade/Objetivos da Auditoria[footnoteRef:4] [4:  Finalidade/Objetivos da Auditoria: conforme art. 19, da Instrução Normativa ____/2020.] 
+
+	Volume estimado de recursos 
+(quando aplicável)
+	Origem da Demanda[footnoteRef:5] [5:  Origem da Demanda: pautada em dados colhidos junto a Administração, bem como se demanda não atendida e manifestada em sede de RAINT.] 
+
+	Equipe de Auditoria Interna
+	Cronograma (período de) execução
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
+
+
+
+
+
+ANEXO II - MATRIZ DE PLANEJAMENTO
+
+Unidade/objeto auditado: (nome do órgão/entidade)
+Escopo: (definição do tipo, objeto e objetivo da auditoria)
+Equipe de Auditoria Interna: (nome dos servidores/membros)
+
+	MATRIZ DE PLANEJAMENTO
+
+	Questões e Subquestões de
+Auditoria[footnoteRef:6] [6: Questões e Subquestões de Auditoria: especificar os termos-chave e o escopo da questão: critério, período de abrangência, atores envolvidos, abrangência geográfica.] 
+
+	Critério (o que deve ser) [footnoteRef:7] [7: Critério (o que de ser): é o padrão utilizado para avaliar se o objeto auditado atende, excede ou está aquém do desempenho esperado.] 
+
+	Informações requeridas[footnoteRef:8] [8: Informações requeridas: deve ser preenchida com as informações que serão necessárias para responder às questões de auditoria.] 
+
+	Fontes de informação[footnoteRef:9] [9: Fontes de informação: identificar as fontes de cada item de informação requerida da coluna anterior. Estas fontes estão relacionadas com as técnicas empregadas] 
+
+	Procedimentos de auditoria[footnoteRef:10] [10: Procedimentos de auditoria: conjunto de exames que têm como finalidade obter evidências suficientes, confiáveis, fidedignas, relevantes e úteis, que permitam responder a uma questão de auditoria.] 
+
+	Possíveis limitações para a execução da auditoria[footnoteRef:11] [11:  Possíveis limitações para a execução da auditoria: especificar as limitações quanto: à estratégia metodológica adotada ao acesso a pessoas e informações à qualidade das informações e às condições operacionais de realização do trabalho] 
+
+	Membros da equipe responsável pela execução
+	Prazo e cronograma das auditorias a serem realizadas
+	O que a análise vai permitir dizer/Possíveis achados
+(facultativo) [footnoteRef:12] [12: O que a análise vai permitir dizer. Possíveis achados (facultativo): hipóteses, ou seja, respostas provisórias para as questões de auditoria. Tem o papel de auxiliar a Equipe de Auditoria Interna a antecipar possíveis dificuldades ou fragilidades no seu trabalho.] 
+
+
+	
+	
+	
+
+	
+	
+
+	
+
+	
+	
+	
+
+
+
+
+
+
+ANEXO III - MATRIZ DE ACHADOS
+
+Objeto examinado:
+Objetivo:
+Equipe de Auditoria Interna:
+
+	MATRIZ DE ACHADOS
+
+	Questões de Auditoria[footnoteRef:13] [13: Questões de Auditoria: consistem nos objetos de trabalho descritos em forma de perguntas. São necessárias para direcionar os trabalhos para os resultados que se pretende atingir.] 
+
+	Subquestões de
+Auditoria[footnoteRef:14] [14: Subquestões de Auditoria: São desdobramentos de cada questão de auditoria que permitem, no conjunto, respondê-la. Devem, ao mesmo tempo, excluir-se mutuamente e completar-se coletivamente.] 
+
+	Descrição Sumária[footnoteRef:15] [15: Descrição sumária: deve apresentar a situação encontrada de forma resumida, de modo a antecipar a leitura do fato.] 
+
+	Critério (O que deveria ser) [footnoteRef:16] [16: Critério (O que deveria ser): é o padrão utilizado para avaliar se o objeto auditado atende, excede ou está aquém do desempenho esperado.] 
+
+	Condição ou      situação encontrada
+(O que é) [footnoteRef:17] [17: Condição ou situação encontrada (O que é): situação existente, identificada e documentada durante a fase de execução da auditoria. Pode ser evidenciada de diversas formas, dependendo das técnicas de auditoria empregadas.] 
+
+	Evidências[footnoteRef:18] [18: Evidências: são as informações coletadas, analisadas e avaliadas pelo servidor para apoiar os achados e as conclusões do trabalho de auditoria, as quais devem ter os seguintes atributos: ser suficientemente completas de modo que terceiros cheguem às conclusões da equipe; e ser pertinente ao tema, e diretamente relacionada com o achado.] 
+
+	Informação extraída das evidências[footnoteRef:19] [19: Informação extraída das evidências: breve descrição do fato material sustentado pela evidência informada. Deve demonstrar a adequação (qualidade) e suficiência (quantidade) da evidência para sustentar o achado.] 
+
+	Causas[footnoteRef:20] [20: Causas: é a razão para a existência de diferença entre critério e condição, ou seja, entre a situação esperada e a encontrada.] 
+
+	Efeitos[footnoteRef:21] [21: Efeitos: é a consequência da divergência entre a condição e o critério. Pode ser positivo, correspondendo a benefícios alcançados, ou negativos, correspondendo ao risco ou exposição que sofre o objeto de auditoria ou a Unidade Auditada por não estar conforme o padrão esperado.] 
+
+	Boas Práticas[footnoteRef:22] [22: Boas Práticas: ações identificadas em outras atividades de auditoria que comprovadamente levam a bom desempenho. Essas ações poderão subsidiar a proposta de recomendações. Podem ser identificadas com base em conhecimento de outra(s) unidade(s) ou outro(s) setor(es) dentro da mesma unidade. É preciso ressaltar que cumprimento de lei não é boa prática, constitui obrigação.] 
+
+	Recomendações[footnoteRef:23] [23: Recomendações: as recomendações consistem em ações que a UAIG solicita às Unidades Auditadas que adotem com a finalidade de corrigir falhas, aperfeiçoar processos. É preciso atentar para que a quantidade de recomendações não seja excessiva e que estejam focadas nos principais aspectos da condição identificada.] 
+
+	Benefícios esperados[footnoteRef:24] [24: Benefícios esperados: melhorias que se esperam alcançar com a implementação das recomendações e determinações. Os benefícios podem ser quantitativos e/ou qualitativos. Sempre que, devem ser quantificados.] 
+
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
+
+
+
+ANEXO IV- SOLICITAÇÃO DE INFORMAÇÕES E DOCUMENTOS Nº XXX/20___
+
+	SOLICITAÇÃO DE AUDITORIA Nº: [Processo Auditoria/Numeração sequencial da Solicitação]
+
+	DESTINATÁRIO: [Nome do dirigente máximo da Unidade Auditada]
+
+	UNIDADE AUDITADA: [Nome da Unidade Auditada]
+
+
+
+Blumenau, __de _______ de 20___.
+
+Senhor (a) [Cargo dirigente máximo da unidade auditada],
+Considerando o disposto no artigo X da Lei nº X.XXX/AAAA e com vistas a subsidiar as atividades de auditoria que serão/estão sendo realizados nessa unidade, solicitamos o seguinte: 
+
+1. Apresentar os originais dos processos: 
+
+a) Processo nº XXXX/AAAA: [quando possível, especificar páginas]; 
+b) Processo nº YYYY/AAAA: [quando possível, especificar páginas]; 
+
+2. Providenciar cópias digitais dos seguintes documentos: 
+
+a) Ofício nº XX/AAAA; 
+b) Portaria nº YY/AAAA; 
+c) Processo nº ZZ/AAAA: [quando possível, especificar páginas]; 
+d) Demais documentos;
+
+3. Informar o quantitativo de [especificar a informação requerida]; 
+
+4. Descrever quais os procedimentos de controle utilizados no processo [detalhar processo].
+
+Os processos solicitados no item 1 (um) deverão ser apresentados à Equipe de Auditoria Interna instalada na unidade [especificar sala]. Os documentos solicitados no item 2 deverão ser digitalizados e enviados por e-mail. As informações constantes dos itens 3, 4poderão ser encaminhadas eletronicamente. O e-mail para encaminhamento das informações é [inserir e-mail]. 
+Quando do envio das informações à Equipe de Auditoria Interna, orienta-se que esta unidade informe a qual item da listagem acima cada resposta se refere. Além disso, é importante que sejam identificados os responsáveis pela informação, a fonte da informação e que os documentos estejam datados e assinados, quando couber. 
+As informações solicitadas neste documento deverão ser apresentadas até o dia ___/___/_____. Caso algumas das informações requeridas estejam indisponíveis, deverão ser encaminhadas as devidas justificativas à Equipe de Auditoria Interna dentro do prazo estabelecido para o atendimento a esta solicitação de documentos.
+A Equipe de Auditoria Interna estará disponível tanto pessoalmente, como também através de e-mail ou telefone, para prestar quaisquer esclarecimentos em relação aos itens solicitados.
+Atenciosamente, 
+	Equipe de Auditoria Interna: (identificar os membros da Equipe)
+
+	REGISTRO DE RECEBIMENTO DO DOCUMENTO PELA UNIDADE AUDITADA
+
+	Assinatura do responsável pelo recebimento
+
+
+	Data do recebimento
+
+
+	Nome completo (ou carimbo) do responsável pelo recebimento
+
+	Matrícula
+
+
+
+
+
+
+
+
+
+
+
+
+ANEXO V - RELATÓRIO PREVENTIVO DE AUDITORIA CGM N° XXX/20___.
+
+	UNIDADE AUDITADA: [Nome da Unidade Auditada]
+
+	SOLICITAÇÃO DE AUDITORIA Nº: [Processo Auditoria/Numeração sequencial da Solicitação]
+
+	DESTINATÁRIO: [Nome do dirigente máximo da Unidade Auditada]
+
+
+
+Blumenau, __de _______ de 20___.
+
+
+Senhor (a) [Cargo dirigente máximo da unidade auditada],
+
+No decorrer das atividades de auditoria, foram verificadas falhas cujas medidas de saneamento devem ser adotadas antes da conclusão dos trabalhos de campo. Portanto, estão relacionados, a seguir [ou em anexo, a depender da quantidade de registros], o(s) registro(s) elaborado(s) pela Equipe de Auditoria Interna, as providências recomendadas e os prazos estabelecidos para o seu atendimento: 
+
+1. Achado (descrição sumária): 
+
+- Fato: 
+- Causas: 
+- Recomendação: 
+Prazo para atendimento: ___/___/______.
+
+A Equipe de Auditoria Interna estará disponível tanto pessoalmente, como também através do e-mail: [e-mail da auditoria] ou 47 XXXX-XXXX, para prestar quaisquer esclarecimentos em relação aos registros apresentados. 
+Equipe de Auditoria Interna: (identificar os membros da Equipe)
+
+
+	REGISTRO DE RECEBIMENTO DO DOCUMENTO PELA UNIDADE AUDITADA
+
+	Assinatura do responsável pelo recebimento
+
+
+	Data do recebimento
+
+
+	Nome completo (ou carimbo) do responsável pelo recebimento
+
+
+	Matrícula
+
+
+
+
+
+
+
+ANEXO VI - RELATÓRIO PRELIMINAR DE AUDITORIA CGM N° XXX/20___.
+
+	UNIDADE AUDITADA: [Nome do Órgão / Entidade]
+
+
+	GESTOR DA UNIDADE: [Nome do Gestor] – CPF
+
+
+	PERÍODO FISCALIZADO: [Data de início e fim das informações apuradas]
+
+
+	TIPO DE AUDITORIA: [Especial / de Conformidade /Operacional /Contábil - conforme Planejamento da Auditoria]
+
+
+	MEMBROS DA EQUIPE DE AUDITORIA INTERNA: [membros designados]
+
+
+	DATA INÍCIO E TÉRMINO DA FISCALIZAÇÃO: [início e fim da auditoria]
+
+
+
+
+
+1. INTRODUÇÃO
+
+Na introdução o relatório deverá indicar o objeto e o objetivo da Auditoria, a deliberação de originou a fiscalização, a menção à observância dos padrões de auditoria, o volume de recursos fiscalizados e, se houver as limitações inerentes à auditoria.
+
+2. DESCRIÇÃO DA UNIDADE AUDITADA
+
+Fornece informações básicas sobre a unidade auditada, a atividade ou o processo auditado, o tipo de auditoria realizada, riscos específicos, sistemas relevantes e/ou departamentos ou funções avaliadas, licitações e contratos celebrados. Deve-se indicar o orçamento da Unidade, no período auditado, o quadro de servidores.
+
+
+3. OBJETIVO E QUESTÕES DE AUDITORIA
+
+Descreve o que a auditoria buscou realizar. Normalmente são traduzidos por verbos no infinitivo.
+Exemplo: avaliar, determinar.
+Relacionar as questões de auditoria indicadas na fase de planejamento.
+
+
+
+
+4. ESCOPO DA AUDITORIA
+
+Determina os limites da auditoria, ou seja, descreve tanto o que foi incluído na auditoria quanto o que foi excluído e que o leitor poderia esperar que fosse abordado. Indica o período, os processos em exame, etc.
+
+5. METODOLOGIA: PROCEDIMENTOS DE AUDITORIA
+
+Descreve como a auditoria foi conduzida, ou seja, que atividades gerais de auditoria foram realizadas e que ferramentas foram utilizadas. Métodos de trabalho utilizados especificamente para um achado podem ser descritos no próprio achado.
+Informa os procedimentos e as técnicas de auditoria que permitiram obter as evidências necessárias ao juízo de valor da Equipe de Auditoria Interna.
+
+6. LIMITAÇÕES INERENTES À AUDITORIA (Caso tenha alguma limitação)
+
+Informa as limitações impostas ao trabalho, associadas à metodologia utilizada para abordar as questões de auditoria, à confiabilidade ou à dificuldade na obtenção de dados, assim como as limitações relacionadas ao próprio escopo do trabalho, como áreas ou aspectos não examinados em função de quaisquer restrições, devem ser consignadas no relatório indicando-se as razões e se isso afetou ou pode ter afetado os objetivos, os resultados e as conclusões da auditoria.
+
+7. ACHADOS DA AUDITORIA
+
+Descreve os registros que respondem aos objetivos do trabalho, ou seja, às questões de auditoria. São compostos por: critério, condição, causa e consequência. Podem ser fundamentados com exemplos, dados, análises, tabelas ou gráficos relevantes. Ao compor o achado, a equipe deve dar destaque ao que é mais importante, portanto, o que é principal deve ser incluído no início do texto.
+Os achados devem ser apresentados de forma organizada, de acordo com um critério preestabelecido como ordem cronológica, relevância, tema, causa, efeito ou risco. O achado de auditoria deve atender, necessariamente, aos seguintes requisitos básicos:
+
+· ser relevante para que mereça ser relatado;
+· estar fundamentado em evidências juntadas ao relatório;
+· ser apresentado de forma objetiva;
+· respaldar as propostas de encaminhamento dele resultantes;
+· apresentar consistência, de modo a mostrar-se convincente a quem não participou da auditoria.
+
+Devem ser indicados os responsáveis pelos processos/sistemas/setores objeto do achado, bem como a conduta que propiciou a ocorrência da situação encontrada.
+Para cada achado devem ser indicadas as medidas (recomendações) que devem ser adotadas pela unidade auditada para corrigir a falha/irregularidade.
+
+8. DILIGÊNCIAS
+
+Redigir os atos a serem praticados após análises.
+
+9. ANÁLISE DA EQUIPE
+
+Registra a análise realizada pela Equipe de Auditoria Interna à vista dos achados e manifestações/justificativas/providências apresentadas na Manifestação da unidade auditada, contendo ao seu julgamento quanto ao saneamento ou não das impropriedades/irregularidades verificadas.
+
+
+10. CONCLUSÃO
+
+Registra a emissão da opinião final da Equipe de Auditoria Interna sobre o objeto auditado. Pode envolver algum tipo de classificação. Costuma decorrer dos muitos fatores e informações a que a equipe teve acesso durante o trabalho, principalmente os achados de auditoria.
+Na conclusão, podem ser apresentados os achados de auditoria de forma sintética, explicitando-se o vínculo entre eles e as questões de auditoria propostas. Podem também ser apresentados os benefícios decorrentes da auditoria realizada, inclusive os financeiros, quando houver, e a causa raiz, quando esta for identificada.
+Da mesma maneira, quando forem identificadas boas práticas relevantes, essas poderão ser registradas nesse espaço. A abordagem apresentada nesse campo deve ter caráter gerencial, ou seja: abordar aspectos que estejam na alçada da alta administração da unidade.
+11. ENCAMINHAMENTO
+
+
+Pelo exposto, em virtude dos apontamentos feitos, ENCAMINHA-SE para diligências:
+
+[elencar as solicitações de esclarecimento/justificativa]
+
+Blumenau, __de _______ de 20___.
+
+
+Equipe de Auditoria Interna: [identificar abaixo os membros da Equipe]
+
+	
+[identificar o membro Equipe]
+Cargo
+	
+[identificar o membro Equipe]
+Cargo
+
+
+
+
+Aprovado por:
+
+
+
+[identificar o responsável pela aprovação do Relatório]
+Controlador-Geral do Município
+
+
+
+
+
+
+
+
+
+
+
+
+ANEXO VII - RELATÓRIO CONCLUSIVO DE AUDITORIA CGM N° XXX/20___.
+
+
+	UNIDADE AUDITADA: [Nome do Órgão / Entidade]
+
+
+	GESTOR DA UNIDADE: [Nome do Gestor] – CPF
+
+
+	PERÍODO FISCALIZADO: [Data de início e fim das informações apuradas]
+
+
+	TIPO DE AUDITORIA: [Especial / de Conformidade /Operacional /Contábil - conforme Planejamento da Auditoria]
+
+
+	MEMBROS DA EQUIPE DE AUDITORIA INTERNA: [membros designados]
+
+
+	DATA INÍCIO E TÉRMINO DA FISCALIZAÇÃO: [início e fim da auditoria]
+
+
+
+
+1. INTRODUÇÃO
+
+Na introdução o relatório deverá indicar o objeto e o objetivo da Auditoria, a deliberação de originou a fiscalização, a menção à observância dos padrões de auditoria, o volume de recursos fiscalizados e, se houver as limitações inerentes à auditoria.
+
+2. DESCRIÇÃO DA UNIDADE AUDITADA
+
+Fornece informações básicas sobre a unidade auditada, a atividade ou o processo auditado, o tipo de auditoria realizada, riscos específicos, sistemas relevantes e/ou departamentos ou funções avaliadas, licitações e contratos celebrados. Deve-se indicar o orçamento da Unidade, no período auditado, o quadro de servidores.
+
+
+3. OBJETIVO E QUESTÕES DE AUDITORIA
+
+Descreve o que a auditoria buscou realizar. Normalmente são traduzidos por verbos no infinitivo.
+
+Exemplo: avaliar, determinar.
+Relacionar as questões de auditoria indicadas na fase de planejamento.
+
+4. METODOLOGIA: PROCEDIMENTOS DE AUDITORIA
+
+Descreve como a auditoria foi conduzida, ou seja, que atividades gerais de auditoria foram realizadas e que ferramentas foram utilizadas. Métodos de trabalho utilizados especificamente para um achado podem ser descritos no próprio achado.
+Informa os procedimentos e as técnicas de auditoria que permitiram obter as evidências necessárias ao juízo de valor da Equipe de Auditoria Interna.
+
+5. LIMITAÇÕES INERENTES À AUDITORIA (caso tenha alguma limitação)
+
+Informa as limitações impostas ao trabalho, associadas à metodologia utilizada para abordar as questões de auditoria, à confiabilidade ou à dificuldade na obtenção de dados, assim como as limitações relacionadas ao próprio escopo do trabalho, como áreas ou aspectos não examinados em função de quaisquer restrições, devem ser consignadas no relatório indicando-se as razões e se isso afetou ou pode ter afetado os objetivos, os resultados e as conclusões da auditoria.
+
+6. ACHADOS DA AUDITORIA
+
+Descreve os registros que respondem aos objetivos do trabalho, ou seja, às questões de auditoria. São compostos por: critério, condição, causa e consequência. Podem ser fundamentados com exemplos, dados, análises, tabelas ou gráficos relevantes. Ao compor o achado, a equipe deve dar destaque ao que é mais importante, portanto, o que é principal deve ser incluído no início do texto.
+Os achados devem ser apresentados de forma organizada, de acordo com um critério preestabelecido como ordem cronológica, relevância, tema, causa, efeito ou risco. O achado de auditoria deve atender, necessariamente, aos seguintes requisitos básicos:
+· ser relevante para que mereça ser relatado;
+· estar fundamentado em evidências juntadas ao relatório;
+· ser apresentado de forma objetiva;
+· respaldar as propostas de encaminhamento dele resultantes;
+· apresentar consistência, de modo a mostrar-se convincente a quem não participou da auditoria.
+
+Devem ser indicados os responsáveis pelos processos/sistemas/setores objeto do achado, bem como a conduta que propiciou a ocorrência da situação encontrada.
+Para cada achado devem ser indicadas as medidas (recomendações) que devem ser adotadas pela unidade auditada para corrigir a falha/irregularidade.
+
+7. MANIFESTAÇÕES DA UNIDADE AUDITADA
+
+Registra a manifestação da unidade auditada em relação aos achados de auditoria. Serve para refutar, explicar, apresentar argumentos, sobretudo quando os achados relatam deficiências, fraudes, violações, não conformidades. A Equipe de Auditoria deve obter analisar e relatar não apenas essas respostas, mas também quaisquer ações corretivas planejadas para solucionar as situações apontadas por meio dos achados. Se a unidade auditada se recusar a responder os questionamentos da equipe ou não conseguir fazê-lo no prazo acordado, a Equipe de Auditoria poderá emitir o relatório sem esses comentários.
+
+8. ANÁLISE DA EQUIPE
+
+Registra a análise realizada pela Equipe de Auditoria Interna à vista dos achados e manifestações/justificativas/providências apresentadas na Manifestação da unidade auditada, contendo ao seu julgamento quanto ao saneamento ou não das impropriedades/irregularidades verificadas.
+
+9. CONCLUSÃO
+
+Registra a emissão da opinião final da Equipe de Auditoria Interna sobre o objeto auditado. Pode envolver algum tipo de classificação. Costuma decorrer dos muitos fatores e informações a que a equipe teve acesso durante o trabalho, principalmente os achados de auditoria.
+Na conclusão, podem ser apresentados os achados de auditoria de forma sintética, explicitando-se o vínculo entre eles e as questões de auditoria propostas. Podem também ser apresentados os benefícios decorrentes da auditoria realizada, inclusive os financeiros, quando houver, e a causa raiz, quando esta for identificada.
+Da mesma maneira, quando forem identificadas boas práticas relevantes, essas poderão ser registradas nesse espaço. A abordagem apresentada nesse campo deve ter caráter gerencial, ou seja: abordar aspectos que estejam na alçada da alta administração da unidade.
+
+10. ENCAMINHAMENTO
+
+
+Pelo exposto, em virtude dos apontamentos feitos, RECOMENDA-SE:
+[elencar as recomendações que serão futuro objeto de monitoramento]
+
+Blumenau, __de _______ de 20___.
+
+
+Equipe de Auditoria Interna: [identificar abaixo os membros da Equipe]
+
+	
+[identificar o membro da Equipe]
+Cargo
+	
+[identificar o membro da Equipe]
+Cargo
+
+
+
+Aprovado por:
+
+
+
+[identificar o responsável pela aprovação do Relatório]
+Controlador-Geral do Município
+
+
+
+ANEXO VIII - RELATÓRIO DE MONITORAMENTO DO ATENDIMENTO DAS RECOMENDAÇÕES DE AUDITORIA INTERNA N° XXX/20___.
+
+	Relatório de Auditoria Interna
+	N° XX/20__/CGM
+
+	Data da realização da Auditoria: [dia/mês/ano]
+
+	GESTOR DA UNIDADE: [Nome do gestor] – CPF
+
+
+	UNIDADE AUDITADA: [Nome do Órgão / Entidade]
+
+
+	MEMBROS DA EQUIPE DE AUDITORIA INTERNA: [membros designados]
+
+
+	Período de Auditoria: de [dia/mês/ano] a [dia/mês/ano]
+
+
+
+As respostas e documentos entregues pela unidade auditada, referentes ao atendimento das recomendações, serviram de base para análise quanto à sua implementação. O produto desta análise resultou na conclusão acerca do atendimento da recomendação, da determinação de baixa (quando não mais aplicável o entendimento que a ensejou ou por motivos de força maior) ou na reiteração da recomendação, quando verificado o não atendimento e a necessidade de sua manutenção.
+As recomendações reiteradas visam à adequação dos controles internos administrativos e devem ser avaliadas e ponderadas pela autoridade competente.
+Constatação 1
+
+Exemplo: Constatou-se que, indevidamente, não foi  (exposição da constatação)....
+Causa
+
+Violação do xxxxxxx
+Recomendação
+Recomenda-se a xxxxxxxxxxxxxx
+Manifestação do Gestor
+Em XX de XXXXXX de 20__:
+“xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx”
+
+Análise da Equipe de Auditoria Interna 
+
+Exemplo: diante da manifestação da gestão e do material anexado, entende-se por considerar a recomendação atendida.
+Posição da Auditoria Interna: Recomendação Atendida.
+
+CONCLUSÃO
+De modo geral, constatou-se que a grande maioria das recomendações expedidas durante as ações da Equipe de Auditoria Interna, tem sido adotadas e implementadas pela Gestão, reafirmando seu compromisso em atender aos princípios constitucionais e demais normas concernentes à Administração Pública.
+Todavia, a fim de aperfeiçoar os controles internos existentes, as recomendações emitidas por esta auditoria interna, ainda não implementadas, devem ser analisadas pela gestão administrativa da entidade.
+Ressaltamos que as recomendações que não foram consideradas atendidas ou que ainda não tiveram seu monitoramento iniciado, neste e nos demais Relatórios, serão acompanhadas posteriormente pela Equipe de Auditoria Interna o que, contudo, não impede que o gestor venha a se manifestar previamente a esse acompanhamento.
+Destarte, salienta-se que a adoção das recomendações emitidas pela Equipe de Auditoria Interna é de exclusivo interesse da gestão administrativa desta secretária, haja vista que a Auditoria Interna é um órgão de assessoramento técnico, não possuindo natureza vinculante. Entretanto, seu acatamento refletirá no comprometimento com o fortalecimento dos controles internos da entidade e com o acolhimento das disposições legais vigentes.
+Blumenau, __de _______ de 20___.
+
+Equipe de Auditoria Interna: [identificar abaixo os membros da Equipe]
+	[identificar o membro da Equipe]
+Cargo
+	[identificar o membro da Equipe]
+Cargo
+
+
+
+Aprovado por:
+
+[identificar o responsável pela aprovação do Relatório]
+Controlador-Geral do Município
+ANEXO IX – RELATÓRIO ANUAL DE ATIVIDADES DE AUDITORIA INTERNA (RAINT) N° XXX/20___.
+
+1. INTRODUÇÃO
+O presente relatório tem por objetivo expor as atividades executadas no ano de 20__, conforme as ações previstas no Plano Anual de Atividades de Auditoria Interna – PAINT/20__ da Administração Pública Municipal de Blumenau e as atividades não planejadas, mas que exigiram atuação direta da Auditoria Interna da Controladoria-Geral do Município (CGM) de Blumenau. 
+Este Relatório presta-se, ainda, a identificar os fatos relevantes de natureza administrativa que causaram impacto sobre a Auditoria Interna, relatar as ações de capacitação das quais os membros da Equipe de Auditoria Interna participaram ao longo do ano de 20__ e demonstrar o reflexo de tais ações para o fortalecimento da Unidade.
+Informamos o cumprimento de ___% das ações de auditoria previstas no Plano Anual de Auditoria Interna (PAINT) de 20___, aprovado e revisado pelo Controlador-Geral do Município, além da realização de trabalhos extraordinários, trabalhos estes realizados na modalidade de consultoria. 
+Eventualmente poderá se encontrar pendente alguns pontos referentes ao processo de auditoria, e esta informação deve constar: o número do Processo de Auditoria e uma possível causa (ex.: cronograma comprometido pelo atraso dos gestores nas respostas às solicitações de auditoria que solicitaram esclarecimentos sobre inconsistências detectadas).
+No exercício de 20___, a Gerência de Auditoria e Fiscalização de Contratos, foi composta por ___ servidores juntamente com a Gerente de Auditoria e Fiscalização de Contratos. O quadro abaixo apresenta a composição da Unidade de Auditoria Interna em 20___:
+
+	Lotação
+	Nome
+	Função
+	Formação
+
+	
+	
+	
+	
+
+
+
+
+2.  DESCRIÇÃO DAS ATIVIDADES DE AUDITORIA INTERNA REALIZADOS DE ACORDO COM O PAINT.
+
+	N° do Relatório
+	Tipo de Trabalho
+	Descrição das ações de Auditoria
+	Escopos Examinados
+	Cronograma Executado
+	Situação
+
+	
+	
+	
+	
+	
+	
+
+
+
+3.  DESCRIÇÃO DAS ATIVIDADES DE AUDITORIA INTERNA REALIZADOS SEM PREVISÃO NO PAINT.
+
+	N° do Relatório
+	Tipo de Trabalho
+	Descrição das ações de Auditoria
+	Escopos Examinados
+	Cronograma Executado
+	Situação
+
+	
+	
+	
+	
+	
+	
+
+
+
+4. RECOMENDAÇÕES EMITIDAS E MONITORADAS/IMPLEMENTADAS NO EXERCÍCIO.
+
+	
+	QTDE. DE RECOMENDAÇÕES
+
+	Relatório
+	Emitidas
+	Implementadas
+	Risco Assumido
+	Não implementadas e dentro do prazo
+	Não implementadas e fora do prazo
+
+	XX/20__
+	-
+	-
+	-
+	-
+	-
+
+	TOTAL
+	-
+	-
+	-
+	-
+	-
+
+
+
+5. FATOS RELEVANTES QUE IMPACTARAM POSITIVA OU NEGATIVAMENTE NOS RECURSOS E NA ORGANIZAÇÃO DA UNIDADE DE AUDITORIA INTERNA E NA REALIZAÇÃO DAS AUDITORIAS.
+	PERÍODO
+	DESCRIÇÃO DO FATO
+	IMPACTO
+
+	__/__/____a __/__/____
+	
+	
+
+
+
+6. AÇÕES DE CAPACITAÇÃO REALIZADAS.
+O desenvolvimento profissional contínuo dos ____.
+Como resultado, todos os servidores da Equipe de Auditoria Interna comprovaram a realização de ___ horas ou mais de capacitação durante o ano de 20___, conforme quadros abaixo:
+	Servidor (a)
+	Descrição do Curso/ Capacitação
+	Total de Horas de Capacitação
+
+	
+	
+	
+
+
+
+De acordo com o quadro acima, cumprida a meta quanto às capacitações preconizadas no PAINT/20___.
+
+7. CONCLUSÃO
+
+Ponderar os resultados obtidos com as atividades de auditoria, cuja conclusão poderá auxiliar na elaboração do PAINT do ano seguinte/subsequente.
+
+Blumenau, ___ de ___________ de 20___.
+
+
+Equipe de Auditoria Interna: [identificar abaixo os membros da Equipe]
+	
+[identificar o membro da Equipe]
+Cargo
+	
+[identificar o membro da Equipe]
+Cargo
+
+
+
+Aprovado por:
+
+
+[identificar o responsável pela aprovação do Relatório]
+Controlador-Geral do Município
+
+

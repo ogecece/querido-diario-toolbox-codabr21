@@ -1,0 +1,51 @@
+
+FUNDAÇÃO UNIVERSIDADE REGIONAL DE BLUMENAU
+
+Extrato nº. 213/2020
+PARTES:  FUNDAÇÃO UNIVERSIDADE REGIONAL DE BLUMENAU
+
+E
+
+VIRTUAL OFFICE COMÉRCIO E INDÚSTRIA DE PRODUTOS DE TELECOMUNICAÇÕES E INFORMÁTICA LTDA
+OBJETO: Contratação de renovação de suporte e aquisição de atualização das licenças da solução de proteção corporativa adotada pela Universidade.
+FUNDAMENTO LEGAL: Pregão Presencial nº 123/2020 e Contrato nº 120/2020, firmado em 18 de junho de 2020.  
+PREÇO: Pelo objeto contratado, a CONTRATANTE pagará o preço de R$ 91.168,00 (noventa e um mil cento e sessenta e oito reais), constante na tabela abaixo, de acordo com a proposta apresentada pela CONTRATADA:
+
+	Item
+	Código FURB
+	Qtde.
+	Und.
+	Descrição do Item
+	Componentes da Solução
+	Preço unitário
+
+(em R$)
+	Preço Total 
+
+(em R$)
+
+	1
+	31741
+	2590
+	Licença
+	UPGRADE DE SUÍTE, RENOVAÇÃO DE SUPORTE E ATUALIZAÇÃO DE LICENÇAS DA SOLUÇÃO INTEGRADA DE SEGURANÇA CORPORATIVA "MCAFEE ENDPOINT PROTECTION ADVANCED (EPA)” PARA MVSION STANDARD UPGD 1:1BZ que contém os seguintes módulos: ePO, McAfee MVISION Endpoint, McAfee EndPoint Security. Todos os módulos citados são integrados e gerenciados a partir de um único console. Suporte e atualização por 12 meses podendo ser renovado por iguais períodos até 60 meses. 
+	Solução de Segurança – MV1ECE-DA-DI MVISION Standard UPGD 1:1BZ para estações de trabalho e servidores com sistemas operacionais Windows e MAC, contendo: 
+
+· McAfee MVISION Endpoint;
+· McAfee Endpoint Security;
+
+· McAfee ePolicy Orchestrator (McAfee ePO) com gerenciamento centralizado das estações, configurações e relatórios na modalidade On Premisse;
+
+- Deve fornecer Produto de upgrade da suíte McAfee EndPoint Protection Advanced (EPA) para a suíte MVISION Standard UPGD 1:1BZ incluindo licenciamento, renovação de suporte e atualizações. 
+	35,20
+	91.168,00
+
+	Preço Global
+
+(em R$ e por extenso)
+	Noventa e um mil cento e sessenta e oito reais
+
+
+PAGAMENTO: O pagamento será efetuado em até 15 (quinze) dias consecutivos após o recebimento definitivo das licenças, que será realizado nos termos do Item 4.2 deste Contrato, desde que os mesmos estejam em perfeitas condições de uso e sejam aprovados pelo Gestor designado pela CONTRATANTE, acompanhados da respectiva Nota Fiscal Eletrônica (NF-e), através de depósitos bancários (hipótese na qual a NF-e deverá conter os dados bancários da CONTRATADA) ou de boletos bancários (caso no qual tais documentos deverão acompanhar a NF-e).
+PRAZO DE VIGÊNCIA: A vigência do contrato gerado em decorrência deste certame será de 12 (doze) meses, contados a partir da data de assinatura, podendo se estender até o limite de 60 (sessenta) meses, conforme previsto no artigo 57, II da Lei Federal nº. 8.666/1993.
+DATA: 19/06/2020.

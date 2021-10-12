@@ -1,0 +1,808 @@
+
+FUNDAÇÃO UNIVERSIDADE REGIONAL DE BLUMENAU
+
+Extrato nº. 274/2020
+PARTES:  FUNDAÇÃO UNIVERSIDADE REGIONAL DE BLUMENAU
+
+E
+
+                  ÍTACA EIRELI
+OBJETO: Registro de Preços para aquisições futuras de materiais de marcenaria para a Universidade.
+FUNDAMENTO LEGAL: Pregão Presencial (SRP) nº 134/2020 e Ata de Registro de Preços nº 141/2020, firmado em 28 de julho de 2020.  
+PREÇO: O preço ofertado pela empresa signatária da presente Ata de Registro de Preços é o abaixo informado, de acordo com a respectiva classificação:
+
+	Lote 1
+
+	Item
+	Código FURB
+	Qtde.
+	Und.
+	Descrição do Item
+	Marca
+	Preço Unitário (em R$)
+	Preço Total do Item (em R$)
+
+	1
+	6784
+	10
+	peça
+	Folha de porta lisa lâmina de itauba/angelim de 210 x 60 cm com espessura de 3,5 cm. Com acabamento para verniz e isenta de trincas e manchas.
+	Brasportas
+	116,25
+	1.162,50
+
+	2
+	6783
+	10
+	peça
+	Folha de porta lisa lâmina de itauba/angelim de 210 x 70 cm com espessura de 3,5 cm, conforme necessidade da FURB. Com acabamento para verniz e isenta de trincas e manchas.
+	Brasportas
+	116,25
+	1.162,50
+
+	3
+	6782
+	20
+	peça
+	Folha de porta lisa lâmina de itauba/angelim de 210 x 80 cm com espessura de 3,5 cm, conforme necessidade da FURB. Com acabamento para verniz e isenta de trincas e manchas
+	Brasportas
+	129,49
+	2.589,80
+
+	4
+	6938
+	10
+	peça
+	Folha de porta lisa lâmina de itauba/angelim de 210 x 90 cm com espessura de 3,5 cm, conforme necessidade da FURB. Com acabamento para verniz e isenta de trincas e manchas.
+	Brasportas
+	142,28
+	1.422,80
+
+	5
+	6860
+	10
+	peça
+	Folha de porta lisa lâmina de itaúba/angelim de 210 x 100 cm com espessura de 3,5cm com acabamento para verniz e isenta de trincas e manchas.
+	Brasportas
+	176,24
+	1.762,40
+
+	Preço Total do Lote 
+
+(em R$)
+	8.100,00
+
+
+	Lote 4
+
+	Item
+	Código FURB
+	Qtde.
+	Und.
+	Descrição do Item
+	Marca
+	Preço Unitário (em R$)
+	Preço Total do Item (em R$)
+
+	1
+	34750
+	15
+	cartela
+	Tapa furo diâmetro 12mm autoadesivo / em PVC na cor branca cartela com 50 unidades.
+	Proadec
+	2,82
+	42,30
+
+	2
+	34751
+	50
+	cartela
+	Tapa furo diâmetro 12mm autoadesivo / em PVC na cor bege cartela com 50 unidades
+	Proadec
+	4,22
+	161,00
+
+	3
+	34161
+	1000
+	metro
+	Fita de borda em PVC de 19mm, na cor branca.
+	Proadec
+	0,36
+	360,00
+
+	4
+	34162
+	1500
+	metro
+	Fita de borda em PVC de 19mm, na cor bege (similar as cores ovo e almendra) 
+	Proadec
+	0,55
+	825,00
+
+	5
+	21055
+	100
+	metro
+	Fita de borda em PVC de 40mm, na cor branca.
+	Proadec
+	0,73
+	73,00
+
+	6
+	31464
+	200
+	metro
+	Fita de borda em PVC de 40mm, na cor bege (similar as cores ovo e almendra) 
+	Proadec
+	1,13
+	226,00
+
+	7
+	34168
+	50
+	peça
+	Passa cabos (fios) reto, diametro 59mm com tampa,  para mesa de escritório, cor preta, fabricada em PVC.
+	SAS
+	1,43
+	71,50
+
+	8
+	6718
+	3
+	rolo
+	Lixa amarela para madeira  grão 80, largura 12cm, fabricada com óxido alumínio sobre costado de papel. Rolo com 45 metros
+	SAS
+	256,83
+	770,49
+
+	9
+	34166
+	3
+	rolo
+	Lixa para madeira  grão 60, largura 12cm, fabricada com óxido alumínio sobre costado de papel. Rolo com 45 metros
+	SAS
+	271,23
+	813,69
+
+	10
+	6716
+	300
+	peça
+	Lixa para madeira em folha de 275 x 225 mm / grão 60
+	SAS
+	1,25
+	375,00
+
+	11
+	6687
+	300
+	peça
+	Lixa para madeira em folha de 275 x 225 mm / grão 80
+	SAS
+	1,66
+	498,00
+
+	12
+	6689
+	300
+	peça
+	Lixa para madeira em folha de 275 x 225 mm / grão 120
+	SAS
+	1,65
+	495,00
+
+	13
+	6690
+	300
+	peça
+	Lixa para madeira em folha de 275 x 225 mm / grão 220
+	SAS
+	1,63
+	489,00
+
+	Preço Total do Lote 
+
+(em R$)
+	5.249,98
+
+
+	Lote 9
+
+	Item
+	Código FURB
+	Qtde.
+	Und.
+	Descrição do Item
+	Marca
+	Preço Unitário (em R$)
+	Preço Total do Item (em R$)
+
+	1
+	6162
+	40
+	kg
+	Prego comum 19 x 36 (JP x LPP) com cabeça, acabamento polido  – Fabricado com arames de aço de baixo teor de carbono, de acordo com a Norma ABNT NBR 5589; Composto por cabeça, corpo e ponta, em conformidade com a Norma ABNT NBR 6627.
+	Pregofix
+	10,43
+	417,20
+
+	2
+	6118
+	80
+	kg
+	Prego comum 17 x 27 (JP x LPP) com cabeça, acabamento polido – Fabricado com arames de aço de baixo teor de carbono, de acordo com a Norma ABNT NBR 5589; Composto por cabeça, corpo e ponta, em conformidade com a Norma ABNT NBR 6627.
+	Pregofix
+	10,03
+	802,40
+
+	3
+	6110
+	40
+	kg
+	Prego comum 16 x 24 (JP x LPP) com cabeça, acabamento polido – Fabricado com arames de aço de baixo teor de carbono, de acordo com a Norma ABNT NBR 5589; Composto por cabeça, corpo e ponta, em conformidade com a Norma ABNT NBR 6627.
+	Pregofix
+	11,14
+	445,60
+
+	4
+	6279
+	40
+	kg
+	Prego comum 13 x 15 (JP x LPP) com cabeça, acabamento polido – Fabricado com arames de aço de baixo teor de carbono, de acordo com a Norma ABNT NBR 5589; Composto por cabeça, corpo e ponta, em conformidade com a Norma ABNT NBR 6627.
+	Pregofix
+	12,41
+	496,40
+
+	5
+	6116
+	10
+	kg
+	Prego comum 11 x 12 ou 12 x 12 (JP x LPP) com cabeça, acabamento polido – Fabricado com arames de aço de baixo teor de carbono, de acordo com a Norma ABNT NBR 5589; Composto por cabeça, corpo e ponta, em conformidade com a Norma ABNT NBR 6627.
+	Pregofix
+	13,41
+	134,10
+
+	6
+	28444
+	20
+	kg
+	Prego comum 13 x 15 (JP x LPP) sem cabeça, acabamento polido, aplicação em marcenaria – Fabricado com arames de aço de baixo teor de carbono, de acordo com a Norma ABNT NBR 5589.
+	Pregofix
+	13,33
+	266,60
+
+	7
+	6113
+	20
+	kg
+	Prego comum 11 x 15 (JP x LPP) sem cabeça, acabamento polido, aplicação em marcenaria – Fabricado com arames de aço de baixo teor de carbono, de acordo com a Norma ABNT NBR 5589.
+	Pregofix
+	18,09
+	361,80
+
+	8
+	6114
+	10
+	kg
+	Prego comum 7 x 9 (JP x LPP) sem cabeça, acabamento polido, aplicação em marcenaria – Fabricado com arames de aço de baixo teor de carbono, de acordo com a norma ABNT NBR 5589.
+	Pregofix
+	47,59
+	475,90
+
+	Preço Total do Lote 
+
+(em R$)
+	3.400,00
+
+
+	Lote 11
+
+	Item
+	Código FURB
+	Qtde.
+	Und.
+	Descrição do Item
+	Marca
+	Preço Unitário (em R$)
+	Preço Total do Item (em R$)
+
+	1
+	27618
+	40
+	cento
+	Parafuso para madeira de 4,0 x 50 mm. Cabeça chata com fenda philipis, rosca auto cortante, em aço baixo carbono, cementado e acabamento bicromatizado
+	Newfix
+	8,27
+	330,80
+
+	2
+	34165
+	25
+	cento
+	Parafuso para madeira de 3,5 x 12 mm. Cabeça chata com fenda philipis, rosca auto cortante, em aço baixo carbono, cementado e acabamento bicromatizado
+	Newfix
+	1,91
+	47,75
+
+	3
+	27614
+	25
+	cento
+	Parafuso para madeira de 3,5 x 20 mm. Cabeça chata com fenda philipis, rosca auto cortante, em aço baixo carbono, cementado e acabamento bicromatizado
+	Newfix
+	2,60
+	65,00
+
+	4
+	27615
+	40
+	cento
+	Parafuso para madeira de 3,5 x 30 mm. Cabeça chata com fenda philipis, rosca auto cortante, em aço baixo carbono, cementado e acabamento bicromatizado
+	Newfix
+	3,28
+	131,20
+
+	5
+	32140
+	25
+	Cento
+	Parafuso para madeira bicromatizado, cabeça chata com fenda Philips, cementado, auto-cortante, tamanho 3,5mm x 35mm.
+	Newfix
+	3,67
+	91,75
+
+	6
+	27616
+	50
+	cento
+	Parafuso para madeira de 3,5 x 40 mm. Cabeça chata com fenda philipis, rosca auto cortante, em aço baixo carbono, cementado e acabamento bicromatizado
+	Newfix
+	4,26
+	213,00
+
+	7
+	27617
+	50
+	cento
+	Parafuso para madeira de 4,0 x 45 mm. Cabeça chata com fenda philipis, rosca auto cortante, em aço baixo carbono, cementado e acabamento bicromatizado
+	Newfix
+	6,41
+	320,50
+
+	Preço Total do Lote 
+
+(em R$)
+	1.200,00
+
+
+	Lote 12
+
+	Item
+	Código FURB
+	Qtde.
+	Und.
+	Descrição do Item
+	Marca
+	Preço Unitário (em R$)
+	Preço Total do Item (em R$)
+
+	1
+	39604
+	10
+	peça
+	 Chapa de Eucatex/eucadur de 2,5mm na cor natural (marrom) – 185 x 275 cm. Fabricada em chapa dura de fibras de eucalipto, prensada à quente pelo processo úmido, com alta densidade, face superior lisa e face inferior corrugada. Tolerância para espessura: 2,3 a 2,8 mm
+	Eucatex
+	42,41
+	424,10
+
+	2
+	32278
+	50
+	peça
+	Painel de fibra de média densidade (chapa MDF - BP) de 15 mm, texturizada, revestida com laminado, dupla face, cor bege (similar as cores ovo e almendra)  – 185 x 275 cm. Fabricada a partir de aglutinação de fibras de madeira com resinas sintéticas e ação conjunta de temperatura e pressão. Características técnicas: Densidade: maior ou igual a 450 kg/m³. Inchamento em 24 horas: 12% máximo. Umidade: menor que 20%. Formaldeído livre: 30mg/100g máximo. Tolerância espessura: + ou – 0,2 mm. Tolerância comprimento e largura: 2 mm/m, até o máximo de 5 mm. O material deverá estar em conformidade com a norma: ABNT NBR 15316-2.
+	Berneck
+	150,77
+	7.538,50
+
+	3
+	32277
+	30
+	peça
+	Painel de fibra de média densidade (chapa MDF - BP) de 15 mm, texturizada, revestida com laminado, dupla face, cor branca,  – 185 x 275 cm. Fabricada a partir de aglutinação de fibras de madeira com resinas sintéticas e ação conjunta de temperatura e pressão. Características técnicas: Densidade: maior ou iagual a 450 kg/m³. Inchamento em 24 horas: 12% máximo. Umidade: menor que 20%. Formaldeído livre: 30mg/100g máximo. Tolerância espessura: + ou – 0,2 mm. Tolerância comprimento e largura: 2 mm/m, até o máximo de 5 mm. O material deverá estar em conformidade com a norma: ABNT NBR 15316-2
+	Berneck
+	126,63
+	3.798,90
+
+	4
+	31780
+	20
+	peça
+	Painel de fibra de média densidade (chapa MDF - BP) de 6 mm, texturizada, revestida com laminado, dupla face, cor bege (similar as cores ovo e almendra)  – 185 x 275 cm. Fabricada a partir de aglutinação de fibras de madeira com resinas sintéticas e ação conjunta de temperatura e pressão. Características técnicas: Densidade: maior ou igual a 450 kg/m³. Inchamento em 24 horas: 12% máximo. Umidade: menor que 20%. Formaldeído livre: 30mg/100g máximo. Tolerância espessura: + ou – 0,2 mm. Tolerância comprimento e largura: 2 mm/m, até o máximo de 5 mm. O material deverá estar em conformidade com a norma: ABNT NBR 15316-2.
+	Berneck
+	107,88
+	2.157,60
+
+	5
+	34159
+	20
+	peça
+	Painel de fibra de média densidade (chapa MDF - BP) de 6 mm, texturizada, revestida com laminado, dupla face, cor branca – 185 x 275 cm. Fabricada a partir de aglutinação de fibras de madeira com resinas sintéticas e ação conjunta de temperatura e pressão. Características técnicas: Densidade: maior ou igual a 450 kg/m³. Inchamento em 24 horas: 12% máximo. Umidade: menor que 20%. Formaldeído livre: 30mg/100g máximo. Tolerância espessura: + ou – 0,2 mm. Tolerância comprimento e largura: 2 mm/m, até o máximo de 5 mm. O material deverá estar em conformidade com a norma: ABNT NBR 15316-2.
+	Berneck
+	88,97
+	1.779,40
+
+	6
+	20849
+	30
+	peça
+	Painel de fibra de média densidade (chapa MDF) de 12mm, crú (sem revestimento) de 185 x 275 cm. Fabricada a partir de aglutinação de fibras de madeira com resinas sintéticas e ação conjunta de temperatura e pressão. Características técnicas: Densidade: maior ou igual a 450 kg/m³. Inchamento em 24 horas: 30% máximo. Umidade: menor que 20%. Formaldeído livre: 30mg/100g máximo. Tolerância espessura: + ou – 0,2 mm.Tolerância comprimento e largura: 2 mm/m, até o máximo de 5 mm. O material deverá estar em conformidade com a norma: ABNT NBR 15316-2.
+	Berneck
+	90,05
+	2.701,50
+
+	Preço Total do Lote 
+
+(em R$)
+	18.400,00
+
+
+	Lote 13
+
+	Item
+	Código FURB
+	Qtde.
+	Und.
+	Descrição do Item
+	Marca
+	Preço Unitário (em R$)
+	Preço Total do Item (em R$)
+
+	1
+	17514
+	5
+	peça
+	Chapa de fórmica lousaline quadriculada de 1,0 mm na cor verde escolar – 125 x 308 cm. Fabricada com uma superfície homogênea, uniforme e ligeiramente abrasiva que fixa o giz com definição.
+	Karikal
+	298,00
+	1.490,00
+
+	2
+	28482
+	25
+	peça
+	Chapa de fórmica lousa brilhante quadriculada de 1,0 mm na cor branca – 125 x 308 cm. Quadro escolar. Fabricada com uma superfície homogênea, uniforme e lisa para utilização de marcador.
+	Karikal
+	252,40
+	6.310,00
+
+	Preço Total do Lote 
+
+(em R$)
+	7.800,00
+
+
+	Lote 14
+
+	Item
+	Código FURB
+	Qtde.
+	Und.
+	Descrição do Item
+	Marca
+	Preço Unitário (em R$)
+	Preço Total do Item (em R$)
+
+	1
+	31900
+	5
+	peça
+	Chapa tipo fórmica texturizada na cor branca, espessura de 0,8mm, tamanho 125x308 cm.
+	Karikal
+	149,07
+	745,35
+
+	2
+	31899
+	5
+	peça
+	Chapa tipo fórmica texturizada na cor bege (similar às cores ovo e almendra), espessura de 0,8mm, tamanho 125x308 cm.
+	Karikal
+	150,93
+	754,65
+
+	Preço Total do Lote 
+
+(em R$)
+	1.500,00
+
+
+	Lote 15
+
+	Item
+	Código FURB
+	Qtde.
+	Und.
+	Descrição do Item
+	Marca
+	Preço Unitário (em R$)
+	Preço Total do Item (em R$)
+
+	1
+	31897
+	20
+	peça
+	Chapa de eucatex na cor branco, com uma face, espessura de 2,5mm, tamanho 185x275 cm.
+	Eucatex
+	52,50
+	1.050,00
+
+	Preço Total do Lote 
+
+(em R$)
+	1.050,00
+
+
+	Lote 16
+
+	Item
+	Código FURB
+	Qtde.
+	Und.
+	Descrição do Item
+	Marca
+	Preço Unitário (em R$)
+	Preço Total do Item (em R$)
+
+	1
+	31898
+	20
+	peça
+	Chapa de compensado naval com colagem fenólica à prova d´àgua, espessura 20mm, tamanho mínimo de 160 x 220 cm.
+	Nacional
+	201,70
+	4.034,00
+
+	2
+	6885
+	50
+	peça
+	 Chapa de madeira compensada resinada de 12 mm, com 1,10 x 2,20 m, a base de cola fenólica. Chapa de madeira compensada multilaminada, com colagem fenólica 100% à prova d’água, lâminas de no mínimo 1,5 mm de espessura, superfície acabadas com resina fenólica, em ambas as faces, e topos selados com resina impermeabilizante. Mínimo cinco (05) camadas de lâminas.
+	Nacional
+	54,32
+	2.716,00
+
+	Preço Total do Lote 
+
+(em R$)
+	6.750,00
+
+
+	Lote 17
+
+	Item
+	Código FURB
+	Qtde.
+	Und.
+	Descrição do Item
+	Marca
+	Preço Unitário (em R$)
+	Preço Total do Item (em R$)
+
+	1
+	28414
+	30
+	peça
+	Painel de madeira OSB espessura 10 mm, tamanho 1,22 x 2,44 m.
+	LP
+	56,66
+	1.699,80
+
+	Preço Total do Lote 
+
+(em R$)
+	1.699,80
+
+
+	Lote 18
+
+	Item
+	Código FURB
+	Qtde.
+	Und.
+	Descrição do Item
+	Marca
+	Preço Unitário (em R$)
+	Preço Total do Item (em R$)
+
+	1
+	33978
+	3
+	saco
+	Cola branca granulada / para coladeira de fita de borda / saco com 5kg.
+	Powerfix
+	113,33
+	339,99
+
+	Preço Total do Lote 
+
+(em R$)
+	339,99
+
+
+	Lote 21
+
+	Item
+	Código FURB
+	Qtde.
+	Und.
+	Descrição do Item
+	Marca
+	Preço Unitário (em R$)
+	Preço Total do Item (em R$)
+
+	1 
+	6805 
+	40
+	peças
+	(6805) Chapa de compensado plastificada e reutilizável, com as seguintes especificações:  
+Dimensões da chapa: 2,20m x 1,10m
+
+Espessura:12mm com 7 camada de chapas
+
+Acabamento: plastificada na cor preta.
+	Nacional
+	65,00
+	2.600,00
+
+	Preço Total do Lote 
+
+(em R$)
+	2.600,00
+
+
+	Lote 25
+
+	Item
+	Código FURB
+	Qtde.
+	Und.
+	Descrição do Item
+	Marca
+	Preço Unitário (em R$)
+	Preço Total do Item (em R$)
+
+	1
+	40094
+	10
+	peça
+	Painel de fibra de média densidade (chapa MDF - BP) de 15 mm, texturizada tipo madeirado, revestida com laminado, dupla face, cor CARVALHO – Referência: MASISA ou similar – 185 x 275 cm. Fabricada a partir de aglutinação de fibras de madeira com resinas sintéticas e ação conjunta de temperatura e pressão. Características técnicas: Densidade: maior ou igual a 450 kg/m³. Inchamento em 24 horas: 12% máximo. Umidade: menor que 20%. Formaldeído livre: 30mg/100g máximo. Tolerância espessura: + ou – 0,2 mm. Tolerância comprimento e largura: 2 mm/m, até o máximo de 5 mm. O material deverá estar em conformidade com a norma: ABNT NBR 15316-2.
+	Berneck
+	205,45
+	2.054,50
+
+	2
+	40095
+	10
+	peça
+	Painel de fibra de média densidade (chapa MDF - BP) de 15 mm, texturizada tipo tela linho, revestida com laminado, dupla face, cor CHAMOIS – Referência: MASISA ou similar – 185 x 275 cm. Fabricada a partir de aglutinação de fibras de madeira com resinas sintéticas e ação conjunta de temperatura e pressão. Características técnicas: Densidade: maior ou igual a 450 kg/m³. Inchamento em 24 horas: 12% máximo. Umidade: menor que 20%. Formaldeído livre: 30mg/100g máximo. Tolerância espessura: + ou – 0,2 mm. Tolerância comprimento e largura: 2 mm/m, até o máximo de 5 mm. O material deverá estar em conformidade com a norma: ABNT NBR 15316-2.
+	Berneck
+	197,26
+	1.972,60
+
+	3
+	40096
+	10
+	peça
+	Painel de fibra de média densidade (chapa MDF - BP) de 15 mm, texturizada tipo tela linho, revestida com laminado, dupla face, cor HUNTER – Referência: MASISA ou similar – 185 x 275 cm. Fabricada a partir de aglutinação de fibras de madeira com resinas sintéticas e ação conjunta de temperatura e pressão. Características técnicas: Densidade: maior ou igual a 450 kg/m³. Inchamento em 24 horas: 12% máximo. Umidade: menor que 20%. Formaldeído livre: 30mg/100g máximo. Tolerância espessura: + ou – 0,2 mm. Tolerância comprimento e largura: 2 mm/m, até o máximo de 5 mm. O material deverá estar em conformidade com a norma: ABNT NBR 15316-2.
+	Berneck
+	197,29
+	1.972,90
+
+	Preço Total do Lote 
+
+(em R$)
+	6.000,00
+
+
+	Lote 25
+
+	Item
+	Código FURB
+	Qtde.
+	Und.
+	Descrição do Item
+	Marca
+	Preço Unitário (em R$)
+	Preço Total do Item (em R$)
+
+	1
+	40097
+	10
+	cartela
+	Tapa furo diâmetro 12mm autoadesivo / em PVC na cor CARVALHO – Referência: MASISA ou similar cartela com 50 unidades.
+	Proadec
+	3,97
+	39,70
+
+	2
+	40098
+	10
+	cartela
+	Tapa furo diâmetro 12mm autoadesivo / em PVC na cor CHAMOIS – Referência: MASISA ou similar cartela com 50 unidades
+	Proadec
+	3,97
+	39,70
+
+	3
+	40099
+	10
+	cartela
+	Tapa furo diâmetro 12mm autoadesivo / em PVC na cor HUNTER – Referência: MASISA ou similar cartela com 50 unidades
+	Proadec
+	3,96
+	39,60
+
+	4
+	40100
+	200
+	metro
+	Fita de borda em PVC de 19mm, na cor CARVALHO – Referência: MASISA ou similar
+	Proadec
+	0,89
+	178,00
+
+	5
+	40101
+	200
+	metro
+	Fita de borda em PVC de 19mm, na cor CHAMOIS – Referência: MASISA ou similar
+	Proadec
+	0,94
+	188,00
+
+	6
+	40102
+	200
+	metro
+	Fita de borda em PVC de 19mm, na cor HUNTER – Referência: MASISA ou similar
+	Proadec
+	0,94
+	188,00
+
+	7
+	40103
+	100
+	metro
+	Fita de borda em PVC de 40mm, na cor Referência: CARVALHO – MASISA ou similar
+	Proadec
+	1,95
+	195,00
+
+	8
+	40104
+	100
+	metro
+	Fita de borda em PVC de 40mm, na cor CHAMOIS – Referência: MASISA ou similar
+	Proadec
+	1,96
+	196,00
+
+	9
+	40105
+	100
+	metro
+	Fita de borda em PVC de 40mm, na cor HUNTER – Referência: MASISA ou similar
+	Proadec
+	1,96
+	196,00
+
+	Preço Total do Lote 
+
+(em R$)
+	1.260,00
+
+
+PAGAMENTO: O pagamento será efetuado em até 30 (trinta) dias consecutivos após a efetiva entrega (com descarga) dos materiais/produtos, desde que os mesmos estejam em perfeitas condições de uso, sejam aprovados pelo Gestor designado pela CONTRATANTE e sigam acompanhados da respectiva Nota Fiscal Eletrônica (NF-e), através de depósitos bancários (hipótese na qual a NF-e deverá conter os dados bancários da CONTRATADA) ou de boletos bancários (caso no qual tais documentos deverão acompanhar a NF-e).
+PRAZO DE VIGÊNCIA: A presente Ata de Registro de Preços terá a validade de 12 (doze) meses, a partir da data de sua assinatura.
+DATA: 28/07/2020.

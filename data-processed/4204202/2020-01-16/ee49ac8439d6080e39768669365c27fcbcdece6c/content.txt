@@ -1,0 +1,2132 @@
+
+Cargo/Área de Atuação/Disciplina: Professor 1ª a 5ª série e EJA
+
+
+	Insc
+	Nome
+	Nascimento
+	NLP
+	NMT
+	NCG
+	NCE
+	NPE
+	NPT
+	NF
+	Jurado
+	Class
+
+	1845
+	LILIANE DEMARCO
+	04/04/1997
+	0.20
+	0.20
+	0.80
+	4.20
+	5.40
+	1.00
+	6.40
+	Não
+	1
+
+	2583
+	ELIANE PERUZZO
+	07/04/1982
+	0.20
+	0.00
+	0.70
+	4.20
+	5.10
+	1.00
+	6.10
+	Não
+	2
+
+	89
+	DEONILDE DA SILVA
+	04/05/1979
+	0.00
+	0.00
+	0.70
+	4.20
+	4.90
+	1.00
+	5.90
+	Não
+	3
+
+	2995
+	GERALDO JORGE POLETTO
+	14/04/1966
+	0.10
+	0.00
+	0.90
+	3.90
+	4.90
+	1.00
+	5.90
+	Não
+	4
+
+	2396
+	SABRINA BELLEI
+	15/02/1995
+	0.10
+	0.00
+	0.50
+	4.20
+	4.80
+	1.00
+	5.80
+	Não
+	5
+
+	2539
+	CLAUDIA FATIMA DAL PIZZOL
+	04/09/1974
+	0.20
+	0.20
+	0.90
+	3.60
+	4.90
+	0.80
+	5.70
+	Não
+	6
+
+	1329
+	NARA CELIANE BRITTO
+	23/03/1982
+	0.10
+	0.20
+	0.80
+	3.60
+	4.70
+	1.00
+	5.70
+	Não
+	7
+
+	3165
+	CELSO PEDROSO DA ROSA
+	08/10/1955
+	0.10
+	0.20
+	0.70
+	3.60
+	4.60
+	1.00
+	5.60
+	Não
+	8
+
+	658
+	KELI FATIMA GASPARETTO
+	08/03/1985
+	0.20
+	0.00
+	0.80
+	3.60
+	4.60
+	1.00
+	5.60
+	Não
+	9
+
+	2074
+	ELENA TESSARO
+	01/05/1979
+	0.00
+	0.40
+	0.60
+	3.90
+	4.90
+	0.50
+	5.40
+	Não
+	10
+
+	2405
+	ILEZAM KEILA SABBI TALGATTI
+	07/04/1993
+	0.30
+	0.10
+	0.70
+	3.30
+	4.40
+	1.00
+	5.40
+	Não
+	11
+
+	3102
+	DANIELA MARIA MIKOLAICZIK
+	07/06/1988
+	0.30
+	0.20
+	0.70
+	3.60
+	4.80
+	0.50
+	5.30
+	Não
+	12
+
+	2350
+	LUCIANA FERNANDES MULLER
+	31/05/1991
+	0.20
+	0.20
+	0.30
+	3.60
+	4.30
+	1.00
+	5.30
+	Não
+	13
+
+	3124
+	ITALIA ILDA BE DO CARMO
+	25/11/1964
+	0.20
+	0.00
+	0.70
+	3.30
+	4.20
+	1.00
+	5.20
+	Não
+	14
+
+	3163
+	MARIA JANES KAGINSKI
+	11/05/1950
+	0.20
+	0.00
+	0.70
+	3.00
+	3.90
+	1.00
+	4.90
+	Não
+	15
+
+	2820
+	MAIRA EDINANI BERTUZZI DE SOUZA
+	06/01/1979
+	0.10
+	0.00
+	0.70
+	3.00
+	3.80
+	1.00
+	4.80
+	Não
+	16
+
+	504
+	AQUILINO LUIZ ARTIFON
+	01/08/1962
+	0.00
+	0.30
+	0.50
+	3.00
+	3.80
+	1.00
+	4.80
+	Não
+	17
+
+	432
+	JUSSARA BROCA
+	28/04/1969
+	0.10
+	0.20
+	0.70
+	2.70
+	3.70
+	1.00
+	4.70
+	Não
+	18
+
+	179
+	EDITE DAL BOSCO
+	20/08/1965
+	0.10
+	0.00
+	0.60
+	2.70
+	3.40
+	1.00
+	4.40
+	Não
+	19
+
+	2103
+	RENATA PISATTO
+	25/03/1978
+	0.10
+	0.00
+	0.40
+	2.40
+	2.90
+	1.00
+	3.90
+	Não
+	20
+
+	2153
+	MARI NEUSA DORNELLES TREVISAN
+	10/07/1986
+	0.20
+	0.20
+	0.50
+	1.80
+	2.70
+	1.00
+	3.70
+	Não
+	21
+
+	2141
+	KEILLE TEREZINHA NICOLINI
+	21/08/1984
+	0.10
+	0.00
+	0.50
+	1.80
+	2.40
+	1.00
+	3.40
+	Não
+	22
+
+	1108
+	NILCE APARECIDA VIDOR
+	15/10/1967
+	0.10
+	0.10
+	0.10
+	2.40
+	2.70
+	0.60
+	3.30
+	Não
+	23
+
+	1561
+	MIRLENE DEITOS DE OLIVEIRA
+	19/07/1965
+	0.00
+	0.10
+	0.30
+	1.80
+	2.20
+	1.00
+	3.20
+	Não
+	24
+
+	2255
+	WANESSA TIETBOHL RIBEIRO
+	19/09/1982
+	0.20
+	0.10
+	0.30
+	1.50
+	2.10
+	0.00
+	2.10
+	Não
+	25
+
+
+ (
+ESTADO
+ 
+DE
+ 
+SANTA
+ 
+CATARINA
+PREFEITURA
+ 
+MUNICIPAL
+ 
+DE
+ 
+CHAPECÓ
+ 
+PROCESSO
+ 
+SELETIVO
+ 
+-
+ 
+EDITAL
+ 
+002/2019
+Resultado
+ 
+Final
+ 
+-
+ 
+Vagas
+ 
+Reservadas
+ 
+-
+ 
+Após
+ 
+Recursos
+)
+
+ (
+[NLP]:
+ 
+Nota
+ 
+de
+ 
+Língua
+ 
+Portuguesa
+ 
+/
+ 
+[NMT]:
+ 
+Nota
+ 
+de
+ 
+Matemática
+ 
+/
+ 
+[NCG]:
+ 
+Nota
+ 
+de
+ 
+Conhecimentos
+ 
+Gerais
+ 
+/
+ 
+[NCE]:
+ 
+Nota
+ 
+Conhecimentos
+ 
+Específicos
+ 
+do
+ 
+Cargo
+ 
+/
+ 
+[NPE]:
+ 
+Nota
+ 
+da
+ 
+Prova
+ 
+Escrita
+ 
+/
+ 
+[NPT]:
+ 
+Nota
+ 
+da
+ 
+Prova
+ 
+de
+ 
+Títulos
+ 
+/
+ 
+[NF]:
+ 
+Nota
+ 
+Final
+)
+
+Cargo/Área de Atuação/Disciplina: Professor Arte
+
+
+	Insc
+	Nome
+	Nascimento
+	NLP
+	NMT
+	NCG
+	NCE
+	NPE
+	NPT
+	NF
+	Jurado
+	Class
+
+	917
+	SILVANA BEATRIZ DOS SANTOS
+	14/02/1980
+	0.30
+	0.00
+	0.50
+	3.30
+	4.10
+	1.00
+	5.10
+	Não
+	1
+
+
+
+
+Cargo/Área de Atuação/Disciplina: Professor Educação Especial/ Instrutor de Libras
+
+
+	Insc
+	Nome
+	Nascimento
+	NLP
+	NMT
+	NCG
+	NCE
+	NPE
+	NPT
+	NF
+	Jurado
+	Class
+
+	636
+	SHEILA VERONICA CATTANI
+	14/02/1991
+	0.00
+	0.10
+	0.50
+	4.20
+	4.80
+	1.00
+	5.80
+	Não
+	1
+
+	2977
+	JULIANA NUNES PROBST
+	20/12/1986
+	0.20
+	0.00
+	0.50
+	3.90
+	4.60
+	1.00
+	5.60
+	Não
+	2
+
+	2580
+	MICHELLE MESA CASA
+	29/03/1991
+	0.10
+	0.00
+	0.20
+	4.20
+	4.50
+	1.00
+	5.50
+	Não
+	3
+
+	3432
+	FLAVIA PAULA DOS SANTOS FERREIRA
+	14/10/1988
+	0.30
+	0.10
+	0.50
+	4.50
+	5.40
+	0.00
+	5.40
+	Não
+	4
+
+	3617
+	RODRIGO JOAO FRANCHINI
+	07/10/1994
+	0.30
+	0.00
+	0.60
+	3.90
+	4.80
+	0.50
+	5.30
+	Não
+	5
+
+	327
+	CRISTIANE BRANDT FERREIRA
+	07/02/1989
+	0.10
+	0.10
+	0.20
+	3.90
+	4.30
+	1.00
+	5.30
+	Não
+	6
+
+	3581
+	JOAO PAULO CASAGRANDE MERLO
+	09/02/1987
+	0.20
+	0.00
+	0.70
+	3.30
+	4.20
+	1.00
+	5.20
+	Não
+	7
+
+	1654
+	ANDRESSA FOGAS DE ALMEIDA ARMANI TOALDO
+	17/02/1991
+	0.10
+	0.30
+	0.30
+	3.00
+	3.70
+	1.00
+	4.70
+	Não
+	8
+
+	2836
+	ODNEI JOEL CARDOSO
+	08/12/1989
+	0.00
+	0.20
+	0.40
+	3.30
+	3.90
+	0.50
+	4.40
+	Não
+	9
+
+	200
+	ANDRESSA FACCO
+	01/07/1992
+	0.10
+	0.20
+	0.00
+	3.00
+	3.30
+	0.50
+	3.80
+	Não
+	10
+
+
+
+
+Cargo/Área de Atuação/Disciplina: Professor Educação Especial/ Atendimento Educacional Especializado (Sala de
+Recursos Multifuncionais)
+
+
+	Insc
+	Nome
+	Nascimento
+	NLP
+	NMT
+	NCG
+	NCE
+	NPE
+	NPT
+	NF
+	Jurado
+	Class
+
+	3467
+	RAQUEL ELISA GEHM
+	17/03/1992
+	0.10
+	0.30
+	1.00
+	5.40
+	6.80
+	0.50
+	7.30
+	Não
+	1
+
+	2561
+	ROSICLER MARTINS BRUM
+	28/06/1981
+	0.30
+	0.30
+	0.80
+	4.80
+	6.20
+	0.50
+	6.70
+	Não
+	2
+
+	780
+	ANA CARLA JAROSESKI
+	23/01/1992
+	0.20
+	0.20
+	0.70
+	4.20
+	5.30
+	1.00
+	6.30
+	Não
+	3
+
+	465
+	LERIDA MELANIA TEDESCO SCHMIDT
+	07/08/1955
+	0.10
+	0.10
+	0.70
+	4.20
+	5.10
+	1.00
+	6.10
+	Não
+	4
+
+	1149
+	ANDREA CONCEICAO DUARTE
+	25/02/1981
+	0.10
+	0.10
+	0.80
+	3.60
+	4.60
+	1.00
+	5.60
+	Não
+	5
+
+	327
+	CRISTIANE BRANDT FERREIRA
+	07/02/1989
+	0.10
+	0.10
+	0.20
+	3.60
+	4.00
+	1.00
+	5.00
+	Não
+	6
+
+	1654
+	ANDRESSA FOGAS DE ALMEIDA ARMANI TOALDO
+	17/02/1991
+	0.10
+	0.30
+	0.30
+	2.40
+	3.10
+	1.00
+	4.10
+	Não
+	7
+
+
+
+
+Cargo/Área de Atuação/Disciplina: Professor Educação Especial/ Segundo Professor
+
+
+	Insc
+	Nome
+	Nascimento
+	NLP
+	NMT
+	NCG
+	NCE
+	NPE
+	NPT
+	NF
+	Jurado
+	Class
+
+	2561
+	ROSICLER MARTINS BRUM
+	28/06/1981
+	0.30
+	0.30
+	0.80
+	4.80
+	6.20
+	0.50
+	6.70
+	Não
+	1
+
+	1329
+	NARA CELIANE BRITTO
+	23/03/1982
+	0.10
+	0.20
+	0.80
+	4.50
+	5.60
+	1.00
+	6.60
+	Não
+	2
+
+	465
+	LERIDA MELANIA TEDESCO SCHMIDT
+	07/08/1955
+	0.10
+	0.10
+	0.70
+	4.50
+	5.40
+	1.00
+	6.40
+	Não
+	3
+
+	3467
+	RAQUEL ELISA GEHM
+	17/03/1992
+	0.10
+	0.30
+	1.00
+	4.50
+	5.90
+	0.50
+	6.40
+	Não
+	4
+
+	2103
+	RENATA PISATTO
+	25/03/1978
+	0.10
+	0.00
+	0.40
+	4.80
+	5.30
+	1.00
+	6.30
+	Não
+	5
+
+	658
+	KELI FATIMA GASPARETTO
+	08/03/1985
+	0.20
+	0.00
+	0.80
+	4.20
+	5.20
+	1.00
+	6.20
+	Não
+	6
+
+	89
+	DEONILDE DA SILVA
+	04/05/1979
+	0.00
+	0.00
+	0.70
+	4.20
+	4.90
+	1.00
+	5.90
+	Não
+	7
+
+	2685
+	CLEIDE PLETSCH CUNICO
+	02/05/1971
+	0.10
+	0.20
+	0.70
+	3.60
+	4.60
+	1.00
+	5.60
+	Não
+	8
+
+	1096
+	CELESTINA SALETE TRICHES
+	24/04/1960
+	0.20
+	0.10
+	0.60
+	3.60
+	4.50
+	1.00
+	5.50
+	Não
+	9
+
+	1845
+	LILIANE DEMARCO
+	04/04/1997
+	0.20
+	0.20
+	0.80
+	3.30
+	4.50
+	1.00
+	5.50
+	Não
+	10
+
+	504
+	AQUILINO LUIZ ARTIFON
+	01/08/1962
+	0.00
+	0.30
+	0.50
+	3.00
+	3.80
+	1.00
+	4.80
+	Não
+	11
+
+	2977
+	JULIANA NUNES PROBST
+	20/12/1986
+	0.20
+	0.00
+	0.50
+	3.00
+	3.70
+	1.00
+	4.70
+	Não
+	12
+
+	2350
+	LUCIANA FERNANDES MULLER
+	31/05/1991
+	0.20
+	0.20
+	0.30
+	3.00
+	3.70
+	1.00
+	4.70
+	Não
+	13
+
+	1149
+	ANDREA CONCEICAO DUARTE
+	25/02/1981
+	0.10
+	0.10
+	0.80
+	2.70
+	3.70
+	1.00
+	4.70
+	Não
+	14
+
+	3163
+	MARIA JANES KAGINSKI
+	11/05/1950
+	0.20
+	0.00
+	0.70
+	2.70
+	3.60
+	1.00
+	4.60
+	Não
+	15
+
+	2995
+	GERALDO JORGE POLETTO
+	14/04/1966
+	0.10
+	0.00
+	0.90
+	3.00
+	4.00
+	0.60
+	4.60
+	Não
+	16
+
+	2074
+	ELENA TESSARO
+	01/05/1979
+	0.00
+	0.40
+	0.60
+	3.00
+	4.00
+	0.50
+	4.50
+	Não
+	17
+
+	179
+	EDITE DAL BOSCO
+	20/08/1965
+	0.10
+	0.00
+	0.60
+	1.80
+	2.50
+	1.00
+	3.50
+	Não
+	18
+
+
+
+
+Cargo/Área de Atuação/Disciplina: Professor Educação Infantil
+
+
+	Insc
+	Nome
+	Nascimento
+	NLP
+	NMT
+	NCG
+	NCE
+	NPE
+	NPT
+	NF
+	Jurado
+	Class
+
+	780
+	ANA CARLA JAROSESKI
+	23/01/1992
+	0.20
+	0.20
+	0.70
+	5.10
+	6.20
+	1.00
+	7.20
+	Não
+	1
+
+	3102
+	DANIELA MARIA MIKOLAICZIK
+	07/06/1988
+	0.30
+	0.20
+	0.70
+	5.40
+	6.60
+	0.50
+	7.10
+	Não
+	2
+
+	2685
+	CLEIDE PLETSCH CUNICO
+	02/05/1971
+	0.10
+	0.20
+	0.70
+	5.10
+	6.10
+	1.00
+	7.10
+	Não
+	3
+
+	432
+	JUSSARA BROCA
+	28/04/1969
+	0.10
+	0.20
+	0.70
+	4.50
+	5.50
+	1.00
+	6.50
+	Não
+	4
+
+	1093
+	MOISES DE AMARAL
+	23/09/1986
+	0.10
+	0.30
+	0.70
+	4.80
+	5.90
+	0.50
+	6.40
+	Não
+	5
+
+	2583
+	ELIANE PERUZZO
+	07/04/1982
+	0.20
+	0.00
+	0.70
+	4.50
+	5.40
+	1.00
+	6.40
+	Não
+	6
+
+	917
+	SILVANA BEATRIZ DOS SANTOS
+	14/02/1980
+	0.30
+	0.00
+	0.50
+	4.20
+	5.00
+	1.00
+	6.00
+	Não
+	7
+
+	2820
+	MAIRA EDINANI BERTUZZI DE SOUZA
+	06/01/1979
+	0.10
+	0.00
+	0.70
+	3.90
+	4.70
+	1.00
+	5.70
+	Não
+	8
+
+	2396
+	SABRINA BELLEI
+	15/02/1995
+	0.10
+	0.00
+	0.50
+	3.90
+	4.50
+	1.00
+	5.50
+	Não
+	9
+
+	2153
+	MARI NEUSA DORNELLES TREVISAN
+	10/07/1986
+	0.20
+	0.20
+	0.50
+	3.60
+	4.50
+	1.00
+	5.50
+	Não
+	10
+
+	2188
+	DIANETE MARIA BIANCHESSI DOS SANTOS
+	12/08/1958
+	0.00
+	0.20
+	0.60
+	3.00
+	3.80
+	1.00
+	4.80
+	Não
+	11
+
+	1561
+	MIRLENE DEITOS DE OLIVEIRA
+	19/07/1965
+	0.00
+	0.10
+	0.30
+	3.00
+	3.40
+	1.00
+	4.40
+	Não
+	12
+
+	2141
+	KEILLE TEREZINHA NICOLINI
+	21/08/1984
+	0.10
+	0.00
+	0.50
+	2.40
+	3.00
+	1.00
+	4.00
+	Não
+	13
+
+	1108
+	NILCE APARECIDA VIDOR
+	15/10/1967
+	0.10
+	0.10
+	0.10
+	2.70
+	3.00
+	0.60
+	3.60
+	Não
+	14
+
+	2255
+	WANESSA TIETBOHL RIBEIRO
+	19/09/1982
+	0.20
+	0.10
+	0.30
+	1.80
+	2.40
+	0.00
+	2.40
+	Não
+	15
+
+
+
+
+Cargo/Área de Atuação/Disciplina: Professor Educação Física
+
+
+	Insc
+	Nome
+	Nascimento
+	NLP
+	NMT
+	NCG
+	NCE
+	NPE
+	NPT
+	NF
+	Jurado
+	Class
+
+	2358
+	MILENE DA SILVA OLIVEIRA
+	12/07/1990
+	0.20
+	0.00
+	0.80
+	5.10
+	6.10
+	1.00
+	7.10
+	Não
+	1
+
+	762
+	ELISANGELA ZAGO MACHADO
+	05/09/1966
+	0.20
+	0.10
+	0.90
+	4.50
+	5.70
+	1.00
+	6.70
+	Não
+	2
+
+	316
+	CLAUDECIR DE OLIVEIRA
+	12/06/1986
+	0.20
+	0.00
+	0.90
+	4.50
+	5.60
+	1.00
+	6.60
+	Não
+	3
+
+	2338
+	LUCIMERI MARIA DE CAMARGO
+	12/04/1976
+	0.10
+	0.20
+	0.70
+	4.20
+	5.20
+	1.00
+	6.20
+	Não
+	4
+
+	400
+	TATIANE PAULA PAN DE OLIVEIRA
+	15/05/1992
+	0.20
+	0.00
+	0.70
+	3.90
+	4.80
+	1.00
+	5.80
+	Não
+	5
+
+	1633
+	ROBERTO PINHEIRO ALVES
+	04/09/1984
+	0.20
+	0.20
+	0.50
+	3.90
+	4.80
+	1.00
+	5.80
+	Não
+	6
+
+	1093
+	MOISES DE AMARAL
+	23/09/1986
+	0.10
+	0.30
+	0.70
+	3.90
+	5.00
+	0.50
+	5.50
+	Não
+	7
+
+	3579
+	CLEBER DARLAN CONCI
+	21/03/1982
+	0.10
+	0.40
+	0.60
+	3.90
+	5.00
+	0.50
+	5.50
+	Não
+	8
+
+	1769
+	MARISA ELAINE LOESCH FABRI
+	09/09/1979
+	0.30
+	0.10
+	0.50
+	3.60
+	4.50
+	1.00
+	5.50
+	Não
+	9
+
+	1924
+	CASSIO MARIANO MARTINS DA SILVA
+	17/11/1988
+	0.20
+	0.30
+	0.90
+	3.60
+	5.00
+	0.50
+	5.50
+	Não
+	10
+
+	2405
+	ILEZAM KEILA SABBI TALGATTI
+	07/04/1993
+	0.30
+	0.10
+	0.70
+	3.30
+	4.40
+	1.00
+	5.40
+	Não
+	11
+
+	2449
+	ELIZANDRO JULIO MULLER
+	13/02/1990
+	0.20
+	0.10
+	0.80
+	2.40
+	3.50
+	1.00
+	4.50
+	Não
+	12
+
+	746
+	FERNANDO BORGES
+	06/01/1988
+	0.10
+	0.10
+	0.70
+	3.00
+	3.90
+	0.50
+	4.40
+	Não
+	13
+
+	2276
+	RUDIMAR EBERLE
+	01/03/1967
+	0.10
+	0.20
+	0.60
+	2.40
+	3.30
+	0.50
+	3.80
+	Não
+	14
+
+	2143
+	CLAUDINEIA HILLESHEIM
+	01/10/1978
+	0.10
+	0.00
+	0.30
+	2.70
+	3.10
+	0.50
+	3.60
+	Não
+	15
+
+	2581
+	RUDINEI ALBANI
+	18/03/1987
+	0.10
+	0.10
+	0.30
+	2.10
+	2.60
+	1.00
+	3.60
+	Não
+	16
+
+	1424
+	DUAN HENRIQUE DEITOS
+	06/05/1991
+	0.40
+	0.10
+	0.50
+	1.50
+	2.50
+	0.50
+	3.00
+	Não
+	17
+
+	2939
+	GIAN PAULINI
+	26/05/1993
+	0.10
+	0.00
+	0.40
+	1.50
+	2.00
+	0.50
+	2.50
+	Não
+	18
+
+
+
+
+Cargo/Área de Atuação/Disciplina: Professor Geografia
+
+
+	Insc
+	Nome
+	Nascimento
+	NLP
+	NMT
+	NCG
+	NCE
+	NPE
+	NPT
+	NF
+	Jurado
+	Class
+
+	1658
+	DALILA APARECIDA GUGEL
+	28/03/1970
+	0.20
+	0.00
+	0.70
+	3.60
+	4.50
+	0.80
+	5.30
+	Não
+	1
+
+	775
+	ANA CLAUDIA SENHOR
+	03/10/1994
+	0.00
+	0.20
+	0.80
+	4.20
+	5.20
+	0.00
+	5.20
+	Não
+	2
+
+
+
+
+Cargo/Área de Atuação/Disciplina: Professor Ciências
+
+
+	Insc
+	Nome
+	Nascimento
+	NLP
+	NMT
+	NCG
+	NCE
+	NPE
+	NPT
+	NF
+	Jurado
+	Class
+
+	1161
+	SILVIA FERREIRA DE LIMA
+	19/04/1978
+	0.20
+	0.30
+	0.70
+	5.10
+	6.30
+	1.00
+	7.30
+	Não
+	1
+
+	2539
+	CLAUDIA FATIMA DAL PIZZOL
+	04/09/1974
+	0.20
+	0.20
+	0.90
+	2.70
+	4.00
+	0.80
+	4.80
+	Não
+	2
+
+
+
+
+Cargo/Área de Atuação/Disciplina: Professor História
+
+
+	Insc
+	Nome
+	Nascimento
+	NLP
+	NMT
+	NCG
+	NCE
+	NPE
+	NPT
+	NF
+	Jurado
+	Class
+
+	1916
+	AMARILDO ADAO FERRAZ
+	06/12/1963
+	0.10
+	0.00
+	0.90
+	3.00
+	4.00
+	1.00
+	5.00
+	Não
+	1
+
+	2836
+	ODNEI JOEL CARDOSO
+	08/12/1989
+	0.00
+	0.20
+	0.40
+	1.50
+	2.10
+	0.50
+	2.60
+	Não
+	2
+
+
+
+:a:­
+
+
+
+
+ESTADO  DE SANTA CATARINA PREFEITURA MUNICIPAL  DE CHAPECO PROCESSO SELETIVO- EDITAL 002/2019
+Resultado Final - Vagas Reservadas - Ap6s Recursos
+
+
+
+
+FEPESE
+
+
+ (
+INLP]:
+ 
+N
+o
+t
+a
+ 
+de
+ 
+Li
+n
+g
+u
+a
+ 
+P
+ortugues
+a
+ 
+I
+ 
+[NM
+T
+J
+:
+ 
+N
+o
+t
+a
+ 
+de
+ 
+Mate
+m
+a
+t
+i
+ca
+ 
+I
+ 
+[
+N
+C
+G
+J
+:
+ 
+N
+ot
+a
+ 
+de
+ 
+Conhecimento
+s
+ 
+G
+e
+r
+a
+i
+s
+ 
+I
+ 
+l
+N
+C
+E
+[
+:
+ 
+Not
+a
+ 
+Conh
+e
+c
+i
+m
+e
+nto
+s
+ 
+Especi
+f
+i
+cos
+ 
+d
+o
+ 
+Car
+g
+o
+ 
+I
+[
+N
+P
+E
+]
+:
+ 
+N
+ot
+a
+ 
+da
+ 
+Pro
+v
+a
+ 
+E
+s
+c
+ri
+t
+a
+ 
+I
+ 
+[
+N
+P
+T
+]
+:
+ 
+N
+ot
+a
+ 
+da
+ 
+Prov
+a
+ 
+d
+e
+ 
+Ti
+t
+u
+l
+os
+ 
+I
+ 
+]NF]:
+ 
+N
+ot
+a
+ 
+Fi
+n
+a
+l
+)
+
+Cargo/Area de Atuacao/Disciplina: Professor Matematica
+
+
+	lnsc
+	Nome
+	Nascimento
+	NLP
+	NMT
+	NCG
+	NCE
+	NPE
+	NPT
+	NF
+	Jurado
+	Class
+
+	2410
+	OELITON VIEIRA FORTES
+	23/05/1989
+	0.20
+	0.50
+	0.80
+	3.90
+	5.40
+	0.50
+	5.90
+	Nao
+	1
+
+	1161
+	SILVIA FERREIRA  DE LIMA
+	19/04/1978
+	0.20
+	0.30
+	0.70
+	3.60
+	4.80
+	1.00
+	5.80
+	Nao
+	2
+
+	1729
+	PAULO CEZAR MARTINS
+	26/06/1990
+	0.10
+	0.40
+	0.80
+	3.00
+	4.30
+	0.50
+	4.80
+	Nao
+	3
+
+
+
+
+Cargo/Área de Atuação/Disciplina: Professor Ensino Religioso
+
+
+	Insc
+	Nome
+	Nascimento
+	NLP
+	NMT
+	NCG
+	NCE
+	NPE
+	NPT
+	NF
+	Jurado
+	Class
+
+	1916
+	AMARILDO ADAO FERRAZ
+	06/12/1963
+	0.10
+	0.00
+	0.90
+	3.90
+	4.90
+	1.50
+	6.40
+	Não
+	1
+
+	3165
+	CELSO PEDROSO DA ROSA
+	08/10/1955
+	0.10
+	0.20
+	0.70
+	2.40
+	3.40
+	1.00
+	4.40
+	Não
+	2
+
+	3579
+	CLEBER DARLAN CONCI
+	21/03/1982
+	0.10
+	0.40
+	0.60
+	2.70
+	3.80
+	0.50
+	4.30
+	Não
+	3
+
+	2276
+	RUDIMAR EBERLE
+	01/03/1967
+	0.10
+	0.20
+	0.60
+	1.20
+	2.10
+	0.00
+	2.10
+	Não
+	4
+
+
+ (
+ESTADO
+ 
+DE
+ 
+SANTA
+ 
+CATARINA
+PREFEITURA
+ 
+MUNICIPAL
+ 
+DE
+ 
+CHAPECÓ
+ 
+PROCESSO
+ 
+SELETIVO
+ 
+-
+ 
+EDITAL
+ 
+002/2019
+Resultado
+ 
+Final
+ 
+-
+ 
+Vagas
+ 
+Reservadas
+ 
+-
+ 
+Após
+ 
+Recursos
+)
+
+ (
+[NLP]:
+ 
+Nota
+ 
+de
+ 
+Língua
+ 
+Portuguesa
+ 
+/
+ 
+[NMT]:
+ 
+Nota
+ 
+de
+ 
+Matemática
+ 
+/
+ 
+[NCG]:
+ 
+Nota
+ 
+de
+ 
+Conhecimentos
+ 
+Gerais
+ 
+/
+ 
+[NCE]:
+ 
+Nota
+ 
+Conhecimentos
+ 
+Específicos
+ 
+do
+ 
+Cargo
+ 
+/
+ 
+[NPE]:
+ 
+Nota
+ 
+da
+ 
+Prova
+ 
+Escrita
+ 
+/
+ 
+[NPT]:
+ 
+Nota
+ 
+da
+ 
+Prova
+ 
+de
+ 
+Títulos
+ 
+/
+ 
+[NF]:
+ 
+Nota
+ 
+Final
+)
+
+Cargo/Área de Atuação/Disciplina: Professor Educação Especial / Professor Bilíngue
+
+
+	Insc
+	Nome
+	Nascimento
+	NLP
+	NMT
+	NCG
+	NCE
+	NPE
+	NPT
+	NF
+	Jurado
+	Class
+
+	3432
+	FLAVIA PAULA DOS SANTOS FERREIRA
+	14/10/1988
+	0.30
+	0.10
+	0.50
+	4.80
+	5.70
+	0.00
+	5.70
+	Não
+	1
+
+	3617
+	RODRIGO JOAO FRANCHINI
+	07/10/1994
+	0.30
+	0.00
+	0.60
+	3.00
+	3.90
+	0.50
+	4.40
+	Não
+	2
+
+	3581
+	JOAO PAULO CASAGRANDE MERLO
+	09/02/1987
+	0.20
+	0.00
+	0.70
+	2.10
+	3.00
+	1.00
+	4.00
+	Não
+	3
+
+	2581
+	RUDINEI ALBANI
+	18/03/1987
+	0.10
+	0.10
+	0.30
+	1.80
+	2.30
+	1.00
+	3.30
+	Não
+	4
+
+	2580
+	MICHELLE MESA CASA
+	29/03/1991
+	0.10
+	0.00
+	0.20
+	1.80
+	2.10
+	1.00
+	3.10
+	Não
+	5
+
+
+FUNDACRO De esTUDOs € PESQUISAS SOCIOECONOMICOS
+
+
+ 
+
+ 
+

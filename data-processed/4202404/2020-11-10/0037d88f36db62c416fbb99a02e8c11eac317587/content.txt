@@ -1,0 +1,155 @@
+
+FUNDAÇÃO UNIVERSIDADE REGIONAL DE BLUMENAU
+
+Extrato nº. 466/2020
+PARTES:  FUNDAÇÃO UNIVERSIDADE REGIONAL DE BLUMENAU
+
+E
+
+                  BIRO TERRAPLANAGEM E CONSTRUTORA LTDA EPP
+OBJETO: Registro de Preços para contratações futuras de serviços de terraplenagem voltados à realização de diversas obras e reformas na Universidade.
+FUNDAMENTO LEGAL: Pregão Presencial (SRP) nº 228/2020 e Ata de Registro de Preços nº 213/2020, firmada em 10 de novembro de 2020.  
+PREÇO: O preço ofertado pela empresa signatária da presente Ata de Registro de Preços é o abaixo informado, de acordo com a respectiva classificação:
+
+	Item
+	Código FURB
+	Qtde.
+	Und.
+	Descrição do Item
+	Preço Unitário (R$)
+	Preço Total do Item (R$)
+
+	1
+	32005
+	100
+	Hora
+	Caminhão caçamba, com motorista, com as seguintes características:
+§ Capacidade operacional mínima de transporte da caçamba de 10 m³.                                                                                                                                                                                            
+	129,60
+	12.960,00
+
+	2
+	32006
+	200
+	Hora
+	Retroescavadeira, com operador, com as seguintes características:
+§ Peso operacional entre 5.800 e 7.500 kg; Capacidade da concha dianteira rasa de 0,65 a 1,05 m³;
+§ Capacidade da concha traseira rasa de 0,06 a 0,08 m³;
+§ Deverá possuir concha estreita (acessório)                                                                                            
+	125,68
+	25.136,00
+
+	3
+	37575
+	30
+	Despesa
+	Despesas com transporte (composto pela entrega e devolução) de Retroescavadeira. 
+	284,74
+	8.542,20
+
+	4
+	38588
+	90
+	Hora
+	Mini escavadeira com operador, com lança e com lâmina dozer, com as seguintes características:
+- Motor tipo Diesel
+- Esteiras de borracha
+- Velocidade de deslocamento: 3,0 km/h ou superior
+- Largura máxima sem acessório: 1000mm
+- Largura mínima com lâmina dozen ajustável: 1280mm
+- Profundidade mínima de escavação: 2,20m
+- Capacidade mínima de caçamba: 0,04 m³
+- Peso máximo total: 1.900 kg 
+	135,50
+	12.195,00
+
+	5
+	38589
+	10
+	Despesa
+	Despesas com transporte (composto pela entrega e devolução) de mini escavadeira. 
+	274,92
+	2.749,20
+
+	6
+	32004
+	50
+	Hora
+	Escavadeira hidráulica, com operador, com as seguintes características:
+§ Peso operacional entre 16.000 e 18.500 kg;
+§ Capacidade de produção: 145 a 155 m³/h – material de primeira categoria;
+§ Capacidade da concha rasa: 0,75 a 1,0m³;
+§ Alcance máximo de escavação: 7,0 a 9,0 m³. 
+	196,37
+	9.818,50
+
+	7
+	37574
+	10
+	Despesa
+	Despesas com transporte (composto pela entrega e devolução) de escavadeira hidraúlica. 
+	294,56
+	2.945,60
+
+	8
+	32003
+	50
+	Hora
+	Trator de esteira, com operador, com as seguintes características:   §  Peso operacional de 7.500 a 10.000 kg;  Capacidade de produção de 35 a 45 m³/h - material de primeira categoria. 
+	196,37
+	9.818,50
+
+	9
+	37573
+	10
+	Despesa
+	Despesas com transporte (composto pela entrega e devolução) de trator esteira. 
+	314,19
+	3.141,90
+
+	10
+	34331
+	25
+	Hora
+	Rolo Compactador com operador Auto propelido, com as seguintes características:
+§ Peso bruto de operação acima de 8,10 toneladas;
+§ Com potência acima de 100 hp.                                                                        
+	171,84
+	4.296,00
+
+	11
+	37577
+	10
+	Despesa
+	Despesas com transporte (composto pela entrega e devolução) de Rolo Compactador. 
+	333,84
+	3.338,40
+
+	12
+	39805
+	50
+	Hora
+	Motoniveladora, com operador, com as seguintes características:
+§ Peso operacional de no mínimo 12.000 kg;
+§ Potência mínima de 120HP.                                                                                  
+	196,37
+	9.818,50
+
+	13
+	37576
+	10
+	Despesa
+	Despesas com transporte (composto pela entrega e devolução) de Motoniveladora. 
+	324,02
+	3.240,20
+
+	Preço Global (em R$)
+	108.000,00
+
+	Preço Global (em reais, por extenso)
+	Cento e oito mil reais
+
+
+PAGAMENTO: O pagamento será efetuado em até 28 (vinte e oito) dias consecutivos após a efetiva prestação dos serviços, desde que os mesmos sejam aprovados pelo Gestor designado pela CONTRATANTE e sigam acompanhados do(s) Controle(s) de Execução de Serviços de Terraplenagem e da(s) respectiva(s) Nota(s) Fiscal(is) Eletrônica(s) (NF-e), através de depósitos bancários (hipótese na qual a NF-e deverá conter os dados bancários da CONTRATADA) ou de boletos bancários (caso no qual tais documentos deverão acompanhar a NF-e).
+PRAZO DE VIGÊNCIA: A presente Ata de Registro de Preços terá a validade de 12 (doze) meses, contados a partir da data de sua assinatura.
+DATA: 10/11/2020.

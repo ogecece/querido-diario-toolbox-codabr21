@@ -1,0 +1,227 @@
+
+FUNDAÇÃO UNIVERSIDADE REGIONAL DE BLUMENAU
+
+Extrato nº. 171/2020
+PARTES:  FUNDAÇÃO UNIVERSIDADE REGIONAL DE BLUMENAU
+
+E
+
+                  PHL DISTRIBUIDORA LABORATORIAL EIRELI
+OBJETO: Aquisição de materiais laboratoriais para uso em diversos setores da Universidade.
+FUNDAMENTO LEGAL: Pregão Presencial nº 098/2020 e Contrato nº 095/2020, firmado em 27 de maio de 2020.  
+PREÇO: Pelo objeto contratado, a CONTRATANTE pagará o preço constante na tabela abaixo, de acordo com a proposta apresentada pela CONTRATADA:
+
+	Item
+	Código FURB
+	Qtde.
+	Und.
+	Descrição do Item
+	Marca 
+	Preço Unitário (em R$)
+	Preço Total do Item
+
+ (em R$)
+
+	4
+	36272
+	1600
+	pacote
+	Placa de petri lisa estéril descartável, sem divisão / tamanho 90 x 15 mm / pacote com 10 unidades
+	Firstlab
+	3,75
+	2.250,00
+
+	5
+	29544
+	2
+	peça
+	Câmara Macmaster / para análise laboratorial / com reticulado impresso / Injetada em Poliestireno Cristal / Lâmina 63,5 X 16 X 1,5 mm / Suporte 76,6 x 26,3 x 5,5 mm
+	Bioplast
+	240,00
+	480,00
+
+	6
+	36281
+	1
+	ampola
+	Discos de Enrofloxacina 5ug (linha veterinária) / ampola 1x4 unidades com 50 discos
+	DME
+	95,00
+	95,00
+
+	9
+	15950
+	1
+	peça
+	Alça de platina / com cabo de Kohle / calibrada / volume de 0,001ml
+	Alfaplast
+	130,00
+	130,00
+
+	11
+	18036
+	2
+	peça
+	Rack para 28 ponteiras de micropipetas de volume 1000 a 5000ul / fabricado em polipropileno (plástico)
+	Olen
+	26,50
+	53,00
+
+	12
+	13882
+	8
+	peça
+	Cuba de vidro para berço de lâmina de microscopia / horizontal / com tampa
+	Kasvi
+	38,00
+	304,00
+
+	13
+	19147
+	20
+	peça
+	Copo de Griffin (Becker) / volume 100ml / graduado / forma baixa / em vidro borossilicato branco
+	Plenalab
+	4,00
+	80,00
+
+	15
+	33398
+	5
+	peça
+	Dinamômetro de mola tubular, com escala em GF (100 GF) e Newton (1N); para ensaios em Física.
+	Didatica
+	195,00
+	975,00
+
+	16
+	20718
+	5
+	peça
+	Dinamômetro de mola tubular, com escala em GF (200 GF) e Newton (2N); para ensaios em Física.
+	Didatica
+	195,00
+	975,00
+
+	17
+	33399
+	5
+	peça
+	Dinamômetro de mola tubular, com escala em GF (500 GF) e Newton (5N); para ensaios em Física.
+	Didatica
+	195,00
+	975,00
+
+	18
+	33400
+	10
+	peça
+	Massa aferida de 50g, com gancho; para ensaios em Física.
+	Azeheb
+	290,00
+	2.900,00
+
+	19
+	10366
+	3
+	peça
+	Balão de fundo chato, com volume 500ml; gargalo (haste) curto e junta intercambiável 24/40; vidro borossilicato branco.
+	Plenalab
+	25,50
+	76,50
+
+	20
+	20772
+	5
+	peça
+	Copo Berzelius (Becker), com volume 600ml, graduado, forma alta; em vidro borossilicato branco.
+	Plenalab
+	13,50
+	67,50
+
+	21
+	39442
+	1
+	caixa
+	Unidade filtrante Millipak Express 20; 0,22 uM de poro; não estéril; 1 unidade/caixa.
+	Merck
+	1.050,00
+	1.050,00
+
+	22
+	33490
+	1
+	peça
+	Filtro Smartpak para ultrapurificador de água modelo DQ3  SPR00SIA1.
+	Merck
+	2.980,00
+	2.980,00
+
+	23
+	39364
+	1
+	peça
+	Lâmpada de UV de duplo comprimento para uso em Sistema de Ultra-Purificação de Água Direct-Q3UV; código de referência da Millisul: SYN185UV1.
+	Merck
+	1.970,00
+	1.970,00
+
+	24
+	37376
+	4
+	peça
+	Balão de fundo redondo, com 3 bocas com saída angular e juntas 14/20; capacidade 100ml.
+	Plenalab
+	74,00
+	148,00
+
+	26
+	18137
+	1
+	pacote
+	Cubeta descartável semi-micro e padrão para espectro / volume 4,5ml / em poliestireno / pacote com 100 cubetas
+	Olen
+	95,00
+	380,00
+
+	27
+	16950
+	9
+	peça
+	Barra magnética lisa standart / 15mm de comprimento e 5mm de diâmetro
+	Fisaton
+	8,80
+	79,20
+
+	30
+	15389
+	3
+	peça
+	Garra universal para bureta / com mufa para fixação / abertura 40mm.
+	Metalic
+	24,00
+	72,00
+
+	31
+	28863
+	1
+	peça
+	Micropipetador automático mecânico; monocanal; volume variável de 500-5000 microlitros; com ejetor automático de ponteiras.
+	Olen
+	203,00
+	203,00
+
+	Valor Total do Contrato
+
+(em reais, R$)
+	16.243,20
+
+	Valor Total do Contrato
+
+ (em reais, por extenso)
+	Dezesseis mil duzentos e quarenta e três reais e vinte centavos
+
+
+PAGAMENTO: O pagamento será realizado em até 28 (vinte e oito) dias consecutivos após a efetiva entrega (com descarga) do(s) produto(s) desde que estas sejam aprovados pela Gestão Contratual e sigam acompanhados da respectiva Nota Fiscal Eletrônica (NF-e), através de depósito bancário (hipótese na qual a NF-e deverá conter os dados bancários da CONTRATADA) ou de boleto bancário (caso no qual tal documento deverá acompanhar a NF-e).
+PRAZO DE VIGÊNCIA: Por se tratar de contratação imediata, este contrato terá início a partir da data de sua assinatura e encerramento vinculado ao término do respectivo exercício financeiro, em conformidade com o descrito no caput do artigo 57 da Lei Federal nº. 8.666/93.
+DATA: 27/05/2020.

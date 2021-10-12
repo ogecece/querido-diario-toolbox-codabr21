@@ -1,0 +1,81 @@
+
+Prefeitura Municipal da Serra 
+Espirito Santo 
+
+DECRETO Nº 6843/2020 
+O PREFEITO MUNICIPAL DA SERRA, ESPÍRITO SANTO, usando de suas atribuições legais, e com base no artigo 9º inciso 
+I da Lei nº 5.155/2020 de 10/01/2020; 
+
+D E C R E T A: 
+Art. 1º. Ficam suplementadas no orçamento vigente as dotações orçamentárias constantes do Anexo I. 
+Art. 2º. Para efeito das suplementações constante no Artigo anterior, ficam anuladas as dotações orçamentárias, indicada 
+no anexo II. 
+Art. 3º. Este Decreto entra em vigor na data de sua publicação, revogadas as disposições em contrário 
+
+Palácio Municipal, em Serra, em 28 de outubro de 2020 
+AUDIFAX CHARLES PIMENTEL BARCELOS 
+
+Prefeito Municipal 
+LAURIETE CANEVA 
+
+Secretária de Planejamento Estratégico 
+CRÉDITO ADICIONAL SUPLEMENTAR - ANEXO I - SUPLEMENTAÇÃO 
+
+R$ 1,00 
+
+CÓDIGO ESPECIFICAÇÃO NATUREZA FR VALOR 
+
+11.00.00 SECRETARIA DE EDUCAÇÃO    
+
+11.01.00 Secretaria de Educação    
+
+12.122.0180.2101 Implantar e manter a Infraestrutura Tecnológica na 3.3.90.30.00 1.111.0000.0000 5.000 
+
+12.361.0180.2099 Garantir e manter as atividades administrativas e 3.3.90.30.00 1.111.0000.0000 24.000 
+
+12.361.0180.2099 Garantir e manter as atividades administrativas e 3.3.90.34.00 1.111.0000.0000 140.000 
+
+12.361.0180.2099 Garantir e manter as atividades administrativas e 3.3.90.36.00 1.111.0000.0000 30.000 
+
+12.361.0180.2099 Garantir e manter as atividades administrativas e 3.3.90.39.00 1.111.0000.0000 267.000 
+
+12.365.0180.2099 Garantir e manter as atividades administrativas e 3.3.90.34.00 1.111.0000.0000 255.000 
+
+12.365.0180.2283 Garantir e manter as atividades administrativas e 3.3.90.30.00 1.111.0000.0000 7.000 
+
+12.365.0180.2283 Garantir e manter as atividades administrativas e 3.3.90.34.00 1.111.0000.0000 452.000 
+
+12.00.00 SECRETARIA DE SAUDE    
+
+12.01.00 Fundo Municipal de Saúde    
+
+10.302.0230.2135 Ampliar e Melhorar os Serviços de Urgência e Emerg 4.4.50.52.00 1.211.0000.0000 120.000 
+
+10.304.0200.2172 Executar e monitorar as ações de vigilância ambien 3.3.90.39.00 1.211.0000.0000 250.000 
+  TOTAL  1.550.000 
+
+ 
+CRÉDITO ADICIONAL SUPLEMENTAR - ANEXO II - ANULAÇÃO 
+
+R$ 1,00 
+
+CÓDIGO ESPECIFICAÇÃO NATUREZA FR VALOR 
+
+11.00.00 SECRETARIA DE EDUCAÇÃO    
+
+11.01.00 Secretaria de Educação    
+
+12.361.0180.2103 Transporte Escolar 3.3.90.39.00 1.111.0000.0000 970.000 
+
+12.361.0530.2003 Manutenção e Conservação de Bens Imóveis 3.3.90.39.00 1.111.0000.0000 210.000 
+
+12.00.00 SECRETARIA DE SAUDE    
+
+12.01.00 Fundo Municipal de Saúde    
+
+10.302.0190.2195 Manter a rede de urgência e emergência. 3.3.50.39.00 1.211.0000.0000 370.000 
+  TOTAL  1.550.000 
+
+ 
+
+

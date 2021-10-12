@@ -1,0 +1,362 @@
+
+                                                                                                                                    
+ 
+
+,=    
+
+ 
+
+Prefeitura Municipal da Serra 
+Estado do Espirito Santo 
+
+NORMA DE PROCEDIMENTO 
+SMA-NP 
+01-2020 
+
+Assunto: 
+FISCALIZAÇÃO DE TRANSPORTE E DISPOSIÇÃO INADEQUADA DE RESÍDUOS 
+
+Versão: 
+01 
+
+Data de elaboração: 
+10/08/2020 
+
+Data de aprovação: 
+12/08/2020 
+
+Data de vigência: 
+12/08/2020 
+
+Ato de aprovação: 
+Decreto nº 6554/2020 
+
+Unidade responsável: 
+Secretaria de Meio Ambiente (SEMMA) 
+
+Revisada em: 
+ 
+
+Revisada por: 
+ 
+
+Anexos: Anexo I – Fluxograma 
+ 
+
+Aprovação: 
+
+ 
+ 
+
+ 
+
+Secretária Municipal de Meio Ambiente 
+
+ 
+
+Controladora Geral do Município 
+  
+
+1. Finalidade: 
+
+Estabelecer critérios e procedimentos básicos, no âmbito da Prefeitura da Serra, referente fiscalização ambiental de transporte e 
+disposição inadequada de resíduos.  
+
+ 
+2. Abrangência: 
+
+SEMMA, SEDUR, SESE e SEDES 
+
+ 
+3. Base Legal e Regulamentar: 
+
+ 
+
+Lei Federal n° 9605/1998 – Dispõe sobre as sanções penais e administrativas derivadas de condutas e atividades lesivas ao meio 
+
+ambiente, e dá outras providências; 
+
+Lei Federal n° 9985/2000 – Regulamenta o art. 225, § 1º, incisos I, II, III e VII da Constituição Federal, institui o Sistema 
+Nacional de Unidades de Conservação da Natureza e dá outras providências; 
+
+Lei Federal nº 12.651/2012 – Dispõe sobre a proteção da vegetação nativa; altera as Leis nº 6.938, de 31 de agosto de 1981, 
+9.393, de 19 de dezembro de 1996, e 11.428, de 22 de dezembro de 2006; revoga as Leis nº 4.771, de 15 de setembro de 1965, 
+e 7.754, de 14 de abril de 1989, e a Medida Provisória nº 2.166-67, de 24 de agosto de 2001; e dá outras providências; 
+
+Lei Federal n 12.305\2010 – Política Nacional de Resíduos sólidos;  
+
+Lei Municipal nº 2199/199 – Código Municipal de Meio Ambiente; 
+
+Lei Municipal nº 4800/2018 – Altera o Código Municipal de Meio Ambiente; 
+
+Lei Municipal nº 3820/2012 – Dispõe sobre a organização do espaço territorial do município da serra; 
+
+Lei Municipal n° 4764\2017 – Dispões sobre a utilização das caçambas estacionarias para coleta e remoção de resíduos da 
+construção civil, resíduos volumosos. 
+
+ 
+4. Conceitos: 
+ 
+Meio ambiente: a interação de elementos naturais, artificiais, socioeconômicos e culturais presentes na biosfera, que permite, 
+
+abriga e rege a vida em todas as suas formas; 
+
+Degradação ambiental: a alteração adversa das características do meio ambiente; 
+
+Poluição: a degradação da qualidade ambiental; 
+
+Poluidor: a pessoa física ou jurídica, de direito público ou privado, responsável direta ou indiretamente por atividade causadora de 
+
+degradação ambiental; 
+
+Recursos ambientais: a atmosfera, as águas interiores, superficiais e subterrâneas, os estuários, o mar territorial, o solo, o subsolo, 
+
+a fauna e a flora; 
+
+COMDEMAS – Conselho Municipal de Defesa do Meio Ambiente da Serra;  
+
+CTR: Controle de Transporte de Resíduos; 
+
+CRLV: Certificado de Registro e Licenciamento de Veículo; 
+
+UC: unidades de conservação – são espaços territoriais especialmente protegidos, representativos de ecossistemas e/ou associações 
+
+florestais relevantes para o Município, de domínio público ou privado, cuja utilização obedece normas específicas, de acordo com a 
+
+categoria de manejo a que pertencem. Prevista na Lei Federal nº. 9.985/2000 – Sistema Nacional de Unidades de Conservação da 
+
+Natureza – SNUC; 
+
+UC’s Municipais: 
+
+ 
+
+
+
+                                                                                                                                    
+ 
+
+I – Parque Natural Municipal de Bicanga – PNM; 
+
+II – Área de Proteção Ambiental Federal Costa das Algas-APA; 
+
+III – Área de Proteção Ambiental Estadual de Praia Mole – APA; 
+
+IV – Área de Proteção Ambiental Estadual do Mestre Álvaro – APA; 
+
+V – Área de Proteção Ambiental Municipal do Morro do Vilante – APA; 
+
+VI – Área de Proteção Ambiental Municipal da Lagoa Jacuném – APA. 
+
+VII – Área de Proteção Ambiental Manguezal Sul da Serra – APA. 
+
+ 
+
+APA – Área de Proteção Ambiental – É um tipo de Unidade de Conservação Prevista na Lei Federal nº. 9.985/2000 – Sistema 
+Nacional de Unidades de Conservação da Natureza – SNUC. Constituída por terra Públicas ou privadas e tem como objetivos básicos 
+proteger a diversidade biológica, disciplinar o processo de ocupação e assegurar a sustentabilidade do uso dos recursos naturais 
+ 
+APP: Áreas de Preservação Permanente (Previstas na Lei Federal nº. 12.651/2012 – Código Florestal Brasileiro, no seu artigo 4º). 
+ 
+No Município temos as seguintes Áreas de Preservação Permanente (seja em zonas rurais ou urbanas) 
+
+I – As faixas marginais de qualquer curso d’água natural perene e intermitente, excluídos os efêmeros, desde a borda da calha do 
+leito regular, em largura mínima de: 
+ 
+a) 30 (trinta) metros, para os cursos d’água de menos de 10 (dez) metros de largura; 
+b) 50 (cinquenta) metros, para os cursos d’água que tenham de 10 (dez) a 50 (cinquenta) metros de largura; 
+ 
+II – As áreas no entorno dos lagos e lagoas naturais, em faixa com largura mínima de: 
+ 
+
+a) 100 (cem) metros, em zonas rurais, exceto para o corpo d’água com até 20 (vinte) hectares de superfície, cuja faixa marginal 
+será de 50 (cinquenta) metros; 
+b) 30 (trinta) metros, em zonas urbanas; 
+ 
+III – As áreas no entorno dos reservatórios d’água artificiais, decorrentes de barramento ou represamento de cursos d’água natu-
+rais, na faixa definida na licença ambiental do empreendimento;   
+ 
+IV – As áreas no entorno das nascentes e dos olhos d’água perenes, qualquer que seja sua situação topográfica, no raio mínimo de 
+50 (cinquenta) metros;  
+ 
+V – As encostas ou partes destas com declividade superior a 45º, equivalente a 100% (cem por cento) na linha de maior declive; 
+ 
+VI – As restingas, como fixadoras de dunas ou estabilizadoras de mangues; 
+ 
+VII – Os manguezais, em toda a sua extensão; 
+ 
+VIII – A bordas dos tabuleiros ou chapadas, até a linha de ruptura do relevo, em faixa nunca inferior a 100 (cem) metros em proje-
+ções horizontais; 
+
+ZPA – Zona de Proteção Ambiental (Previstas na Lei Municipal nº. 3820/2012 – PDM) 
+ 
+Observações:  
+ 
+ - Alguns tipos de ZPA’s tem APP’s e UC’s. 
+ - Uma UC geralmente tem algum tipo de APP em seu território;  
+ 
+5. Competência e Responsabilidades: 
+
+A Secretaria Municipal de Meio Ambiente – SEMMA é o órgão de coordenação, controle e execução da Política Municipal de Meio 
+Ambiente. 
+
+ 
+6. Procedimentos: 
+ 
+6.1 A fiscalização ambiental será exercida pelos agentes credenciados da SEMMA, fiscais de meio ambiente, que no desempenho de 
+suas funções, verificarão o cumprimento da legislação federal, estadual e municipal de proteção do meio ambiente e dos recursos 
+naturais. 
+ 
+6.2 A fiscalização exercida pelos agentes credenciados pela SEMMA terá caráter rotineiro, para atendimento e verificação da 
+procedência de denúncias de poluição ou degradação do meio ambiente e dos recursos naturais; 
+ 
+6.3 As ações de fiscalização poderão também ser planejadas com outras Secretarias visando coibir o transporte e a disposição 
+inadequada de resíduos; 
+ 
+6.4 Os agentes credenciados pela SEMMA, para o cumprimento de suas atribuições de fiscalização ambiental, terão acesso, sendo 
+assegurada a sua permanência a qualquer dia e hora, nas instalações industriais, comerciais, agropecuárias e empreendimentos de 
+qualquer natureza, públicos ou privados. 
+
+ 
+
+6.5 – SEMMA/DFA – Da fiscalização de veículos automotores transportando resíduos  
+
+6.5.1 Durante a abordagem ao veículo, caso a atividade seja passível de licença ambiental, o fiscal deverá: 
+
+6.5.1.1. Solicitar a apresentação da licença para a atividade de transporte de resíduos. 
+
+6.5.2 Caso não tenha a licença o fiscal deverá com os dados do proprietário do veículo constante no CRLV e a placa 
+
+do veículo que está transportando os resíduos: 
+
+
+
+                                                                                                                                    
+ 
+
+ 
+
+I – Embargar por falta de licença ambiental;  
+
+II – Multar por falta de licença ambiental;  
+
+III – Notificar para apresentar o comprovante de destinação final dos resíduos – 05 (cinco) dias; 
+
+IV – Notificar para a apresentar ao DFA cópia da licença ambiental – 05 (cinco) dias úteis. 
+
+ 
+
+6.5.3 Sendo pequeno transportador (veículo de passeio que não caracterize de serviço) caso que não haja 
+
+necessidade de licença ambiental: 
+
+6.5.3.1.  Notificar a apresentar no DFA o comprovante da destinação correta dos resíduos em local apropriado no prazo de 5 (cinco) 
+dias úteis. 
+ 
+
+6.6 – SEMMA/DFA – Da fiscalização na disposição inadequada de resíduos – VEÍCULOS AUTOMOTORES 
+
+ 
+6.6.1 Nas fiscalização sistemáticas caso seja flagrado o despejo de resíduos diretamente sobre o solo, o fiscal deverá: 
+ 
+I – Lavrar o Auto de apreensão conforme previsão do Art. 163 item III da Lei nº2199/99 e conduzir o veículo ao pátio da Prefeitura 
+Municipal da Serra (DTO); 
+ 
+II – Preencher o Checklist; 
+ 
+III – Lavrar a penalidade de multa correspondente. Art. 194 combinado com Art. 124 da Lei Municipal 2199\1999; 
+ 
+IV – Em situações que o fiscal constatar perigo para realizar a apreensão do veículo os órgãos de segurança serão acionados. 
+ 
+6.6.2 Disposição de resíduos em Unidades de Conservação (UC´s) e/ou Áreas de Preservação Permanente (APPs) – 
+VEÍCULOS AUTOMOTORES 
+ 
+6.6.2.1. Caso a infração se enquadre nos Artigos 40 e/ou 54 (par. 2° e 3°) e/ou 60 da Lei de Crimes de Ambientais (Lei Federal nº 
+9.605/98), o fiscal deverá:  
+ 
+I – lavrar o Auto de apreensão conforme previsão do Art. 163 item III da Lei Municipal nº2199/99 e conduzir o veículo ao pátio da 
+Prefeitura Municipal da Serra (DTO); 
+ 
+II – O responsável pelo DTO ou quem por ele indicado deverá assinar Auto de Apreensão como fiel depositário do veículo 
+apreendido acompanhado do cheque list preenchido no local; 
+ 
+III – Preencher o Checklist; 
+ 
+IV-  Solicitar apoio aos órgãos de segurança para condução do infrator ao DPJ de Laranjeiras; 
+ 
+V – Lavrar a penalidade de multa correspondente –Art.194 combinado com Art. 124 da Lei Municipal 2199\1999.  
+ 
+6.7 – SEMMA/DFA – Da Fiscalização na disposição inadequada de resíduos – CARROÇAS 
+
+6.7.1 Nas fiscalização sistemáticas caso seja flagrado o despejo de resíduos diretamente sobre o solo, o fiscal deverá: 
+6.7.2.  Solicitar apoio aos órgãos de segurança, bem como da SESE para recolhimento da carroça e do animal; 
+6.7.3.  Lavrar os Autos de apreensão correspondente conforme previsão do Art. 163 item III da Lei nº2199/99; 
+6.7.4.  Lavrar a penalidade de multa correspondente; 
+6.7.4.1. Situações que o Fiscal constatar perigo para realizar a apreensão de veículo os órgãos de segurança serão acionados. 
+ 
+6.8. Disposição de resíduos em Unidades de Conservação (UC´s) e/ou Áreas de Preservação Permanente (APPs) – 
+
+CARROÇAS 
+
+6.8.1. Caso a infração se enquadre nos Artigos 40 e/ou 54 e/ou 60 da Lei de Crimes de Ambientais (Lei Federal nº 9.605/98), o 
+fiscal deverá:  
+ 
+I – Solicitar apoio aos órgãos de segurança, bem como da SESE para recolhimento da carroça e do animal; 
+II – Lavrar os Autos de apreensão correspondente conforme previsão do Art. 163 item III da Lei nº2199/99; 
+III – Solicitar apoio aos órgãos de segurança para condução do infrator ao DPJ de Laranjeiras; 
+IV – Lavrar a penalidade de multa correspondente – Art. 194 combinado com Art. 124 da Lei Municipal 2199\1999. 
+ 
+
+7. Considerações Finais: 
+ 
+7.1 Qualquer caminhão flagrado dispondo resíduos em local impróprio, além do que está disposto nos itens 6.6.1 e 
+6.6.2 os fiscais (equipe responsável) deverão: 
+ 
+I – Notificar a apresentar a cópia da licença ambiental – prazo: 05 (cinco) dias úteis; 
+ 
+II – Os fiscais que estão na ação deverão assinar os autos correspondentes; 
+
+
+
+                                                                                                                                    
+ 
+
+ 
+ 
+
+ANEXO I - FLUXOGRAMA 
+ 
+ 
+
+ 
+
+MUNICÍPIO DA SERRA 
+ESTADO DO ESPÍRITO SANTO 
+
+Secretaria Municipal de Meio Ambiente 
+
+SISTEMA DE MEIO AMBIENTE (SMA) 
+Assunto: FISCALIZAÇÃO DE TRANSPORTE E DISPOSIÇÃO INADEQUADA DE 
+RESÍDUOS 
+Data da Elaboração:  10/08/2020             Data da Aprovação:12/08/2020 
+ 
+
+
+
+                                                                                                                                    
+ 
+
+ 
+
+MUNICÍPIO DA SERRA 
+ESTADO DO ESPÍRITO SANTO 
+
+Secretaria Municipal de Meio Ambiente 
+
+SISTEMA DE MEIO AMBIENTE (SMA) 
+Assunto: FISCALIZAÇÃO DE TRANSPORTE E DISPOSIÇÃO INADEQUADA DE 
+RESÍDUOS 
+Data da Elaboração:  10/08/2020             Data da Aprovação:12/08/2020 
+ 
+
+

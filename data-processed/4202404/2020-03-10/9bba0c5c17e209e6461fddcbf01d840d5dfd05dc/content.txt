@@ -1,0 +1,83 @@
+
+FUNDAÇÃO UNIVERSIDADE REGIONAL DE BLUMENAU
+
+Extrato nº. 083/2020
+PARTES:  FUNDAÇÃO UNIVERSIDADE REGIONAL DE BLUMENAU
+
+E
+
+                 PARTNER TECNOLOGIA EIRELI
+OBJETO: Registro de Preços para aquisições futuras de projetores multimídia e peças de reposição para Universidade
+FUNDAMENTO LEGAL: Pregão Presencial (SRP) nº 386/2019 e Ata nº 027/2020, a ser firmada em 10 de março de 2020.  
+PREÇO: O preço ofertado pela empresa signatária da presente Ata de Registro de Preços é o abaixo informado, de acordo com a respectiva classificação:
+
+	Item
+	Código FURB
+	Qtde.
+	Und.
+	Descrição do Item
+	Marca
+	Preço Unitário (R$)
+	Preço Total do Item (R$)
+
+	1
+	35933
+	120
+	Peça
+	Projetor de multimídia, com as seguintes características mínimas:
+
+- Tecnologia 3xLCD / DLP / Laser&Led;
+
+- Compatibilidade de sinais: NTSC / PAL / PALN / SECAM / DHTV;
+
+- Possibilidade de inversão de imagem;
+
+,- 3000 ANSI Lumens ou superior (luminosidade);
+
+- Vida útil fonte de luz: mínimo 5000 horas.;
+
+- Resolução real (nativa): XGA (1024/768);
+
+- 1 entrada VGA (Mini D-sub 15 pin);
+
+- 1 entrada HDMI;
+
+- Alimentação: 110-240V ac (automático);
+
+- Idioma: Português e Inglês;
+
+- Tipos de projeção: Teto / Frontal / Traseiro;
+
+- Cores: 16,7 Milhões (24 bits);
+
+- Cabos VGA para PC;
+
+- Cabo de alimentação (NBR 14136);
+
+- Controle remoto sem fio com pilha ou bateria;
+
+- Mala para transporte;
+
+- Deve ser acompanhado do manual em língua original do fabricante e em língua portuguesa;
+
+- Garantia: 12 (doze) meses para o equipamento e de 3 (três) meses para a lâmpada que o integra, com assistência técnica no estado de Santa Catarina.
+	Acer
+
+Modelo: X1323WH
+	1.960,00
+	235.200,00
+
+	Prazo de Garantia
+	12 meses
+
+	Valor Total (em R$)
+	235.200,00
+
+	Valor Total (em R$ por extenso)
+	Duzentos e trinta e cinco mil e duzentos reais
+
+
+PAGAMENTO: O pagamento será efetuado em até 30 (trinta) dias consecutivos após a efetiva entrega (com descarga) dos produtos, desde que os mesmos estejam em perfeitas condições de uso, sejam aprovados pelo Gestor designado pela CONTRATANTE e sigam acompanhados da respectiva Nota Fiscal Eletrônica (NF-e), através de depósitos bancários (hipótese na qual a NF-e deverá conter os dados bancários da CONTRATADA) ou de boletos bancários (caso no qual tais documentos deverão acompanhar a NF-e).
+
+PRAZO DE VIGÊNCIA: A presente Ata de Registro de Preços terá a validade de 12 (doze) meses, contados a partir da data de sua assinatura.
+DATA: 09/03/2020.

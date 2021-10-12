@@ -1,0 +1,115 @@
+
+Prefeitura Municipal da Serra 
+Espirito Santo 
+
+DECRETO Nº 6499/2020 
+O PREFEITO MUNICIPAL DA SERRA, ESPÍRITO SANTO, usando de suas atribuições legais, e com base no artigo 9º inciso 
+I da Lei nº 5.155/2020 de 10/01/2020; 
+
+D E C R E T A: 
+Art. 1º. Ficam suplementadas no orçamento vigente as dotações orçamentárias constante do Anexo I. 
+Art. 2º. Para efeito das suplementações constante no Artigo anterior, ficam anuladas as dotações orçamentárias, indicada 
+no anexo II. 
+Art. 3º. Este Decreto entra em vigor na data de sua publicação, revogadas as disposições em contrário 
+
+Palácio Municipal, em Serra, em 18 de agosto de 2020 
+AUDIFAX CHARLES PIMENTEL BARCELOS 
+
+Prefeito Municipal 
+LAURIETE CANEVA 
+
+Secretária de Planejamento Estratégico 
+CRÉDITO ADICIONAL SUPLEMENTAR - ANEXO I - SUPLEMENTAÇÃO 
+
+R$ 1,00 
+
+CÓDIGO ESPECIFICAÇÃO NATUREZA FR VALOR 
+
+08.00.00 SECRETARIA DE OBRAS    
+08.01.00 Secretaria de Obras    
+15.451.0100.1124 Elaboração de estudos e projetos 4.4.90.51.00 1.001.0000.0000 110.000 
+
+15.451.0100.1129 Recuperar ou Urbanizar Áreas Degradadas 4.4.90.51.00 1.001.0187.0000 408.000 
+
+15.451.0100.1129 Recuperar ou Urbanizar Áreas Degradadas 4.4.90.51.00 1.001.0186.0000 1.648.000 
+
+15.451.0100.2130 Urbanizar, Ampliar, Revitalizar e Melhorar as Vias 4.4.90.51.00 1.001.0000.0000 600.000 
+
+15.451.0100.2130 Urbanizar, Ampliar, Revitalizar e Melhorar as Vias 4.4.90.92.00 1.001.0000.0000 1.009.000 
+
+10.00.00 SEC. TURISMO, CULTURA, ESPORTE E LAZER    
+10.01.00 Sec. Turismo, Cultura, Esporte e Lazer    
+13.392.0150.2232 Valorizar e Preservar o Patrimônio Histórico Mater 3.3.90.92.00 1.001.0000.0000 11.600 
+
+11.00.00 SECRETARIA DE EDUCAÇÃO    
+11.01.00 Secretaria de Educação    
+12.122.0530.2002 Manutenção dos Serviços Administrativos Gerais 3.3.90.39.00 1.111.0000.0000 50.000 
+
+12.361.0180.2097 Construção, Manutenção, Reforma e Ampliação das Un 4.4.90.92.00 2.120.0000.0000 96.000 
+
+12.361.0180.2097 Construção, Manutenção, Reforma e Ampliação das Un 4.4.90.92.00 1.190.0000.0000 56.000 
+
+12.365.0180.2097 Construção, Manutenção, Reforma e Ampliação das Un 4.4.90.92.00 1.190.0000.0000 32.000 
+
+12.365.0180.2283 Garantir e manter as atividades administrativas e 3.3.90.39.00 1.111.0000.0000 500.000 
+
+13.00.00 SECRETARIA DE ASSISTÊNCIA SOCIAL    
+13.01.00 Secretaria de Assistência Social    
+08.244.0260.2066 Fortalecer e Manter as Atividades dos Conselhos 3.3.90.36.00 1.001.0000.0000 15.100 
+
+14.00.00 SECRETARIA DE MEIO AMBIENTE    
+14.01.00 Secretaria de Meio Ambiente    
+04.122.0530.2002 Manutenção dos Serviços Administrativos Gerais 4.4.90.52.00 1.001.0000.0000 30.000 
+
+  TOTAL  4.565.700 
+
+ 
+CRÉDITO ADICIONAL SUPLEMENTAR - ANEXO II - ANULAÇÃO 
+
+R$ 1,00 
+
+CÓDIGO ESPECIFICAÇÃO NATUREZA FR VALOR 
+
+10.00.00 SEC. TURISMO, CULTURA, ESPORTE E LAZER    
+10.01.00 Sec. Turismo, Cultura, Esporte e Lazer    
+13.392.0150.2227 Criar e manter o Fundo Municipal da Cultura. 3.3.90.39.00 1.001.0000.0000 11.600 
+
+11.00.00 SECRETARIA DE EDUCAÇÃO    
+11.01.00 Secretaria de Educação    
+12.361.0180.2099 Garantir e manter as atividades administrativas e 3.3.90.34.00 2.120.0000.0000 96.000 
+
+12.361.0530.2003 Manutenção e Conservação de Bens Imóveis 3.3.90.39.00 1.111.0000.0000 50.000 
+
+12.365.0530.2287 Manutenção e Conservação de Bens Imóveis - Pré-Esc 3.3.90.39.00 1.111.0000.0000 500.000 
+
+12.00.00 SECRETARIA DE SAUDE    
+12.01.00 Fundo Municipal de Saúde    
+10.122.0530.2001 Pagamento de Pessoal e Encargos 3.1.90.04.00 1.211.0000.0000 1.206.000 
+
+10.122.0530.2001 Pagamento de Pessoal e Encargos 3.1.90.11.00 1.211.0000.0000 2.657.000 
+
+13.00.00 SECRETARIA DE ASSISTÊNCIA SOCIAL    
+
+
+
+CRÉDITO ADICIONAL SUPLEMENTAR - ANEXO II - ANULAÇÃO 
+R$ 1,00 
+
+CÓDIGO ESPECIFICAÇÃO NATUREZA FR VALOR 
+
+13.02.00 Fundo Munic. Assistência Social    
+08.244.0280.2188 Garantir e Manter os Serviços Continuados de Prote 3.3.90.30.00 1.001.0000.0000 15.100 
+
+14.00.00 SECRETARIA DE MEIO AMBIENTE    
+14.01.00 Secretaria de Meio Ambiente    
+04.122.0080.1144 Aquisição de Equipamentos Tecnológicos 3.3.90.30.00 1.001.0000.0000 10.000 
+
+04.122.0080.1144 Aquisição de Equipamentos Tecnológicos 3.3.90.39.00 1.001.0000.0000 10.000 
+
+04.122.0080.1148 Implementar e Integrar o Sistema Municipal de Info 3.3.90.39.00 1.001.0000.0000 10.000 
+
+  TOTAL  4.565.700 
+
+ 
+
+

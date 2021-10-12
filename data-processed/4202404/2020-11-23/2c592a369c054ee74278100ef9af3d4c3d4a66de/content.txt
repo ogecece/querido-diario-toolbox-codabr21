@@ -1,0 +1,165 @@
+FUNDAÇÃO UNIVERSIDADE REGIONAL DE BLUMENAU
+
+Extrato nº. 493/2020
+
+PARTES:	FUNDAÇÃO UNIVERSIDADE REGIONAL DE BLUMENAU
+	e
+	PARTNER TECNOLOGIA EIRELI
+
+
+ADITIVO DE SUPLEMENTAÇÃO
+CONTRATO Nº 195/2020 - TERMO ADITIVO Nº 001
+
+OBJETO: Aquisição de computadores específicos para utilização do Raio X do curso de Odontologia.
+
+
+FUNDAMENTO LEGAL: Pregão Presencial nº 224/2020 e Contrato nº 195/2020, firmado em 14 de outubro de 2020.
+
+
+CLÁUSULA PRIMEIRA – DA SUPLEMENTAÇÃO:
+Fica o Termo de Contrato nº 195/2020 suplementado em R$ 6.090,00 (seis mil e noventa reais), resultando em 9,04% a maior, em relação ao valor total global, conforme a seguir: 
+	Item
+	Código FURB
+	Qtde. a ser suplementada 
+	Und.
+	Descrição do Item
+	Preço Unitário 
+(em R$)
+
+	2
+	40208
+	01
+	Peça
+	Microcomputador Workstation tipo II com monitor, com as seguintes características:
+Processador:
+· Plataforma: 32 e 64 bits
+· Frequência nominal mínima: 2,9 GHz
+· Suporte à Frequência Dinâmica 
+· Cache mínimo: 9 MB 
+· Núcleos: mínimo de 6 cores e 6 threads.
+· Virtualização: suportada e ativada.
+· TDP de 65W.
+Memória:
+· Capacidade: 16 GB (2x 8GB) DDR4 2400 MHz ou superior
+· Deverá ter etiqueta com número de série, logotipo e dados do fabricante impressos
+Unidade de estado sólido (SSD):
+· Capacidade mínima: 240 GB
+· Interface: SATA III de 6Gb/s
+· Fixação: para discos de 2,5 polegadas, a fixação ao gabinete deverá ser feita por meio de adaptador de plástico ou metal, com 04 parafusos para fixação no disco e 04 parafusos para fixação no gabinete.
+Disco Rígido:
+· Capacidade mínima: 1TB
+· Interface: SATA III de 6Gb/s
+· Rotação mínima: 7200 RPM
+· Cache mínimo: 16 MB
+· Tecnologias: S.M.A.R.T.
+Placa mãe:
+· Deverá conter a marca e o modelo gravados na placa, não serão aceitas placas com etiquetas coladas contendo marca e modelo.
+· Dimensões mínimas: comprimento 21cm e largura 17,4 cm
+Interfaces mínimas: 
+· 04 SATA III de 6 GB/s
+· 02 USB 2.0 ou superior
+· 02 USB 3.0 ou superior
+· 02 USB frontais
+· 01 Slot PCI Express x16 2.0 ou superior
+· 01 Slot PCI Express x1
+· 2 Slots de memória DDR4, compatível com o modelo de memória ofertado para o equipamento.
+· 1 x VGA
+· 1 x DVI ou HDMI
+Som: Integrado com suporte a High Definition
+Placa de Vídeo: 
+· Tipo: Off-Board
+· Interface: PCI Express 3.0 ou superior
+· Núcleos: mínimo de 768 núcleos
+· Clock mínimo do processador (core clock): 1290 MHz
+· Clock de memória efetivo mínimo: 7000 MHz
+· Memória mínima dedicada: 4 GB dedicados GDDR5 ou superior
+· Interface mínima de memória: 128 bits
+· Suporte às tecnologias:
+· DirectX 12 ou superior
+· Open GL 4.5 ou superior
+· Refrigeração: Cooler original do fabricante devidamente fixado e alimentado na própria placa de vídeo
+· Autenticidade: Deverá conter impresso ou em selo do fabricante, marca e modelo.
+· Conectores mínimos: 
+· 1 x VGA
+· Caso não possua conexão VGA, deve ser entregue com adaptador para VGA.
+· 1 x DVI ou HDMI
+Rede:
+· Gigabit (100/1000 MBPS) com conector RJ45
+· Porta RJ-45 para cabo UTP categoria 5 ou superior
+· Deve possuir LEDs de indicação de link e de atividade
+Alimentação: 
+· Com chaveamento manual ou automático entre 110 e 220V
+· Potência mínima: 500 Watts reais
+· Frequência: 60Hz
+· Ventilação: deve possuir ventilador integrado com dimensão mínima de 80X80mm.
+· Acessórios inclusos: Cabo de energia padrão NBR 14136
+Gabinete:
+· Tipo: torre
+· Fixação da Fonte: Parte inferior do gabinete
+· Refrigeração:
+· Cooler de dimensão mínima de 80x80mm fixado na parte traseira do gabinete e alimentado diretamente na placa mãe.
+· O gabinete deverá ser feito com aço galvanizado, com espessura mínima de 0,40mm.
+· As tampas laterais deverão ser afixadas por meio de parafusos, permitindo o acesso interno pelas duas laterais.
+· Acabamento interno composto por superfícies não cortantes.
+· Acesso frontal a pelo menos 02 portas USB 2.0 ou superior
+· Acesso frontal para microfone e fone de ouvido, ambos no padrão de conector P2.
+· A parte frontal do gabinete não deve possuir peças móveis (portinholas) para encobrir qualquer dispositivo (Portas USB, drives, etc.).
+Sistema operacional:
+· Windows 10 ou superior
+· Obrigatoriamente deverá estar descrito na nota fiscal ou em declaração anexa a nota fiscal do equipamento.
+Acessórios: mídia de drivers com suporte a Windows 10 ou superior
+Compatibilidade: Windows 10 ou superior
+MONITOR
+
+Tamanho mínimo da tela: 23,6” Widescreen 
+Tipo: LED ou superior.
+Tempo de Resposta Máximo: 5 milissegundos
+Ângulo de Visão mínimo: 160 graus
+Resolução mínima: 1920x1080 
+Suporte mínimo de Cores: 16 Milhões
+Conectores mínimos:
+· 1 x DVI ou HDMI
+· Este item deve ser obrigatoriamente ofertado com as mesmas conexões da placa de vídeo, para conexão, sem a necessidade de adaptadores.
+Alimentação: automática entre 110 e 220V
+Teclas mínimas no Painel: Mínimo de uma tecla que possibilite regular as configurações de imagem, sem a necessidade de uso de software adicional.
+Certificação: 
+· Energy Star (EPA)
+Base: Deverá ser móvel, permitindo o ajuste do ângulo de visão da tela
+Autenticidade: Deverá conter impresso no produto ou em selo adesivo do fabricante: 
+· Marca
+· Modelo 
+· Número de série
+Acessórios inclusos: 
+· Cabo DVI ou HDMI
+· Este item deve ser obrigatoriamente ofertado com as mesmas conexões da placa de vídeo
+· Cabo de alimentação padrão NBR14136
+· Fonte externa (se houver)
+Embalagem: Original do fabricante, lacrada e intacta.
+Compatibilidade: Windows 8 ou superior
+
+Assistência Técnica durante a garantia:
+· Atendimento presencial em até 3 dias úteis a partir da abertura do chamado com o Callcenter da empresa/fabricante, via e-mail ou telefone.
+· Resolução do defeito em até 5 dias úteis, a contar do atendimento presencial.
+· O equipamento que apresentar 3 defeitos que requeiram intervenção de assistência técnica em um período de 90 dias consecutivos, deverá ser substituído por outro novo, de modelo idêntico ou superior, dentro das características do produto.
+· Expediente: Segunda a Sexta-feira das 8h às 12hs e das 14h às 18hs.
+Condições adicionais:
+· O fabricante do equipamento deverá permitir a abertura do equipamento por parte da equipe técnica da FURB para conferência, identificação de problemas e instalação de sistemas da contratante, sem perda da garantia.
+
+Garantia mínima: 01 ano para todo o equipamento
+
+Prazo de Entrega: Até 15 dias após a emissão da ordem de compra
+
+Aceite:
+O aceite do equipamento só será emitido após conferência das características em confronto com a proposta e testes de funcionamento realizados pela equipe técnica da FURB. A comissão de recebimento fará a análise técnica do equipamento verificando todas as características informadas na documentação e conferindo com o equipamento entregue.
+Em caso de desacordo das configurações do equipamento entregue, a empresa contratada deverá substituir as peças ou equipamentos em desacordo, no prazo de 10 dias úteis a contar a partir da data da notificação enviada pela contratante.
+
+	6.090,00
+
+
+
+CLÁUSULA SEGUNDA – DA MANUTENÇÃO DAS DEMAIS CLÁUSULAS:
+Permanecem inalteradas as demais cláusulas e condições previstas no Contrato nº 195/2020, que não colidirem com o presente Termo Aditivo.
+ 
+Blumenau/SC, 19 de novembro de 2020.
+
+

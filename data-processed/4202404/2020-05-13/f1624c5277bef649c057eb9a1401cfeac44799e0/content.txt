@@ -1,0 +1,36 @@
+
+FUNDAÇÃO UNIVERSIDADE REGIONAL DE BLUMENAU
+
+Extrato nº. 147/2020
+PARTES:
+FUNDAÇÃO UNIVERSIDADE REGIONAL DE BLUMENAU
+E
+
+HEWLETT-PACKARD BRASIL LTDA.
+OBJETO: Contratação de serviços de atualização e suporte técnico de hardware e software para equipamento marca Hewlett-Packard instalado na FURB.
+FUNDAMENTO LEGAL: Inexigibilidade nº 096/2020 e Contrato nº 062/2020, firmado em 13 de maio de 2020. 
+PREÇO: Pelo objeto contratado, a CONTRATANTE pagará o preço total de R$ 56.776,53 (cinquenta e seis mil, setecentos e setenta e seis reais e cinquenta e três centavos), de acordo com a Proposta Técnica Comercial 110150593BR00 apresentada pela CONTRATADA e constante de fls. ​​23 à 33 do Processo anteriormente mencionado.
+
+	Item
+	Código FURB
+	Qtde
+	Und.
+	Descrição do Item
+	Preço Unitário (em R$)
+	Preço Total (em R$)
+
+	1
+	38163
+	60
+	mês
+	Pagamento de serviço de suporte técnico de hardware e software para roteador HP (Hewlett-Packard)
+	946,28
+	56.776,53
+
+	Preço Total (em reais, por extenso)
+	Cinquenta e seis mil, setecentos e setenta e seis reais e cinquenta e três centavos
+
+
+PAGAMENTO: O pagamento será efetuado até o 5º (quinto) dia útil do mês subsequente ao da prestação de serviços desde que a execução dos trabalhos seja aprovada pelo Gestor designado pela CONTRATANTE e siga acompanhada da respectiva Nota Fiscal Eletrônica (NF-e), através de depósitos bancários (hipótese na qual a NF-e deverá conter os dados bancários da CONTRATADA e recebida até ao dia 30 de cada mês) ou de boletos bancários (caso no qual tais documentos deverão acompanhar a NF-e até o dia 30 de cada mês).
+PRAZO DE VIGÊNCIA: Este contrato tem vigência a partir de 13 de maio de 2020 e se encerra em 12 de maio de 2025.
+DATA: 13/05/2020

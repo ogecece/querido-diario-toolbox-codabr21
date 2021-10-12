@@ -1,0 +1,4428 @@
+
+
+
+
+FUNDAÇÃO HOSPITALAR DE BLUMENAU 
+
+
+HOSPITAL SANTO ANTÔNIO 
+
+BLUMENAU – SC
+
+DEMONSTRAÇÕES CONTÁBEIS EM 
+
+ 31 DE DEZEMBRO DE 2019
+
+Blumenau (SC), 07 de fevereiro de 2020. 
+
+Aos 
+
+Conselheiros e Diretores da 
+
+FUNDAÇÃO HOSPITALAR DE BLUMENAU - HOSPITAL SANTO ANTÔNIO. 
+
+Em conclusão aos trabalhos de auditoria independente, relativo ao exercício social encerrado em 31 de dezembro de 2019, seguem anexos para sua apreciação as respectivas Demonstrações Contábeis comparadas com as do exercício anterior, compreendendo: 
+
+-
+RELATÓRIO DOS AUDITORES INDEPENDENTES
+
+-
+BALANÇO PATRIMONIAL
+
+-
+DEMONSTRAÇÃO DO SUPERÁVIT DO EXERCÍCIO
+
+-
+DEMONSTRAÇÃO DAS MUTAÇÕES DO PATRIMÔNIO SOCIAL
+
+-
+DEMONSTRAÇÃO DOS FLUXOS DE CAIXA
+
+-
+NOTAS EXPLICATIVAS ÀS DEMONSTRAÇÕES CONTÁBEIS
+
+Atenciosamente,
+
+Actus Auditores Independentes
+
+Sidnei Raitz
+
+RELATÓRIO DOS AUDITORES INDEPENDENTES SOBRE AS 
+
+
+DEMONSTRAÇÕES CONTÁBEIS 
+
+Aos 
+
+Conselheiros e Diretores da 
+
+FUNDAÇÃO HOSPITALAR DE BLUMENAU - HOSPITAL SANTO ANTÔNIO. Blumenau - SC 
+
+Opinião com ressalva 
+
+Examinamos   as   demonstrações   contábeis   da   FUNDAÇÃO  HOSPITALAR   DE BLUMENAU  -  HOSPITAL  SANTO  ANTÔNIO,  que  compreendem  o  balanço patrimonial, em 31 de dezembro de 2019, e as respectivas demonstrações do superávit, das mutações do patrimônio social e dos fluxos de caixa para o exercício findo nessa data,  bem  como  as  correspondentes  notas  explicativas,  incluindo  o  resumo  das principais políticas contábeis. 
+
+Em nossa opinião, exceto pelos efeitos dos assuntos descritos na seção a seguir intitulada “Base  para  opinião  com  ressalva”,  as  demonstrações  contábeis  acima referidas apresentam adequadamente, em todos os aspectos relevantes, a posição patrimonial  e  financeira  da  FUNDAÇÃO  HOSPITALAR  DE  BLUMENAU -HOSPITAL SANTO ANTÔNIO, em 31 de dezembro de 2019, o desempenho de suas operações e os seus fluxos de caixa para o exercício findo nessa data, de acordo com as práticas contábeis adotadas no Brasil aplicáveis as Entidades sem finalidade de lucros (ITG 2002 e alterações) e de pequeno e médio porte (NBC TG 1000 e alterações) e as normas  internacionais  de  relatório  financeiro  (IRFS)  emitidas  pela  InternationalAccounting Standards Board (IASB). 
+Base para opinião com Ressalva 
+
+Redução ao valor recuperável de ativos 
+
+Não foi realizado o teste de recuperabilidade, conforme disposto na Seção 27 - Redução ao Valor Recuperável dos Ativos, da NBC TG 1000 (e alterações). 
+
+Encargos de depreciação 
+A Entidade vem registrando os encargos de depreciação através do critério fiscal, pois não foram revisadas as vidas úteis estimadas e os respectivos valores residuais dos bens que integram o Imobilizado, não atendendo dessa forma, o disposto na Seção 17 - Ativo Imobilizado da NBC TG 1000 (e alterações) Contabilidade para Pequenas e Médias Empresas.
+Nossa auditoria foi conduzida de acordo com as normas brasileiras e internacionais de auditoria. Nossas responsabilidades, em conformidade com tais normas, estão descritas na seção a seguir, intitulada “Responsabilidades do auditor pela auditoria das demonstrações contábeis”. Somos independentes em relação à Fundação, de acordo com os princípios éticos relevantes previstos no Código de Ética Profissional do Contador e nas normas profissionais emitidas pelo Conselho Federal de Contabilidade, e cumprimos   com   as   demais   responsabilidades   éticas   conforme   essas   normas. Acreditamos que a evidência de auditoria obtida é suficiente e apropriadaparafundamentar nossa opinião.
+Principal assunto de auditoria 
+
+Principal assunto de auditoria foi aquele que, em nosso julgamento profissional, foi o mais significativo em nossa auditoria do exercício corrente. Este assunto foi tratado no contexto de nossa auditoria das demonstrações contábeis como um todo e na formação de nossa opinião sobre essas demonstrações contábeis, portanto, não expressamos uma opinião separada sobre este assunto. 
+
+Conforme descrito na nota explicativa n° 7 - “Títulos e contas a receber - circulante e não circulante”, para os valores referentes as contas a receber do SUS “Extra Teto” -   A Administração da Fundação Hospitalar de Blumenau, amparada por seus assessores jurídicos considera como improvável a possibilidade de perda sobre quaisquer parcelas dos valores  registrados sobre esta rubrica,  que estão representados pelo montante de R$ 6.362.356 (R$ 1.936.134 Circulante e R$ 4.426.222 não circulante) todas as medidas cabíveis para garantir o recebimento destes montantes estão sendo adotadas. 
+
+Este assunto foi amplamente discutido por nós a Administração da Fundação e por seu Conselho Fiscal. 
+
+Responsabilidades da administração e da governança pelas demonstrações contábeis 
+
+A   administração   é   responsável   pela   elaboração   e   adequada  apresentação   das demonstrações contábeis de acordo com as práticas contábeis adotadas no Brasil aplicáveis as entidades sem finalidades de lucro (ITG 2002 e alterações) e de pequeno e médio porte (NBC TG 1000 e alterações), e pelos controles internos que ela determinou como necessários para permitir a elaboração de demonstrações contábeis livres de distorção relevante, independentemente se causada por fraude ou erro. 
+
+Na elaboração das demonstrações contábeis, a administração é responsável pela avaliação da capacidade de a Fundação continuar operando, divulgando, quando aplicável, os assuntos relacionados com a sua continuidade operacional e o uso dessa base contábil na elaboração das demonstrações contábeis, a não ser que a administração pretenda liquidar a Fundação ou cessar suas operações, ou não tenha nenhuma alternativa realista para evitar o encerramento das operações. 
+
+Os responsáveis pela governança da Fundação são aqueles com responsabilidade pela supervisão do processo de elaboração das demonstrações contábeis. 
+
+Responsabilidades do auditor pela auditoria das demonstrações contábeis 
+
+Nossos objetivos são obter segurança razoável de que as demonstrações contábeis, tomadas em conjunto, estejam livres de distorção relevante, independentemente se causada por fraude ou erro, e emitir relatório de auditoria contendo nossa opinião. Segurança razoável é um alto nível de segurança, mas, não, uma garantia de que a auditoria realizada de acordo com as normas brasileiras e internacionais de auditoria sempre detectam as eventuais distorções relevantes existentes. As distorções podem ser decorrentes de fraude ou erro e são consideradas relevantes quando, individualmente ou em conjunto, possam influenciar, dentro de uma perspectiva razoável, as decisões econômicas dos usuários tomadas com base nas referidas demonstrações contábeis. 
+
+Como parte da auditoria realizada, de acordo com as normas brasileiras e internacionais de auditoria, exercemos julgamento profissional e mantemos ceticismo profissional ao longo da auditoria. Além disso: 
+
+• Identificamos e avaliamos os riscos de distorção relevante nas demonstrações contábeis, independentemente se causada por fraude ou erro, planejamos e executamos procedimentos de auditoria em resposta a tais riscos, bem como obtemos evidência de auditoria apropriada e suficiente para fundamentar nossa opinião. O risco de não detecção de distorção relevante resultante de fraude é maior do que o proveniente de erro, já que a fraude pode envolver o ato de burlar os controles internos, conluio, falsificação, omissão ou representações falsas intencionais. 
+
+• Obtemos entendimento dos controles internos relevantes para a auditoria para planejarmos procedimentos de auditoria apropriados nas circunstâncias, mas não com o objetivo de expressarmos opinião sobre a eficácia dos controles internos da Fundação. 
+
+• Avaliamos a adequação das políticas contábeis utilizadas e a razoabilidade das estimativas contábeis e respectivas divulgações feitas pela administração. 
+
+• Concluímos sobre a adequação do uso, pela administração, da base contábil de continuidade operacional e, com base nas evidências de auditoria obtidas, se existe incerteza relevante em relação a eventos ou condições que possam levantar dúvida significativa em relação à capacidade de continuidade operacional da Fundação. Se concluirmos que existe incerteza relevante, devemos chamar atenção em nosso relatório de auditoria para as respectivas divulgações nas demonstrações contábeis ou incluir modificação em nossa opinião, se as divulgações forem inadequadas. Nossas conclusões estão fundamentadas nas evidências de auditoria obtidas até a data de nosso relatório. Todavia, eventos ou condições futuras podem levar a Fundação a não mais se manter em continuidade operacional. 
+
+• Avaliamos a apresentação geral, a estrutura e o conteúdo das demonstrações contábeis, inclusive as divulgações e se as demonstrações contábeis representam as correspondentes transações e os eventos de maneira compatível com o objetivo de apresentação adequada. 
+
+• Comunicamo-nos com os responsáveis pela governança a respeito, entre outros aspectos, do alcance planejado, da época da auditoria e das constatações significativas de auditoria, inclusive as eventuais deficiências significativas nos controles internos que identificamos durante nossos trabalhos.
+
+Blumenau (SC), 07 de fevereiro de 2020. 
+
+______________________________________
+
+ACTUS AUDITORES INDEPENDENTES S/S. 
+
+CRC-SC N° 001.059/O-7 
+
+Sidnei Raitz - Sócio Responsável 
+
+Contador CRC N° SC-028.920/O-3
+
+FUNDAÇÃO HOSPITALAR DE BLUMENAU - HOSPITAL SANTO ANTÔNIO
+
+Blumenau - SC
+
+BALANÇO PATRIMONIAL EM 31 DE DEZEMBRO
+
+(Em Reais)
+
+A T I V O
+
+	
+	Nota
+	2019
+	2018
+
+	CIRCULANTE
+	
+	27.470.095
+	28.485.899
+
+	CAIXA E EQUIVALENTES DE CAIXA
+	
+	13.647.874
+	8.382.594
+
+	Caixa
+	
+	2.836
+	3.271
+
+	Bancos
+	4
+	71.003
+	402.340
+
+	Aplicações de liquidez imediata
+	5
+	6.459.530
+	3.925.260
+
+	Títulos de capitalização
+	6
+	7.114.505
+	4.051.724
+
+	DIREITOS REALIZÁVEIS
+	
+	13.753.651
+	20.061.172
+
+	Títulos e contas a receber
+	7
+	10.092.250
+	10.039.224
+
+	(-) Estimativa de créditos de liquidação duvidosa
+	8
+	(1.442.074)
+	(1.346.030)
+
+	Estoques
+	9
+	3.024.008
+	3.418.310
+
+	Adiantamento a fornecedores
+	
+	15.481
+	286.609
+
+	Subvenções a receber
+	18
+	1.692.617
+	7.177.864
+
+	Outros valores a receber
+	
+	371.368
+	485.196
+
+	DESPESAS PAGAS ANTECIPADAMENTE
+	
+	68.570
+
+	42.133
+
+	NÃO CIRCULANTE
+	
+	55.955.869
+	51.367.594
+
+	REALIZÁVEL A LONGO PRAZO
+	
+	8.493.153
+	6.729.316
+
+	Depósitos judiciais
+	10
+	335.200
+	417.587
+
+	Despesas pagas antecipadamente
+	
+	15.218
+	27.250
+
+	Títulos a receber - SUS
+	7
+	4.426.222
+	4.426.222
+
+	Subvenções a receber
+	18
+	3.716.513
+	1.858.256
+
+	INVESTIMENTOS
+	11
+	260.797
+	200.707
+
+	IMOBILIZADO
+
+	12
+	46.694.690
+	43.818.581
+
+	INTANGÍVEL
+	13
+	507.229
+	618.990
+
+	TOTAL
+	
+	83.425.965
+	79.853.493
+
+	COMPENSAÇÃO ATIVA
+	22
+	39.740.040
+	39.587.216
+
+
+As notas explicativas integram o conjunto das demonstrações contábeis.
+FUNDAÇÃO HOSPITALAR DE BLUMENAU - HOSPITAL SANTO ANTÔNIO
+
+Blumenau - SC
+
+BALANÇO PATRIMONIAL EM 31 DE DEZEMBRO
+
+(Em Reais)
+
+PASSIVO E PATRIMÔNIO SOCIAL
+
+	
+	Nota
+	2019
+	2018
+
+	CIRCULANTE
+	
+	25.077.250
+	28.793.732
+
+	Fornecedores
+	14
+	7.635.214
+	6.677.481
+
+	Empréstimos
+	15
+	7.635.214
+	2.308.068
+
+	Salários e ordenados
+	
+	1.770.595
+	1.704.893
+
+	Impostos, taxas e contribuições
+	16
+	2.032.050
+	1.963.771
+
+	Provisão para férias e encargos sociais
+	
+	3.663.418
+	3.496.523
+
+	Repasses fornecedores médicos/clínicas/diversos
+	17
+	1.734.108
+	1.027.766
+
+	Obrigações com subvenções
+	18
+	1.761.346
+	6.376.864
+
+	Débitos de campanhas de contribuições
+	19
+	5.249.694
+	4.444.302
+
+	Outros débitos
+	
+	768.280
+	794.065
+
+	NÃO CIRCULANTE
+	
+	38.373.882
+	32.779.754
+
+	Empréstimos
+	15
+	8.537.454
+	3.278.688
+
+	Parcelamento Lei 11.941/09
+	20
+	2.375.280
+	3.073.990
+
+	Provisões para causas cíveis e trabalhistas
+	21
+	11.205.317
+	11.248.020
+
+	Receita diferida
+	18
+	12.341.275
+	2.267.023
+
+	Obrigações com subvenções
+	18
+	3.716.513
+	12.912.033
+
+	Outros débitos
+	
+	198.044
+	-
+
+	PATRIMÔNIO SOCIAL
+	
+	19.974.832
+	18.280.007
+
+	Superávit acumulado
+	
+	18.280.007
+	15.601.420
+
+	Superávit do exercício
+	
+	1.694.825
+	2.678.588
+
+	TOTAL
+	
+	83.425.965
+	79.853.493
+
+	COMPENSAÇÃO PASSIVA
+	22
+	39.740.040
+	39.587.216
+
+
+As notas explicativas integram o conjunto das demonstrações contábeis 
+FUNDAÇÃO HOSPITALAR DE BLUMENAU - HOSPITAL SANTO ANTÔNIO
+
+Blumenau - SC
+
+DEMONSTRAÇÃO DO SUPERÁVIT DO EXERCÍCIO EM 31 DE DEZEMBRO 
+
+(Em Reais)
+
+	
+	Nota
+	2019
+	2018
+
+	RECEITA BRUTA
+	
+	159.819.397
+	176.111.521
+
+	COM RESTRIÇÃO
+	
+	72.670.594
+	95.886.389
+
+	Subvenções e auxílios
+	23
+	21.008.884
+	16.851.167
+
+	Doações
+	23
+	3.319.171
+	3.807.367
+
+	Contribuições incentivadas
+	24 a)
+	24.883.500
+	74.921.813
+
+	Receitas sociais
+	24 b)
+	23.229.216
+	-
+
+	Trabalhos voluntários
+	25
+	210.062
+	213.522
+
+	Rendimentos financeiros
+	
+	19.761
+	92.520
+
+	SEM RESTRIÇÃO
+	
+	87.148.803
+	80.225.132
+
+	Atividades de saúde
+	
+	84.415.732
+	77.922.417
+
+	Atividades de educação
+	
+	1.207.143
+	1.164.431
+
+	Doações
+	23
+	229.883
+	123.755
+
+	Rendimentos financeiros
+	
+	532.849
+	434.983
+
+	Outras receitas operacionais
+	26
+	763.195
+	579.546
+
+	DEDUÇÕES DA RECEITA BRUTA - SEM RESTRIÇÃO
+	
+	(54.710)
+	(194.384)
+
+	RECEITA LÍQUIDA
+	
+	159.764.686
+	175.917.138
+
+	CUSTO E DESPESAS
+	
+	(148.063.316)
+	(161.457.014)
+
+	Atividades de saúde
+	
+	(107.697.091)
+	(93.481.873)
+
+	Educação
+	
+	(314.411)
+	(327.842)
+
+	Contribuições incentivadas
+	24 a)
+	(22.395.150)
+	(67.433.776)
+
+	Custos de receitas sociais
+	24 b)
+	(17.446.602)
+	-
+
+	Trabalhos voluntários
+	25
+	(210.062)
+	(213.522)
+
+	SUPERÁVIT BRUTO
+	
+	11.701.370
+	14.460.124
+
+	OUTRAS DESPESAS
+	
+	(10.006.545)
+	(11.781.537)
+
+	Despesas administrativas e gerais
+	27
+	(9.030.266)
+	(11.442.442)
+
+	Outras despesas
+	
+	(411.847)
+	(236.042)
+
+	Despesas com juros e atualizações de tributos / REFIS
+	
+	(104.434)
+	(225.862)
+
+	Demais despesas financeiras
+	
+	(801.865)
+	(561.490)
+
+	Reversão de provisões trabalhistas e cíveis
+	
+	341.866
+	684.298
+
+	SUPERÁVIT LÍQUIDO DO PERÍODO
+	
+	1.694.825
+	2.678.588
+
+
+As notas explicativas integram o conjunto das demonstrações contábeis 
+FUNDAÇÃO HOSPITALAR DE BLUMENAU - HOSPITAL SANTO ANTÔNIO
+
+Blumenau - SC
+
+DEMONSTRAÇÃO DAS MUTAÇÕES DO PATRIMÔNIO SOCIAL 
+
+(Em Reais)
+
+	
+	2019
+	2018
+
+	SALDO NO INÍCIO DO EXERCÍCIO
+	18.280.007
+	15.601.420
+
+	Superávit líquido do exercício
+	1.694.825
+	2.678.588
+
+	SALDO NO FINAL DO EXERCÍCIO
+	19.974.832
+	18.280.007
+
+
+FUNDAÇÃO HOSPITALAR DE BLUMENAU - HOSPITAL SANTO ANTÔNIO
+
+Blumenau - SC
+
+DEMONSTRAÇÃO DOS FLUXOS DE CAIXA EM 31 DE DEZEMBRO 
+
+(Em Reais)
+
+	ATIVIDADES OPERACIONAIS
+	2019
+	2018
+
+	Superávit líquido do exercício
+	1.694.825
+	2.678.588
+
+	Ajustes por:
+	
+	
+
+	Depreciações e amortizações
+	4.253.606
+	3.172.540
+
+	(Reversão) de provisões trabalhistas e cíveis
+	(42.702)
+	(371.171)
+
+	Perda na baixa de imobilizado e intangível
+	14.287
+	66.564
+
+	Redução (Aumento) nas contas do ativo
+	
+	
+
+	Títulos e contas a receber (circulante e não circulante)
+	43.018
+	(1.472.619)
+
+	Estoques
+	394.301
+	(429.111)
+
+	Subvenções (circulante e não circulante)
+	3.626.990
+	3.875.912
+
+	Depósitos judiciais
+	82.387
+	(76.777)
+
+	Outros valores a receber (circulante e não circulante)
+	370.550
+	152.913
+
+	Aumento (Redução) nas contas do passivo
+	
+	
+
+	Fornecedores
+	957.733
+	1.087.316
+
+	Salários e ordenados
+	65.701
+	82.676
+
+	Provisões para férias e encargos sociais
+	166.895
+	339.465
+
+	Impostos, taxas e contribuições (circulante e não circulante)
+	(630.430)
+	(514.920)
+
+	Repasses fornecedores médicos/clínicas/diversos
+	706.342
+	(133.177)
+
+	Obrigações com subvenções (circulante e não circulante)
+	(3.736.787)
+	(2.987.253)
+
+	Débitos de campanhas de contribuições
+	805.392
+	356.224
+
+	Outros débitos
+	172.258
+	218.818
+
+	Caixa proveniente das operações
+	8.944.367
+	6.045.988
+
+	ATIVIDADES DE INVESTIMENTOS
+	
+	
+
+	Aumento dos investimentos
+	(60.090)
+	(42.763)
+
+	Aquisição de ativo imobilizado
+	(6.917.409)
+	(10.494.511)
+
+	Aquisição de ativo intangível
+	(114.831)
+	(242.303)
+
+	Caixa líquido usado nas atividades de investimento
+	(7.092.331)
+	(10.779.576)
+
+	ATIVIDADES DE FINANCIAMENTOS
+	
+	
+
+	Empréstimos de curto prazo
+	(1.845.521)
+	1.503.584
+
+	Empréstimos de longo prazo
+	5.258.766
+	165.118
+
+	Caixa líquido gerado nas atividades de financiamentos
+	3.413.245
+	1.668.702
+
+	Aumento (Diminuição) líquida de caixa e equivalentes de caixa
+	5.265.280
+	(3.064.886)
+
+	Caixa e equivalente de caixa no início do período
+	8.382.594
+	11.447.480
+
+	Caixa e equivalente de caixa no fim do período
+	13.647.874
+	8.382.594
+
+	Variação das contas caixa e equivalentes de caixa
+	5.265.280
+	(3.064.886)
+
+
+As notas explicativas integram o conjunto das demonstrações contábeis 
+NOTAS EXPLICATIVAS ÀS DEMONSTRAÇÕES CONTÁBEIS 
+
+(Em Reais)
+
+1. OBJETIVO SOCIAL
+
+A Fundação Hospitalar de Blumenau, mantenedora do Hospital Santo Antônio, localizada na cidade de Blumenau (SC) é uma Entidade filantrópica, com personalidade jurídica de direito privado, sem fins lucrativos, com duração indeterminada, instituída pela Lei n° 1.761, de 10 de junho de 1971 e reestruturada pela Lei Complementar n° 663, de 07 de dezembro de 2007, declarada de utilidade pública municipal pela Lei n° 1.812, de 09/12/1971, de utilidade pública estadual pela Lei n° 6.345, de 11/07/1984 e de utilidade pública federal pelo Decreto Dnn786, de 27 de maio de 1992. Constituem finalidades da FUNDAÇÃO HOSPITALAR DE BLUMENAU, a prestação de assistência médico-hospitalar, especialmente materno-infantil, a assistência social, educação e pesquisa. 
+
+A Fundação vem usufruindo os seguintes benefícios fiscais: I) imunidade do imposto de renda e contribuição social e imunidade de IOF sobre operações bancárias; II) isenção da COFINS; III) Imunidade do ISS no município de Blumenau; IV) Isenção da contribuição previdenciária patronal (art. 22 da lei 8.212/91); V) Isenção da contribuição devida a terceiros (§ 5° do art. 3° da lei n° 11.457/2007). 
+
+2. APRESENTAÇÃO DAS DEMONSTRAÇÕES CONTÁBEIS 
+
+As demonstrações contábeis foram elaboradas e apresentadas em conformidade com as práticas contábeis adotadas no Brasil, levando em consideração o que dispõe a Interpretação Técnica Geral do Conselho Federal de Contabilidade - ITG 2002 (R1) - Entidade sem Finalidade de Lucros e a Norma Brasileira de Contabilidade do Conselho Federal de Contabilidade - NBC TG 1000 (R1) - Contabilidade para Pequenas e Médias Empresas, que estão em conformidade com as normas internacionais de contabilidade. A data para conclusão e elaboração das demonstrações contábeis foi em 07 de fevereiro de 2020 autorizada pela Gerente Geral - Izabel Cristina Casarin.
+
+3. SUMÁRIO DAS PRINCIPAIS PRÁTICAS CONTÁBEIS 
+
+a) As receitas e despesas são apuradas pelo Princípio da Realização da Receita e da Confrontação das Despesas no Exercício (Regime de Competência); 
+
+b) As aplicações financeiras estão registradas ao custo, acrescidos dos rendimentos auferidos até a data do balanço, que não supera o valor de mercado; 
+c) Instrumentos Financeiros:  A Fundação classifica os seguintes instrumentos financeiros como instrumentos financeiros básicos: 
+
+(i)Caixa e equivalentes de caixa; e,
+
+(ii)Instrumentos de dívida.
+
+Os instrumentos de dívida incluem as contas a receber e a pagar, parcelamento de débitos e os empréstimos a pagar, e estes são avaliados nas datas dos balanços pelo custo amortizado. 
+
+d) Os títulos e contas a receber estão registrados e mantidos no balanço pelo valor nominal dos títulos, pois não possuem caráter de financiamento, líquido da estimativa de créditos de liquidação duvidosa; 
+
+e) Os estoques são demonstrados ao custo médio das aquisições, inferior ao custo de reposição ou ao valor líquido de realização; 
+f) Os investimentos em outras sociedades foram avaliados pelo custo de aquisição, deduzida de provisão para perdas prováveis na realização de seu valor quando este for inferior ao valor de mercado; 
+
+g) Os ativos imobilizados estão demonstrados ao custo de aquisição, acrescido de correção monetária até 31 de dezembro de 1995, ajustado por depreciações e amortizações acumuladas computadas pelo método linear, levando em consideração os critérios fiscais; 
+h) No ativo intangível estão classificados os gastos utilizados para implantação de sistemas corporativos e aplicativos e licenças de uso dos mesmos; 
+
+i) Os demais ativos circulantes e não circulantes, quando aplicável, são reduzidos aos valores prováveis de realização; 
+
+j) Os empréstimos e financiamentos são registrados pelo valor principal, acrescido dos encargosfinanceiros proporcionais até o último dia do mês base; 
+
+k) A provisão para causas cíveis e trabalhistas é constituída para processos considerados como de perdas “prováveis” e “possíveis” de acordo com a avaliação da administração apoiados em pareceres de seus assessores jurídicos; 
+
+l) Os demais passivos são demonstrados por valores conhecidos e calculáveis, acrescidos quando aplicável, dos encargos e variações monetárias incorridas; 
+m) O resultado é apurado pelo regime contábil de competência e inclui os rendimentos, encargos e variações monetárias ou cambiais e índices ou taxas oficiais incidentes sobre os ativos circulantes e não circulantes e os passivos circulantes e não circulantes. A receita pela prestação de serviços é reconhecida tendo como base os serviços realizados até a data do balanço; 
+
+n) As subvenções são registradas conforme regulamenta a Norma Brasileira de Contabilidade -NBC TG 07, no resultado do exercício. As subvenções destinadas a investimentos patrimoniais, não efetivamente aplicadas até a data base de 31 de dezembro de 2019, foram registradas como obrigações no passivo circulante; 
+
+o) As subvenções destinadas a investimentos patrimoniais passíveis de depreciação ou amortização, cujo recurso tenha sido efetivamente aplicado até a data base de 31 de dezembro de 2019, são registradas como receita diferida, no passivo não circulante, sendo reconhecida ao resultado, como receita, em base sistemática e racional durante a vida útil do ativo, enquanto não cumpridas as diretrizes para reconhecimento como receita diferida os valores ficam registrados como subvenções no passivo não circulante. 
+
+p) Os trabalhos voluntários, inclusive de membros integrantes dos órgãos da administração, no exercício de suas funções, foram reconhecidos pelo valor justo da prestação do serviço como se tivesse ocorrido o desembolso financeiro. 
+
+q) Julgamento e Uso de Estimativas Contábeis: A preparação de demonstrações contábeis requer que a administração da Fundação se baseie em estimativas para o registro de certas transações que afetam os ativos e passivos, receitas e despesas, bem como a divulgação de informações sobre dados das suas demonstrações contábeis. Os resultados finais dessas transações e informações, quando de sua efetiva realização em períodos subsequentes, podem diferir dessas estimativas. 
+
+As políticas contábeis e áreas que requerem um maior grau de julgamento e uso de estimativas na preparação das demonstrações contábeis, são: 
+
+(i) Créditos de liquidação duvidosa que são inicialmente reconhecidos e posteriormente lançados para perda quando esgotadas as possibilidades de recuperação; e, 
+
+(ii) Passivos contingentes que passam a ser provisionados de acordo com a expectativa de êxito, obtida e mensurada em conjunto a assessoria jurídica da Fundação. 
+
+As informações sobre julgamentos referentes as políticas financeiras adotadas que apresentam efeitos sobre os valores reconhecidos nas demonstrações contábeis, os quais, eventualmente podem ser distintos dos valores de realização, estão incluídas na nota explicativa 21 - Provisões para causas cíveis e trabalhistas e contingências passivas.
+
+4. BANCOS
+
+Esta rubrica apresenta os saldos disponíveis em contas bancárias, sem restrição e com restrição, que estão assim compostos:
+	
+	2019
+	
+	2018
+
+	SEM RESTRIÇÃO
+	12.718
+	
+	9.133
+
+	Viacredi
+	10.000
+	
+	-
+
+	Multicred
+	2.182
+	
+	7.940
+
+	Unicred
+	-
+	
+	794
+
+	Sicredi
+	30
+	
+	-
+
+	Sant. Banespa
+	77
+	
+	207
+
+	Bradesco
+	429
+	
+	192
+
+	COM RESTRIÇÃO
+	58.285
+	
+	393.207
+
+	Caixa Econômica Federal
+	58.284
+	
+	-
+
+	Multicred
+	-
+	
+	393.207
+
+	Banco Bradesco
+	1
+	
+	-
+
+	Total
+	71.003
+	
+	402.340
+
+
+As contas correntes com restrição são oriundas de subvenções e recursos recebidos para aplicação de acordo com plano de trabalho estabelecido, que não podem ser utilizados para fins alheios ao projeto para o qual foram aprovados.
+Estes recursos são passíveis de prestação de contas aos órgãos competentes de fiscalização, de acordo com a origem do recurso recebido.
+5. APLICAÇÕES DE LIQUIDEZ IMEDIATA
+A Fundação possui valores de aplicações divididos nas seguintes instituições financeiras:
+	
+	2019
+	
+	2018
+
+	COM RESTRIÇÃO
+	3.854.507
+	
+	632.171
+
+	Banco do Brasil
+	3.056.460
+	
+	266.394
+
+	Multicred
+	571.281
+	
+	365.777
+
+	Bradesco
+	165
+	
+	-
+
+	Unicred
+	226.601
+	
+	-
+
+	SEM RESTRIÇÃO
+	2.605.023
+	
+	3.293.089
+
+	Unicred
+	1.449.849
+	
+	223.173
+
+	Viacredi
+	10
+	
+	5.406
+
+	Banco do Brasil
+	262.000
+	
+	432
+
+	Multicredi
+	893.164
+	
+	
+3.064.078
+
+	Total
+	6.459.530
+	
+	3.925.260
+
+
+As aplicações financeiras com restrição são oriundas de subvenções e recursos recebidos para aplicação de acordo com plano de trabalho estabelecido, que não podem ser utilizados para fins alheios ao projeto para o qual foram aprovados. 
+
+Estes recursos são passíveis de prestação de contas aos órgãos competentes de fiscalização, de acordo com a origem do recurso recebido.
+
+6. TÍTULOS DE CAPITALIZAÇÃO
+
+Correspondem a títulos de capitalização, na modalidade Filantropia Premiável, que são adquiridos para comercialização, onde o adquirente do título (consumidor) tem a opção facultativa de ceder (doar) o direito de resgate para o Hospital Santo Antônio. O montante, em 31 de dezembro de 2019, é de R$ 7.114.505 - (R$ 4.051.724 em 2018 como doações incentivadas).
+
+7. TÍTULOS E CONTAS A RECEBER - CIRCULANTE E NÃO CIRCULANTE
+
+Estão registrados neste grupo os saldos a receber de convênios e particulares em função da prestação de serviços da Fundação, conforme segue:
+	
+	2019
+	
+	2018
+
+	SUS - Sistema Único de Saúde
+	10.995.773
+	
+	10.764.731
+
+	Clinipam (Servmed)
+	571.750
+	
+	471.906
+
+	Seguro
+	-
+	
+	576.206
+
+	DPVAT
+	-
+	
+	473.551
+
+	Unimed
+	697.985
+	
+	462.952
+
+	Particulares
+	300.502
+	
+	267.517
+
+	Geap
+	26.422
+	
+	34.620
+
+	Agemed
+	1.181.257
+	
+	839.759
+
+	SC Saúde
+	216.474
+	
+	132.120
+
+	Bradesco Saúde
+	136.867
+	
+	64.037
+
+	Outros Convênios
+	391.442
+	
+	378.047
+
+	Total
+	14.518.472
+	
+	14.465.446
+
+	Circulante
+	10.092.250
+	
+	10.039.224
+
+	Ativo não circulante - SUS
+	4.426.222
+	
+	4.426.222
+
+
+Do total a receber do SUS R$ 10.995.773 (R$ 6.569.551 circulante e R$ 4.426.222 não circulante). Deste montante, R$ 6.362.356 referem-se a valores de atendimentos que ultrapassaram a meta estabelecida em contrato com o SUS, comumente chamado de Extra Teto, no caso da Fundação Hospitalar de Blumenau trata-se de excedentes de produção de média complexidade, e possui a seguinte composição:
+	Ano
+	R$
+
+1.334.704
+
+	2015
+	
+
+	2016
+	1.150.086
+
+	2017
+	1.941.432
+
+	
+	4.426.222
+
+	2018
+	597.165
+
+	2019
+	1.338.969
+
+	Total
+	6.362.356
+
+
+A Administração da Fundação, amparada por seus assessores jurídicos classificam como improvável a eventual perda destes valores, motivo pelo qual não registrou qualquer provisão para perda sobre esta rubrica, estando os referidos valores registrados a valor presente.
+
+8. ESTIMATIVA DE CRÉDITOS DE LIQUIDAÇÃO DUVIDOSA 
+
+Com base em análise da administração, a estimativa foi constituída de acordo com os critérios estabelecidos no art. 347 do Decreto 9.580/2018, exceto para os créditos com o Fundo Municipal de Saúde. Em 31 de dezembro de 2019 a Estimativa para Créditos de Liquidação Duvidosa para títulos e contas a receber possuía saldo de R$ 1.442.074 - (R$ 1.346.030 em 2018). 
+
+9.ESTOQUES
+
+Os estoques de mercadorias foram avaliados pelos custos de aquisição, que não superam ospreços de mercado. As quantidades em estoque foram consideradas com base em controlepermanente auxiliar, levantados por inventário físico na data do balanço cuja composição é:
+	
+	2019
+	
+	2018
+
+	Farmácias e Central de abastecimento
+	1.290.613
+	
+	1.397.996
+
+	Quimioterapia
+	1.292.735
+	
+	1.618.773
+
+	Material de uso e consumo
+	292.763
+	
+	268.146
+
+	Nutrição e cozinha
+	81.835
+	
+	41.587
+
+	Ortopedia
+	1.407
+	
+	3.084
+
+	Tomografia
+	11.562
+	
+	33.507
+
+	Gasoterapia
+	29.517
+	
+	36.721
+
+	Eng. Clínica
+	23.576
+	
+	18.496
+
+	TOTAL
+	3.024.008
+	
+	3.418.310
+
+
+10. DEPÓSITOS JUDICIAIS
+
+Representam ativos restritos da Fundação cujo montante, em 31 de dezembro de 2019, é de R$ 335.200 (R$ 417.587 em 2018). Estão relacionados a quantias bloqueadas por ações de natureza cível e trabalhista e mantidas em juízo até a solução dos litígios a que estão relacionadas.
+
+11. INVESTIMENTOS
+
+Referem-se às contas de capital que a Fundação possui nas seguintes cooperativas:
+
+	
+	2019
+	
+	2018
+
+	Maxi Crédito
+	58.755
+	
+	57.576
+
+	Unicred
+	92.299
+	
+	71.580
+
+	Viacredi
+	29.551
+	
+	27.958
+
+	Sicredi
+	10.884
+	
+	10.301
+
+	Multicred
+	69.308
+	
+	33.292
+
+	Total
+	260.797
+	
+	200.707
+
+
+12. IMOBILIZADO
+
+O ativo imobilizado é constituído pelo custo de aquisição corrigido monetariamente até 31/12/1995. A lei 9.249/95 extinguiu a correção monetária do balanço a partir de 01/01/96.
+
+As depreciações foram calculadas pelo método linear considerando os critérios fiscais, com as seguintes taxas anuais: Edificações 1,49%; Móveis e Utensílios, Instalações e Equipamentos 10% e; Veículos, Equipamentos de Informática e Equipamentos Telefônicos 20%.
+
+	
+	2018
+	
+	
+	
+	2019
+
+	Custo Corrigido
+	Saldo
+	Adições
+	Baixas
+	Transferências
+	Saldo
+
+	Edificações
+	13.508.619
+	201.227
+	-
+	17.076.390
+	30.786.237
+
+	Equipamentos
+	21.395.638
+	2.748.159
+	(1.129.564)
+	221.403
+	23.235.636
+
+	Equip. De informática
+	3.233.134
+	462.678
+	(20.719)
+	-
+	3.675.093
+
+	Veículos
+	138.621
+	-
+	-
+	-
+	138.621
+
+	Móveis e utensílios
+	4.974.625
+	279.647
+	(153.204)
+	406.238
+	5.507.306
+
+	Instalações
+	1.432.976
+	404.991
+	-
+	1.483.822
+	3.321.788
+
+	Equip. telefônicos
+	114.470
+	1.622
+	-
+	-
+	116.092
+
+	Imobilizado em andamento
+	18.569.704
+	2.819.086
+	-
+	(19.187.853)
+	2.200.937
+
+	Total custo Corrigido
+	63.367.787
+	6.917.409
+	(1.303.487)
+	-
+	68.981.709
+
+
+	Depreciação Acumulada
+	
+	
+	
+	
+	
+
+	(-) Edificações
+	(5.305.476)
+	(1.009.770)
+	-
+	-
+	(6.315.247)
+
+	(-) Equipamentos
+	(9.277.221)
+	(1.758.839)
+	1.126.139
+	-
+	(9.909.921)
+
+	(-) Equip. de informática
+	(1.589.854)
+	(548.830)
+	19.809
+	-
+	(2.118.876)
+
+	(-) Veículos
+	(62.202)
+	(24.723)
+	-
+	-
+	(86.925)
+
+	(-) Móveis e utensílios
+	(2.688.127)
+	(420.587)
+	143.252
+	-
+	(2.965.463)
+
+	(-) Instalações
+	(567.493)
+	(255.655)
+	-
+	-
+	(823.148)
+
+	(-) Equip. telefônicos
+	(58.832)
+	(8.607)
+	-
+	-
+	(67.439)
+
+	Total depreciação acumulada
+	(19.549.206)
+	(4.027.013)
+	1.289.200
+	-
+	(22.287.019)
+
+	Imobilizado líquido
+	43.818.581
+	
+	
+	-
+	46.694.690
+
+
+Todos os ativos acima são de propriedade da Fundação, porém alguns bens foram utilizados como garantia em processos. Como por exemplo, gerador, respiradores, monitores cardíacos, incubadoras, berços aquecidos, arco cirúrgico, computadores entre outros. A Fundação também se utiliza de bens públicos – edificações através de comodato com o Município de Blumenau.
+
+A Fundação não adotou no exercício de 2019 os procedimentos para atendimento às NBC TG 27   e NBC TG 01, do Conselho Federal de Contabilidade – CFC, sobre adequação das taxas de depreciação pela vida útil do ativo, a aplicação inicial ao ativo imobilizado, e quanto a redução do valor recuperável dos ativos do imobilizado e intangível, que se refere a uma análise da possibilidade de desvalorização dos bens do ativo imobilizado e intangível.
+
+13. INTANGÍVEL
+
+O ativo intangível é constituído pelo custo de aquisição corrigido monetariamente até 31/12/1995. A amortização foi calculada pelo método linear considerando os critérios fiscais, com a taxa anual de 20%.
+
+	
+	2018
+	
+	
+	2019
+
+	Custo Corrigido
+	Saldo
+	Adições
+	Baixas
+	Saldo
+
+	Direito Uso de Software
+	1.240.420
+	114.831
+	-
+	1.355.251
+
+	Amortização
+	
+	
+	
+	
+
+	Direito Uso de Software
+	(621.429)
+	(226.593)
+	-
+	(848.023)
+
+	Intangível Líquido
+	618.990
+	
+	
+	507.229
+
+
+Conforme mencionado na nota explicativa 12, não foram adotados os procedimentos quanto a redução do valor recuperável dos ativos intangíveis.
+14. FORNECEDORES
+
+O saldo de R$ 7.635.214 (R$ 6.677.481 em 2018) refere-se a valores a pagar a fornecedores de materiais de uso e consumo, fornecedores de serviços e fornecedores (clínicas) que possuem contrato de prestação de serviços com a Fundação.
+15. EMPRÉSTIMOS
+
+O saldo dos empréstimos a pagar está assim composto:
+
+	Circulante
+	
+	
+	
+	
+
+	
+	
+	2019
+	
+	2018
+
+	Empréstimo Capital de Giro
+	a)
+	1.422.350
+	
+	2.866.097
+
+	(-) Juros a apropriar
+	
+	(959.804)
+	
+	(558.029)
+
+	Total
+	
+	462.546
+	
+	2.308.068
+
+	
+	
+	
+	
+	
+
+	Não Circulante
+	
+	
+	
+	
+
+	Descrição
+	
+	2019
+	
+	2018
+
+	Empréstimo
+	a)
+	10.856.705
+	
+	3.703.340
+
+	(-) Juros a apropriar
+	
+	(2.319.251)
+	
+	(424.652)
+
+	Total
+	
+	8.537.454
+	
+	3.278.688
+
+
+a) A composição dos empréstimos em 31 de dezembro de 2019 é a seguinte:
+
+Empréstimo junto Unicred – Composto de uma Cédulas de crédito no montante de R$ 9.000.000, para capital de giro com encargos remuneratórios pré-fixados em 0,45% a.m. acrescido do CDI - Operação sem avalistas tendo como garantia os créditos de recebíveis do SUS - Vencimento do contrato em set/2025.
+
+O montante de juros reconhecido no resultado no ano de 2019 referente aos empréstimos foi R$ 765.844 (R$ 537.058 em 2018).
+
+16. IMPOSTOS, TAXAS E CONTRIBUIÇÕES
+
+A composição destes tributos está demonstrada no quadro a seguir:
+
+	
+	2019
+	
+	2018
+
+	IRRF sobre salários e serviços de terceiros
+	498.087
+	
+	433.920
+
+	INSS
+	254.955
+	
+	219.758
+
+	FGTS
+	313.310
+	
+	301.764
+
+	INSS retido na fonte sobre serviços de terceiros
+	774
+	
+	4.233
+
+	Parcelamento Lei 11.941/2009                         * (vide nota 20)
+	790.079
+	
+	766.398
+
+	ISS retido na fonte
+	27.582
+	
+	16.901
+
+	Pis, Cofins e CS retidos na fonte
+	147.263
+	
+	220.797
+
+	Total
+	2.032.050
+	
+	1.963.771
+
+
+17.REPASSES FORNECEDORES MÉDICOS/CLÍNICAS/MUTIRÃO e SOBREAVISO
+
+Estes débitos referem-se às obrigações de repasses que a Fundação possui com os prestadores de serviço (médico e clínicas) e estão assim compostos:
+
+	
+	2019
+	
+	2018
+
+	Fornecedores repasses médicos
+	8.389
+	
+	5.975
+
+	Fornecedores repasses clínicas
+	1.703.599
+	
+	883.472
+
+	Fornecedores repasses mutirão e sobreaviso
+	22.120
+	
+	138.319
+
+	Total
+	1.734.108
+	
+	1.027.766
+
+
+18. SUBVENÇÕES PARA INVESTIMENTO E CUSTEIO
+
+A Fundação reconhece as subvenções em conformidade com a Interpretação Técnica Geral - ITG 2002 – Entidades sem finalidade de lucros, e Norma Brasileira de Contabilidade - NBC TG 07 – Subvenções e Assistência Governamentais, emitidas pelo Conselho Federal de Contabilidade, cujos saldos estão demonstrados da seguinte forma:
+	Ativo
+	
+	Passivo
+
+	Descrição
+	R$
+	
+	R$
+	Descrição
+
+	Caixa e equivalentes
+	68.728
+	
+	1.761.346
+	Custeio e Subvenções – Circulante
+
+	Subvenções a receber (circulante)
+	1.692.617
+	
+	363.778
+	Receita já reconhecida
+
+	Subvenções a receber (não circulante)
+	3.716.513
+	
+	3.716.513
+	Custeio e Subvenções – Não Circulante
+
+	Imobilizado
+	12.705.053
+	
+	12.341.275
+	Receita Diferida – Não circulante
+
+	18.182.911
+	
+	18.182.911
+
+
+A Fundação reconhece as subvenções governamentais relacionadas a ativos imobilizados, cujo recurso já foi aplicado e aprovado por órgão competente, em conta de passivo não circulante (Receita diferida) e as subvenções cujos recursos ainda estão sendo aplicados como Subvenções para investimento no passivo não circulante. Seu reconhecimento como receita no resultado é realizado com base na depreciação do ativo imobilizado (realização do bem).
+
+A Fundação reconhece ainda, as subvenções para custeio de acordo com os prazos a serem recebidos e realizados.
+19. DÉBITOS DE CAMPANHAS DE CONTRIBUIÇÕES
+
+Corresponde a débitos de aportes/cauções recebidos para aquisição de títulos de capitalização para contribuições incentivadas cujo montante, em 31 de dezembro de 2019, é de R$ 5.249.694 – (R$ 4.444.302 em 2018). O reembolso dos aportes/cauções é realizado em conformidade com os resgastes dos títulos adquiridos cuja realização ocorrerá no decorrer do exercício de 2019.
+
+20. PARCELAMENTOS DE DÉBITOS
+
+Em 10/12/2004, foi publicada a portaria CG/REFIS nº 777, na qual consta a exclusão da Fundação do Programa de Recuperação Fiscal – REFIS, em decorrência de inadimplência consecutiva com relação aos pagamentos do INSS corrente. A Fundação, por meio de sua assessoria jurídica especializada, ajuizou medida a fim de ver declarada a inexigibilidade das contribuições previdenciárias patronais incluídas no REFIS. Os pedidos da medida judicial foram julgados procedentes (trânsito em julgado em 24 de fevereiro de 2014) e as contribuições previdenciárias patronais, anteriormente incluídas no REFIS, foram declaradas extintas. Os débitos remanescentes do REFIS, oriundos das contribuições previdenciárias dos empregados e autos de infração, foram parcelados pela Fundação, nos termos da lei 11.941/2009. O saldo remanescente do parcelamento é atualizado monetariamente com base na taxa SELIC. 
+
+A manutenção da Fundação no programa de parcelamento acima mencionado está condicionada ao atendimento de certas condições, sobretudo do pagamento das parcelas dos débitos, na forma da lei, e do pagamento dos tributos correntes, condições estas, que estão sendo cumpridas pela Fundação.
+
+a) Composição por vencimento
+
+Em 31 de dezembro de 2019, as parcelas do passivo têm a seguinte composição por ano de vencimento:
+	
+	
+	 Parcelamento 
+	
+	
+
+	Ano
+	
+	1165
+	
+	1194
+	
+	1136
+	
+	Total
+
+	2020
+	
+	390.991
+	
+	101.067
+	
+	298.021
+	
+	790.079
+
+	2021
+	
+	390.991
+	
+	101.067
+	
+	298.021
+	
+	790.079
+
+	2022
+	
+	390.991
+	
+	101.067
+	
+	233.010
+	
+	725.068
+
+	2023
+	
+	390.991
+	
+	101.067
+	
+	                     -   
+	
+	492.058
+
+	2024
+	
+	291.370
+	
+	76.705
+	
+	                     -   
+	
+	368.075
+
+	Total
+	
+	1.855.334
+	
+	480.973
+	
+	829.052
+	
+	3.165.359
+
+	
+	
+	
+	
+	*    Vide nota 16
+	
+	Circulante
+	
+	790.079
+
+	
+	
+	
+	
+	
+	
+	Não circulante
+	
+	2.375.280
+
+
+21. PROVISÕES PARA CAUSAS CÍVEIS E TRABALHISTAS E CONTINGÊNCIAS PASSIVAS
+
+A Fundação está sujeita às contingências trabalhistas e cíveis. A administração analisou e revisou individualmente cada contingência conhecida considerando a opinião de seus assessores jurídicos e demais dados disponíveis na data de encerramento das demonstrações contábeis para constituição de provisão.
+	
+	
+	2018
+Saldo
+	
+	Adições
+	
+	Baixas
+	
+	2019
+Saldo
+
+	Provisão para ações trabalhistas
+	
+	1.275.110
+	
+	1.507.580
+	
+	634.604
+	
+	2.148.086
+
+	Provisão para ações cíveis
+	
+	9.972.910
+	
+	2.325.852
+	
+	3.241.531
+	
+	9.057.231
+
+	Total
+	
+	11.248.020
+	
+	3.833.432
+	
+	3.876.135
+	
+	11.205.317
+
+
+Os valores divulgados são baseados em estimativas e os resultados finais, quando de sua efetiva realização em períodos subsequentes, podem diferir dessas estimativas bem como possuem momento de ocorrência incertos.
+
+As baixas das contingências cíveis e trabalhistas ocorreram em função da revisão técnica dos processos em andamento. Não representou ingresso de recursos, mas tão somente a baixa e ajuste do saldo contábil do passivo exigível.
+
+a) Ações Trabalhistas
+	Processo
+	
+	Local
+	
+	Perda
+	
+	Valor da ação
+	
+	Saldo da provisão
+
+	0004747-07.2015.5.12.0002
+	
+	1 Vara do Trabalho, TRT 12ª Região -
+	
+	Provável
+	
+	50.000
+	
+	50.000
+
+	0006173-40.2014.5.12.0018
+	
+	2 Vara do Trabalho, TRT 12ª Região -
+	
+	Provável
+	
+	30.000
+	
+	30.000
+
+	0004661-83.2015.5.12.0051
+	
+	4 Vara do Trabalho, TRT 12ª Região -
+	
+	Provável
+	
+	50.000
+	
+	50.000
+
+	0005115-02.2015.5.12.0039
+	
+	3 Vara do Trabalho, TRT 12ª Região -
+	
+	Provável
+	
+	50.000
+	
+	50.000
+
+	0000568-43.2016.5.12.0051
+	
+	4 Vara do Trabalho, TRT 12ª Região -
+	
+	Provável
+	
+	40.000
+	
+	40.000
+
+	0001652-32.2016.5.12.0002
+	
+	1 Vara do Trabalho, TRT 12ª Região -
+	
+	Provável
+	
+	37.000
+	
+	37.000
+
+	0000232-55.2017.5.12.0002
+	
+	1 Vara do Trabalho, TRT 12ª Região -
+	
+	Provável
+	
+	39.000
+	
+	39.000
+
+	0000303-57.2017.5.12.0002
+	
+	1 Vara do Trabalho, TRT 12ª Região -
+	
+	Provável
+	
+	40.000
+	
+	40.000
+
+	0000604-87.2017.5.12.0039
+	
+	1 Vara do Trabalho, TRT 12ª Região -
+	
+	Provável
+	
+	40.000
+	
+	40.000
+
+	0000216-19.2018.5.12.0018
+	
+	2 Vara do Trabalho,TRT 12ª Região
+	
+	Provável
+	
+	31.943
+	
+	31.943
+
+	0000881-83.2018.5.12.0002
+	
+	1 Vara do Trabalho,PJe-JT - 1º e 2º
+	
+	Provável
+	
+	53.671
+	
+	53.671
+
+	0000189-50.2019.5.12.0002
+	
+	TRT 12ª Região - Santa Catarina
+	
+	Provável
+	
+	353.050
+	
+	353.050
+
+	0000271-81.2019.5.12.0002
+	
+	Vara do Trabalho,PJe-JT - 1º e 2º
+	
+	Provável
+	
+	279.345
+	
+	279.345
+
+	0000906-46.2018.5.12.0051
+	
+	Vara do Trabalho,TRT 12ª Região -
+	
+	Provável
+	
+	32.958
+	
+	32.958
+
+	0000487-42.2019.5.12.0002
+	
+	1 Vara do Trabalho PJe-JT - 1º e 2º
+	
+	Provável
+	
+	74.046
+	
+	74.046
+
+	0000444-55.2019.5.12.0051
+	
+	4 Vara do Trabalho,PJe-JT - 1º e 2º
+	
+	Provável
+	
+	46.503
+	
+	46.503
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
+	0000537-20.2019.5.12.0018
+	
+	2 Vara do Trabalho,PJe-JT - 1º e 2º
+	
+	Provável
+	
+	5.000
+	
+	5.000
+
+	0000699-13.2019.5.12.0051
+	
+	4 Vara do Trabalho PJe-JT - 1º e 2º
+	
+	Provável
+	
+	73.394
+	
+	73.394
+
+	0000702-65.2019.5.12.0051
+	
+	4 Vara do TrabalhoPJe-JT - 1º e 2º
+	
+	Provável
+	
+	25.540
+	
+	25.540
+
+	Processo
+	
+	Local
+	
+	Perda
+	
+	Valor da ação
+	
+	Saldo da provisão
+
+	0000771-50.2019.5.12.0002
+	
+	1 Vara do Trabalho PJe-JT - 1º e 2º
+	
+	Provável
+	
+	28.151
+	
+	28.151
+
+	0000716-49.2019.5.12.0051
+	
+	4 Vara do Trabalho,PJe-JT - 1º e 2º
+	
+	Provável
+	
+	350.985
+	
+	350.985
+
+	0000819-92.2019.5.12.0039
+	
+	Vara do Trabalho TRT 12ª Região - 1ª
+	
+	Provável
+	
+	49.536
+	
+	49.536
+
+	0000085-49.2016.5.12.0039
+	
+	3 Vara do Trabalho, TRT 12ª Região
+	
+	Provável
+	
+	80.000
+	
+	80.000
+
+	0000049-68.2016.5.12.0051
+	
+	4 Vara do Trabalho, TRT 12ª Região
+	
+	Possível
+	
+	37.000
+	
+	18.500
+
+	1016-91.2011.5.12.0018
+	
+	2 Turma, TRT 12ª Região - Santa
+	
+	Possível
+	
+	30.000
+	
+	7.514
+
+	0003694-74.2014.5.12.0018
+	
+	2 Vara do Trabalho, TRT 12ª Região
+	
+	Possível
+	
+	30.000
+	
+	15.000
+
+	0000718-24.2016.5.12.0051
+	
+	4 Vara do Trabalho, TRT 12ª Região
+	
+	Possível
+	
+	40.000
+	
+	20.000
+
+	0000435-66.2017.5.12.0018
+	
+	2 Vara do Trabalho,TRT 12ª Região
+	
+	Possível
+	
+	40.000
+	
+	20.000
+
+	0001146-22.2017.5.12.0002
+	
+	1 Vara do Trabalho,TRT 12ª Região
+	
+	Possível
+	
+	80.000
+	
+	40.000
+
+	0001229-38.2017.5.12.0002
+	
+	1 Vara do Trabalho,TRT 12ª Região
+	
+	Possível
+	
+	50.000
+	
+	25.000
+
+	0000727-17.2018.5.12.0018
+	
+	2 Vara do Trabalho,TRT 12ª Região -
+	
+	Possível
+	
+	93.097
+	
+	46.548
+
+	0000620-36.2019.5.12.0018
+	
+	2 Vara do Trabalho,TRT 12ª Região
+	
+	Possível
+	
+	36.513
+	
+	18.257
+
+	0000616-33.2019.5.12.0039
+	
+	3 Vara do Trabalho PJe-JT - 1º e 2º
+	
+	Possível
+	
+	115.016
+	
+	57.508
+
+	0000650-71.2019.5.12.0018
+	
+	2 Vara do Trabalho PJe-JT - 1º e 2º
+	
+	Possível
+	
+	12.144
+	
+	6.072
+
+	0000745-04.2019.5.12.0018
+	
+	2 Vara do Trabalho PJe-JT - 1º e 2º
+	
+	Possível
+	
+	27.130
+	
+	13.565
+
+	
+	
+	
+	
+	
+	
+	
+	
+	2.148.086
+
+
+Todas as ações onde a perda foi classificada como “PROVÁVEL”, pelos assessores jurídicos, foram provisionadas pela Fundação. Adicionalmente a Fundação efetuou, por prudência, a provisão de 50% do montante total das perdas consideradas “POSSÍVEIS”, nas ações trabalhistas. O montante da provisão para ações trabalhistas em 31 de dezembro de 2019 é de R$ 2.148.086 (R$ 1.275.110 em 2018).
+
+A parcela dos valores das contingências consideradas como perdas possíveis pelos assessores jurídicos cuja provisão não foi constituída é no montante de R$ 302.936 (R$ 469.553 em 2018).
+
+b) Ações Cíveis
+	Processo
+	
+	Local
+	
+	Perda
+	
+	Valor da ação
+	
+	Valor da provisão
+
+	0304391-33.2015.8.24.0008
+	
+	1 Vara da Fazenda Pública, TJ Santa
+	
+	 Provável 
+	
+	100
+	
+	100
+
+	0303431-02.2016.8.24.0054
+	
+	0 Vara da Fazenda Pública, TJ Santa
+	
+	 Provável 
+	
+	880
+	
+	880
+
+	0309395-51.2015.8.24.0008
+	
+	1 Vara da Fazenda Pública, TJ Santa
+	
+	 Provável 
+	
+	1.000
+	
+	1.000
+
+	0001830-56.2008.8.24.0008
+	
+	1 Vara da Fazenda Pública, TJ Santa
+	
+	 Provável 
+	
+	1.000
+	
+	1.000
+
+	4009101-57.2017.8.24.0000
+	
+	1 Vara da Fazenda Pública, TJ Santa
+	
+	 Provável 
+	
+	1.000
+	
+	1.000
+
+	0307691-03.2015.8.24.0008
+	
+	1 Vara da Fazenda Pública, TJ Santa
+	
+	 Provável 
+	
+	1.000
+	
+	1.000
+
+	0005158-57.2009.8.24.0008
+	
+	1 Vara da Fazenda Pública, TJ Santa
+	
+	 Provável 
+	
+	1.000
+	
+	1.000
+
+	0003040-06.2012.8.24.0008
+	
+	1 Vara da Fazenda Pública, TJ Santa
+	
+	 Provável 
+	
+	1.000
+	
+	1.000
+
+	0007684-02.2006.8.24.0008
+	
+	1 Vara da Fazenda Pública, TJ Santa
+	
+	 Provável 
+	
+	1.000
+	
+	1.000
+
+	0313542-23.2015.8.24.0008
+	
+	1 Vara da Fazenda Pública, TJ Santa
+	
+	 Provável 
+	
+	1.000
+	
+	1.000
+
+	Processo
+	
+	Local
+	
+	Perda
+	
+	Valor da ação
+	
+	Valor da provisão
+
+	0307012-03.2015.8.24.0008
+	
+	1 Vara da Fazenda Pública, TJ Santa
+	
+	 Provável 
+	
+	1.000
+	
+	1.000
+
+	0013409-59.2012.8.24.0008
+	
+	1 Vara da Família, TJ Santa Catarina -
+	
+	 Provável 
+	
+	1.000
+	
+	1.000
+
+	0008554-71.2011.8.24.0008
+	
+	1 Vara da Fazenda Pública, TJ Santa
+	
+	 Provável 
+	
+	1.000
+	
+	1.000
+
+	0004559-16.2012.8.24.0008
+	
+	1 Vara da Fazenda Pública, TJ Santa
+	
+	 Provável 
+	
+	1.000
+	
+	1.000
+
+	0003597-90.2012.8.24.0008
+	
+	1 Vara da Fazenda Pública, TJ Santa
+	
+	 Provável 
+	
+	1.000
+	
+	1.000
+
+	0012909-95.2009.8.24.0008
+	
+	1 Vara da Fazenda Pública, TJ Santa
+	
+	 Provável 
+	
+	2.000
+	
+	2.000
+
+	0018833-14.2014.8.24.0008
+	
+	1 Vara da Fazenda Pública, TJ Santa
+	
+	 Provável 
+	
+	8.688
+	
+	8.688
+
+	0011074-72.2009.8.24.0008
+	
+	1 Vara da Fazenda Pública, TJ Santa
+	
+	 Provável 
+	
+	10.000
+	
+	10.000
+
+	0007977-93.2011.8.24.0008
+	
+	1 Vara da Fazenda Pública, TJ Santa
+	
+	 Provável 
+	
+	10.000
+	
+	10.000
+
+	0020168-05.2013.8.24.0008
+	
+	1 Vara da Fazenda Pública, TJ Santa
+	
+	 Provável 
+	
+	10.000
+	
+	10.000
+
+	0601524-28.2014.8.24.0008
+	
+	1 Vara da Fazenda Pública, TJ Santa
+	
+	 Provável 
+	
+	10.000
+	
+	10.000
+
+	0501430-09.2013.8.24.0008
+	
+	1 Vara da Fazenda Pública, TJ Santa
+	
+	 Provável 
+	
+	10.905
+	
+	10.905
+
+	0002368-10.2013.8.24.0025
+	
+	2 Vara Cível, TJ Santa Catarina - 1ª 
+	
+	 Provável 
+	
+	13.000
+	
+	13.000
+
+	0302718-72.2019.8.24.0005
+	
+	2 Vara Cível, TJ Santa Catarina
+	
+	 Provável 
+	
+	14.292
+	
+	14.292
+
+	0305931-19.2015.8.24.0008
+	
+	1 Vara da Fazenda Pública, TJ Santa
+	
+	 Provável 
+	
+	15.000
+	
+	15.000
+
+	0003576-90.2007.8.24.0008
+	
+	1 Vara da Fazenda Pública, TJ Santa
+	
+	 Provável 
+	
+	20.000
+	
+	20.000
+
+	0002573-32.2009.8.24.0008
+	
+	1 Vara da Fazenda Pública, TJ Santa
+	
+	 Provável 
+	
+	21.000
+	
+	21.000
+
+	0316460-91.2018.8.24.0008
+	
+	1 Vara da Fazenda Pública, TJ Santa
+	
+	 Provável 
+	
+	21.179
+	
+	21.179
+
+	0019445-20.2012.8.24.0008
+	
+	1 Vara da Fazenda Pública, TJ Santa
+	
+	 Provável 
+	
+	23.273
+	
+	23.273
+
+	0503289-94.2012.8.24.0008
+	
+	1 Vara da Fazenda Pública, TJ Santa
+	
+	 Provável 
+	
+	30.000
+	
+	30.000
+
+	0026899-51.2012.8.24.0008
+	
+	1 Vara da Fazenda Pública, TJ Santa
+	
+	 Provável 
+	
+	30.000
+	
+	30.000
+
+	0313505-93.2015.8.24.0008
+	
+	1 Vara da Fazenda Pública, TJ Santa
+	
+	 Provável 
+	
+	30.000
+	
+	30.000
+
+	0020509-02.2011.8.24.0008
+	
+	1 Vara da Fazenda Pública, TJ Santa
+	
+	 Provável 
+	
+	32.710
+	
+	32.710
+
+	0020170-72.2013.8.24.0008
+	
+	1 Vara da Fazenda Pública, TJ Santa
+	
+	 Provável 
+	
+	35.000
+	
+	35.000
+
+	0009355-50.2012.8.24.0008
+	
+	1 Vara da Fazenda Pública, TJ Santa
+	
+	 Provável 
+	
+	38.000
+	
+	38.000
+
+	0013161-59.2013.8.24.0008
+	
+	1 Vara da Fazenda Pública, TJ Santa
+	
+	 Provável 
+	
+	40.000
+	
+	40.000
+
+	0008411-82.2011.8.24.0008
+	
+	1 Vara da Fazenda Pública, TJ Santa
+	
+	 Provável 
+	
+	48.574
+	
+	48.574
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
+	0003060-60.2013.8.24.0008
+	
+	1 Vara da Fazenda Pública, TJ Santa
+	
+	 Provável 
+	
+	50.000
+	
+	50.000
+
+	0004264-13.2011.8.24.0008
+	
+	1 Vara da Fazenda Pública, TJ Santa
+	
+	 Provável 
+	
+	50.000
+	
+	50.000
+
+	0000216-11.2011.8.24.0008
+	
+	1 Vara da Fazenda Pública, TJ Santa
+	
+	 Provável 
+	
+	50.000
+	
+	50.000
+
+	0003455-57.2010.8.24.0008
+	
+	1 Vara da Fazenda Pública, TJ Santa
+	
+	 Provável 
+	
+	50.000
+	
+	50.000
+
+	0007672-12.2011.8.24.0008
+	
+	1 Vara da Fazenda Pública, TJ Santa
+	
+	 Provável 
+	
+	50.000
+	
+	50.000
+
+	0002901-20.2013.8.24.0008
+	
+	1 Vara da Fazenda Pública, TJ Santa
+	
+	 Provável 
+	
+	50.000
+	
+	50.000
+
+	0303561-04.2014.8.24.0008
+	
+	1 Vara da Fazenda Pública, TJ Santa
+	
+	 Provável 
+	
+	51.050
+	
+	51.050
+
+	0027891-12.2012.8.24.0008
+	
+	1 Vara da Fazenda Pública, TJ Santa
+	
+	 Provável 
+	
+	55.000
+	
+	55.000
+
+	0025474-62.2007.8.24.0008
+	
+	1 Vara da Fazenda Pública, TJ Santa
+	
+	 Provável 
+	
+	57.000
+	
+	57.000
+
+	0033990-71.2007.8.24.0008
+	
+	1 Vara da Fazenda Pública, TJ Santa
+	
+	 Provável 
+	
+	60.000
+	
+	60.000
+
+	0001801-74.2006.8.24.0008
+	
+	1 Vara da Fazenda Pública, TJ Santa
+	
+	 Provável 
+	
+	60.000
+	
+	60.000
+
+	0005462-63.2013.8.24.0025
+	
+	2 Vara Cível, TJ Santa Catarina - 1ª 
+	
+	 Provável 
+	
+	67.800
+	
+	67.800
+
+	0504077-74.2013.8.24.0008
+	
+	1 Vara da Fazenda Pública, TJ Santa
+	
+	 Provável 
+	
+	67.800
+	
+	67.800
+
+	0027716-23.2009.8.24.0008
+	
+	1 Vara da Fazenda Pública, TJ Santa
+	
+	 Provável 
+	
+	83.700
+	
+	83.700
+
+	Processo
+	
+	Local
+	
+	Perda
+	
+	Valor da ação
+	
+	Valor da provisão
+
+	0010435-54.2009.8.24.0008
+	
+	1 Vara da Fazenda Pública, TJ Santa
+	
+	 Provável 
+	
+	93.000
+	
+	93.000
+
+	0013424-28.2012.8.24.0008
+	
+	1 Vara da Fazenda Pública, TJ Santa
+	
+	 Provável 
+	
+	100.000
+	
+	100.000
+
+	0305561-69.2017.8.24.0008
+	
+	1 Vara da Fazenda Pública, TJ Santa
+	
+	 Provável 
+	
+	100.000
+	
+	100.000
+
+	0018881-41.2012.8.24.0008
+	
+	1 Vara da Fazenda Pública, TJ Santa
+	
+	 Provável 
+	
+	100.000
+	
+	100.000
+
+	0001383-29.2012.8.24.0008
+	
+	1 Vara da Fazenda Pública, TJ Santa
+	
+	 Provável 
+	
+	100.000
+	
+	100.000
+
+	0006901-73.2007.8.24.0008
+	
+	1 Vara da Fazenda Pública, TJ Santa
+	
+	 Provável 
+	
+	110.000
+	
+	110.000
+
+	0011042-43.2004.8.24.0008
+	
+	1 Vara da Fazenda Pública, TJ Santa
+	
+	 Provável 
+	
+	117.000
+	
+	117.000
+
+	0008456-67.2003.8.24.0008
+	
+	1 Vara da Fazenda Pública, TJ Santa
+	
+	 Provável 
+	
+	120.000
+	
+	120.000
+
+	0603404-55.2014.8.24.0008
+	
+	1 Vara da Fazenda Pública, TJ Santa
+	
+	 Provável 
+	
+	128.000
+	
+	128.000
+
+	0000067-44.2013.8.24.0008
+	
+	1 Vara da Fazenda Pública, TJ Santa
+	
+	 Provável 
+	
+	150.000
+	
+	150.000
+
+	0012707-31.2003.8.24.0008
+	
+	1 Vara da Fazenda Pública, TJ Santa
+	
+	 Provável 
+	
+	168.000
+	
+	168.000
+
+	0014958-17.2006.8.24.0008
+	
+	1 Vara da Fazenda Pública, TJ Santa
+	
+	 Provável 
+	
+	180.000
+	
+	180.000
+
+	0501807-14.2012.8.24.0008
+	
+	1 Vara da Fazenda Pública, TJ Santa
+	
+	 Provável 
+	
+	200.000
+	
+	200.000
+
+	0017702-48.2007.8.24.0008
+	
+	1 Vara da Fazenda Pública, TJ Santa
+	
+	 Provável 
+	
+	200.000
+	
+	200.000
+
+	0027193-06.2012.8.24.0008
+	
+	1 Vara da Fazenda Pública, TJ Santa
+	
+	 Provável 
+	
+	200.000
+	
+	200.000
+
+	0007578-69.2008.8.24.0008
+	
+	1 Vara da Fazenda Pública, TJ Santa
+	
+	 Provável 
+	
+	202.298
+	
+	202.298
+
+	0013686-46.2010.8.24.0008
+	
+	1 Vara da Fazenda Pública, TJ Santa
+	
+	 Provável 
+	
+	250.000
+	
+	250.000
+
+	0027166-33.2006.8.24.0008
+	
+	1 Vara da Fazenda Pública, TJ Santa
+	
+	 Provável 
+	
+	251.600
+	
+	251.600
+
+	0304487-09.2019.8.24.0008
+	
+	1 Vara da Fazenda Pública, TJ Santa
+	
+	 Provável 
+	
+	290.381
+	
+	290.381
+
+	0007577-79.2011.8.24.0008
+	
+	1 Vara da Fazenda Pública, TJ Santa
+	
+	 Provável 
+	
+	315.000
+	
+	315.000
+
+	0317915-63.2016.8.24.0008
+	
+	1 Vara da Fazenda Pública, TJ Santa
+	
+	 Provável 
+	
+	417.000
+	
+	417.000
+
+	0602156-54.2014.8.24.0008
+	
+	1 Vara da Fazenda Pública, TJ Santa
+	
+	 Provável 
+	
+	475.000
+	
+	475.000
+
+	0316682-65.2015.8.24.0008
+	
+	1 Vara da Fazenda Pública, TJ Santa
+	
+	 Provável 
+	
+	500.000
+	
+	500.000
+
+	0024763-91.2006.8.24.0008
+	
+	1 Vara da Fazenda Pública, TJ Santa
+	
+	 Provável 
+	
+	1.000.000
+	
+	1.000.000
+
+	0306797-85.2019.8.24.0008
+	
+	1 Vara da Fazenda Pública, TJ Santa
+	
+	 Provável 
+	
+	2.000.000
+	
+	2.000.000
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
+	0003844-57.2001.8.24.0008
+	
+	1 Vara da Fazenda Pública, TJ Santa
+	
+	 Possível 
+	
+	47.821
+	
+	-
+
+	0301682-25.2015.8.24.0008
+	
+	1 Vara da Fazenda Pública, TJ Santa
+	
+	 Possível 
+	
+	1.000
+	
+	-
+
+	0312621-64.2015.8.24.0008
+	
+	1 Vara da Fazenda Pública, TJ Santa
+	
+	 Possível 
+	
+	500
+	
+	-
+
+	0306420-56.2015.8.24.0008
+	
+	1 Vara da Fazenda Pública, TJ Santa
+	
+	 Possível 
+	
+	500
+	
+	-
+
+	0022042-25.2013.8.24.0008
+	
+	1 Vara da Fazenda Pública, TJ Santa
+	
+	 Possível 
+	
+	1.000
+	
+	-
+
+	0309689-06.2015.8.24.0008
+	
+	1 Vara da Fazenda Pública, TJ Santa
+	
+	 Possível 
+	
+	1.000
+	
+	-
+
+	0303927-43.2014.8.24.0008
+	
+	1 Vara da Fazenda Pública, TJ Santa
+	
+	 Possível 
+	
+	1.500
+	
+	-
+
+	0305746-78.2015.8.24.0008
+	
+	1 Vara da Fazenda Pública, TJ Santa
+	
+	 Possível 
+	
+	1.500
+	
+	-
+
+	0016840-09.2009.8.24.0008
+	
+	1 Vara da Fazenda Pública, TJ Santa
+	
+	 Possível 
+	
+	5.000
+	
+	-
+
+	0003645-58.2006.8.24.0073
+	
+	2 Vara Cível, TJ Santa Catarina - 1ª 
+	
+	 Possível 
+	
+	5.000
+	
+	-
+
+	0026316-13.2005.8.24.0008
+	
+	1 Vara da Fazenda Pública, TJ Santa
+	
+	 Possível 
+	
+	15.274
+	
+	-
+
+	0317248-77.2016.8.24.0008
+	
+	1 Vara Cível, TJ Santa Catarina - 1ª 
+	
+	 Possível 
+	
+	16.462
+	
+	-
+
+	0019041-86.2000.8.24.0008
+	
+	1 Vara da Fazenda Pública, TJ Santa
+	
+	 Possível 
+	
+	20.627
+	
+	-
+
+	0012733-63.2002.8.24.0008
+	
+	1 Vara da Fazenda Pública, TJ Santa
+	
+	 Possível 
+	
+	24.038
+	
+	-
+
+	0016388-62.2010.8.24.0008
+	
+	1 Vara da Fazenda Pública, TJ Santa
+	
+	 Possível 
+	
+	28.000
+	
+	-
+
+	0023979-17.2006.8.24.0008
+	
+	1 Vara da Fazenda Pública, TJ Santa
+	
+	 Possível 
+	
+	35.000
+	
+	-
+
+	Processo
+	
+	Local
+	
+	Perda
+	
+	Valor da ação
+	
+	Valor da provisão
+
+	0312153-66.2016.8.24.0008
+	
+	1 Vara da Fazenda Pública, TJ Santa
+	
+	 Possível 
+	
+	50.000
+	
+	-
+
+	0003946-06.2006.8.24.0008
+	
+	1 Vara da Fazenda Pública, TJ Santa
+	
+	 Possível 
+	
+	124.300
+	
+	-
+
+	0320354-47.2016.8.24.0008
+	
+	1 Vara Cível, TJ Santa Catarina
+	
+	 Possível 
+	
+	200.000
+	
+	-
+
+	0017996-56.2014.8.24.0008
+	
+	1 Vara da Fazenda Pública, TJ Santa
+	
+	 Possível 
+	
+	201.200
+	
+	-
+
+	0021267-15.2010.8.24.0008
+	
+	1 Vara da Fazenda Pública, TJ Santa
+	
+	 Possível 
+	
+	204.000
+	
+	-
+
+	0017503-89.2008.8.24.0008
+	
+	0 Vara da Fazenda Pública, TJ Santa
+	
+	 Possível 
+	
+	210.820
+	
+	-
+
+	0016199-16.2012.8.24.0008
+	
+	1 Vara da Fazenda Pública, TJ Santa
+	
+	 Possível 
+	
+	250.000
+	
+	-
+
+	0014596-73.2010.8.24.0008
+	
+	1 Vara da Fazenda Pública, TJ Santa
+	
+	 Possível 
+	
+	255.000
+	
+	-
+
+	0311422-07.2015.8.24.0008
+	
+	1 Vara da Fazenda Pública, TJ Santa
+	
+	 Possível 
+	
+	264.768
+	
+	-
+
+	0303899-41.2015.8.24.0008
+	
+	1 Vara da Fazenda Pública, TJ Santa
+	
+	 Possível 
+	
+	393.990
+	
+	-
+
+	0017438-89.2011.8.24.0008
+	
+	1 Vara da Fazenda Pública, TJ Santa
+	
+	 Possível 
+	
+	566.464
+	
+	-
+
+	0014037-19.2010.8.24.0008
+	
+	1 Vara da Fazenda Pública, TJ Santa
+	
+	 Possível 
+	
+	573.000
+	
+	-
+
+	0309233-22.2016.8.24.0008
+	
+	1 Vara da Fazenda Pública, TJ Santa
+	
+	 Possível 
+	
+	950.000
+	
+	-
+
+	0017579-40.2013.8.24.0008
+	
+	1 Vara da Fazenda Pública, TJ Santa
+	
+	 Possível 
+	
+	1.000.000
+	
+	-
+
+	0312744-28.2016.8.24.0008
+	
+	1 Vara da Fazenda Pública, TJ Santa
+	
+	 Possível 
+	
+	1.562.338
+	
+	-
+
+	4003475-57.2017.8.24.0000
+	
+	1 Vara da Fazenda Pública, TJ Santa
+	
+	 Possível 
+	
+	2.932.260
+	
+	-
+
+	0314527-89.2015.8.24.0008
+	
+	1 Vara da Fazenda Pública, TJ Santa
+	
+	 Possível 
+	
+	1.000
+	
+	-
+
+	0315006-48.2016.8.24.0008
+	
+	1 Vara da Fazenda Pública, TJ Santa
+	
+	 Possível 
+	
+	200.000
+	
+	-
+
+	0308067-18.2017.8.24.0008
+	
+	1 Vara da Fazenda Pública, TJ Santa
+	
+	 Possível 
+	
+	468.500
+	
+	-
+
+	0311218-26.2016.8.24.0008
+	
+	1 Vara da Fazenda Pública, TJ Santa
+	
+	 Possível 
+	
+	20.000
+	
+	-
+
+	0309163-68.2017.8.24.0008
+	
+	1 Vara da Fazenda Pública, TJ Santa
+	
+	 Possível 
+	
+	1.000
+	
+	-
+
+	0310599-62.2017.8.24.0008
+	
+	1 Vara da Fazenda Pública, TJ Santa
+	
+	 Possível 
+	
+	105.703
+	
+	-
+
+	0312020-87.2017.8.24.0008
+	
+	1 Vara da Fazenda Pública, TJ Santa
+	
+	 Possível 
+	
+	248.660
+	
+	-
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
+	0310255-81.2017.8.24.0008
+	
+	1 Vara da Fazenda Pública, TJ Santa
+	
+	 Possível 
+	
+	200.000
+	
+	-
+
+	0311681-31.2017.8.24.0008
+	
+	1 Vara da Fazenda Pública, TJ Santa
+	
+	 Possível 
+	
+	210.000
+	
+	-
+
+	0311510-74.2017.8.24.0008
+	
+	1 Vara da Fazenda Pública, TJ Santa
+	
+	 Possível 
+	
+	193.700
+	
+	-
+
+	0314744-64.2017.8.24.0008
+	
+	1 Vara da Fazenda Pública, TJ Santa
+	
+	 Possível 
+	
+	400.000
+	
+	-
+
+	0315262-54.2017.8.24.0008
+	
+	1 Vara da Fazenda Pública, TJ Santa
+	
+	 Possível 
+	
+	50.000
+	
+	-
+
+	0302423-94.2017.8.24.0008
+	
+	1 Vara da Fazenda Pública, TJ Santa
+	
+	 Possível 
+	
+	305.200
+	
+	-
+
+	0318198-52.2017.8.24.0008
+	
+	1 Vara da Fazenda Pública, TJ Santa
+	
+	 Possível 
+	
+	10.000
+	
+	-
+
+	0312196-32.2018.8.24.0008
+	
+	1 Vara da Fazenda Pública, TJ Santa
+	
+	 Possível 
+	
+	-
+	
+	-
+
+	0305097-11.2018.8.24.0008
+	
+	1 Vara da Fazenda Pública, TJ Santa
+	
+	 Possível 
+	
+	20.000
+	
+	-
+
+	0025895-52.2007.8.24.0008
+	
+	1 Vara da Fazenda Pública, TJ Santa
+	
+	 Possível 
+	
+	1.000
+	
+	-
+
+	0008138-11.2008.8.24.0008
+	
+	1 Vara da Fazenda Pública, TJ Santa
+	
+	 Possível 
+	
+	41.500
+	
+	-
+
+	0305721-24.2015.8.24.0054
+	
+	1 Vara da Fazenda Pública, TJ Santa
+	
+	 Possível 
+	
+	100.000
+	
+	-
+
+	0318502-17.2018.8.24.0008
+	
+	1 Vara da Fazenda Pública, TJ Santa
+	
+	 Possível 
+	
+	25.950
+	
+	-
+
+	0320500-20.2018.8.24.0008
+	
+	1 Vara da Fazenda Pública, TJ Santa
+	
+	 Possível 
+	
+	30.000
+	
+	-
+
+	0300140-21.2016.8.24.0045
+	
+	1 Vara da Fazenda Pública, TJ Santa
+	
+	 Possível 
+	
+	15.000
+	
+	-
+
+	0302633-21.2018.8.24.0135
+	
+	1 Vara da Fazenda Pública, TJ Santa
+	
+	 Possível 
+	
+	114.140
+	
+	-
+
+	0319126-03.2017.8.24.0008
+	
+	1 Vara da Fazenda Pública, TJ Santa
+	
+	 Possível 
+	
+	11.224
+	
+	-
+
+	0320017-58.2016.8.24.0008
+	
+	1 Vara da Fazenda Pública, TJ Santa
+	
+	 Possível 
+	
+	135.000
+	
+	-
+
+	0308412-13.2019.8.24.0008
+	
+	1 Vara da Fazenda Pública, TJ Santa
+	
+	 Possível 
+	
+	150.000
+	
+	-
+
+	Processo
+	
+	Local
+	
+	Perda
+	
+	Valor da ação
+	
+	Valor da provisão
+
+	0301000-31.2019.8.24.0008
+	
+	1 Vara da Fazenda Pública, TJ Santa
+	
+	 Possível 
+	
+	477.000
+	
+	-
+
+	0311584-94.2018.8.24.0008
+	
+	1 Vara da Fazenda Pública, TJ Santa
+	
+	 Possível 
+	
+	100.000
+	
+	-
+
+	0306172-85.2018.8.24.0008
+	
+	1 Vara da Fazenda Pública, TJ Santa
+	
+	 Possível 
+	
+	50.000
+	
+	-
+
+	0319400-30.2018.8.24.0008
+	
+	1 Vara da Fazenda Pública, TJ Santa
+	
+	 Possível 
+	
+	80.000
+	
+	-
+
+	5002271-85.2019.8.24.0033
+	
+	1 Vara da Fazenda Pública, TJ Santa
+	
+	 Possível 
+	
+	400.000
+	
+	-
+
+	
+	
+	
+	
+	
+	
+	23.164.170
+	
+	9.057.231
+
+
+A Administração e a assessoria jurídica consideram complexo a atribuição de valores para as contingências cíveis, atualmente não existe histórico de ações passadas que possam embasar com confiabilidade os valores a serem provisionados, sendo que para a constituição das provisões cíveis a Administração julga como suficiente constituir provisão sobre a totalidade das causas cujos assessores jurídicos consideram como “Alto Risco / “PROVÁVEIS” para perda. A provisão foi efetuada pelos valores originais das causas. O montante da provisão para ações cíveis em 31 de dezembro de 2019 é de R$ 9.057.231 (R$ 9.972.910 em 2018). 
+
+A parcela dos valores das contingências consideradas como perdas possíveis pelos assessores jurídicos que não foi constituída provisões é no montante de R$ 14.106.939 (R$ 9.282.094 em 2018).
+22. CONTAS DE COMPENSAÇÃO (ATIVAS E PASSIVAS)
+
+O saldo está assim composto:
+	
+	
+	2019
+	
+	2018
+
+	Mercadorias de terceiros
+	
+	685.645
+	
+	562.430
+
+	Crédito de cauções
+	
+	146.963
+	
+	185.154
+
+	Bens de terceiros
+	
+	277.844
+	
+	327.844
+
+	Imobilizado e matérias em trânsito
+	
+	437.450
+	
+	319.650
+
+	Seguros
+	
+	38.192.138
+	
+	38.192.138
+
+	Total
+	
+	39.740.040
+	
+	39.587.216
+
+
+As contas de compensação compreendem as mercadorias de terceiros que estão sob uso da Fundação, crédito de adiantamentos de pacientes, o valor de cobertura das apólices de seguro e bens e materiais em trânsito.
+
+A cobertura de seguros é determinada de acordo com a orientação obtida de especialistas, segundo a natureza de grau e risco, por montantes considerados suficientes para cobrir eventuais perdas relevantes em bens do ativo imobilizado e estoques.
+23. SUBVENÇÕES, AUXÍLIOS E DOAÇÕES
+
+As subvenções, auxílios, doações recebidas no exercício de 2019, para custeio da Fundação, e as subvenções de investimento que atenderam ao critério de reconhecimento no resultado foram contabilizadas da seguinte forma:
+	
+	
+	2019
+	
+	2018
+
+	Receita com restrição
+	
+	
+	
+	
+
+	Subvenções e auxílios
+	
+	21.008.884
+	
+	16.851.167
+
+	Doações
+	
+	3.319.171
+	
+	3.807.367
+
+	Receita sem restrição
+	
+	
+	
+	
+
+	Doações
+	
+	229.883
+	
+	123.755
+
+	Total
+	
+	24.557.938
+	
+	20.782.289
+
+	
+	
+	
+	
+	
+
+	Provenientes de:
+	
+	
+	
+	
+
+	Subvenções Municipais
+	
+	8.415.719
+	
+	7.707.940
+
+	Subvenções Estaduais
+	
+	11.896.593
+	
+	8.894.695
+
+	Doações Mat./Med. – SES
+	
+	2.974.862
+	
+	3.429.071
+
+	Subvenções para Investimentos
+	
+	696.572
+	
+	248.532
+
+	Doações através de Campanha (CELESC)
+	
+	101.598
+	
+	100.689
+
+	Doações Pessoas Jurídicas
+	
+	344.310
+	
+	378.297
+
+	Doações Pessoas Físicas
+	
+	128.284
+	
+	23.065
+
+	 Total
+	
+	24.557.938
+	
+	20.782.289
+
+
+24. CONTRIBUIÇÕES INCENTIVADAS E RECEITAS SOCIAIS
+
+Os valores do superávit nas operações com contribuições incentivadas e receitas sociais foram:
+	
+	
+	2019
+	2018
+
+	Receita de doações de contribuições incentivadas
+	a)
+	24.883.500
+	74.921.813
+
+	Custo e despesas com doações incentivadas
+	a)
+	(22.395.150)
+	(67.433.776)
+
+	Receita sociais
+	b)
+	23.229.216
+	-
+
+	Custos com receitas sociais
+	b)
+	(17.446.602)
+	-
+
+	Superávit nas operações com Trimania
+	
+	8.270.964
+	7.488.037
+
+
+a) CONTRIBUIÇÕES INCENTIVADAS:
+
+Em maio de 2016 a Fundação iniciou a arrecadação de doações de contribuições incentivadas - Trimania, a qual está vinculada a participação em sorteio de prêmios cuja operação é assessorada pela SC CAP Assessoria e Promoção de Vendas Ltda – Trimania, esta operação finalizou em abril de 2019.
+b) RECEITAS SOCIAIS
+
+A partir de maio de 2019, o produto TRIMANIAVALE passou a ser comercializado sob a forma de título de capitalização, na modalidade Filantropia Premiável, figurando a Fundação Hospitalar de Blumenau (Hospital Santo Antônio), como entidade beneficente e cessionária do direito de resgate, e não mais como subscritora dos títulos, para efetuar a gestão financeira e operacional é assessorada pela BLU CAP ASSESSORIA E PROMOÇÕES DE VENDAS LTDA.
+
+O resultado obtido (superávit) da arrecadação das Doações de Contribuições Incentivadas e Receitas Sociais – “Trimania” foi investido em sua maioria na aquisição de equipamentos hospitalares, móveis e utensílios, aparelhos, acessórios, ferramentas, computadores e periféricos, instrumental cirúrgico, instalações, construções e reformas da estrutura física para melhoria da assistência à saúde da população usuária do Sistema Único de Saúde (SUS), bem como de convênios, cuja representação pode ser verificada na nota explicativa 30.
+25. TRABALHO VOLUNTÁRIO
+
+No exercício de 2019 a Fundação registrou os trabalhos voluntários pelo valor justo da prestação do serviço, como se tivesse ocorrido o desembolso financeiro, em conformidade com a ITG 2002. Todos os serviços voluntários prestados por grupos de voluntários estão relacionados as atividades de saúde.
+
+As receitas e custos com trabalhos voluntários estão assim compostos:
+	Receita / Custos
+	
+	2019
+	
+	2018
+
+	Grupos de voluntários
+	
+	46.955
+	
+	49.637
+
+	Diretoria
+	
+	154.016
+	
+	154.016
+
+	Conselhos
+	
+	9.091
+	
+	9.869
+
+	Total
+	
+	210.062
+	
+	213.522
+
+
+26. OUTRAS RECEITAS OPERACIONAIS
+
+Esta rubrica está composta pelos seguintes valores:
+	
+	
+	2019
+	
+	2018
+
+	Precatórios
+	
+	-
+	
+	52.528
+
+	Aluguéis
+	
+	224.951
+	
+	223.708
+
+	Eventos
+	
+	292.383
+	
+	-
+
+	Fotocópias e cursos
+	
+	67.888
+	
+	156.303
+
+	Receitas diversas
+	
+	177.973
+	
+	147.007
+
+	Total
+	
+	763.195
+	
+	579.546
+
+
+27. DESPESAS ADMINISTRATIVAS E GERAIS
+
+O saldo está assim composto:
+
+	
+	
+	2019
+	
+	2018
+
+	Provisões (i)
+	
+	1.683.993
+	
+	524.576
+
+	Depreciação e amortização
+	
+	      4.253.606 
+	
+	        3.172.540 
+
+	Energia elétrica
+	
+	                   -   
+	
+	        2.223.193 
+
+	Serviços administrativos
+	
+	      2.034.814 
+	
+	        2.402.539 
+
+	Serviços de manutenção (ii)
+	
+	         485.420 
+	
+	        1.268.002 
+
+	Material de expediente e impressos
+	
+	                   -   
+	
+	           719.970 
+
+	Honorários advocatícios – precatórios
+	
+	                   -   
+	
+	                  375 
+
+	Bens não imobilizáveis
+	
+	           84.389 
+	
+	           179.093 
+
+	Aluguel / Condomínios
+	
+	                   -   
+	
+	           186.970 
+
+	Serviços de assessoria jurídica
+	
+	         200.264 
+	
+	           198.934 
+
+	Assessoria de comunicação
+	
+	             4.993 
+	
+	             36.020 
+
+	Telefone
+	
+	           39.489 
+	
+	             47.124 
+
+	Água e esgoto
+	
+	                   -   
+	
+	           159.292 
+
+	Outras
+	
+	         243.298 
+	
+	           323.814 
+
+	Total
+	
+	9.030.266
+	
+	11.442.442
+
+
+(i) Compreende a constituição das provisões para causas cíveis e trabalhistas conforme detalhado na nota explicativa 21 e constituição/reversão de estimativa de créditos de liquidação duvidosa.
+
+(ii) Relacionado a manutenções realizadas no decorrer do exercício de 2019 e 2018 que não contribuíram para aumento da vida útil dos imóveis.
+
+No exercício social de 2019 as despesas de Energia, Material de expediente e impressos, Aluguel / Condomínios e Água e esgoto foram reclassificadas para o grupo de custos.
+
+28. SEGREGAÇÃO DAS RECEITAS E DEMONSTRATIVO DE BENEFÍCIO FISCAL
+	
+	
+	2019
+	
+	2018
+
+	Serviços para convênios
+	
+	85.622.875
+	
+	79.085.652
+
+	Auxílios, subvenções e doações
+	
+	24.557.938
+	
+	20.782.289
+
+	Contribuições incentivadas
+	
+	24.883.500
+	
+	74.885.815
+
+	Receitas Sociais
+	
+	23.229.216
+	
+	-
+
+	Outras receitas operacionais
+	
+	763.195
+	
+	579.546
+
+	Glosas
+	
+	(54.710)
+	
+	(194.384)
+
+	Total das receitas
+	
+	159.002.014
+	
+	175.138.918
+
+	Benefícios fiscais gozados
+	
+	4.770.060
+	
+	5.254.168
+
+	COFINS 3%
+	
+	4.770.060
+	
+	5.254.168
+
+
+29. CONTRIBUIÇÕES PREVIDENCIÁRIAS DEVIDAS SE A FUNDAÇÃO NÃO GOZASSE DE ISENÇÃO
+
+Em conformidade com a legislação previdenciária, a Fundação gozou benefício total de R$ 6.896.084 no ano de 2019 (R$ 9.382.375 em 2018) referente à contribuição previdenciária, conforme demonstrado a seguir:
+	Mês
+	
+	2019
+	
+	2018
+
+	
+	
+	Base de cálculo
+	
+	Isenção usufruída
+	
+	Base de cálculo
+	
+	Isenção usufruída
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
+	Janeiro
+	
+	2.634.359
+	
+	526.872
+	
+	2.493.122
+	
+	718.019
+
+	Fevereiro
+	
+	2.602.095
+	
+	520.419
+	
+	2.414.461
+	
+	695.365
+
+	Março
+	
+	2.562.281
+	
+	512.456
+	
+	2.437.976
+	
+	702.137
+
+	Abril
+	
+	2.572.365
+	
+	514.473
+	
+	2.479.050
+	
+	713.966
+
+	Maio 
+	
+	2.585.744
+	
+	517.149
+	
+	2.438.261
+	
+	702.219
+
+	Junho
+	
+	2.636.327
+	
+	527.265
+	
+	2.492.666
+	
+	717.888
+
+	Julho
+	
+	2.722.084
+	
+	544.417
+	
+	2.580.631
+	
+	743.222
+
+	Agosto
+	
+	2.722.729
+	
+	544.546
+	
+	2.590.521
+	
+	746.070
+
+	Setembro
+	
+	2.743.665
+	
+	548.733
+	
+	2.608.650
+	
+	751.291
+
+	Outubro
+	
+	2.790.871
+	
+	558.174
+	
+	2.629.831
+	
+	757.391
+
+	Novembro
+	
+	2.769.780
+	
+	553.956
+	
+	2.593.460
+	
+	746.916
+
+	Dezembro
+	
+	2.375.390
+	
+	475.078
+	
+	2.653.849
+	
+	764.308
+
+	13º Salário
+	
+	2.762.731
+	
+	552.546
+	
+	2.165.216
+	
+	623.582
+
+	Total
+	
+	34.480.421
+	
+	6.896.084
+	
+	32.577.693
+	
+	9.382.375
+
+
+30. ATENDIMENTOS DO CONVÊNIO FIRMADO COM O S.U.S
+
+Considerando a Lei 12.101 de 27 de novembro de 2009, e em atendimento à portaria n°834 de 26 de abril de 2016 do Ministério da Saúde, no ano de 2019 a Fundação Hospitalar de Blumenau, mantenedora do Hospital Santo Antônio, superou o percentual mínimo de 60% de atendimentos necessários ao SUS – Sistema Único de Saúde, sendo considerado para o cálculo na área de Internação Hospitalar, paciente/dia, e na área Ambulatorial, quantidade de atendimentos, conforme demonstrativos:
+	
+	2019
+	
+	2018
+
+	
+	Paciente/Dia
+	%
+	
+	Paciente/Dia
+	%
+
+	Área de Internação Hospitalar
+
+	SUS
+	53.572
+	88,01%
+	
+	51.994
+	88,64%
+
+	Unimed
+	3.424
+	5,62%
+	
+	2.916
+	4,97%
+
+	Clinipam
+	1.773
+	2,91%
+	
+	1.016
+	1,73%
+
+	Particulares
+	701
+	1,15%
+	
+	673
+	1,15%
+
+	Outros
+	1.403
+	2,30%
+	
+	2.056
+	3,51%
+
+	Total
+	60.873
+	100%
+	
+	58.655
+	100%
+
+
+	
+	2019
+	
+	2018
+
+	
+	Quantidade
+	%
+	
+	Quantidade
+	%
+
+	Área Ambulatorial
+
+	SUS
+	200.021
+	91,52%
+	
+	195.501
+	92,09%
+
+	Unimed
+	3.318
+	1,52%
+	
+	2.869
+	1,35%
+
+	Clinipam
+	4.138
+	1,89%
+	
+	3.250
+	1,53%
+
+	Particulares
+	6.901
+	3,16%
+	
+	6.403
+	3,02%
+
+	Outros
+	4.179
+	1,91%
+	
+	4.270
+	2,01%
+
+	Total
+	218.557
+	100%
+	
+	212.293
+	100%
+
+
+A Fundação apresentou preponderância de serviços prestados ao SUS na Área Ambulatorial.
+
+Como participante dos programas e estratégias definidos pelo Ministério da Saúde, conforme portaria n°834 de 26 de Abril de 2016, para a comprovação da prestação anual de serviços ao SUS, o Hospital Santo Antônio possui, além dos percentuais de atendimentos nas áreas, 6% (seis pontos percentuais) que devem ser adicionados ao total da prestação de serviços ofertados ao SUS na área ambulatorial (preponderante), referente:
+
+I – Atenção Obstétrica e Neonatal: 1,5% (um e meio pontos percentuais)
+
+II – Atenção Oncológica: 1,5% (um e meio pontos percentuais)
+
+III – Atenção às urgências e emergências:   1,5% (um e meio pontos percentuais)
+
+IV – Atendimentos voltados a pessoas com transtornos mentais e transtornos decorrentes do abuso ou dependência de álcool, crack e outras drogas: 1,5% (um e meio pontos percentuais).
+31. EVENTOS SUBSEQUENTES
+
+Não ocorreram eventos entre a data de encerramento do exercício social e da elaboração das demonstrações contábeis, que pudessem afetar as informações divulgadas, bem como a análise econômica e financeira.
+
+32. RELATÓRIO DOS AUDITORES INDEPENDENTES
+
+As Demonstração Contábeis foram auditadas pela Actus Auditores independentes S.S.
+	 
+	
+	
+	
+	
+	 
+
+	Jorge José Cenci
+	
+	
+	
+	
+	Izabel Cristina Casarin
+
+	Presidente
+
+CPF: 255.454.340-20
+	
+	
+	
+	
+	Gerente Geral
+
+CPF:322.007.650-53
+
+	
+	
+	
+	
+	
+	
+
+	
+	
+	
+	
+	
+	
+
+	 
+	
+	
+	
+	
+	 
+
+	Amarildo Nazário
+	
+	
+	
+	
+	Jones Bambinetti
+
+	Tesoureiro
+
+CPF:674.564.999-34
+	
+	
+	
+	
+	Contador
+
+	
+	
+	
+	
+	
+	CPF nº 902.917.869-87
+
+	
+	
+	
+	
+	
+	CRC/SC nº 026.403/O-6
+
+
+*                                 *                                 *
+Rua Assunção, 43 - Ponta Aguda - CEP 89050-120 - Blumenau / SC - Fone (47) 3326-1811
+
+CNPJ: 83.794.925/0001-89 - www.actusauditores.com.br
+
+

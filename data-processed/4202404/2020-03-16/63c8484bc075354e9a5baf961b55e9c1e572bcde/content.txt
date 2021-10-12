@@ -1,0 +1,119 @@
+
+FUNDAÇÃO UNIVERSIDADE REGIONAL DE BLUMENAU
+
+Extrato nº. 097/2020
+PARTES:
+FUNDAÇÃO UNIVERSIDADE REGIONAL DE BLUMENAU
+E
+
+LABORSYS PRODUTOS DIAGNÓSTICOS E HOSPITALARES LTDA
+OBJETO: Registro de preços para aquisições futuras de materiais médico hospitalar e de higiene e beleza para a Universidade.
+FUNDAMENTO LEGAL: Concorrência (SRP) nº 448/2019 e Ata (SRP) nº 030/2020 que será firmada em 16 de março de 2020. 
+PREÇO: O preço ofertado pela empresa signatária da presente Ata de Registro de Preços é o abaixo informado, de acordo com a respectiva classificação:
+	Item
+	Código FURB
+	Qtde.
+	Und.
+	Descrição do Item
+	Marca
+	Preço Unitário 
+
+(em R$)
+	Preço Total do Item 
+
+(em R$)
+
+	7
+	10698
+	10
+	Frasco
+	Ágar manitol (mannitol salt agar) / frasco de 500g
+	Oxoid
+	167,00
+	1.670,00
+
+	9
+	20973
+	10
+	Frasco
+	Ágar MRS (Lactobacillus agar acc. to De Man, Rogosa and Sharpe) / frasco de 500g
+	Oxoid
+	278,00
+	2.780,00
+
+	13
+	10671
+	10
+	Frasco
+	Ágar Sabouraud Dextrose / frasco de 500g
+	Oxoid
+	150,00
+	1.500,00
+
+	17
+	10673
+	10
+	Frasco
+	Água de peptona tamponada (Buffered Peptone Water) / frasco de 500g
+	Oxoid
+	118,00
+	1.180,00
+
+	29
+	10704
+	6
+	Frasco
+	Bacto ágar eosina azul de metileno (Bacto Agar E M B) / frasco de 500g
+	Oxoid
+	254,00
+	1.524,00
+
+	192
+	9274
+	40
+	Kit
+	Kit para dosagem do B-HCG (teste de gravidez) por imunocromatografia
+	Eco
+	31,00
+	1.240,00
+
+	206
+	10638
+	6
+	Frasco
+	Lauryl trytose broth / frasco de 500g
+	Oxoid
+	194,00
+	1.164,00
+
+	267
+	34532
+	10
+	Pacote
+	Tubo de 5ml com gel SST II Advance para sangue / marca BD - código 367955 / pacote com 100 tubos
+	BD
+	66,00
+	660,00
+
+	271
+	10604
+	6
+	Caixa
+	Tubo para Vacuntainer / volume 10ml / sem anticoagulante / estéril / caixa com 100 tubos
+	BD
+	65,00
+	390,00
+
+	278
+	36278
+	10
+	Caixa
+	Tubos para coleta de sangue Vacutainer 10 ml (caixa com 100)
+	BD
+	65,00
+	650,00
+
+
+PAGAMENTO: O pagamento será efetuado em até 20 (vinte) dias consecutivos após a efetiva entrega (com descarga) dos materiais, desde que os mesmos estejam em perfeitas condições de uso, sejam aprovados pelo Gestor designado pela CONTRATANTE e sigam acompanhados da respectiva Nota Fiscal Eletrônica (NF-e), através de depósitos bancários (hipótese na qual a NF-e deverá conter os dados bancários da CONTRATADA) ou de boletos bancários (caso no qual tais documentos deverão acompanhar a NF-e).
+PRAZO DE VIGÊNCIA: A presente Ata de Registro de Preços terá a validade de 12 (doze) meses, contados a partir da data de sua assinatura.
+DATA: 16/03/2020

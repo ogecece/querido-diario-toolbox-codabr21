@@ -1,0 +1,424 @@
+
+ 
+
+ 
+ANEXO I 
+
+ 
+
+ 
+Código Denominação 
+
+ 1 0311-6/01 Pesca de peixes em água salgada 
+
+ 2 0312-4/01 Pesca de peixes em água doce 
+
+ 3 0321-3/01 Criação de peixes em água salgada e salobra 
+
+ 4 0322-1/01 Criação de peixes em água doce 
+
+ 5 1052-0/00 Fabricação de laticínios 
+
+ 6 1053-8/00 Fabricação de sorvetes e outros gelados comestíveis 
+
+ 7 1066-0/00 Fabricação de alimentos para animais 
+
+ 8 1091-1/01 Fabricação de produtos de panificação industrial 
+
+ 9 1111-9/01 Fabricação de aguardente de cana-de-açúcar 
+
+ 10 1111-9/02 Fabricação de outras aguardentes e bebidas destiladas 
+
+ 11 1112-7/00 Fabricação de vinho 
+
+ 12 1113-5/02 Fabricação de cervejas e chopes 
+
+ 13 1121-6/00 Fabricação de águas envasadas 
+
+ 14 1122-4/01 Fabricação de refrigerantes 
+
+ 15 3314-7/04 Manutenção e reparação de compressores 
+
+ 16 3314-7/05 Manutenção e reparação de equipamentos de transmissão para fins industriais 
+
+ 
+17 
+
+3314-7/08 
+Manutenção e reparação de máquinas, equipamentos e aparelhos para transporte e elevação de 
+cargas 
+
+ 18 3314-7/16 Manutenção e reparação de tratores, exceto agrícolas 
+
+ 
+19 
+
+3314-7/17 
+Manutenção e reparação de máquinas e equipamentos de terraplenagem, pavimentação e 
+construção, exceto tratores 
+
+ 
+20 
+
+3314-7/19 
+Manutenção e reparação de máquinas e equipamentos para as indústrias de alimentos, bebidas 
+e fumo 
+
+ 21 3314-7/22 Manutenção e reparação de máquinas e aparelhos para a indústria do plástico 
+
+ 22 3530-1/00 Produção e distribuição de vapor, água quente e ar condicionado 
+
+ 23 4211-1/02 Pintura para sinalização em pistas rodoviárias e aeroportos 
+
+ 24 4292-8/01 Montagem de estruturas metálicas 
+
+ 25 4321-5/00 Instalação e manutenção elétrica 
+
+ 26 4322-3/01 Instalações hidráulicas, sanitárias e de gás 
+
+ 27 4322-3/02 Instalação e manutenção de sistemas centrais de ar condicionado, de ventilação e refrigeração 
+
+ 28 4329-1/03 Instalação, manutenção e reparação de elevadores, escadas e esteiras rolantes 
+
+ 29 4330-4/01 Impermeabilização em obras de engenharia civil 
+
+ 30 4330-4/04 Serviços de pintura de edifícios em geral 
+
+ 31 4330-4/05 Aplicação de revestimentos e de resinas em interiores e exteriores 
+
+ 
+32 
+
+4399-1/04 
+Serviços de operação e fornecimento de equipamentos para transporte e elevação de cargas e 
+pessoas para uso em obras 
+
+ 33 4511-1/01 Comércio a varejo de automóveis, camionetas e utilitários novos 
+
+ 34 4511-1/02 Comércio a varejo de automóveis, camionetas e utilitários usados 
+
+ 35 4511-1/03 Comércio por atacado de automóveis, camionetas e utilitários novos e usados 
+
+ 36 4511-1/04 Comércio por atacado de caminhões novos e usados 
+
+ 37 4512-9/02 Comércio sob consignação de veículos automotores 
+
+ 38 4530-7/01 Comércio por atacado de peças e acessórios novos para veículos automotores 
+
+ 39 4530-7/02 Comércio por atacado de pneumáticos e câmaras-de-ar 
+
+ 40 4541-2/01 Comércio por atacado de motocicletas e motonetas 
+
+ 41 4541-2/02 Comércio por atacado de peças e acessórios para motocicletas e motonetas 
+
+ 42 4541-2/03 Comércio a varejo de motocicletas e motonetas novas 
+
+ 43 4541-2/04 Comércio a varejo de motocicletas e motonetas usadas 
+
+ 44 4623-1/01 Comércio atacadista de animais vivos 
+
+ 45 4623-1/06 Comércio atacadista de sementes, flores, plantas e gramas 
+
+
+
+ 
+
+ 
+46 
+
+4623-1/08 
+Comércio atacadista de matérias-primas agrícolas com atividade de fracionamento e 
+acondicionamento associada 
+
+ 47 4623-1/09 Comércio atacadista de alimentos para animais 
+
+ 
+48 
+
+4639-7/02 
+Comércio atacadista de produtos alimentícios em geral, com atividade de fracionamento e 
+acondicionamento associada 
+
+ 49 4644-03 Comércio atacadista de produtos farmacêuticos para uso humano e veterinário 
+
+ 
+50 
+
+4645-1/01 
+Comércio atacadista de instrumentos e materiais para uso médico, cirúrgico, hospitalar e de 
+laboratórios 
+
+ 51 4645-1/02 Comércio atacadista de próteses e artigos de ortopedia 
+
+ 52 4645-1/03 Comércio atacadista de produtos odontológicos 
+
+ 53 4646-0/01 Comércio atacadista de cosméticos e produtos de perfumaria 
+
+ 54 4646-0/02 Comércio atacadista de produtos de higiene pessoal 
+
+ 55 4649-4/02 Comércio atacadista de aparelhos eletrônicos de uso pessoal e doméstico 
+
+ 
+56 
+
+4649-4/09 
+Comércio atacadista de produtos de higiene, limpeza e conservação domiciliar, com atividade de 
+fracionamento e acondicionamento associada 
+
+ 
+57 
+
+4661-3/00 
+Comércio atacadista de máquinas, aparelhos e equipamentos para uso agropecuário; partes e 
+peças 
+
+ 
+58 
+
+4662-1/00 
+Comércio atacadista de máquinas, equipamentos para terraplenagem, mineração e construção; 
+partes e peças 
+
+ 59 4663-0/00 Comércio atacadista de máquinas e equipamentos para uso industrial; partes e peças 
+
+ 
+60 
+
+4664-8/00 
+Comércio atacadista de máquinas, aparelhos e equipamentos para uso odonto-médico-
+hospitalar; partes e peças 
+
+ 61 4665-6/00 Comércio atacadista de máquinas e equipamentos para uso comercial; partes e peças 
+
+ 62 4669-9/01 Comércio atacadista de bombas e compressores; partes e peças 
+
+ 63 4672-9/00 Comércio atacadista de ferragens e ferramentas 
+
+ 64 4673-7/00 Comércio atacadista de material elétrico 
+
+ 65 4674-5/00 Comércio atacadista de cimento 
+
+ 66 4679-6/02 Comércio atacadista de mármores e granitos 
+
+ 67 4679-6/03 Comércio atacadista de vidros, espelhos e vitrais 
+
+ 68 4685-1/00 Comércio atacadista de produtos siderúrgicos e metalúrgicos, exceto para construção 
+
+ 69 4689-3/01 Comércio atacadista de produtos da extração mineral, exceto combustíveis 
+
+ 
+70 
+
+4689-3/99 
+Comércio atacadista especializado em outros produtos intermediários não especificados 
+anteriormente 
+
+ 
+71 
+
+4693-1/00 
+Comércio atacadista de mercadorias em geral, sem predominância de alimentos ou de insumos 
+agropecuários 
+
+ 72 4713-0/02 Lojas de variedades, exceto lojas de departamentos ou magazines 
+
+ 73 4732-6/00 Comércio varejista de lubrificantes 
+
+ 74 4742-3/00 ARTIGOS DE BRINQUEDOS 
+
+ 75 4744-0/02 Comércio varejista de madeira e artefatos 
+
+ 76 4744-0/04 Comércio varejista de cal, areia, pedra britada, tijolos e telhas 
+
+ 77 4744-0/05 Comércio varejista de materiais de construção não especificados anteriormente 
+
+ 78 4930-2/01 Transporte rodoviário de carga, exceto produtos perigosos e mudanças, municipal 
+
+ 79 4930-2/04 Transporte rodoviário de mudanças 
+
+ 80 5211-7/0 ARMAZÉNS GERAIS (EMISSÃO DE WARRANT) 
+
+ 81 5250-8/04 Organização logística do transporte de carga 
+
+ 82 5250-8/05 Operador de transporte multimodal - OTM 
+
+ 83 6110-8/01 Serviços de telefonia fixa comutada - STFC 
+
+ 84 6110-8/99 Serviços de telecomunicações por fio não especificados anteriormente 
+
+ 85 6120-5/01 Telefonia móvel celular 
+
+ 86 6130-2/00 Telecomunicações por satélite 
+
+ 87 6141-8/00 Operadoras de televisão por assinatura por cabo 
+
+ 88 6142-6/00 Operadoras de televisão por assinatura por micro-ondas 
+
+ 89 6143-4/00 Operadoras de televisão por assinatura por satélite 
+
+ 90 6190-6/01 Provedores de acesso às redes de comunicações 
+
+
+
+ 
+
+ 
+
+ANEXO II  
+
+AUTO DECLARAÇÃO 
+
+Nome: _________________________________________________________ 
+
+CPF: ________________ 
+
+RG: _________________ 
+
+Endereço Residencial: __________________________________________ 
+
+Endereço do imóvel: ___________________________________________ 
+
+Nº Matricula do Imóvel: _________________ 
+
+Empresa: ____________________________________________________ 
+
+C.N.P.J.:____________________________ 
+
+Eu, na qualidade de representante legal da empresa ............................................................................................[Razão 
+
+Social], estabelecida na [Rua]......................... [Nº].......................... [complemento]....................., [CEP]...............inscrita 
+
+no CNPJ..................,Inscrição Municipal nº ................................, 
+
+DECLARO, estar em conformidade com as normas ambientais vigentes aplicáveis, em especial, aos ditames das Instruções 
+
+Normativas nº 01 e 02 de 2020 SEMMA e ao Decreto Municipal nº 2512/2018 e suas alterações, atendendo integralmente aos 
+
+critérios e normas técnicas aplicáveis as atividades desenvolvidas; 
+
+DECLARO, QUE A ATIVIDADE OBEDECE AOS CRITÉRIOS DE USO E OCUPAÇÃO DO SOLO ESTABELECIDO PELAS NORMAS 
+
+MUNICIPAIS, 
+
+ 
+
+DECLARO CUMPRIR TODAS AS NORMAS PRECONIZADAS PELA SAÚDE PÚBLICA 
+
+ 
+
+DECLARO que o mesmo não se encontra com edificações em área de preservação permanente ou em via pública. 
+
+ 
+
+Declaro ainda que cumprirei todos os REQUISITOS legais acerca das condições de higiene, segurança de uso, proteção do meio 
+
+ambiente, habitabilidade e acessibilidade do estabelecimento. 
+
+Declaro que as informações por mim prestadas são condizentes a realidade dos fatos sob pena de configurar o crime previsto 
+
+no Código Penal Brasileiro passível de apuração na forma da Lei, podendo ensejar a paralização das atividades, bem como 
+
+aplicação de sanções administrativa. 
+
+ 91 6810-2/03 Loteamento de imóveis próprios 
+
+    
+
+ 92 7732-2/01 Aluguel de máquinas e equipamentos para construção sem operador, exceto andaimes 
+
+ 93 7732-2/02 Aluguel de andaimes 
+
+ 94 7739-0/01 Aluguel de máquinas e equipamentos para extração de minérios e petróleo, sem operador 
+
+ 95 8112-5/00 Condomínios prediais 
+
+ 96 8520-1/00 Ensino médio 
+
+ 97 8531-7/00 Educação superior - graduação 
+
+ 98 8532-5/00 Educação superior - graduação e pós-graduação 
+
+ 99 8533-3/00 Educação superior - pós-graduação e extensão 
+
+ 100 8541-4/00 Educação profissional de nível técnico 
+
+ 101 8542-2/00 Educação profissional de nível tecnológico 
+
+ 102 8621-6/01 UTI móvel 
+
+ 103 8630-5/04 Atividade odontológica 
+
+ 104 8630-5/06 Serviços de vacinação e imunização humana 
+
+ 105 8711-5/03 Atividades de assistência a deficientes físicos, imunodeprimidos e convalescentes 
+
+ 106 8712-3/00 Atividades de fornecimento de infraestrutura de apoio e assistência a paciente no domicílio 
+
+ 107 8730-1/02 Albergues assistenciais 
+
+ 108 9609-2/06 Serviços de tatuagem e colocação de piercing 
+
+ 109 9609-2/08 Higiene e embelezamento de animais domésticos 
+
+
+
+ 
+
+Por ser expressão de verdade firmo o presente ciente dos termos do DECRETO 6454/20.  
+
+ 
+
+SERRA/ES, ________ de __________________ 2020. 
+
+________________________________ 
+
+Declarante  
+
+ 
+
+ 
+
+FLUXO 
+
+ 
+
+ 
+
+  EMPRESA CONSTITUIDA 
+
+E-MAIL ENVIADO A SEDEC 
+
+(AUTODECLARAÇÃO, PROTOCOLO DOS 
+
+DOCUMENTOS) 
+
+Check List   (SEDEC) OK 
+
+ 
+
+SEDEC 
+
+Envia a AUTODECLARAÇÃO para SEFA 
+
+SEFA 
+
+Confere os Alvará do Corpo de Bombeiros e/ou 
+
+documentação estadual OK 
+
+ 
+
+  
+EMPREENDEDOR 
+
+ALVARÁ DE FUNCIONAMENTO PROVISÓRIO 
+
+ESPECIAÇ 
+
+(via  simplifica-ES) 
+
+SEDUR/SEMMA/VISA 
+
+Analise e pareceres no Processos 
+
+

@@ -1,0 +1,555 @@
+
+REAJUSTE TARIFÁRIO
+
+O Serviço Autônomo Municipal de Água e Esgoto – SAMAE do Município de Blumenau informa a nova tabela tarifária a entrar em vigor a partir do dia 01 de janeiro de 2021, de acordo com a Decisão nº 174/2020 no Procedimento Administrativo nº. 138/2020, da Agência Intermunicipal de Regulação, Controle e Fiscalização de Serviços Públicos Municipais do Médio Vale do Itajaí – AGIR. 
+
+REAJUSTE LINEAR DE: 3,975% (três vírgula novecentos e setenta e cinco por cento) referente ao resultado da equação paramétrica conforme Resolução Normativa 008, acumulado do período de novembro/2019 a outubro/2020.
+	ITEM
+	CATEGORIA
+	SIGLA
+	FAIXA DE CONSUMO (em m³)
+	VALOR EM R$
+	NOVO VALOR EM (R$)
+
+	I
+	RESIDENCIAL, ESCRITÓRIO e CONSULTÓRIO 
+	R, E e C
+	1
+	Até 10 
+	                32,27 
+	                             33,56 
+
+	
+	
+	
+	2
+	11 à 30
+	                  5,87 
+	                               6,10 
+
+	
+	
+	
+	3
+	31 à 99.999
+	                  7,48 
+	                               7,78 
+
+	II
+	SOCIAL
+	S
+	1
+	Até 10 
+	                15,93 
+	                             16,56 
+
+	
+	
+	
+	2
+	11 à 30
+	                  5,87 
+	                               6,10 
+
+	
+	
+	
+	3
+	31 à 99.999
+	                  7,48 
+	                               7,78 
+
+	III
+	COMERCIAL, INDUSTRIAL e TEMPORÁRIAS
+	C, I e T
+	1
+	Até 10 
+	                48,90 
+	                             50,85 
+
+	
+	
+	
+	2
+	11 à 30
+	                  7,48 
+	                               7,78 
+
+	
+	
+	
+	3
+	31 à 99.999
+	                11,23 
+	                             11,68 
+
+	
+	PIPA
+	X
+	1
+	0 à 99.999
+	                  3,23 
+	                               3,36 
+
+	IV
+	PÚBLICA
+	P
+	1
+	Até 10 
+	                32,27 
+	                             33,56 
+
+	
+	
+	
+	2
+	11 à 500
+	                  6,22 
+	                               6,47 
+
+	
+	
+	
+	3
+	501 à 99.999
+	                11,23 
+	                             11,68 
+
+	V
+	ESCOLAR
+	E
+	1
+	Até 10 
+	                32,27 
+	                             33,56 
+
+	
+	
+	
+	2
+	11 à 99.999
+	                  6,22 
+	                               6,47 
+
+	VI
+	HOSPITALAR
+	H
+	1
+	Até 10 
+	                32,27 
+	                             33,56 
+
+	
+	
+	
+	2
+	11 à 99.999
+	                  4,06 
+	                               4,22 
+
+	VII
+	PÚBLICA MUNICIPAL
+	M
+	1
+	Até 10 
+	                32,27 
+	                             33,56 
+
+	
+	
+	
+	2
+	11 à 500
+	                  1,97 
+	                               2,04 
+
+	
+	
+	
+	3
+	Acima de 500
+	                  4,06 
+	                               4,22 
+
+	VIII
+	HOSPITALAR SOCIAL
+	F
+	1
+	Até 10 
+	                32,27 
+	                             33,56 
+
+	
+	
+	
+	2
+	11 à 1.000
+	                  0,40 
+	                               0,42 
+
+	
+	
+	
+	3
+	1.001 à 2.000
+	                  1,97 
+	                               2,04 
+
+	
+	
+	
+	4
+	Acima de 2.000
+	                  4,06 
+	                               4,22 
+
+
+Abaixo segue a tabela dos serviços complementares:
+
+	Serviço
+	Unid.
+	Valor (R$)
+	Novo Valor em (R$)
+
+	Análise de Projetos – loteamentos/condomínios (+deslocamento)
+	Unid.
+	99,11
+	103,05
+
+	Atestado de localização (+deslocamento)
+	Unid.
+	49,56
+	51,53
+
+	Corte no Cavalete
+	Unid.
+	41,23
+	42,87
+
+	Corte no Ramal
+	Unid.
+	138,95
+	144,47
+
+	Desligamento Definitivo
+	Unid.
+	529,99
+	551,05
+
+	Deslocamento (km rodado)
+	Unid.
+	2,51
+	2,61
+
+	Emissão de 2a. VIA
+	Unid.
+	3,75
+	3,90
+
+	Entrega de aviso de corte
+	Unid.
+	1,13
+	1,18
+
+	Fornecimento e instalação de registro de metal em cavalete 3/4"
+	Unid.
+	46,71
+	48,57
+
+	Geofonamento (por hora de serviço)
+	Unid.
+	75,33
+	78,32
+
+	Hidroteste ½” e ¾”
+	Unid.
+	74,67
+	77,64
+
+	Hidroteste 1"
+	Unid.
+	165,54
+	172,12
+
+	Interligação de Rede de Água DN 60
+	Unid.
+	2.781,31
+	2.891,86
+
+	Interligação de Rede de Água DN 85
+	Unid.
+	2.844,06
+	2.957,11
+
+	Interligação de Rede de Água DN 110
+	Unid.
+	3.072,29
+	3.194,41
+
+	Ligação de Água ½" E ¾” (Tarifa Social)
+	Unid.
+	192,56
+	200,21
+
+	Ligação de Água ½” e ¾”
+	Unid.
+	601,03
+	624,92
+
+	Ligação de Água 1"
+	Unid.
+	1.728,50
+	1.797,21
+
+	Ligação de Água 2"
+	Unid.
+	3.460,06
+	3.597,59
+
+	Mudança de Cavalete ½” e ¾”
+	Unid.
+	277,93
+	288,98
+
+	Mudança de Ligação ½” e ¾”
+	Unid.
+	617,47
+	642,02
+
+	Religação cavalete
+	Unid.
+	41,12
+	42,75
+
+	Religação desl. temporário
+	Unid.
+	65,62
+	68,23
+
+	Religação no Cavalete
+	Unid.
+	41,12
+	42,75
+
+	Religação no Ramal
+	Unid.
+	136,32
+	141,73
+
+	Religação ramal
+	Unid.
+	136,32
+	141,73
+
+	Reparo em ligação PAD ou PVC acima de 1”
+	Unid.
+	258,57
+	268,85
+
+	Reparo em ligação PAD ou PVC até 1”
+	Unid.
+	145,17
+	150,94
+
+	Reparo parcial em cavalete ate 2" com quebra e reposição de piso
+	Unid.
+	98,63
+	102,55
+
+	Reparo parcial em cavalete ate 2" sem quebra de piso
+	Unid.
+	55,52
+	57,73
+
+	Reposição de Piso (Paralelepípedo, lajota, acimentado e jacaré) m²
+	m²
+	45,79
+	47,61
+
+	Reposição de Piso (Pavimentação Asfáltica) – m²
+	m²
+	106,69
+	110,93
+
+	Taxa de religação emergencial no cavalete
+	Unid.
+	199,74
+	207,68
+
+	Troca de Hidrometro ½” e ¾”
+	Unid.
+	150,99
+	156,99
+
+	Troca de hidrometro 1”
+	Unid.
+	396,42
+	412,18
+
+	Troca de hidrometro 2"
+	Unid.
+	3.977,73
+	4.135,85
+
+	Troca de hidrometro 3"
+	Unid.
+	5.610,42
+	5.833,44
+
+	Tubo PL ½” e ¾”
+	m
+	1,67
+	1,73
+
+	Verificação de falta de água
+	Unid.
+	43,74
+	45,48
+
+	
+	
+	
+	
+
+	2.     Análises Laboratoriais (Bacteriológico)
+
+	Serviço
+	Unid.
+	Valor (R$) (2018)
+	Novo Valor (R$)
+
+	Coliformes Totais
+	Unid.
+	40,06
+	41,65
+
+	Escherichia Coli
+	Unid.
+	36,41
+	37,86
+
+	Análise Bacteriológica Completa (Sem Coleta)
+	Unid.
+	72,86
+	75,75
+
+	
+	
+	
+	
+
+	3.     Análises Laboratoriais (Físico-químico)
+
+	Serviço
+	Unid.
+	Valor (R$) (2018)
+	Novo Valor (R$)
+
+	Alcalinidade Bicarbonato (mg/l)
+	Unid.
+	14,07
+	14,63
+
+	Alcalinidade Carbonato (mg/l)
+	Unid.
+	14,07
+	14,63
+
+	Alcalinidade Fenolftaleína (mg/l)
+	Unid.
+	14,07
+	14,63
+
+	Alcalinidade Hidróxido (mg/l)
+	Unid.
+	14,07
+	14,63
+
+	Alcalinidade Total (mg/l)
+	Unid.
+	13,46
+	13,99
+
+	Análise Físico-Química Completa (Sem Coleta)
+	Unid.
+	218,54
+	227,23
+
+	Cálcio (mg/l)
+	Unid.
+	7,01
+	7,29
+
+	Cloretos (mg/l)
+	Unid.
+	15,84
+	16,47
+
+	Cloro Residual (mg/l)
+	Unid.
+	14,07
+	14,63
+
+	Coleta de Amostras
+	Unid.
+	44,78
+	46,56
+
+	Cor (uH)
+	Unid.
+	15,84
+	16,47
+
+	Dureza de Cálcio (mg/l)
+	Unid.
+	7,01
+	7,29
+
+	Dureza de magnésio (mg/l)
+	Unid.
+	7,01
+	7,29
+
+	Dureza Total (mg/l)
+	Unid.
+	14,07
+	14,63
+
+	Ferro (mg/l)
+	Unid.
+	28,17
+	29,29
+
+	Flúor (mg/l)
+	Unid.
+	14,07
+	14,63
+
+	Gás Carbônico livre (mg/l)
+	Unid.
+	10,57
+	10,99
+
+	Magnésio (mg/l)
+	Unid.
+	7,01
+	7,29
+
+	Oxigênio Consumido (mg/l)
+	Unid.
+	19,36
+	20,13
+
+	pH
+	Unid.
+	14,07
+	14,63
+
+	Turbidez (NTU)
+	Unid.
+	14,07
+	14,63
+
+
+Sem mais a informar. 
+

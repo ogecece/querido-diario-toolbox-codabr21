@@ -1,0 +1,115 @@
+
+FUNDAÇÃO UNIVERSIDADE REGIONAL DE BLUMENAU
+
+Extrato nº. 054/2020
+PARTES:
+FUNDAÇÃO UNIVERSIDADE REGIONAL DE BLUMENAU
+e
+Fritz Distribuidora de Materiais Elétricos EIRELI
+OBJETO: Aquisição de cabos unipolares de 1kV para uso na instalação do datacenter no Bloco S do Campus I da Universidade.
+
+FUNDAMENTO LEGAL: Pregão Presencial nº 484/2019 e Contrato nº 023/2020, com validade a partir de 03 de março de 2020. 
+
+PREÇO:  Pelo objeto contratado, a CONTRATANTE pagará o preço constante na tabela abaixo, de acordo com a proposta apresentada pela CONTRATADA:
+	Item
+	Código FURB
+	Quant.
+	Und.
+	Descrição dos Materiais
+	Preço Unitário 
+
+(em reais)
+	Preço Total do Item
+
+(em reais)
+
+	1
+	26183
+	330
+	Metro
+	Cabo unipolar de alta flexibilidade 150 mm2, 1KV, 90 ºC, preto. Com as seguintes características: 
+
+- Certificado pelo INMETRO conforme a norma NBR 13248
+
+- Condutor formado por fios sólidos de cobre nú de tempera mole, seção circular.
+
+- Isolação para 1000Volts, no mínimo em dupla camada, em XLPE ou EPR.
+
+- Isolação produzida em composto termofixo 90ºC, não halogenado e baixa emissão de fumaça.
+- Alta flexibilidade, encordoamento em classe 5,
+
+- Suportar temperatura no condutor de até 90ºC
+- Auto-extinção do fogo.
+
+- Acomodados em bobina em lance único para toda a quantidade solicitada, com Marcação série métrica estampada no cabo de metro em metro, para facilitar controle na entrega e utilização.
+
+Observação: Todos os cabos devem ser ofertados da mesma marca.
+	61,70
+	20.361,00
+
+	2
+	26182
+	110
+	Metro
+	Cabo unipolar de alta flexibilidade 120 mm2, 1KV, 90 ºC, azul. 
+
+Com as seguintes características:
+
+- Certificado pelo INMETRO conforme a norma NBR 13248;
+
+- Condutor formado por fios sólidos de cobre nú de tempera mole, seção circular.
+
+- Isolação para 1000Volts, no mínimo em dupla camada, em XLPE ou EPR.
+
+- Isolação produzida em composto termofixo 90ºC, não halogenado e baixa emissão de fumaça.
+- Alta flexibilidade, encordoamento em classe 5,
+
+- Suportar temperatura no condutor de até 90ºC
+- Auto-extinção do fogo.
+
+- Acomodados em bobina em lance único para toda a quantidade solicitada, com Marcação série métrica estampada no cabo de metro em metro, para facilitar controle na entrega e utilização.
+
+Observação: Todos os cabos devem ser ofertados da mesma marca.
+	50,54
+	5.559,40
+
+	3
+	2295
+	110
+	Metro
+	Cabo unipolar de alta flexibilidade 95 mm2, 1KV, 90 ºC, verde. Com as seguintes características: 
+- Certificado pelo INMETRO conforme a norma NBR 13248
+
+- Condutor formado por fios sólidos de cobre nú de tempera mole, seção circular.
+
+- Isolação para 1000Volts, no mínimo em dupla camada, em XLPE ou EPR.
+
+- Isolação produzida em composto termofixo 90ºC, não halogenado e baixa emissão de fumaça.
+- Alta flexibilidade, encordoamento em classe 5,
+- Suportar temperatura no condutor de até 90ºC
+- Auto-extinção do fogo.
+
+- Acomodados em bobina em lance único para toda a quantidade solicitada, com Marcação série métrica estampada no cabo de metro em metro, para facilitar controle na entrega e utilização.
+
+Observação: Todos os cabos devem ser ofertados da mesma marca.
+	40,27
+	4.429,70
+
+	Marca
+	Corfio
+
+	Preço Global 
+
+(em reais, R$)
+	30.350,10
+
+	Preço Global 
+
+(em reais, por extenso
+	Trinta mil, trezentos e cinquenta reais e dez centavos
+
+
+PAGAMENTO: O pagamento será realizado em até 28 (vinte e oito) dias consecutivos após a efetiva entrega (com descarga) do(s) material(is) desde que estas sejam aprovados pela Gestão Contratual e sigam acompanhados da respectiva Nota Fiscal Eletrônica (NF-e), através de depósito bancário (hipótese na qual a NF-e deverá conter os dados bancários da CONTRATADA) ou de boleto bancário (caso no qual tal documento deverá acompanhar a NF-e).
+
+PRAZO DE VIGÊNCIA: Por se tratar de contratação imediata, este contrato terá início a partir da data de sua assinatura e encerramento vinculado ao término do respectivo exercício financeiro, em conformidade com o descrito no caput do artigo 57 da Lei Federal nº. 8.666/93.
+DATA: 02/03/2020

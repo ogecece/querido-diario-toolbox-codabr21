@@ -1,0 +1,229 @@
+          PREFEITURA MUNICIPAL DE BLUMENAU
+
+
+ANEXO IV
+	CREDOR:
+	LUMAR PAVIMENTAÇÕES LTDA
+
+	DOCUMENTO
+	Medição 315/2019
+
+	DATA:
+	Maio a Dezembro/2019
+
+	ORIGEM DA DESPESA:
+	Referente a execução de terraplanagem, drenagem, pavimentação com lajotas e sinalização viária da Rua Rodolfo Bretzke, trecho 01 – bairro Velha Grande – Período: 14.05.2019 a 11.12.2019 – Recurso Emenda Parlamentar. 
+
+	DOTAÇÃO:
+	1009 
+
+	FONTE DE RECURSO:
+	0334.00000
+
+	VALOR:
+	R$ 16.615,68
+
+	CREDOR:
+	LUMAR PAVIMENTAÇÕES LTDA
+
+	DOCUMENTO
+	Medição 316/2019
+
+	DATA:
+	Maio a Dezembro/2019
+
+	ORIGEM DA DESPESA:
+	Referente a execução de terraplanagem, drenagem, pavimentação com lajotas e sinalização viária da Rua Rodolfo Bretzke, trecho 01 – bairro Velha Grande – Período: 14.05.2019 a 11.12.2019 – Recurso Emenda Parlamentar. 
+
+	DOTAÇÃO:
+	361
+
+	FONTE DE RECURSO:
+	0134.00000 
+
+	VALOR:
+	R$ 21.564,83
+
+	CREDOR:
+	IGUATEMI CONSULTORIA E SERVIÇOS DE ENGENHARIA 
+
+	DOCUMENTO
+	Medição 017/2020 
+
+	DATA:
+	Janeiro a Dezembro/2018
+
+	ORIGEM DA DESPESA:
+	Referente a supervisão técnica e ambiental do 2º Grupo de Obras que compõe a implantação e pavimentação do prolongamento da Rua Chile e restauração e implantação de melhoramento da Rua República Argentina e Duplicação da Rua Humberto de Campos, em Blumenau/SC – Revisão Contratual - Período: 02.01.2018 a 20.12.2018 – Recurso Vinculado BID. 
+
+	DOTAÇÃO:
+	408 
+
+	FONTE DE RECURSO:
+	0186.00000
+
+	VALOR:
+	R$ 10.756,48
+
+	CREDOR:
+	IGUATEMI CONSULTORIA E SERVIÇOS DE ENGENHARIA 
+
+	DOCUMENTO
+	Medição 029/2020 
+
+	DATA:
+	Janeiro a Dezembro/2018
+
+	ORIGEM DA DESPESA:
+	Referente a supervisão técnica e ambiental do 2º Grupo de Obras que compõe a implantação e pavimentação do prolongamento da Rua Chile e restauração e implantação de melhoramento da Rua República Argentina e Duplicação da Rua Humberto de Campos, em Blumenau/SC – Revisão Contratual - Período: 02.01.2018 a 20.12.2018 – Recurso Vinculado BID. 
+
+	DOTAÇÃO:
+	430
+
+	FONTE DE RECURSO:
+	0186.00000
+
+	VALOR:
+	R$ 20.266,36
+
+	CREDOR:
+	IGUATEMI CONSULTORIA E SERVIÇOS DE ENGENHARIA 
+
+	DOCUMENTO
+	Medição 030/2020 
+
+	DATA:
+	Maio a Dezembro/2018
+
+	ORIGEM DA DESPESA:
+	Referente a supervisão técnica e ambiental do 2º Grupo de Obras que compõe a implantação e pavimentação do prolongamento da rua Chile e restauração e implantação de melhoramento da Rua República Argentina e Duplicação da Rua Humberto de Campos, em Blumenau/SC – Reajuste - Período: 01.05.2018 a 20.12.2018 – Recurso Vinculado BID. 
+
+	DOTAÇÃO:
+	408 
+
+	FONTE DE RECURSO:
+	0186.00000
+
+	VALOR:
+	R$ 9.410,77
+
+	CREDOR:
+	IGUATEMI CONSULTORIA E SERVIÇOS DE ENGENHARIA 
+
+	DOCUMENTO
+	Medição 031/2020 
+
+	DATA:
+	Maio a Dezembro/2018
+
+	ORIGEM DA DESPESA:
+	Referente a supervisão técnica e ambiental do 2º Grupo de Obras que compõe a implantação e pavimentação do prolongamento da rua Chile e restauração e implantação de melhoramento da Rua República Argentina e Duplicação da Rua Humberto de Campos, em Blumenau/SC – Reajuste - Período: 01.05.2018 a 20.12.2018 – Recurso Vinculado BID. 
+
+	DOTAÇÃO:
+	430 
+
+	FONTE DE RECURSO:
+	0186.00000
+
+	VALOR:
+	R$ 17.260,19
+
+	CREDOR:
+	IGUATEMI CONSULTORIA E SERVIÇOS DE ENGENHARIA 
+
+	DOCUMENTO
+	Medição 032/2020 
+
+	DATA:
+	Janeiro a Dezembro/2019
+
+	ORIGEM DA DESPESA:
+	Referente a supervisão técnica e ambiental do 2º Grupo de Obras que compõe a implantação e pavimentação do prolongamento da rua Chile e restauração e implantação de melhoramento da Rua República Argentina e Duplicação da Rua Humberto de Campos, em Blumenau/SC – Revisão Contratual - Período: 06.01.2019 a 16.12.2019 – Recurso Vinculado BID. 
+
+	DOTAÇÃO:
+	408 
+
+	FONTE DE RECURSO:
+	0186.00000
+
+	VALOR:
+	R$ 9.922,10
+
+	CREDOR:
+	IGUATEMI CONSULTORIA E SERVIÇOS DE ENGENHARIA 
+
+	DOCUMENTO
+	Medição 033/2020 
+
+	DATA:
+	Janeiro a Dezembro/2019
+
+	ORIGEM DA DESPESA:
+	Referente a supervisão técnica e ambiental do 2º Grupo de Obras que compõe a implantação e pavimentação do prolongamento da rua Chile e restauração e implantação de melhoramento da Rua República Argentina e Duplicação da Rua Humberto de Campos, em Blumenau/SC – Revisão Contratual - Período: 06.01.2019 a 16.12.2019 – Recurso Vinculado BID. 
+
+	DOTAÇÃO:
+	430
+
+	FONTE DE RECURSO:
+	0186.00000
+
+	VALOR:
+	R$ 11.782,75
+
+	CREDOR:
+	IGUATEMI CONSULTORIA E SERVIÇOS DE ENGENHARIA 
+
+	DOCUMENTO
+	Medição 035/2020 
+
+	DATA:
+	Maio a Dezembro/2018
+
+	ORIGEM DA DESPESA:
+	Referente a supervisão técnica e ambiental do 2º Grupo de Obras que compõe a implantação e pavimentação do prolongamento da rua Chile e restauração e implantação de melhoramento da Rua República Argentina e Duplicação da Rua Humberto de Campos, em Blumenau/SC – Reajuste - Período: 06.01.2019 a 16.12.2019 – Recurso Vinculado BID. 
+
+	DOTAÇÃO:
+	408 
+
+	FONTE DE RECURSO:
+	0186.00000
+
+	VALOR:
+	R$ 22.201,22
+
+	CREDOR:
+	IGUATEMI CONSULTORIA E SERVIÇOS DE ENGENHARIA 
+
+	DOCUMENTO
+	Medição 036/2020 
+
+	DATA:
+	Maio a Dezembro/2018
+
+	ORIGEM DA DESPESA:
+	Referente a supervisão técnica e ambiental do 2º Grupo de Obras que compõe a implantação e pavimentação do prolongamento da rua Chile e restauração e implantação de melhoramento da Rua República Argentina e Duplicação da Rua Humberto de Campos, em Blumenau/SC – Reajuste - Período: 06.01.2019 a 16.12.2019 – Recurso Vinculado BID. 
+
+	DOTAÇÃO:
+	430
+
+	FONTE DE RECURSO:
+	0186.00000
+
+	VALOR:
+	R$ 24.929,98
+
+	TOTAL GERAL A RECONHECER
+	R$ 164.710,36 (cento e sessenta e quatro mil, setecentos e dez reais e trinta e seis centavos).
+
+
+Reconheço as despesas desta relação.     
+              Blumenau, 05 de março de 2020.                             
+Edson Francisco Brunsfeld
+Secretário Municipal de Obras 
+
+
+
+
+Prefeitura Municipal de Blumenau – Praça Victor Konder, 2 – CEP 89010-904 – Centro – Blumenau – Santa Catarina - Brasil
+
+

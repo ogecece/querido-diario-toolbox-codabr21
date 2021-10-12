@@ -1,0 +1,52 @@
+FUNDAÇÃO UNIVERSIDADE REGIONAL DE BLUMENAU
+
+Extrato nº. 323/2020
+PARTES:
+FUNDAÇÃO UNIVERSIDADE REGIONAL DE BLUMENAU
+
+e a empresa
+
+MICRO FOCUS BRASIL SERVIÇOS DE TECNOLOGIA LTDA. 
+ADITIVO DE SUPLEMENTAÇÃO E SUBSTITUIÇÃO PARCIAL DOS GESTORES
+TERMO ADITIVO Nº 002 AO CONTRATO Nº. 316/2018
+OBJETO: Prestação de Serviços de suporte técnico do software Data Protector, instalados na FURB”.
+FUNDAMENTO LEGAL: Inexigibilidade de Licitação nº. 541/2018 e Contrato nº. 316/2018, firmado em 1º de dezembro de 2018.
+
+CLÁUSULA PRIMEIRA – DA SUPLEMENTAÇÃO:
+
+Fica o Termo de Contrato nº 316/2018 suplementado em R$ 529,91 (quinhentos e vinte e nove reais e noventa e um centavos), decorrente do acréscimo quantitativo do objeto, correspondente a 
+
+	Código
+
+Do
+
+Produto
+	Qtde
+	Descrição do Produto
+	Início
+	Término
+	Identificador
+
+De Contrato
+
+(SUBSCRIPTION)
+
+	B6965BAE
+	3
+	DP on-line Backup for windows E-LTU
+	20/08/2020
+	30/11/2020
+	A-S00019488
+
+
+CLÁUSULA SEGUNDA – DA SUBSTITUIÇÃO DOS GESTORES:
+
+Altera-se a Cláusula Quarta do contrato em questão, que passa a ter a seguinte redação: 
+
+A execução do presente contrato será acompanhada e fiscalizada pelos servidores - Sr. Felipe Eduardo Christ e Stefan Haase, os quais serão denominados neste instrumento como GESTOR e GESTOR SUBSTITUTO respectivamente e terão poderes para (...).
+
+CLÁUSULA TERCEIRA – DA MANUTENÇÃO DAS DEMAIS CLÁUSULAS:
+
+Permanecem inalteradas as demais cláusulas e condições previstas no Contrato de nº 316/2018 e TA nº 001, que não colidirem com o presente documento.  
+
+DATA: 17 de agosto de 2020. 

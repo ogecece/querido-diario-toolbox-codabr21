@@ -1,0 +1,411 @@
+
+FUNDAÇÃO UNIVERSIDADE REGIONAL DE BLUMENAU
+
+Extrato nº. 351/2020
+PARTES:  FUNDAÇÃO UNIVERSIDADE REGIONAL DE BLUMENAU
+
+e
+                  ALTERMED MATERIAL MÉDICO HOSPITALAR LTDA
+OBJETO: Registro de preços para aquisições futuras de materiais médico-hospitalares para a Universidade.
+FUNDAMENTO LEGAL: Concorrência nº 138/2020 e Ata de Registro de Preços nº 159/2020, firmado em 31 de agosto de 2020.  
+PREÇO: O preço ofertado pela empresa signatária da presente Ata de Registro de Preços é o abaixo informado, de acordo com a respectiva classificação: 
+	Item
+	Código FURB
+	Qtde. Estimada
+	Und.
+	Descrição dos Produtos
+	Marca e Nome Comercial
+	Preço
+
+Unitário
+	Preço Total do Item
+
+	22
+	22608
+	100
+	Peça
+	Espéculo vaginal descartável / estéril / número 0 (para virgem)
+	Kolplast
+	1,51
+	151,00
+
+	27
+	8981
+	40
+	Caixa     
+	Fio Catgut 3-0 cromado / com agulha cilíndrica de 3cm / caixa com 24 unidades
+	Technofio Ace
+	84,42
+	3.376,80
+
+	28
+	8977
+	5
+	Caixa    
+	Fio Catgut simples 4-0 / com agulha cilíndrica 1/2 com 22mm; comprimento de 70 cm / embalagem com 24 unidades
+	Technofio Ace
+	87,01
+	435,05
+
+	35
+	5745
+	20
+	Peça
+	Máscara respiratória facial / para prevenção de contágios / uso ambulatorial.
+	Pro-Tech
+	14,23
+	284,60
+
+	36
+	21829
+	10
+	Peça
+	Pinça / ponta romba / serrilhada 165mm
+	ABC
+	14,60
+	146,00
+
+	37
+	8579
+	5
+	Peça
+	Pinça Allis / tamanho 15cm
+	ABC
+	32,92
+	164,60
+
+	38
+	8681
+	10
+	Peça
+	Pinça anatômica / com dente / tamanho 12cm
+	ABC
+	11,97
+	119,70
+
+	39
+	14691
+	10
+	Peça     
+	Pinça anatômica / sem dente / tamanho 13cm
+	ABC
+	12,14
+	121,40
+
+	40
+	8589
+	10
+	Peça
+	Pinça anatômica / tamanho 14cm
+	ABC
+	12,14
+	121,40
+
+	41
+	8612
+	10
+	Peça
+	Pinça Backhaus / tamanho 11cm
+	ABC
+	29,42
+	294,20
+
+	42
+	8650
+	10
+	Peça
+	Pinça Cheron / tamanho 25cm
+	ABC
+	58,55
+	585,50
+
+	43
+	8666
+	2
+	Peça
+	Pinça Foerster / tamanho 20cm
+	ABC
+	64,13
+	128,26
+
+	44
+	18874
+	10
+	Peça     
+	Pinça hemostática Kelly / curva / fabricada em aço inox / tamanho 14cm
+	ABC
+	26,84
+	268,40
+
+	45
+	8671
+	5
+	Peça     
+	Pinça hemostática Kocher / reta / fabricada em aço inox / tamanho 16cm
+	ABC
+	39,01
+	195,05
+
+	46
+	8600
+	10
+	Peça
+	Pinça mosquito / curva / tamanho 12cm
+	ABC
+	24,65
+	246,50
+
+	47
+	8599
+	10
+	Peça
+	Pinça mosquito / reta / tamanho 12cm
+	ABC
+	24,65
+	246,50
+
+	51
+	8581
+	5
+	Peça
+	Pinça tipo Crille / curva / tamanho 14cm
+	ABC
+	28,08
+	140,40
+
+	52
+	8582
+	5
+	Peça
+	Pinça tipo Crille / reta / tamanho 14cm
+	ABC
+	28,08
+	140,40
+
+	53
+	8730
+	10
+	Peça     
+	Porta agulha / para agulha Mayo-Hegar de 18cm
+	ABC
+	40,88
+	408,80
+
+	55
+	29011
+	20
+	Peça     
+	Retosigmoidoscópio descartável / estéril / abertura proximal 20 mm / abertura distal 15 mm / máximo comprimento 250 mm
+	Kolplast
+	5,78
+	115,60
+
+	56
+	37948
+	5
+	Peça
+	Sensor de oximetria tipo Y para uso em monitor multiparâmetro compatível com a marca WL modelo WL80.
+	Eplex
+	207,79
+	1.038,95
+
+	61
+	8847
+	10
+	Peça
+	Tesoura cirúrgica / fina iris reta/ fabricada em aço inox / tamanho 15cm.
+	ABC
+	23,91
+	239,10
+
+	62
+	8848
+	5
+	Peça
+	Tesoura cirúrgica / fina-fina-curva / fabricada em aço inox / tamanho 15cm
+	ABC
+	23,91
+	119,55
+
+	64
+	8840
+	10
+	Peça
+	Tesoura cirúrgica / Metzembaum reta/ fabricada em aço inox / tamanho 11cm
+	ABC
+	30,55
+	305,50
+
+	65
+	28931
+	5
+	Peça
+	Tesoura cirúrgica / romba-fina-curva / fabricada em aço inox / tamanho 15 cm.
+	ABC
+	23,91
+	119,55
+
+	66
+	8893
+	5
+	Peça
+	Tesoura cirúrgica / romba-fina-reta / fabricada em aço inox / tamanho 15cm
+	ABC
+	22,25
+	111,25
+
+	67
+	28934
+	5
+	Peça
+	Tesoura cirúrgica / romba-romba-curva / fabricada em aço inox / tamanho 15 cm.
+	ABC
+	23,91
+	119,55
+
+	68
+	8839
+	10
+	Peça
+	Tesoura cirúrgica /Metzembaum curva/fabricada em aço inox/ tamanho 11cm
+	ABC
+	30,56
+	305,60
+
+	69
+	8842
+	10
+	Peça
+	Tesoura Mayo-Stille / curva / tamanho 17cm
+	ABC
+	39,74
+	397,40
+
+	70
+	8896
+	5
+	Peça
+	Tesoura Mayo-Stille / reta, 14cm
+	ABC
+	33,74
+	168,70
+
+	71
+	8843
+	5
+	Peça 
+	Tesoura Metzenbaum / curva / tamanho 15cm
+	ABC
+	35,98
+	179,90
+
+	72
+	28937
+	5
+	Peça
+	Tesoura Spencer para retirada de pontos / fabricada em aço inox / tamanho 12cm
+	ABC
+	38,13
+	190,65
+
+	79
+	24647
+	40
+	Peça
+	Extensor intermediário de quatro vias para administração de medicações  parenterais compatíveis.Tubo transparente em PVC , látex livre conectores luer slip com paciente e conectores distais luer femea com protetor de cone com pinça tipo clamp . Apirogenico e esteril.
+	Biosani
+	1,90
+	76,00
+
+	80
+	21747
+	20
+	Caixa
+	Lâmina para bisturi número 24 / caixa com 100 lâminas
+	Maxicor
+	25,97
+	519,40
+
+	82
+	14226
+	40
+	Peça
+	Sonda nasogástrica longa / número 14, em PVC, apirogênica, estéril, atóxica 
+	Biosani
+	0,87
+	34,80
+
+	83
+	32098
+	5
+	Caixa
+	Solução de glicose a 5% / sistema de infusão fechado com frasco de 500 ml / caixa com 20 frascos.
+	Fresenius
+	62,40
+	312,00
+
+	91
+	20427
+	1
+	Peça
+	Andador adulto
+	GLC Ortopedia
+	132,98
+	132,98
+
+	92
+	10258
+	1
+	Peça
+	Andador infantil
+	ALO
+	162,34
+	162,34
+
+	98
+	20587
+	5
+	Peça
+	Cabo de laringoscópio universal
+	MD
+	163,64
+	818,20
+
+	99
+	28375
+	300
+	Frasco
+	Clorexidina degermante 2% / frasco 100 ml / almotolia descartável
+	VIC Pharma
+	2,21
+	663,00
+
+	102
+	33250
+	50
+	Peça
+	Sonda endotraqueal em PVC / com balão (cuff) / número 3,5.
+	Labor Import
+	6,42
+	321,00
+
+	103
+	14221
+	50
+	Peça
+	Sonda endotraqueal em PVC / com balão (cuff) / número 7,0.
+	Labor Import
+	6,47
+	323,50
+
+	Preço Total 
+
+(em R$ e por extenso)
+	R$ 14.349,08 
+
+(quatorze mil, trezentos e quarenta e nove reais e oito centavos)
+
+
+PAGAMENTO: O pagamento será realizado em até 30 (trinta) dias consecutivos após a efetiva entrega (com descarga) do(s) material(is), desde que estes sejam aprovados pela Gestão Contratual e acompanhados da respectiva Nota Fiscal Eletrônica (NF-e), através de depósito bancário (hipótese na qual a NF-e deverá conter os dados bancários da CONTRATADA) ou de boleto bancário (caso no qual tal documento deverá acompanhar a NF-e).
+PRAZO DE VIGÊNCIA: A presente Ata de Registro de Preços terá a validade contados a partir da data de sua assinatura até 04/03/2021.
+DATA: 01/09/2020.

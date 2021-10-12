@@ -1,0 +1,383 @@
+
+FUNDAÇÃO UNIVERSIDADE REGIONAL DE BLUMENAU
+
+Extrato nº. 256/2020
+PARTES:  FUNDAÇÃO UNIVERSIDADE REGIONAL DE BLUMENAU
+
+E
+
+                  MÁXIMA ATACADISTA EIRELI
+OBJETO: Registro de Preços para aquisições futuras de material de expediente para Universidade.
+FUNDAMENTO LEGAL: Concorrência (SRP) nº 471/2019 e Ata de Registro de Preços nº 086/2020, firmado em 02 de junho de 2020.  
+PREÇO: O preço ofertado pela empresa signatária da presente Ata de Registro de Preços é o abaixo informado, de acordo com a respectiva classificação:
+
+	Item
+	Código FURB
+	Qtde.
+	Und.
+	Descrição do Item
+	Marca
+	Preço Unitário (em R$)
+	Preço Total do Item (em R$)
+
+	15
+	1806
+	15
+	Rolos
+	Barbante 8 fios / 100% algodão / com 300 metros
+	Euro Roma
+	8,90
+	133,50
+
+	17
+	29114
+	50
+	Peças
+	Bateria alcalina LR-41 / tipo botão 
+	Elgin
+	0,50
+	25,00
+
+	18
+	17075
+	80
+	Peças
+	Bateria alcalina LR-44 / tipo botão / 1,5 V / para calculadoras, relógios, etc. (A-76, AG-13)
+	Elgin
+	0,60
+	48,00
+
+	21
+	31991
+	25
+	Peças
+	Bateria Lithium CR-2025 / 3V.
+	Elgin
+	1,50
+	37,50
+
+	22
+	34966
+	50
+	Peças
+	Bateria LR-1130 / tipo botão / 1,5V / para calculadoras, relógios, etc.
+	Elgin
+	1,40
+	70,00
+
+	23
+	1794
+	10
+	Bloco
+	Bloco de papel vegetal liso / A4 / bloco de 50 folhas
+	USA
+	19,20
+	192,20
+
+	28
+	20349
+	150
+	Bobina
+	Bobina térmica / tamanho 57mm x 40m
+	Maxprint
+	3,25
+	487,50
+
+	29
+	1207
+	10
+	Peças
+	Borracha para apagar escrita a caneta.
+	Zap
+	0,50
+	5,00
+
+	36
+	10330
+	30
+	Peça
+	Caixa plástica organizadora com tampa / volume aproximado de 15 litros / dimensões aproximadas 45cm x 35cm x 15cm (CxLxA)
+	Giplás
+	19,90
+	597,00
+
+	37
+	4599
+	30
+	Peça
+	Caixa plástica organizadora com tampa / volume aproximado de 30 litros / dimensões aproximadas 45cm x 35cm x 30cm (CxLxA)
+	Plasútil
+	38,00
+	1.140,00
+
+	38
+	10613
+	10
+	Peça
+	Caixa plástica organizadora com tampa / volume aproximado de 60 litros / dimensões aproximadas 60cm x 40cm x 40cm (CxLxA)
+	Plasc
+	49,00
+	490,00
+
+	56
+	218
+	50
+	Peça
+	Caneta para retroprojetor / ponta de 2.0 mm / ponta de poliacetal para maior durabilidade / poderá ser pedido nas cores: vermelha, azul, preta e verde
+	Maxprint
+	1,56
+	78,00
+
+	61
+	1829
+	500
+	Peça
+	Carteirinha plástica para documento / tamanho 7cm x 10cm
+	DAC
+	0,27
+	135,00
+
+	90
+	27208
+	250
+	Peça
+	Envelope kraft / gramatura 80g/m² / tamanho aproximado 240mm x 340mm
+	Envopel
+	0,18
+	45,00
+
+	91
+	29187
+	100
+	Peças
+	Estilete grande reforçado / emborrachado / com trava acionada por um botão giratório (rosqueável) / lâmina de 18 mm / uso profissional.
+	Jocar
+	3,90
+	390,00
+
+	105
+	28415
+	10
+	Peça
+	Fichário 4 argolas / cor preta / tamanho 260x315x40 mm. 
+	DAC
+	14,20
+	142,00
+
+	112
+	1330
+	150
+	Rolos
+	Fita para empacotamento / base de papel liso marrom / forte adesividade / tamanho 48mm x 50m
+	Sicad
+	9,30
+	1.395,00
+
+	132
+	1264
+	750
+	Peça
+	Grampo trilho para pasta suspensa / material plástico flexível
+	Dello
+	0,15
+	112,50
+
+	134
+	36975
+	1500
+	Peça
+	Lacre tipo espinha de peixe / tamanho aproximado 23cm. (Cor Vermelha / Espinha miúda / Diâmetro máximo 3,4mm).
+	Nova
+	0,17
+	255,00
+
+	140
+	18491
+	40
+	Peça
+	Lápis Cópia / modelo de referência: Faber Castell 1800
+	Faber Castell
+	3,50
+	140,00
+
+	147
+	1785
+	50
+	Peça
+	Livro ata grande com 100 folhas numeradas / tamanho aproximado 205mm x 300mm
+	São Domingos
+	7,40
+	370,00
+
+	148
+	1764
+	50
+	Peça
+	Livro ata grande com 50 folhas numeradas / tamanho aproximado 205mm x 300mm
+	São Domingos
+	4,95
+	247,50
+
+	149
+	1286
+	20
+	Peça
+	Livro ponto
+	São Domingos
+	10,50
+	210,00
+
+	157
+	1230
+	60
+	Caixa
+	Massa para modelar / caixa com 12 cores (marca de referência: Faber Castell)
+	Koala
+	2,20
+	132,00
+
+	158
+	1518
+	70.000
+	Folha
+	Papel almaço pautado
+	Panamerica
+	0,07
+	4.900,00
+
+	159
+	1519
+	500
+	Folhas
+	Papel almaço sem pauta
+	Panamerica
+	0,07
+	35,00
+
+	167
+	23167
+	300
+	Folha
+	Papel couché / modelo casca de ovo / formato A4 / gramatura 180g/m²
+	Off paper
+	0,27
+	81,00
+
+	170
+	1705
+	25
+	Blocos
+	Papel flip chart / tamanho aprox. 64cm x 88cm / gramatura 75g/m² / bloco com 50 folhas.
+	São Domingos
+	31,60
+	790,00
+
+	203
+	1421
+	15
+	Peça
+	Perfurador manual de papel / material em metal pintado / capacidade para 12 folhas
+	Jocar
+	5,70
+	85,50
+
+	221
+	35651
+	30
+	Peça
+	Pincel chato número 18/ para uso artístico e escolar (guache, aquarela)
+	Jocar
+	1,50
+	45,00
+
+	228
+	1403
+	10
+	Peça
+	Porta fita adesiva / tamanho grande
+	Cavia
+	14,20
+	142,00
+
+	232
+	1808
+	150
+	Peças
+	Protetor flexível em PVC para crachá / com presilha tipo "jacaré" / tamanho 70x100 mm / vertical ou horizontal.
+	DAC
+	0,95
+	142,50
+
+	234
+	32174
+	5
+	Peça
+	Quadro magnético para recados / fundo branco / moldura de alumínio / 60x90cm
+	Vambel
+	103,00
+	515,00
+
+	237
+	33206
+	40
+	Peças
+	Refil preto para marcador recarregável de quadro branco / contendo 5,5ml.
+	Jocar
+	1,45
+	58,00
+
+	240
+	1309
+	20
+	Peças
+	Régua de aço / tamanho 30cm
+	CIS
+	6,75
+	135,00
+
+	244
+	28498
+	100
+	Peças
+	Relógio de parede / redondo / diâmetro de no mínimo 25cm / material plástico / cor externa: preta ou branca (ambas lisas) / cor interna: fundo liso branco, números pretos, ponteiros pretos ou vermelho.
+	Bells
+	20,90
+	2.090,00
+
+	245
+	23892
+	50
+	Peça
+	Ribbon 110 mm x 91metros / em resina / para impressora térmica Rabbit
+	DAB
+	17,50
+	875,00
+
+	249
+	12091
+	2.000
+	Peça
+	Saco plástico com 4 furos / medidas 24cm x 33cm / grosso com 0,15mm
+	DAC
+	0,19
+	380,00
+
+	250
+	410
+	2.000
+	Peça
+	Saco plástico sem furos / medidas 24cm x 33cm / grosso com 0,15mm
+	DAC
+	0,20
+	400,00
+
+	Preço total em R$ (algarismos)
+	17.551,50
+
+	Preço total em R$ (por extenso)
+	Dezessete mil, quinhentos e cinquenta e um reais e cinquenta centavos
+
+
+PAGAMENTO: O pagamento será efetuado em até 30 (trinta) dias consecutivos após a efetiva entrega (com descarga) dos materiais, desde que os mesmos estejam em perfeitas condições de uso, sejam aprovados pelo Gestor designado pela CONTRATANTE e sigam acompanhados da respectiva Nota Fiscal Eletrônica (NF-e), através de depósitos bancários (hipótese na qual a NF-e deverá conter os dados bancários da CONTRATADA) ou de boletos bancários (caso no qual tais documentos deverão acompanhar a NF-e).
+PRAZO DE VIGÊNCIA: A presente Ata de Registro de Preços terá a validade de 12 (doze) meses, contados a partir da data de sua assinatura..
+DATA: 20/07/2020.

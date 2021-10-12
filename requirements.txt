@@ -1,0 +1,5 @@
+querido-diario-toolbox
+jupyter
+pandas
+termcolor
+requests

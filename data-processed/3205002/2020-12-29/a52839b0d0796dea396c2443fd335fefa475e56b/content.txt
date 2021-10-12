@@ -1,0 +1,119 @@
+
+Prefeitura Municipal da Serra 
+Espirito Santo 
+
+DECRETO Nº 7132/2020 
+O PREFEITO MUNICIPAL DA SERRA, ESPÍRITO SANTO, usando de suas atribuições legais, e com base no artigo 9º inciso 
+I da Lei nº 5.155/2020 de 10/01/2020; 
+
+D E C R E T A: 
+Art. 1º. Ficam suplementadas no orçamento vigente as dotações orçamentárias constantes do Anexo I. 
+Art. 2º. Para efeito das suplementações constante no Artigo anterior, ficam anuladas as dotações orçamentárias, indicada 
+no anexo II. 
+Art. 3º. Este Decreto entra em vigor na data de sua publicação, revogadas as disposições em contrário 
+
+Palácio Municipal, em Serra, em 28 de dezembro de 2020 
+AUDIFAX CHARLES PIMENTEL BARCELOS 
+
+Prefeito Municipal 
+LAURIETE CANEVA 
+
+Secretária de Planejamento Estratégico 
+CRÉDITO ADICIONAL SUPLEMENTAR - ANEXO I - SUPLEMENTAÇÃO 
+
+R$ 1,00 
+
+CÓDIGO ESPECIFICAÇÃO NATUREZA FR VALOR 
+
+02.00.00 COORDENADORIA DE GOVERNO    
+
+02.01.00 Coordenadoria de Governo    
+
+04.122.0530.2001 Pagamento de Pessoal e Encargos 3.1.90.11.00 1.001.0000.0000 10.000 
+
+04.00.00 CONTROLADORIA GERAL DO MUNICÍPIO    
+
+04.01.00 Controladoria Geral do Município    
+
+04.122.0530.2001 Pagamento de Pessoal e Encargos 3.1.90.11.00 1.001.0000.0000 20.000 
+
+06.00.00 SEC. DE PLANEJAMENTO ESTRATÉGICO    
+
+06.01.00 Sec. de Planejamento Estratégico    
+
+04.122.0530.2001 Pagamento de Pessoal e Encargos 3.1.90.11.00 1.001.0000.0000 30.000 
+
+09.00.00 SECRETARIA DE SERVIÇOS    
+
+09.01.00 Secretaria de Serviços    
+
+04.122.0530.2001 Pagamento de Pessoal e Encargos 3.1.90.11.00 1.001.0000.0000 2.000 
+
+10.00.00 SEC. TURISMO, CULTURA, ESPORTE E LAZER    
+
+10.01.00 Sec. Turismo, Cultura, Esporte e Lazer    
+
+04.122.0530.2001 Pagamento de Pessoal e Encargos 3.1.90.11.00 1.001.0000.0000 10.000 
+
+19.00.00 SECRETARIA DE DEFESA SOCIAL    
+
+19.01.00 Secretaria de Defesa Social    
+
+06.183.0440.2256 Reestruturar, Ampliar e Manter Sistema de Videopro 3.3.90.30.00 1.001.0000.0000 6.052 
+  TOTAL  78.052 
+
+ 
+
+CRÉDITO ADICIONAL SUPLEMENTAR - ANEXO II - ANULAÇÃO 
+R$ 1,00 
+
+CÓDIGO ESPECIFICAÇÃO NATUREZA FR VALOR 
+
+06.00.00 SEC. DE PLANEJAMENTO ESTRATÉGICO    
+
+06.01.00 Sec. de Planejamento Estratégico    
+
+04.122.0530.2001 Pagamento de Pessoal e Encargos 3.3.90.36.00 1.001.0000.0000 20.000 
+
+07.00.00 SECRETARIA DA FAZENDA    
+
+07.01.00 Secretaria da Fazenda    
+
+04.122.0530.2001 Pagamento de Pessoal e Encargos 3.1.90.96.00 1.001.0000.0000 10.000 
+
+04.122.0530.2001 Pagamento de Pessoal e Encargos 3.1.91.92.00 1.001.0000.0000 2.000 
+
+09.00.00 SECRETARIA DE SERVIÇOS    
+
+09.01.00 Secretaria de Serviços    
+
+04.122.0530.2001 Pagamento de Pessoal e Encargos 3.1.90.92.00 1.001.0000.0000 5.000 
+
+04.122.0530.2001 Pagamento de Pessoal e Encargos 3.1.90.94.00 1.001.0000.0000 5.000 
+
+04.122.0530.2001 Pagamento de Pessoal e Encargos 3.1.90.96.00 1.001.0000.0000 5.000 
+
+10.00.00 SEC. TURISMO, CULTURA, ESPORTE E LAZER    
+
+10.01.00 Sec. Turismo, Cultura, Esporte e Lazer    
+
+04.122.0530.2001 Pagamento de Pessoal e Encargos 3.1.90.96.00 1.001.0000.0000 10.000 
+
+04.122.0530.2001 Pagamento de Pessoal e Encargos 3.3.90.39.00 1.001.0000.0000 10.000 
+
+13.00.00 SECRETARIA DE ASSISTÊNCIA SOCIAL    
+
+13.01.00 Secretaria de Assistência Social    
+
+08.122.0530.2001 Pagamento de Pessoal e Encargos 3.3.90.49.00 1.001.0000.0000 5.000 
+
+19.00.00 SECRETARIA DE DEFESA SOCIAL    
+
+19.02.00 Coordenadoria Municipal de Defesa Civil    
+
+06.182.0420.2013 Estruturar e Manter o Monitoramento das Áreas de R 3.3.90.39.00 1.001.0000.0000 6.052 
+  TOTAL  78.052 
+
+ 
+
+

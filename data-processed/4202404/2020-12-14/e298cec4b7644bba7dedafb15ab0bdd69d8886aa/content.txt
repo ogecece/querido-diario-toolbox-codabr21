@@ -1,0 +1,304 @@
+
+FUNDAÇÃO UNIVERSIDADE REGIONAL DE BLUMENAU
+
+Extrato nº. 527/2020
+PARTES:  FUNDAÇÃO UNIVERSIDADE REGIONAL DE BLUMENAU
+
+E
+
+                  WEIKAN TECNOLOGIA LTDA
+OBJETO: Registro de Preços para aquisições futuras de peças e equipamentos de informática para uso de diversos setores da Universidade.
+FUNDAMENTO LEGAL: Pregão Presencial (SRP) nº 263/2020 e Contrato nº 241/2020, firmado em 11 de dezembro de 2020.  
+PREÇO: O preço ofertado pela empresa signatária da presente Ata de Registro de Preços é o abaixo informado, de acordo com a respectiva classificação:
+	Item
+	Código FURB
+	Qtde.
+	Und.
+	Descrição do Item
+	Preço Unitário 
+(em R$)
+	Preço Total do Item 
+(em R$)
+
+	2
+	31925
+	25
+	Peça
+	Pente de memória DDR3 de 4GB, com as seguintes características:
+
+Tipo: DDR3
+
+Capacidade: 4GB
+
+Quantidade de pentes: 1 x 4GB
+
+Frequência mínima: 1333 MHz 
+
+Selos: Deverá ter etiqueta do fabricante contendo o modelo, número de série, logotipo e dados do fabricante impressos.
+
+Embalagem: Original do fabricante, lacrada e intacta.
+
+Garantia mínima: 12 (doze) meses
+	184,50
+	4.612,50
+
+	Preço Total do Item (em reais, por extenso)
+	Quatro mil, seiscentos e doze reais e cinquenta centavos.
+
+	Detalhamento das especificações técnicas
+
+	Marca
+	AFOX
+
+	Modelo
+	AFLD34AN1P
+
+	Garantia (em meses)
+	12 (doze) meses
+
+
+	Item
+	Código FURB
+	Qtde.
+	Und.
+	Descrição do Item
+	Preço Unitário 
+(em R$)
+	Preço Total do Item 
+(em R$)
+
+	3
+	33110
+	25
+	Peça
+	Pente de memória DDR3 de 8 GB, com as seguintes características:
+
+Tipo: DDR3
+
+Capacidade: 8 GB
+
+Quantidade de pentes: 1 x 8 GB
+
+Velocidade mínima: 1333MHz
+
+Selos: Deverá ter etiqueta do fabricante contendo o modelo, número de série, logotipo e dados do fabricante impressos 
+
+Embalagem: Original do fabricante, lacrada e intacta.
+
+Garantia mínima: 12 (doze) meses
+	335,00
+	8.375,00
+
+	Preço Total do Item (em reais, por extenso)
+	Oito mil, trezentos e setenta e cinco reais.
+
+	Detalhamento das especificações técnicas
+
+	Marca
+	AFOX
+
+	Modelo
+	AFLD38AK1P
+
+	Garantia (em meses)
+	12 (doze) meses
+
+
+	Item
+	Código FURB
+	Qtde.
+	Und.
+	Descrição do Item
+	Preço Unitário 
+(em R$)
+	Preço Total do Item 
+(em R$)
+
+	6
+	37447
+	100
+	Peça
+	Drive de estado sólido (SSD) / capacidade 120 GB / 2,5" / SATA III, com as seguintes características:
+
+Tipo: interno de 2,5”
+
+Capacidade mínima: 120 GB
+
+Interface: SATA III de 6 GB/s
+
+Velocidade mínima de leitura sequencial: 500 MB/s
+
+Alimentação: Interface padrão SATA 
+
+Expectativa de vida útil mínima (MTBF/MTTF): 1 milhão de horas
+
+Compatibilidade: Compatível para instalação em notebooks (2,5”)
+
+Embalagem: Original, lacrada e com todos os acessórios inclusos.
+
+Garantia: 
+
+- Mínima de 24 (vinte e quatro) meses no Brasil.
+
+- A garantia deverá ser atendida no Brasil, sem a necessidade de envio do disco para outros países.
+
+
+	183,18
+	18.318,00
+
+	Preço Total do Item (em reais, por extenso)
+	Dezoito mil, trezentos e dezoito reais.
+
+	Detalhamento das especificações técnicas
+
+	Marca
+	PATRIOT
+
+	Modelo
+	PBU120GS25SSDR
+
+	Garantia (em meses)
+	24 (vinte e quatro) meses
+
+
+	Item
+	Código FURB
+	Qtde.
+	Und.
+	Descrição do Item
+	Preço Unitário 
+(em R$)
+	Preço Total do Item 
+(em R$)
+
+	7
+	37813
+	100
+	Peça
+	Drive de estado sólido (SSD) / capacidade 240GB / 2,5" / SATA III, com as seguintes características:
+
+Tipo: interno de 2,5”
+
+Capacidade mínima: 240 GB
+
+Interface: SATA III de 6 GB/s
+
+Velocidade mínima de leitura sequencial: 500 MB/s 
+
+Alimentação: Interface padrão SATA 
+
+Expectativa de vida útil mínima (MTBF/MTTF): 1 milhão de horas
+
+Compatibilidade: Compatível para instalação em notebooks (2,5”)
+
+Embalagem: Original, lacrada e com todos os acessórios inclusos.
+
+Garantia: 
+
+- Mínima de 24 (vinte e quatro) meses no Brasil.
+
+- A garantia deverá ser atendida no Brasil, sem a necessidade de envio do disco para outros países.
+
+
+	255,99
+	25.599,00
+
+	Preço Total do Item (em reais, por extenso)
+	Vinte e cinco mil, quinhentos e noventa e nove reais.
+
+	Detalhamento das especificações técnicas
+
+	Marca
+	ADATA
+
+	Modelo
+	ASU630SS-240GQ-R
+
+	Garantia (em meses)
+	12 (doze) meses
+
+
+	Item
+	Código FURB
+	Qtde.
+	Und.
+	Descrição do Item
+	Preço Unitário 
+(em R$)
+	Preço Total do Item 
+(em R$)
+
+	17
+	29465
+	10
+	Peça
+	Disco rígido (HD) externo / capacidade de 1TB / conexão USB, com as seguintes características:
+
+Tipo: externo
+
+Padrão: 2,5 polegadas
+
+Capacidade mínima: 1TB
+
+Conectividade: 
+
+- Interface de comunicação e alimentação padrão USB 3.0 ou superior
+
+- Compatível com USB 2.0
+
+Compatibilidade:
+
+- Compatível com sistemas de arquivos NTFS, FAT32 e exFAT.
+
+- Compatível com Windows 10 ou superior, MacOS x e Linux
+
+Características físicas:
+
+- Formato 2,5” 
+
+- LED de indicação de leitura/atividade
+
+- Etiqueta do fabricante contendo:
+
+  - Marca
+
+  - Modelo 
+
+  - Número de série
+
+- Obrigatoriamente integrado pelo próprio fabricante, não sendo aceitos produtos montados com uso de cases externas.
+
+Embalagem: Original, lacrada e com os acessórios do fabricante
+
+Acessórios mínimos: 1 cabo de alimentação/dados USB 3.0
+
+Alimentação: Obrigatoriamente pelo próprio cabo usb, sem necessidade de fonte externa ou cabo adicional.
+
+Garantia do fabricante: 
+
+- Mínima de 12 (doze) meses no Brasil.
+
+- O fabricante deverá disponibilizar em seu site oficial, formulário para consulta da garantia do HD, devendo exibir assim que submetidos os dados do HD, seu prazo de garantia, modelo e número de série, sendo possível gerar uma ordem de troca/devolução direto no site, sem necessidade de atendimento via callcenter ou e-mail.
+
+- A garantia deverá ser atendida no Brasil, sem a necessidade de envio do disco para outros países.
+	375,48
+	3.754,80
+
+	Preço Total do Item (em reais, por extenso)
+	Três mil, setecentos e cinquenta reais.
+
+	Detalhamento das especificações técnicas
+
+	Marca
+	ADATA
+
+	Modelo
+	AHV620S – 1TU31 - CBK
+
+	Garantia (em meses)
+	12 (doze) meses
+
+
+PAGAMENTO: O pagamento será realizado em até 30 (trinta) dias consecutivos após a efetiva entrega (com descarga) do(s) equipamento(s) desde que estas sejam aprovados pela Gestão Contratual e sigam acompanhados da respectiva Nota Fiscal Eletrônica (NF-e), através de depósito bancário (hipótese na qual a NF-e deverá conter os dados bancários da CONTRATADA) ou de boleto bancário (caso no qual tal documento deverá acompanhar a NF-e).
+PRAZO DE VIGÊNCIA: A presente Ata de Registro de Preços terá a validade de 12 (doze) meses, contados a partir da data de sua assinatura.
+DATA: 11/12/2020.

@@ -1,0 +1,187 @@
+
+FUNDAÇÃO UNIVERSIDADE REGIONAL DE BLUMENAU
+
+Extrato nº. 046/2020
+PARTES:
+FUNDAÇÃO UNIVERSIDADE REGIONAL DE BLUMENAU
+e
+Sercompe Computadores Ltda.
+OBJETO: Registro de Preços para aquisições futuras de peças e acessórios, com fornecimento, instalação e configuração, utilizados na infraestrutura de servidores da DTI - Divisão de Tecnologia da Informação - da FURB.
+FUNDAMENTO LEGAL: Pregão Presencial (SRP) nº 456/2019 e ARP nº 007/2020, com validade a partir de 20 de fevereiro de 2019. 
+
+PREÇO:  O preço ofertado pela empresa signatária da presente Ata de Registro de Preços é o abaixo informado, de acordo com a respectiva classificação:
+
+	Lote_-_
+
+
+	Item
+	Código FURB
+	Qtde.
+	Und.
+	Descrição do Item
+	Marca / Modelo
+	Preço Unitário 
+(em R$)
+	Preço Total do Item 
+(em R$)
+
+	01
+	39867
+	6
+	Peça
+	HPE Synergy 480 Gen.10 Compute Module
+	HPE – HPE SY 480 GEN 10 CTO CMPT MDL PN 871940-B21
+	60.844,53
+	365.067,18
+
+	02
+	39868
+	24
+	Peça
+	Módulo de memória para HPE Synergy 480 Gen.10 Compute Module
+	HPE – HPE 32GB 2Rx4 PC4-2666V-R Smart Kit PN 815100-B21
+	3.122,20
+	74.932,80
+
+	Preço Total do Lote 
+
+(em reais e por extenso)
+	Quatrocentos e trinta e nove mil novecentos e noventa e nove reais e noventa e oito centavos
+
+
+	Lote_-_
+
+
+	Item
+	Código FURB
+	Qtde.
+	Und.
+	Descrição do Item
+	Marca / Modelo
+	Preço Unitário 
+(em R$)
+	Preço Total do Item 
+(em R$)
+
+	01
+	39869
+
+
+	4
+	Peça
+	HP BladeSystem c-Class QSFP+ to 4 x 10G SFP+ 15 m active optical cable
+	HPE HP BladeSystem c-Class QSFP+ to 4x10G SFP+ 15 m active optical cable
+	9.750,00
+	39.000,00
+
+	Preço Total do Lote 
+
+(em reais e por extenso)
+	Trinta e nove mil reais
+
+
+	Lote_-_
+
+
+	Item
+	Código FURB
+	Qtde.
+	Und.
+	Descrição do Item
+	Marca / Modelo
+	Preço Unitário 
+(em R$)
+	Preço Total do Item 
+(em R$)
+
+	01
+	39870
+	2
+	Peça
+	HPE 3PAR 8000 SFF (2.5in) Field Install Drive Enclosure
+	HPE HPE 3PAR 8000 SFF (2.5in) Fld Int Dr Encl PN E7Y71A
+	22.483,34
+	44.966,68
+
+	02
+	39871
+	2
+	Peça
+	HPE 3PAR 8000 LFF (3.5in) Field Install Drive Enclosure
+	HPE HPE 3PAR 8000 LFF (3.5in) Fld Int Dr Encl PN E7Y72A
+	22.483,34
+	44.966,68
+
+	03
+	39872
+	8
+	Peça
+	HPE 3PAR 8000 1.92 TB+SW SFF SSD
+	HPE HPE 3PAR 8000 1.92 Tb+SW SFF SSD PN K2P89B
+	29.562,00
+	236.496,00
+
+	04
+	39873
+	16
+	Peça
+	HPE 3PAR 8000 3.84 TB+SW SFF SSD
+	HPE HPE 3PAR 8000 3.84 TB+SW SFF SSD PN K2P91B
+	55.309,02
+	884.944,32
+
+	05
+	39874
+	16
+	Peça
+	HPE 3PAR 8000 7.68 TB+SW SFF SSD
+	HPE HPE 3PAR 8000 7.68TB+SW SFF SSD PN P9L83B
+	99.899,32
+	1.598.369,12
+
+	06
+	39875
+	8
+	Peça
+	HPE 3PAR 8000 1.8 TB+SW 10K SFF HDD - SAS
+	HPE HPE 3PAR 8000 1.8TB+SW 10K SFF HDD PN K2P94B
+	6.562,60
+	52.500,80
+
+	07
+	39876
+	8
+	Peça
+	HPE 3PAR 8000 2 TB+SW 7.2K SFF HDD - NLSAS
+	HPE HPE 3PAR 8000 2TB+SW 7.2K SFF HDD PN M0S92B
+	6.788,39
+	54.307,12
+
+	08
+	39877
+	16
+	Peça
+	HPE 3PAR 8000 4 TB+SW 7.2K LFF HDD - NLSAS
+	HPE HPE 3PAR 8000 4TB+SW 7.2K LFF HDD PN K2P87B
+	8.193,96
+	131.103,36
+
+	09
+	39878
+	16
+	Peça
+	HPE 3PAR 8000 8 TB+SW 7.2K LFF HDD - NLSAS
+	HPE HPE 3PAR 8000 8TB+SW 7.2K LFF HDD PN P9B44B
+	9.520,37
+	152.325,92
+
+	Preço Total do Lote 
+
+(em reais e por extenso)
+	Três milhões e duzentos mil reais
+
+
+PAGAMENTO: O pagamento será efetuado em até 30 (trinta) dias consecutivos após a efetiva entrega (com descarga) dos produtos e prestação dos serviços de instalação e configuração, desde que os mesmos estejam em perfeitas condições de uso, sejam aprovados pelo Gestor designado pela CONTRATANTE e sigam acompanhados da respectiva Nota Fiscal Eletrônica (NF-e), através de depósitos bancários (hipótese na qual a NF-e deverá conter os dados bancários da CONTRATADA) ou de boletos bancários (caso no qual tais documentos deverão acompanhar a NF-e).
+
+PRAZO DE VIGÊNCIA: A presente Ata de Registro de Preços terá a validade a partir da data de sua assinatura.
+DATA: 20/02/2020

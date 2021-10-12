@@ -1,0 +1,226 @@
+
+FUNDAÇÃO UNIVERSIDADE REGIONAL DE BLUMENAU
+
+Extrato nº. 556/2020
+PARTES:  FUNDAÇÃO UNIVERSIDADE REGIONAL DE BLUMENAU
+
+E
+
+PRODUVALE PRODUTOS HOSPITALARES LTDA
+OBJETO: Registro de preços para aquisições futuras de materiais médico hospitalar e de higiene e beleza para a Universidade.
+FUNDAMENTO LEGAL: Concorrência (SRP) nº 200/2020 e Ata de Registro de Preços nº 246/2020, válida a partir de 18 de dezembro de 2020.  
+PREÇO: O preço ofertado pela empresa signatária da presente Ata de Registro de Preços é o abaixo informado, de acordo com a respectiva classificação:
+
+	Item
+	Código FURB
+	Qtde. Estimada
+	Und.
+	Descrição dos Produtos
+	Marca e Modelo
+	Preço
+
+Unitário
+	Preço Total do Item
+
+	13
+	8464
+	48
+	Peça
+	Atadura de algodão ortopédico / tamanho 6cm x 100cm
+	Polar Fix
+	0,23
+	11,04
+
+	19
+	8379
+	300
+	Rolo
+	Atadura de crepom / em 100% algodão / densidade 13 fios/cm² / medida 6cm x 450cm.
+	Cremer
+	0,54
+	162,00
+
+	23
+	11365
+	50
+	Peça
+	Bota de Unna pronta para uso / bandagem flexível (70% poliéster e 30% algodão) impregnada com pasta de óxido de zinco, acácia, glicerina, óleo de rícino (ou óleo de castor) e petrolato branco / medidas 10,16cm x 9,14m
+	Casex
+	25,00
+	1.250,00
+
+	26
+	27579
+	800
+	Peça
+	Cateter endovenoso / radiopaco / atóxico / estéril / apirogênico / insyte / 22G / esterilizado por óxido de etileno / Acondicionado em embalagem original do fabricante com dados de identificação do produto, data de fabricação, prazo de validade e com registro do Ministério da Saúde.
+	Solidor
+	0,74
+	592,00
+
+	27
+	24747
+	1000
+	Peça
+	Cateter endovenoso / radiopaco / atóxico / estéril / apirogênico / insyte / 24G / esterilizado por óxido de etileno / Acondicionado em embalagem original do fabricante com dados de identificação do produto, data de fabricação, prazo de validade e com registro do Ministério da Saúde.
+	Solidor
+	0,85
+	850,00
+
+	34
+	10578
+	500
+	Peça
+	Coletor de urina infantil / modelo feminino
+	Labor Import
+	0,32
+	160,00
+
+	40
+	10378
+	3.500
+	Peça
+	Copo de coleta de fezes / volume 80ml.
+	Cral
+	0,24
+	840,00
+
+	67
+	8968
+	30
+	Caixa
+	Fio de sutura algodão 2-0 / não absorvível / estéril / sem agulha / caixa com 24 unidades / Acondicionado em embalagem original do fabricante, com nome do responsável técnico, o lote, data de fabricação, validade e registro do Ministério da Saúde.
+	Shalon
+	49,00
+	1.470,00
+
+	95
+	35800
+	20
+	Caixa
+	Fixador X-Omat para 38L / caixa com 2 frasco para preparar 38L / acondicionado em embalagem original do fabricante, com nome do responsável técnico, o lote, data de fabricação, validade e registro do Ministério da Saúde.
+	DBI
+	121,00
+	2.420,00
+
+	103
+	11388
+	10
+	Tubo      
+	Hidrogel translúcido formado por carboximetilcelulose sódica e alginato de cálcio e sódio / tubo de 85g.
+	Casex
+	29,00
+	290,00
+
+	104
+	28094
+	20
+	Pacote
+	Integrador químico Comply 1243 / pacote com 100 unidades.
+	Clean
+	100,00
+	2.000,00
+
+	106
+	21741
+	10
+	Caixa
+	Lâmina de bisturi nº 12 - Aço Carbono - Estéril - caixa c/ 100 - Acondicionado em embalagem original do fabricante, com nome do responsável técnico, o lote, data de fabricação, validade e registro do Ministério da Saúde.
+	Solidor
+	32,00
+	320,00
+
+	107
+	21742
+	10
+	Caixa
+	Lâmina de bisturi nº 15 - Aço carbono - Estéril - caixa c/ 100 - Acondicionado em embalagem original do fabricante, com nome do responsável técnico, o lote, data de fabricação, validade e registro do Ministério da Saúde.
+	Solidor
+	32,00
+	320,00
+
+	108
+	21744
+	30
+	Caixa
+	Lâmina para bisturi número 20 / caixa com 100 lâminas / Acondicionado em embalagem original do fabricante, com nome do responsável técnico, o lote, data de fabricação, validade e registro do Ministério da Saúde.
+	Solidor
+	32,00
+	960,00
+
+	135
+	28887
+	3
+	Peça
+	Otoscópio pediátrico; lâmpada xenon; cabeça e cabo siliconado; janela de visão 3 vezes.
+	Mikatos
+	271,58
+	814,74
+
+	140
+	10099
+	60
+	Rolo
+	Papel para eletrocardiograma (ECG) termosensível / tamanho 216mm x 30m, compatível com equipamento BIONET.
+	Tecnoprint
+	20,57
+	1.234,20
+
+	162
+	22200
+	100
+	Pacote
+	Saco de lixo hospitalar / capacidade 100 litros / pacote com 100 peças.
+	Teckplast
+	31,55
+	3.155,00
+
+	164
+	5941
+	5.000
+	Peça
+	Sapatilha cirúrgica Pro-Pé / gramatura 30g.
+	Anadona
+	0,32
+	1.600,00
+
+	167
+	8754
+	3.000
+	Peça
+	Seringa descartável / capacidade 1ml / com agulha removível / êmbolo não removível / fabricada em polipropileno / esterilizada a óxido de etileno / atóxica / apirogênica. Acondicionado em embalagem original do fabricante, com nome do responsável técnico, o lote, data de fabricação, validade e registro do Ministério da Saúde.
+	SR 
+	0,20
+	600,00
+
+	171
+	37528
+	200
+	Caixa
+	Seringa descartável insulina com capacidade 0,5ml / êmbolo não removível /  fabricada em polipropileno / esterilizada a óxido de etileno/ atóxica / apirogênica / acompanhada de agulha insulina 8mm x 0,03mm / caixa com 10 unidades / Acondicionado em embalagem original do fabricante, com nome do responsável técnico, o lote, data de fabricação, validade e registro do Ministério da Saúde.
+	SR 
+	2,97
+	594,00
+
+	190
+	36766
+	60
+	Peça
+	Sonda Foley / duas vias / número 8.
+	Solidor
+	4,78
+	286,80
+
+	200
+	22859
+	20
+	Peça
+	Termômetro clínico digital flexível / para temperatura corporal / visor em cristal líquido / memória a prova d'água.
+	ABC
+	14,61
+	292,20
+
+
+PAGAMENTO: O pagamento será realizado em até 30 (trinta) dias consecutivos após a efetiva entrega (com descarga) do(s) material(is), desde que estes sejam aprovados pela Gestão Contratual e acompanhados da respectiva Nota Fiscal Eletrônica (NF-e), através de depósito bancário (hipótese na qual a NF-e deverá conter os dados bancários da CONTRATADA) ou de boleto bancário (caso no qual tal documento deverá acompanhar a NF-e).
+PRAZO DE VIGÊNCIA: A presente Ata de Registro de Preços terá a validade de 12 (doze) meses, contados a partir da data de sua assinatura.
+DATA: 18/12/2020.

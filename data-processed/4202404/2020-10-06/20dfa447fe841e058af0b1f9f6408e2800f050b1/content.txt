@@ -1,0 +1,80 @@
+
+FUNDAÇÃO UNIVERSIDADE REGIONAL DE BLUMENAU
+
+Extrato nº. 393/2020
+PARTES:  FUNDAÇÃO UNIVERSIDADE REGIONAL DE BLUMENAU
+
+E
+
+                  WECOM COMÉRCIO, DISTRIBUIÇÃO E SERVIÇOS EM TECNOLOGIA DA INFORMAÇÃO S/A
+OBJETO: Aquisição de equipamentos de áudio e vídeo para uso nas aulas via streaming da Universidade.
+FUNDAMENTO LEGAL: Pregão Presencial nº 210/2020 e Contrato nº 179/2020, firmado em 02 de outubro de 2020.  
+PREÇO: Pelo objeto contratado, a CONTRATANTE pagará o preço constante nas tabelas abaixo, de acordo com a proposta apresentada pela CONTRATADA:
+	Item
+	Código FURB
+	Qtde.
+	Und.
+	Descrição do Item
+	Marca  e Modelo
+	Preço Unitário (em R$)
+	Preço Total do Item
+
+ (em R$)
+
+	1
+	40173
+	40
+	Peça
+	Webcam para videoconferência, Full-HD, USB, média, com as seguintes características:
+Conectividade:
+
+· Interface USB 2.0 ou superior;
+· Plug and Play
+Cabo: Deverá ser integrado a webcam e ter no mínimo 1,5 metro de comprimento
+
+Cores: preta, cinza ou branca
+Microfone:
+
+· Interno duplo;
+
+· Deverá possuir tecnologia para redução de ecos e ruídos.
+
+· Alcance mínimo de 3 metros.
+
+Autofalantes: integrados ao corpo da webcam 
+
+Ângulo de visão: mínimo de 90º (graus)
+
+Funcionalidades:
+
+· Permitir montagem em tripé através de rosca universal
+
+· Foco automático para fotos e vídeos
+
+· Correção automática de luminosidade
+
+Resoluções mínimas:
+
+· 1920x1080 pixels para fotografia
+
+· 1920x1080 pixels para gravação de vídeos com no mínimo 30 fps (frames por segundo)
+
+Compatibilidade: Windows 10 ou superior
+Embalagem: Original do fabricante, lacrada e intacta.
+Garantia: Mínima de 12 (doze) meses.
+
+	Wecom / Allwebcam
+
+Garantia: 12 meses
+	839,00
+	33.560,00
+
+	Preço Total do Item 
+
+(em reais, por extenso)
+	Trinta e três mil, quinhentos e sessenta reais.
+
+
+PAGAMENTO: O pagamento será realizado em até 30 (trinta) dias consecutivos após a efetiva entrega (com descarga) do(s) produto(s) desde que estas sejam aprovados pela Gestão Contratual e sigam acompanhados da respectiva Nota Fiscal Eletrônica (NF-e), através de depósito bancário (hipótese na qual a NF-e deverá conter os dados bancários da CONTRATADA) ou de boleto bancário (caso no qual tal documento deverá acompanhar a NF-e).
+PRAZO DE VIGÊNCIA: Por se tratar de contratação imediata, este contrato terá início a partir da data de sua assinatura e encerramento vinculado ao término do respectivo exercício financeiro, em conformidade com o descrito no caput do artigo 57 da Lei Federal nº. 8.666/93.
+DATA: 05/10/2020.

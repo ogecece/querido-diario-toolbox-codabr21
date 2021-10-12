@@ -1,0 +1,310 @@
+
+ESTADO DO ESPÍRITO SANTO
+PREFEITURA MUNICIPAL DE GUARAPARI
+
+SECRETARIA MUNICIPAL DA SAÚDE
+
+MANUAL DE
+PROCEDIMENTOS OPERACIONAIS
+
+PADRÃO – POP (ACS)
+
+ATENÇÃO PRIMÁRIA
+
+Guarapari - ES
+Setembro de 2020
+
+
+
+MUNICÍPIO DE GUARAPARI
+ESTADO DO ESPIRITO SANTO
+
+SECRETARIA MUNICIPAL DA SAÚDE
+
+PREFEITURA MUNICIPAL DE GUARAPARI
+Edson Figueiredo Magalhães – Prefeito
+
+SECRETÁRIA MUNICIPAL DE SAÚDE
+Alessandra Santos Albani - Secretária
+
+SECRETÁRIO MUNICIPAL DE SAÚDE ADJUNTO
+Murilo Tardin – Secretário Adjunto
+
+https://www.google.com.br/imgres?imgurl=http%3A%2F%2Fwww.guarapari.es.gov.br%2Fportal%2Fimages%2Fbrasao-pmg-guarapari-2012.png&imgrefurl=http%3A%2F%2Fwww.guarapari.es.gov.br%2F&docid=QJZSyxidncSWBM&tbnid=2ipF8WxqSLe6BM%3A&vet=10ahUKEwj8isjb273TAhVKkpAKHUr4DvIQMwgsKAQwBA..i&w=282&h=80&safe=active&bih=974&biw=1920&q=brasão da prefeitura de guarapari&ved=0ahUKEwj8isjb273TAhVKkpAKHUr4DvIQMwgsKAQwBA&iact=mrc&uact=8
+https://www.google.com.br/imgres?imgurl=http%3A%2F%2Fwww.guarapari.es.gov.br%2Fportal%2Fimages%2Fbrasao-pmg-guarapari-2012.png&imgrefurl=http%3A%2F%2Fwww.guarapari.es.gov.br%2F&docid=QJZSyxidncSWBM&tbnid=2ipF8WxqSLe6BM%3A&vet=10ahUKEwj8isjb273TAhVKkpAKHUr4DvIQMwgsKAQwBA..i&w=282&h=80&safe=active&bih=974&biw=1920&q=brasão da prefeitura de guarapari&ved=0ahUKEwj8isjb273TAhVKkpAKHUr4DvIQMwgsKAQwBA&iact=mrc&uact=8
+https://www.google.com.br/imgres?imgurl=http%3A%2F%2Fwww.guarapari.es.gov.br%2Fportal%2Fimages%2Fbrasao-pmg-guarapari-2012.png&imgrefurl=http%3A%2F%2Fwww.guarapari.es.gov.br%2F&docid=QJZSyxidncSWBM&tbnid=2ipF8WxqSLe6BM%3A&vet=10ahUKEwj8isjb273TAhVKkpAKHUr4DvIQMwgsKAQwBA..i&w=282&h=80&safe=active&bih=974&biw=1920&q=brasão da prefeitura de guarapari&ved=0ahUKEwj8isjb273TAhVKkpAKHUr4DvIQMwgsKAQwBA&iact=mrc&uact=8
+
+
+MUNICÍPIO DE GUARAPARI
+ESTADO DO ESPIRITO SANTO
+
+SECRETARIA MUNICIPAL DA SAÚDE
+
+COMISSÃO TÉCNICA
+
+Gerente de Atenção Primária em Saúde
+Lasimara da Costa Silva
+
+Supervisão Técnica de Atenção Saúde
+Gabriela Vizzoni Mezadri
+
+Supervisão de Serviços Ambulatóriais
+Isaquea Brambati
+
+Endereço da Secretária Municipal de Saúde: Rua Adamastor Antônio da Silva, s/nº, Muquiçaba, Guarapari,
+ES- CEP: 29.200-000
+
+https://www.google.com.br/imgres?imgurl=http%3A%2F%2Fwww.guarapari.es.gov.br%2Fportal%2Fimages%2Fbrasao-pmg-guarapari-2012.png&imgrefurl=http%3A%2F%2Fwww.guarapari.es.gov.br%2F&docid=QJZSyxidncSWBM&tbnid=2ipF8WxqSLe6BM%3A&vet=10ahUKEwj8isjb273TAhVKkpAKHUr4DvIQMwgsKAQwBA..i&w=282&h=80&safe=active&bih=974&biw=1920&q=brasão da prefeitura de guarapari&ved=0ahUKEwj8isjb273TAhVKkpAKHUr4DvIQMwgsKAQwBA&iact=mrc&uact=8
+https://www.google.com.br/imgres?imgurl=http%3A%2F%2Fwww.guarapari.es.gov.br%2Fportal%2Fimages%2Fbrasao-pmg-guarapari-2012.png&imgrefurl=http%3A%2F%2Fwww.guarapari.es.gov.br%2F&docid=QJZSyxidncSWBM&tbnid=2ipF8WxqSLe6BM%3A&vet=10ahUKEwj8isjb273TAhVKkpAKHUr4DvIQMwgsKAQwBA..i&w=282&h=80&safe=active&bih=974&biw=1920&q=brasão da prefeitura de guarapari&ved=0ahUKEwj8isjb273TAhVKkpAKHUr4DvIQMwgsKAQwBA&iact=mrc&uact=8
+https://www.google.com.br/imgres?imgurl=http%3A%2F%2Fwww.guarapari.es.gov.br%2Fportal%2Fimages%2Fbrasao-pmg-guarapari-2012.png&imgrefurl=http%3A%2F%2Fwww.guarapari.es.gov.br%2F&docid=QJZSyxidncSWBM&tbnid=2ipF8WxqSLe6BM%3A&vet=10ahUKEwj8isjb273TAhVKkpAKHUr4DvIQMwgsKAQwBA..i&w=282&h=80&safe=active&bih=974&biw=1920&q=brasão da prefeitura de guarapari&ved=0ahUKEwj8isjb273TAhVKkpAKHUr4DvIQMwgsKAQwBA&iact=mrc&uact=8
+
+
+MUNICÍPIO DE GUARAPARI
+ESTADO DO ESPIRITO SANTO
+
+SECRETARIA MUNICIPAL DA SAÚDE
+
+SISTEMA DE GESTÃO
+PROCEDIMENTO OPERACIONAL
+
+PADRÃO POP
+
+FECHAMENTO DE PRODUÇÃO DOS
+AGENTES COMUNITÁRIOS DE SAÚDE
+
+Setores: Unidades de
+Saúde da Família
+
+Nº. POP: XX
+Elaborado em: 07/2020
+Revisão: 09/2020
+Nº. de páginas: 03
+
+Atividade: Estabelecer fluxo
+de trabalho e atribuições
+para as equipes de Agentes
+Comunitários de Saúde.
+
+Executantes: Agentes Comunitários de
+Saúde
+
+Objetivo:
+Padronizar fluxo de trabalho e atribuições das equipes de Agentes
+
+Comunitários de Saúde nas unidades.
+
+Indicações:
+Assistência à Saúde
+
+PROCEDIMENTOS:
+1- Realização das visitas domiciliares na microárea;
+
+2- Manter cadastros domiciliares e individuais atualizados;
+
+3- Alimentar a ficha de controle de visitas domiciliares;
+
+4- Preenchimento da planilha padrão elaborada pela gestão;
+
+5- Fechamento da produção no fim de cada mês;
+
+6- Validação do fechamento da produção pelo enfermeiro; comprovante de
+
+entrega e recebimento em duas vias dos documentos a serem enviados à
+
+https://www.google.com.br/imgres?imgurl=http%3A%2F%2Fwww.guarapari.es.gov.br%2Fportal%2Fimages%2Fbrasao-pmg-guarapari-2012.png&imgrefurl=http%3A%2F%2Fwww.guarapari.es.gov.br%2F&docid=QJZSyxidncSWBM&tbnid=2ipF8WxqSLe6BM%3A&vet=10ahUKEwj8isjb273TAhVKkpAKHUr4DvIQMwgsKAQwBA..i&w=282&h=80&safe=active&bih=974&biw=1920&q=brasão da prefeitura de guarapari&ved=0ahUKEwj8isjb273TAhVKkpAKHUr4DvIQMwgsKAQwBA&iact=mrc&uact=8
+https://www.google.com.br/imgres?imgurl=http%3A%2F%2Fwww.guarapari.es.gov.br%2Fportal%2Fimages%2Fbrasao-pmg-guarapari-2012.png&imgrefurl=http%3A%2F%2Fwww.guarapari.es.gov.br%2F&docid=QJZSyxidncSWBM&tbnid=2ipF8WxqSLe6BM%3A&vet=10ahUKEwj8isjb273TAhVKkpAKHUr4DvIQMwgsKAQwBA..i&w=282&h=80&safe=active&bih=974&biw=1920&q=brasão da prefeitura de guarapari&ved=0ahUKEwj8isjb273TAhVKkpAKHUr4DvIQMwgsKAQwBA&iact=mrc&uact=8
+https://www.google.com.br/imgres?imgurl=http%3A%2F%2Fwww.guarapari.es.gov.br%2Fportal%2Fimages%2Fbrasao-pmg-guarapari-2012.png&imgrefurl=http%3A%2F%2Fwww.guarapari.es.gov.br%2F&docid=QJZSyxidncSWBM&tbnid=2ipF8WxqSLe6BM%3A&vet=10ahUKEwj8isjb273TAhVKkpAKHUr4DvIQMwgsKAQwBA..i&w=282&h=80&safe=active&bih=974&biw=1920&q=brasão da prefeitura de guarapari&ved=0ahUKEwj8isjb273TAhVKkpAKHUr4DvIQMwgsKAQwBA&iact=mrc&uact=8
+
+
+SEMSA pelo enfermeiro responsável;
+
+7- Envio dos relatórios para o setor administrativo da Atenção Primária na
+
+Secretaria de Saúde até o dia 05 de cada mês com protocolo preenchido
+
+para serem recibados. As fichas devem ser entregues em vias originais e
+
+sem rasuras.
+
+ATRIBUIÇÕES:
+
+ Orientar a comunidade para utilização adequada dos serviços de
+
+saúde;
+
+ Realizar diagnóstico demográfico, social, cultural, ambiental,
+
+epidemiológico e sanitário do território em que atuam, contribuindo
+
+para o processo de territorialização e mapeamento da área de
+
+atuação da equipe;
+
+ Registrar, para fins de planejamento e acompanhamento das ações
+
+de saúde, os dados de nascimentos, óbitos, doenças e outros
+
+agravos à saúde, garantido o sigilo ético;
+
+ Cadastrar famílias de sua área de abrangência e manter os
+
+cadastros atualizados no sistema de informação da Atenção Básica
+
+vigente, utilizando-os de forma sistemática, com apoio da equipe,
+
+para a análise da situação de saúde, considerando as características
+
+sociais, econômicas, culturais, demográficas e epidemiológicas do
+
+território, e priorizando as situações a serem acompanhadas no
+
+planejamento local;
+
+ Identificar indivíduos e famílias expostos a situação de risco;
+
+ Realizar visitas domiciliares, acompanhar todas as famílias e
+
+indivíduos sob sua responsabilidade fazendo anotações e tomando
+
+medidas pertinentes. As visitas deverão ser programadas em
+
+conjunto com a equipe, considerando os critérios de risco e
+
+vulnerabilidade de modo que famílias com maior necessidade sejam
+
+visitadas mais vezes, mantendo como referência a média de uma
+
+visita/família/mês;
+
+ Desenvolver atividades de promoção da saúde, de prevenção de
+
+doenças e agravos, em especial aqueles mais prevalentes no
+
+território, e de vigilância em saúde, por meio de visitas domiciliares
+
+regulares e de ações educativas individuais e coletivas, na USF, no
+
+
+
+domicílio e outros espaços da comunidade, incluindo a investigação
+
+epidemiológica de casos suspeitos de doenças e agravos junto a
+
+outros profissionais da equipe quando necessário;
+
+ Realizar atividades programadas e de atenção à demanda
+
+espontânea;
+
+ Desenvolver ações que busquem a integração entre a equipe de
+
+saúde e a população adscrita à UBS, considerando as características
+
+e as finalidades do trabalho de acompanhamento de indivíduos e
+
+grupos sociais ou coletividade;
+
+ Estar em contato permanente com as famílias, desenvolvendo ações
+
+educativas, visando à promoção da saúde, à prevenção das doenças
+
+e ao acompanhamento das pessoas com problemas de saúde, bem
+
+como ao acompanhamento das condicionalidades do Programa
+
+Bolsa-Família ou de qualquer outro programa similar de transferência
+
+de renda e enfrentamento de vulnerabilidades implantado pelo
+
+governo federal, estadual e municipal, de acordo com o planejamento
+
+da equipe.
+
+ Identificar casos suspeitos de doenças e agravos, encaminhar os
+
+usuários para a unidade de saúde de referência, registrar e
+
+comunicar o fato à autoridade de saúde responsável pelo território;
+
+ Identificar parceiros e recursos na comunidade que possam
+
+potencializar ações intersetoriais de relevância para a promoção da
+
+qualidade de vida da população, como ações e programas de
+
+educação, esporte e lazer, assistência social, entre outros; e
+
+ Utilizar instrumentos para a coleta de informações que apoiem no
+
+diagnóstico demográfico e sociocultural da comunidade;
+
+ Desenvolver ações que busquem a integração entre a equipe de
+
+saúde e a população adscrita à UBS, considerando as características
+
+e as finalidades do trabalho de acompanhamento de indivíduos e
+
+grupos sociais ou coletividades;
+
+Elaboração: Gerência de
+Atenção Primária em Saúde
+
+Aprovação: Comissão Técnica do POP.
+
+
+
+MUNICÍPIO DE GUARAPARI
+ESTADO DO ESPIRITO SANTO
+
+SECRETARIA MUNICIPAL DA SAÚDE
+
+PROTOCOLO DE ENTREGA DE PRODUÇÃO
+
+Unidade de Saúde:________________________________________________________
+
+Data de entrega:__________________________________________________________
+
+Documentos:_____________________________________________________________
+
+________________________________________________________________________
+
+________________________________________________________________________
+
+Entregue por:_____________________________________________________________
+
+Recebido por:_____________________________________________________________
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+MUNICÍPIO DE GUARAPARI
+ESTADO DO ESPIRITO SANTO
+
+SECRETARIA MUNICIPAL DA SAÚDE
+
+PROTOCOLO DE ENTREGA DE PRODUÇÃO
+
+Unidade de Saúde:________________________________________________________
+
+Data de entrega:__________________________________________________________
+
+Documentos:_____________________________________________________________
+
+________________________________________________________________________
+
+________________________________________________________________________
+
+Entregue por:_____________________________________________________________
+
+Recebido por:_____________________________________________________________
+
+https://www.google.com.br/imgres?imgurl=http%3A%2F%2Fwww.guarapari.es.gov.br%2Fportal%2Fimages%2Fbrasao-pmg-guarapari-2012.png&imgrefurl=http%3A%2F%2Fwww.guarapari.es.gov.br%2F&docid=QJZSyxidncSWBM&tbnid=2ipF8WxqSLe6BM%3A&vet=10ahUKEwj8isjb273TAhVKkpAKHUr4DvIQMwgsKAQwBA..i&w=282&h=80&safe=active&bih=974&biw=1920&q=brasão da prefeitura de guarapari&ved=0ahUKEwj8isjb273TAhVKkpAKHUr4DvIQMwgsKAQwBA&iact=mrc&uact=8
+https://www.google.com.br/imgres?imgurl=http%3A%2F%2Fwww.guarapari.es.gov.br%2Fportal%2Fimages%2Fbrasao-pmg-guarapari-2012.png&imgrefurl=http%3A%2F%2Fwww.guarapari.es.gov.br%2F&docid=QJZSyxidncSWBM&tbnid=2ipF8WxqSLe6BM%3A&vet=10ahUKEwj8isjb273TAhVKkpAKHUr4DvIQMwgsKAQwBA..i&w=282&h=80&safe=active&bih=974&biw=1920&q=brasão da prefeitura de guarapari&ved=0ahUKEwj8isjb273TAhVKkpAKHUr4DvIQMwgsKAQwBA&iact=mrc&uact=8
+https://www.google.com.br/imgres?imgurl=http%3A%2F%2Fwww.guarapari.es.gov.br%2Fportal%2Fimages%2Fbrasao-pmg-guarapari-2012.png&imgrefurl=http%3A%2F%2Fwww.guarapari.es.gov.br%2F&docid=QJZSyxidncSWBM&tbnid=2ipF8WxqSLe6BM%3A&vet=10ahUKEwj8isjb273TAhVKkpAKHUr4DvIQMwgsKAQwBA..i&w=282&h=80&safe=active&bih=974&biw=1920&q=brasão da prefeitura de guarapari&ved=0ahUKEwj8isjb273TAhVKkpAKHUr4DvIQMwgsKAQwBA&iact=mrc&uact=8
+https://www.google.com.br/imgres?imgurl=http%3A%2F%2Fwww.guarapari.es.gov.br%2Fportal%2Fimages%2Fbrasao-pmg-guarapari-2012.png&imgrefurl=http%3A%2F%2Fwww.guarapari.es.gov.br%2F&docid=QJZSyxidncSWBM&tbnid=2ipF8WxqSLe6BM%3A&vet=10ahUKEwj8isjb273TAhVKkpAKHUr4DvIQMwgsKAQwBA..i&w=282&h=80&safe=active&bih=974&biw=1920&q=brasão da prefeitura de guarapari&ved=0ahUKEwj8isjb273TAhVKkpAKHUr4DvIQMwgsKAQwBA&iact=mrc&uact=8
+https://www.google.com.br/imgres?imgurl=http%3A%2F%2Fwww.guarapari.es.gov.br%2Fportal%2Fimages%2Fbrasao-pmg-guarapari-2012.png&imgrefurl=http%3A%2F%2Fwww.guarapari.es.gov.br%2F&docid=QJZSyxidncSWBM&tbnid=2ipF8WxqSLe6BM%3A&vet=10ahUKEwj8isjb273TAhVKkpAKHUr4DvIQMwgsKAQwBA..i&w=282&h=80&safe=active&bih=974&biw=1920&q=brasão da prefeitura de guarapari&ved=0ahUKEwj8isjb273TAhVKkpAKHUr4DvIQMwgsKAQwBA&iact=mrc&uact=8
+https://www.google.com.br/imgres?imgurl=http%3A%2F%2Fwww.guarapari.es.gov.br%2Fportal%2Fimages%2Fbrasao-pmg-guarapari-2012.png&imgrefurl=http%3A%2F%2Fwww.guarapari.es.gov.br%2F&docid=QJZSyxidncSWBM&tbnid=2ipF8WxqSLe6BM%3A&vet=10ahUKEwj8isjb273TAhVKkpAKHUr4DvIQMwgsKAQwBA..i&w=282&h=80&safe=active&bih=974&biw=1920&q=brasão da prefeitura de guarapari&ved=0ahUKEwj8isjb273TAhVKkpAKHUr4DvIQMwgsKAQwBA&iact=mrc&uact=8
+
+	ESTADO DO ESPÍRITO SANTO
+	Guarapari - ES
+	Setembro de  2020
+

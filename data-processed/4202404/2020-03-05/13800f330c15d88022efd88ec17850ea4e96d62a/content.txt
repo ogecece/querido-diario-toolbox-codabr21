@@ -1,0 +1,234 @@
+
+FUNDAÇÃO UNIVERSIDADE REGIONAL DE BLUMENAU
+
+Extrato nº. 037/2020
+PARTES:
+FUNDAÇÃO UNIVERSIDADE REGIONAL DE BLUMENAU
+E
+
+OLIMED MATERIAL HOSPITALAR
+OBJETO: Registro de preços para aquisições futuras de materiais médico hospitalar e de higiene e beleza para a Universidade.
+FUNDAMENTO LEGAL: Concorrência (SRP) nº 455/2019 e Ata (SRP) nº 013/2020 firmado em 05 de março de 2020. 
+PREÇO: O preço ofertado pela empresa signatária da presente Ata de Registro de Preços é o abaixo informado, de acordo com a respectiva classificação:
+	Item
+	Código FURB
+	Qtde. Estimada
+	Und.
+	Descrição dos Produtos
+	Marca 
+	Preço
+
+Unitário
+	Preço Total do Item
+
+	04
+	15739
+	10
+	Caixa
+	Agulha hipodérmica estéril / em aço inoxidável / descartável / tamanho 30mm x 7mm / caixa com 100 unidades. embalado em papel grau cirúrgico. Acondicionado em embalagem original do fabricante com dados de identificação do produto, data de fabricação, prazo de validade e com registro do Ministério da Saúde.
+	SR
+	5,99
+	59,90
+
+	05
+	20569
+	10
+	Caixa     
+	Agulha hipodérmica estéril / em aço inoxidável / descartável / tamanho 13mm x 3mm / caixa com 100 unidades / embalado em papel grau cirúrgico / Acondicionado em embalagem original do fabricante com dados de identificação do produto, data de fabricação, prazo de validade e com registro do Ministério da Saúde.
+	BD
+	17,68
+	176,80
+
+	07
+	20575
+	20
+	Caixa     
+	Agulha hipodérmica estéril / em aço inoxidável / descartável / tamanho 30mm x 8mm / caixa com 100 unidades / embalado em papel grau cirúrgico / Acondicionado em embalagem original do fabricante com dados de identificação do produto, data de fabricação, prazo de validade e com registro do Ministério da Saúde.
+	SR
+	5,99
+	119,80
+
+	31
+	26611
+	10
+	Peça
+	Bandeja em inox / com tampa / comprimento 30cm / largura 20cm / altura 5cm
+	Famita
+	42,30
+	423,00
+
+	32
+	9476
+	10
+	Peça      
+	Bandeja em inox / tamanho 25cm x 18cm (Medic)
+	Kehome
+	34,30
+	343,00
+
+	44
+	4381
+	5
+	Galão
+	Cal sodada para filtro de ar do aparelho de anestesia inalatório; galão de 4,3 kg; composição: absorvente de CO2, cal hidratada em pequenas quantidades de hidróxido de sódio, indicador de sodasorb com violeta de etilo para monitoramento de esgotamento da absorção.
+	Atrasorb
+	127,20
+	636,00
+
+	61
+	16005
+	100
+	Frasco
+	Clorexidina degermante 2% / frasco 1000 ml / almotolia descartável
+	Vic Pharma
+	14,24
+	1.424,00
+
+	77
+	37544
+	500
+	Peça
+	Equipo macrogotas para soluções parenterais, em PVC; esterilizado em óxido de etileno, atóxico, apirogênico; com injetor lateral; copo flexível; com respiro; extensão de 240cm.
+	Glomed
+	0,88
+	440,00
+
+	120
+	15870
+	300
+	Caixa
+	Luva de procedimento / descartável / não estéril / levemente talcadas, hipoalergênicas / tamanho PP / caixa com 100 unidades. 
+	Glomed
+	15,50
+	4.650,00
+
+	124
+	10360
+	5
+	Peça     
+	Manguito para esfigmomanômetro (aparelho pressão arterial) adulto.
+	Premium
+	7,99
+	39,95
+
+	166
+	37739
+	5
+	Peça
+	Régua antropométrica pediátrica.
+	Indaia
+	45,30
+	226,50
+
+	179
+	8787
+	5
+	Peça
+	Seringa de vidro / volume 10ml
+	Art Glass
+	19,90
+	99,50
+
+	180
+	8785
+	10
+	Peça
+	Seringa de vidro / volume 3ml
+	Art Glass
+	14,60
+	146,00
+
+	181
+	8719
+	5
+	Peça
+	Seringa de vidro; volume 1ml.
+	Art Glass
+	14,60
+	73,00
+
+	183
+	38535
+	100
+	Peça
+	Seringa descartável insulina com capacidade 1,0ml; sem agulha; fabricada em polipropileno; esterilizada a óxido de etileno; atóxica; apirogênica.
+	SR
+	0,12
+	12,00
+
+	184
+	8781
+	500
+	Peça
+	Seringa descartável / capacidade 20 ml / fabricada em polipropileno / esterilizada a óxido de etileno / atóxica / apirogênica.
+	SR
+	0,36
+	180,00
+
+	185
+	8744
+	3.000
+	Peça     
+	Seringa descartável / capacidade 3ml / fabricada em polipropileno / esterilizada a óxido de etileno / atóxica / apirogênica.
+	SR
+	0,11
+	330,00
+
+	186
+	18273
+	100
+	Peça    
+	Seringa descartável insulina com capacidade 0,5ml; fabricada em polipropileno; esterilizada a óxido de etileno; atóxica; apirogênica; acompanhada de agulha insulina 8mm x 0,03mm.
+	SR
+	0,30
+	30,00
+
+	234
+	39300
+	20
+	Peça
+	Tela cirúrgica protésica (Tela de Marlex), tamanho 15x15cm; confeccionada 100% em polipropileno monofilamentado; esterilizada por óxido de etileno ou por raio gama; não absorvível.
+	Marlex
+	68,99
+	1.379,80
+
+	235
+	39301
+	20
+	Peça
+	Tela cirúrgica protésica (Tela de Marlex), tamanho 26x36cm; confeccionada 100% em polipropileno monofilamentado; esterilizada por óxido de etileno ou por raio gama; não absorvível.
+	Marlex
+	123,00
+	2.460,00
+
+	236
+	35181
+	10
+	Peça
+	Termômetro digital; ponta flexível emborrachada; indicador de bateria baixa; desliga automaticamente; bateria de longa duração (livre de mercúrio); precisão comprovada clinicamente; totalmente resistente à água.
+	G Tech
+	10,88
+	108,80
+
+	252
+	37002
+	4
+	Peça
+	Traquéia de silicone de 120 cm, espiral, para jogo de traquéias de ventilador pulmonar.
+	MJV Silicones
+	94,40
+	377,60
+
+	253
+	37003
+	4
+	Peça
+	Traquéia de silicone de 150 cm, espiral, para jogo de traquéias de ventilador pulmonar.
+	MJV Silicones
+	99,80
+	399,20
+
+
+PAGAMENTO: O pagamento será realizado em até 30 (trinta) dias consecutivos após a efetiva entrega (com descarga) do(s) material(is), desde que estes sejam aprovados pela Gestão Contratual e acompanhados da respectiva Nota Fiscal Eletrônica (NF-e), através de depósito bancário (hipótese na qual a NF-e deverá conter os dados bancários da CONTRATADA) ou de boleto bancário (caso no qual tal documento deverá acompanhar a NF-e)
+PRAZO DE VIGÊNCIA: A presente Ata de Registro de Preços terá a validade de 12 (doze) meses, contados a partir da data de sua assinatura.
+DATA: 05/03/2019

@@ -1,0 +1,75 @@
+
+FUNDAÇÃO UNIVERSIDADE REGIONAL DE BLUMENAU
+
+Extrato nº. 196/2020
+PARTES:  FUNDAÇÃO UNIVERSIDADE REGIONAL DE BLUMENAU
+
+E
+
+                  BATERIAS CHAPECÓ ODONTOLÓGICOS LTDA EPP
+OBJETO: Registro de Preços para aquisições futuras de baterias estacionárias para diversos equipamentos e sistemas gerenciados pela Universidade.
+FUNDAMENTO LEGAL: Pregão Presencial (SRP) nº 103/2020 e Ata de Registro de Preços nº 108/2020, firmado em 08 de junho de 2020.  
+PREÇO: O preço ofertado pela empresa signatária do presente Ata de Registro de Preços é o abaixo informado, de acordo com a respectiva classificação:
+	Lote: 01
+
+	Item
+	Código FURB
+	Qtde.
+	Und.
+	Descrição do Item
+	Preço Unitário (em R$)
+	Preço Total do Item (em R$)
+
+	1
+	37141
+	10
+	Peça
+	Bateria estacionária 12V - 26Ah em regime de descarga de 20h (C20) e 25ºC, com terminais em chumbo de furo passante. Fixação por parafusos, arruelas e porcas sextavadas em aço inox. Dimensões máximas da bateria (C x L x A) 180mm x 180mm x 180mm. Neste item pode ser fornecida bateria de capacidade superior desde que atenda as dimensões máximas. Modelo de referência: Heliar/Freedom DF300
+	260,00
+	2.600,00
+
+	2
+	30331
+	10
+	Peça
+	Bateria estacionária 12V - 36Ah em regime de descarga de 20h (C20) e 25ºC, com terminais em chumbo de furo passante. Fixação por parafusos, arruelas e porcas sextavadas em aço inox. Dimensões máximas da bateria (C x L x A) 180mm x 180mm x 180mm. Neste item pode ser fornecida bateria de capacidade superior desde que atenda as dimensões máximas. Modelo de referência: Heliar/Freedom DF500
+	280,00
+	2.800,00
+
+	3
+	30557
+	30
+	Peça
+	Bateria estacionária 12V - 45Ah em regime de descarga de 20h (C20) e 25ºC, com terminais em chumbo de furo passante. Fixação por parafusos, arruelas e porcas sextavadas em aço inox. Dimensões máximas da bateria (C x L x A) 220mm x 180mm x 180mm. Neste item pode ser fornecida bateria de capacidade superior desde que atenda as dimensões máximas. Modelo de referência: Heliar/Freedom DF700
+	330,00
+	9.900,00
+
+	4
+	31683
+	40
+	Peça
+	Bateria estacionária 12V - 60Ah em regime de descarga de 20h (C20) e 25ºC, com terminais em chumbo de furo passante. Fixação por parafusos, arruelas e porcas sextavadas em aço inox. Dimensões máximas da bateria (C x L x A) 250mm x 180mm x 180mm. Neste item pode ser fornecida bateria de capacidade superior desde que atenda as dimensões máximas. Modelo de referência: Heliar/Freedom DF1000
+	350,00
+	14.000,00
+
+	5
+	30330
+	100
+	Peça
+	Bateria estacionária 12V - 105Ah em regime de descarga de 20h (C20) e 25ºC, com terminais de rosca em aço inox e fixação por arruelas e porcas sextavadas em aço inox ou com terminais em chumbo de furo passante e fixação por parafusos, arruelas e porcas sextavadas em aço inox. Dimensões máximas da bateria (C x L x A) 340mm x 180mm x 250mm. Neste item pode ser fornecida bateria de capacidade superior desde que atenda as dimensões máximas. Modelo de referência: Heliar/Freedom DF2000
+	578,00
+	57.800,00
+
+	Garantia (em meses)
+	24 meses a contar da emissão da NF
+
+	Preço Total do Lote 01 (em R$)
+	87.100,00
+
+	Preço Total do Lote 01 (em reais, por extenso)
+	Oitenta e sete mil e cem reais.
+
+
+PAGAMENTO: O pagamento será realizado em até 30 (trinta) dias consecutivos após a efetiva entrega (com descarga) dos equipamento(s)/produto(s), desde que estes sejam aprovados pela Gestão Contratual e acompanhados da respectiva Nota Fiscal Eletrônica (NF-e), através de depósito bancário (hipótese na qual a NF-e deverá conter os dados bancários da CONTRATADA) ou de boleto bancário (caso no qual tal documento deverá acompanhar a NF-e).
+PRAZO DE VIGÊNCIA: A presente Ata de Registro de Preços terá a validade de 12 (doze) meses, contados a partir da data de sua assinatura.
+DATA: 04/06/2020.

@@ -1,0 +1,4098 @@
+
+FUNDAÇÃO UNIVERSIDADE REGIONAL DE BLUMENAU
+
+Extrato nº. 382/2020
+PARTES:  FUNDAÇÃO UNIVERSIDADE REGIONAL DE BLUMENAU
+
+E
+
+                  JOCLAMAR LTDA
+OBJETO: Registro de Preços para aquisições futuras de materiais elétricos destinados à manutenção e ampliação dos ambientes da Universidade.
+FUNDAMENTO LEGAL: Pregão Presencial (SRP) nº 157/2020 e Ata de Registro de Preços nº 174/2020, firmado em 30 de setembro de 2020.  
+PREÇO: O preço ofertado pela empresa signatária da presente Ata de Registro de Preços é o abaixo informado, de acordo com a respectiva classificação:
+
+	Lote: 02
+
+	Item
+	Código FURB
+	Qtde.
+	Und.
+	Descrição do Item
+	Marca
+	Preço Unitário (em R$)
+	Preço Total do Item
+
+ (em R$)
+
+	1
+	19294
+	5
+	Peça
+	Caixa de derivação, fabricada em alumínio, tipo ‘’T’’ 1 x 1, com tampa, pintada na cor cinza texturizado pelo processo eletrostático a pó,  para conexão de canaletas de alumínio perfil duplo deslocado, com dimensões de  45mm de altura e 73mm de largura. Apresentar total compatibilidade de fixação e encaixe com as canaletas da DUTOTEC.
+	Dutotec
+	61,08
+	305,40
+
+	2
+	25841
+	2
+	Peça
+	Caixa de derivação, fabricada em alumínio, tipo ‘’T’’ 2 x 2, com tampa, pintada na cor cinza texturizado pelo processo eletrostático a pó,  para conexão de canaletas de alumínio perfil duplo deslocado, com dimensões de  45mm de altura e 73mm de largura. Apresentar total compatibilidade de fixação e encaixe com as canaletas da DUTOTEC.
+	Dutotec
+	62,95
+	125,90
+
+	3
+	19641
+	10
+	Peça
+	Caixa de derivação, fabricada em alumínio, tipo ‘’X’’ 1 x 1, com tampa, pintada na cor cinza texturizado pelo processo eletrostático a pó,  para conexão de canaletas de alumínio perfil duplo deslocado, com dimensões de  45mm de altura e 73mm de largura. Apresentar total compatibilidade de fixação e encaixe com as canaletas da DUTOTEC.
+	Dutotec
+	61,46
+	614,60
+
+	4
+	17217
+	200
+	metro
+	Canaleta fabricada em alumínio de perfil duplo deslocado, com dimensões de  45mm de altura e 73mm de largura. Encaixe interno da tampa  sem parafusos, com divisão interna deslocada, pintada na cor cinza texturizado pelo processo eletrostático a pó. Apresentar total compatibilidade de fixação e encaixe com as canaletas da DUTOTEC. Peça fornecida com 03 metros de comprimento.
+	Dutotec
+	80,56
+	16.112,00
+
+	5
+	17883
+	30
+	Peça
+	Curva horizontal fabricada em alumínio injetado 90º , para conexão de canaletas de alumínio perfil duplo deslocado, com dimensões de  45mm de altura e 73mm de largura, pintada na cor cinza texturizado pelo processo eletrostático a pó. Apresentar total compatibilidade de fixação e encaixe com as canaletas da DUTOTEC.
+	Dutotec
+	57,39
+	1.721,70
+
+	6
+	17220
+	20
+	Peça
+	Curva vertical fabricada em alumínio injetado 90º , para conexão de canaletas de alumínio perfil duplo deslocado, com dimensões de  45mm de altura e 73mm de largura, pintada na cor cinza texturizado pelo processo eletrostático a pó. Apresentar total compatibilidade de fixação e encaixe com as canaletas da DUTOTEC.
+	Dutotec
+	44,89
+	897,80
+
+	7
+	16817
+	20
+	Peça
+	Porta equipamento tipo suporte fabricado em  PVC para encaixar em canaleta de alumínio de 73mm de largura, contendo pré  furação para 3 tomadas fêmeas RJ 45 do padrão AMP ou FURUKAWA. Fixação na canaleta sem parafusos. Na cor cinza. Apresentar total compatibilidade de fixação e encaixe com as canaletas da DUTOTEC.
+	Dutotec
+	22,53
+	450,60
+
+	8
+	17499
+	10
+	Peça
+	Porta equipamento tipo suporte fabricado em  PVC para encaixar em canaleta de alumínio de 73mm de largura, contendo furação e suporte para mini disjuntor padrão europeu, de fixação tipo DIN. Fixação na canaleta sem parafusos. Na cor cinza. Apresentar total compatibilidade de fixação e encaixe com as canaletas da DUTOTEC.
+	Dutotec
+	19,09
+	190,90
+
+	9
+	22523
+	5
+	Peça
+	Porta equipamento tipo suporte fabricado em  PVC para encaixar em canaleta de alumínio de 73mm de largura, contendo furação para interruptor de 1 tecla. Fixação na canaleta sem parafusos. Na cor cinza. Apresentar total compatibilidade de fixação e encaixe com as canaletas da DUTOTEC.
+	Dutotec
+	16,12
+	80,60
+
+	10
+	22525
+	200
+	Peça
+	Porta equipamento tipo suporte fabricado em  PVC para encaixar em canaleta de alumínio de 73mm de largura, contendo furação para interruptor de 3 teclas . Fixação na canaleta sem parafusos. Na cor cinza. Apresentar total compatibilidade de fixação e encaixe com as canaletas da DUTOTEC.
+	Dutotec
+	16,12
+	3.224,00
+
+	11
+	16812
+	200
+	Metro
+	Tampa para canaleta fabricada em alumínio com 73mm de largura, de encaixe interno sem parafusos, pintada na cor cinza texturizado pelo processo eletrostático a pó. Apresentar total compatibilidade de fixação e encaixe com as canaletas da DUTOTEC. Peça fornecida com 03 metros de comprimento.
+	Dutotec
+	25,78
+	5.156,00
+
+	12
+	17219
+	50
+	Peça
+	Tampa terminal fabricada em PVC para encaixar em canaleta de alumínio perfil duplo deslocado, com dimensões de  45mm de altura e 73mm de largura, com divisão central. Na cor cinza. Apresentar total compatibilidade de fixação e encaixe com as canaletas da DUTOTEC.
+	Dutotec
+	7,27
+	363,50
+
+	13
+	39603
+	50
+	Peça
+	Adaptador interno em ABS para caixa de tomada para piso / capacidade de 04 tomadas e 04 módulos tipo RJ - ref. DUTOTEC
+	Dutotec
+	25,14
+	1.257,00
+
+	Preço Total do Lote 
+
+(em R$)
+	30.500,00
+
+	Preço Total do Lote 
+
+(em reais, por extenso)
+	Trinta mil e quinhentos reais
+
+
+	Lote: 03
+
+	Item
+	Código FURB
+	Qtde.
+	Und.
+	Descrição do Item
+	Marca
+	Preço Unitário (em R$)
+	Preço Total do Item
+
+ (em R$)
+
+	1
+	4809
+	200
+	Metro
+	Duto em Polietileno de Alta Densidade (PEAD), para proteção de cabos subterrâneos, com corrugação helicoidal externa e interna, flexível, Diâmetro nominal DN 2”, com diâmetro interno de aproximadamente 50mm, fornecido com 2 tampões nas extremidades, fita de aviso “CUIDADO! PERIGO! CABO ALTA TENSÃO” (ou dizeres similares), com arame guia e de acordo com a norma ABNT NBR 13897 / 13898. O duto deve atender o teste de degrabilidade do material – OIT (Teste de Oxidação Induzida), resistindo 20 minutos ou mais, conforme norma ABNT NBR 14692. O duto deve ser produzido totalmente com matéria prima virgem (não pode ser matéria prima proveniente de reciclados). Cor Preta. Os dutos devem ser fornecidos em rolos de 50 metros.
+	Fischer
+	6,69
+	1.338,00
+
+	2
+	4821
+	100
+	Metro
+	Duto em Polietileno de Alta Densidade (PEAD), para proteção de cabos subterrâneos, com corrugação helicoidal externa e interna, flexível, Diâmetro nominal DN 3”, com diâmetro interno de aproximadamente 75mm, fornecido com 2 tampões nas extremidades, fita de aviso “CUIDADO! PERIGO! CABO ALTA TENSÃO” (ou dizeres similares), com arame guia e de acordo com a norma ABNT NBR 13897 / 13898. O duto deve atender o teste de degrabilidade do material – OIT (Teste de Oxidação Induzida), resistindo 20 minutos ou mais, conforme norma ABNT NBR 14692. O duto deve ser produzido totalmente com matéria prima virgem (não pode ser matéria prima proveniente de reciclados). Cor Preta. Os dutos devem ser fornecidos em rolos de 50 metros.
+	Fischer
+	10,92
+	1.092,00
+
+	3
+	2692
+	100
+	Metro
+	Duto em Polietileno de Alta Densidade (PEAD), para proteção de cabos subterrâneos, com corrugação helicoidal externa e interna, flexível, Diâmetro nominal DN 4”, com diâmetro interno de aproximadamente 100mm, fornecido com 2 tampões nas extremidades, fita de aviso “CUIDADO! PERIGO! CABO ALTA TENSÃO” (ou dizeres similares), com arame guia e de acordo com a norma ABNT NBR 13897 / 13898. O duto deve atender o teste de degrabilidade do material – OIT (Teste de Oxidação Induzida), resistindo 20 minutos ou mais, conforme norma ABNT NBR 14692. O duto deve ser produzido totalmente com matéria prima virgem (não pode ser matéria prima proveniente de reciclados). Cor Preta. Os dutos devem ser fornecidos em rolos de 50 metros.
+	Fischer
+	15,70
+	1.570,00
+
+	Preço Total do Lote 
+
+(em R$)
+	4.000,00
+
+	Preço Total do Lote 
+
+(em reais, por extenso)
+	Quatro mil reais
+
+
+	Lote: 04
+
+	Item
+	Código FURB
+	Qtde.
+	Und.
+	Descrição do Item
+	Marca
+	Preço Unitário (em R$)
+	Preço Total do Item
+
+ (em R$)
+
+	1
+	23162
+	400
+	Peça
+	Abraçadeira de PVC 1”. Não propagante de chama. Resistentes a intempéries e choques térmicos. Atender a norma ABNT NBR 15465 nas especificações dimensionais e na resistência a ruptura. Estar em conformidade com a norma ABNT NBR 6493. Suportar ambientes com temperatura de -5  à 60 ºC. Produzido de material que permita  a reciclagem. Apresentar total compatibilidade com instalação e cores com os conduletes e eletrodutos de PVC da WETZEL. Cor cinza. O produto deverá apresentar a logomarca do fabricante.
+	Wetzel
+	1,64
+	656,00
+
+	2
+	2749
+	4000
+	Peça
+	Abraçadeira de PVC 3/4”. Não propagante de chama. Resistentes a intempéries e choques térmicos. Atender a norma ABNT NBR 15465 nas especificações dimensionais e na resistência a ruptura. Estar em conformidade com a norma ABNT NBR 6493. Suportar ambientes com temperatura de -5  à 60 ºC. Produzido de material que permita  a reciclagem. Apresentar total compatibilidade com instalação e cores com os conduletes e eletrodutos de PVC da WETZEL. Cor cinza. O produto deverá apresentar a logomarca do fabricante.
+	Wetzel
+	1,57
+	6.280,00
+
+	3
+	24792
+	4000
+	Peça
+	Adaptador para montagem de conduletes de PVC por meio de conexão nas caixas de derivação.  bitola ¾’’. Cor cinza em conformidade com a norma ABNT NBR 6493. Não propagante de chama. Resistentes a intempéries e choques térmicos. Atender a norma ABNT NBR 15465 nas especificações dimensionais e na resistência a ruptura. Suportar ambientes com temperatura de -5  à 60 ºC. permitir o uso de adesivo para PVC ou silicone nas conexões. Produzido de material que permita  a reciclagem. Apresentar total compatibilidade com instalação e cores com as caixas, conduletes e eletrodutos de PVC da WETZEL -  linha poliwetzel. Cor cinza. O produto deverá apresentar a logomarca do fabricante.
+	Wetzel
+	0,73
+	2.920,00
+
+	4
+	24793
+	200
+	Peça
+	Adaptador para montagem de conduletes de PVC por meio de conexão nas caixas de derivação.  bitola 1’’. Cor cinza em conformidade com a norma ABNT NBR 6493. Não propagante de chama. Resistentes a intempéries e choques térmicos Atender a norma ABNT NBR 15465 nas especificações dimensionais e na resistência a ruptura. Suportar ambientes com temperatura de -5  à 60 ºC. permitir o uso de adesivo para PVC ou silicone nas conexões. Produzido de material que permita  a reciclagem. Apresentar total compatibilidade com instalação e cores com as caixas, conduletes e eletrodutos de PVC da WETZEL -  linha poliwetzel. O produto deverá apresentar a logomarca do fabricante.
+	Wetzel
+	0,91
+	182,00
+
+	5
+	18073
+	1500
+	Peça
+	Caixa de derivação para montagem de conduletes de PVC por meio de conexão de adaptadores sem rosca de bitolas ½’’ e ¾’’. Dimensões da caixa (A x L x P): 92,5mm x 50,5mm x 45,5mm. Cor cinza em conformidade com a norma ABNT NBR 6493. Não propagante de chama. Resistentes a intempéries e choques térmicos. Atender a norma ABNT NBR 15465 nas especificações dimensionais e na resistência a ruptura. Suportar ambientes com temperatura de -5  à 60 ºC. permitir o uso de adesivo para PVC ou silicone nas conexões. Produzido de material que permita  a reciclagem. Apresentar total compatibilidade de instalação e cores com os adaptadores, conduletes e eletrodutos de PVC da WETZEL -  linha poliwetzel. O produto deverá apresentar a logomarca do fabricante.
+	Wetzel
+	5,14
+	7.710,00
+
+	6
+	24795
+	50
+	Peça
+	Caixa de derivação para montagem de conduletes de PVC por meio de conexão de adaptadores sem rosca de bitola 1’’. Dimensões da caixa (A x L x P): 115mm x 60mm x 55,5mm. Cor cinza em conformidade com a norma ABNT NBR 6493. Não propagante de chama. Resistentes a intempéries e choques térmicos. Atender a norma ABNT NBR 15465 nas especificações dimensionais e na resistência a ruptura. Suportar ambientes com temperatura de -5  à 60 ºC. permitir o uso de adesivo para PVC ou silicone nas conexões. Produzido de material que permita  a reciclagem. Apresentar total compatibilidade de instalação e cores com os adaptadores, conduletes e eletrodutos de PVC da WETZEL -  linha poliwetzel. O produto deverá apresentar a logomarca do fabricante.
+	Wetzel
+	6,66
+	333,00
+
+	7
+	23164
+	400
+	Peça
+	Cotovelo de PVC sem rosca de ¾” na cor cinza, atendendo a norma ABNT NBR 15465. Apresentar total compatibilidade com instalação e cores com os conduletes e eletrodutos de PVC da WETZEL. O produto deverá apresentar a logomarca do fabricante.
+	Wetzel
+	3,70
+	1.480,00
+
+	8
+	23165
+	50
+	Peça
+	Cotovelo de PVC sem rosca de 1” na cor cinza, atendendo a norma ABNT NBR 15465. Apresentar total compatibilidade com instalação e cores com os conduletes e eletrodutos de PVC da WETZEL O produto deverá apresentar a logomarca do fabricante.
+	Wetzel
+	4,37
+	218,50
+
+	9
+	2805
+	300
+	Peça
+	Curva PVC com bolsas 90° de ¾”. Não propagante de chama. Resistentes a intempéries e choques térmicos. Atender a norma ABNT NBR 15465 nas especificações dimensionais e na resistência a ruptura. Estar em conformidade com a norma ABNT NBR 6493. Suportar ambientes com temperatura de -5  à 60 ºC. permitir o uso de adesivo para PVC ou silicone nas conexões. Produzido de material que permita  a reciclagem. Apresentar total compatibilidade com instalação e cores com os conduletes e eletrodutos de PVC da WETZEL. Cor cinza. O produto deverá apresentar a logomarca do fabricante.
+	Wetzel
+	3,62
+	1.086,00
+
+	10
+	18785
+	25
+	Peça
+	Curva PVC com bolsas 90° de 1”. Não propagante de chama. Resistentes a intempéries e choques térmicos. Atender a norma ABNT NBR 15465 nas especificações dimensionais e na resistência a ruptura. Estar em conformidade com a norma ABNT NBR 6493. Suportar ambientes com temperatura de -5  à 60 ºC. permitir o uso de adesivo para PVC ou silicone nas conexões. Produzido de material que permita  a reciclagem. Apresentar total compatibilidade com instalação e cores com os conduletes e eletrodutos de PVC da WETZEL. Cor cinza. O produto deverá apresentar a logomarca do fabricante.
+	Wetzel
+	4,82
+	120,50
+
+	11
+	2691
+	1500
+	Barra
+	Eletroduto PVC sem rosca de ¾”. Barra de 3 metros, espessura da parede de 2,1mm com tolerância de +0,2mm. Não propagante de chama. Resistentes a intempéries e choques térmicos. Atender a norma ABNT NBR 15465 nas especificações dimensionais e na resistência a ruptura. Estar em conformidade com a norma ABNT NBR 6493. Suportar ambientes com temperatura de -5  à 60 ºC. permitir o uso de adesivo para PVC ou silicone nas conexões. Produzido de material que permita  a reciclagem. Apresentar total compatibilidade com instalação e cores com os conduletes e eletrodutos de PVC da WETZEL. Cor cinza. O produto deverá apresentar a logomarca do fabricante.
+	Wetzel
+	16,98
+	25.470,00
+
+	12
+	17576
+	150
+	Barra
+	Eletroduto PVC sem rosca de 1”. Barra de 3 metros, espessura da parede de 2,7mm com tolerância de +0,2mm. Não propagante de chama. Resistentes a intempéries e choques térmicos. Atender a norma ABNT NBR 15465 nas especificações dimensionais e na resistência a ruptura. Estar em conformidade com a norma  ABNT NBR 6493. Suportar ambientes com temperatura de -5  à 60 ºC. permitir o uso de adesivo para PVC ou silicone nas conexões. Produzido de material que permita  a reciclagem. Apresentar total compatibilidade com instalação e cores com os conduletes e eletrodutos de PVC da WETZEL. Cor cinza. O produto deverá apresentar a logomarca do fabricante.
+	Wetzel
+	25,99
+	3.898,50
+
+	13
+	2668
+	300
+	Peça
+	Luva PVC sem rosca de ¾”, atendendo a norma ABNT NBR 15465. Apresentar total compatibilidade com instalação e cores com os conduletes e eletrodutos de PVC da WETZEl. Cor cinza. O produto deverá apresentar a logomarca do fabricante.
+	Wetzel
+	1,82
+	546,00
+
+	14
+	2711
+	50
+	Peça
+	Luva PVC sem rosca de 1”, atendendo a norma ABNT NBR 15465. Apresentar total compatibilidade com instalação e cores com os conduletes e eletrodutos de PVC da WETZEL. Cor cinza. O produto deverá apresentar a logomarca do fabricante.
+	Wetzel
+	1,91
+	95,50
+
+	15
+	24803
+	500
+	Peça
+	Tampa Cega para condulete de PVC de ½’’ ou ¾’’. Dimensões (A x L): 92,5mm x 50,5mm.  Fixação por encaixe sem parafusos. Não propagante de chama. Resistentes a intempéries e choques térmicos. Atender a norma ABNT NBR 15465 nas especificações dimensionais e na resistência a ruptura. Estar em conformidade com a norma ABNT NBR 6493. Suportar ambientes com temperatura de -5  à 60 ºC. Produzido de material que permita  a reciclagem. Apresentar total compatibilidade com instalação e cores com os conduletes e eletrodutos de PVC da WETZEL. Linha poliwetzel Cor cinza. O produto deverá apresentar a logomarca do fabricante.
+	Wetzel
+	1,99
+	995,00
+
+	16
+	24805
+	40
+	Peça
+	Tampa Cega para condulete de PVC de 1’’. Dimensões (A x L): 115mm x 60mm.  Fixação por encaixe sem parafusos. Não propagante de chama. Resistentes a intempéries e choques térmicos. Atender a norma ABNT NBR 15465 nas especificações dimensionais e na resistência a ruptura. Estar em conformidade com a norma ABNT NBR 6493. Suportar ambientes com temperatura de -5  à 60 ºC. Produzido de material que permita  a reciclagem. Apresentar total compatibilidade com instalação e cores com os conduletes e eletrodutos de PVC da WETZEL. Linha poliwetzel. Cor cinza. O produto deverá apresentar a logomarca do fabricante.
+	Wetzel
+	2,45
+	98,00
+
+	17
+	24798
+	40
+	Peça
+	Tampa de PVC para condulete de ½’’ ou ¾’’. Dimensões (A x L): 92,5mm x 50,5mm. Furação para interruptor de 2 teclas. Fixação por encaixe sem parafusos. Não propagante de chama. Resistentes a intempéries e choques térmicos. Atender a norma ABNT NBR 15465 nas especificações dimensionais e na resistência a ruptura. Estar em conformidade com a norma ABNT NBR 6493. Suportar ambientes com temperatura de -5  à 60 ºC. Produzido de material que permita  a reciclagem. Apresentar total compatibilidade com instalação e cores com os conduletes e eletrodutos de PVC da WETZEL. Linha poliwetzel Cor cinza. O produto deverá apresentar a logomarca do fabricante.
+	Wetzel
+	2,55
+	102,00
+
+	18
+	24799
+	1500
+	Peça
+	Tampa de PVC para condulete de ½’’ ou ¾’’. Dimensões (A x L): 92,5mm x 50,5mm. Furação para interruptor de 3 teclas. Fixação por encaixe sem parafusos. Não propagante de chama. Resistentes a intempéries e choques térmicos. Atender a norma ABNT NBR 15465 nas especificações dimensionais e na resistência a ruptura. Estar em conformidade com a norma ABNT NBR 6493. Suportar ambientes com temperatura de -5  à 60 ºC. Produzido de material que permita  a reciclagem. Apresentar total compatibilidade com instalação e cores com os conduletes e eletrodutos de PVC da WETZEL. Linha poliwetzel Cor cinza. O produto deverá apresentar a logomarca do fabricante.
+	Wetzel
+	2,55
+	3.825,00
+
+	19
+	24801
+	100
+	Peça
+	Tampa de PVC para condulete de ½’’ ou ¾’’. Dimensões (A x L): 92,5mm x 50,5mm. Furação para 1 conector RJ45 (tipo AMP) com suporte. Fixação por encaixe sem parafusos. Não propagante de chama. Resistentes a intempéries e choques térmicos. Atender a norma ABNT NBR 15465 nas especificações dimensionais e na resistência a ruptura. Estar em conformidade com a norma ABNT NBR 6493. Suportar ambientes com temperatura de -5  à 60 ºC. Produzido de material que permita  a reciclagem. Apresentar total compatibilidade com instalação e cores com os conduletes e eletrodutos de PVC da WETZEL. Linha poliwetzel Cor cinza. O produto deverá apresentar a logomarca do fabricante.
+	Wetzel
+	2,55
+	255,00
+
+	20
+	24802
+	100
+	Peça
+	Tampa de PVC para condulete de ½’’ ou ¾’’. Dimensões (A x L): 92,5mm x 50,5mm. Furação para 2 conectores RJ45 (tipo AMP) com suporte. Fixação por encaixe sem parafusos. Não propagante de chama. Resistentes a intempéries e choques térmicos. Atender a norma ABNT NBR 15465 nas especificações dimensionais e na resistência a ruptura. Estar em conformidade com a norma ABNT NBR 6493. Suportar ambientes com temperatura de -5  à 60 ºC. Produzido de material que permita  a reciclagem. Apresentar total compatibilidade com instalação e cores com os conduletes e eletrodutos de PVC da WETZEL. Linha poliwetzel Cor cinza. O produto deverá apresentar a logomarca do fabricante.
+	Wetzel
+	2,55
+	255,00
+
+	21
+	24797
+	100
+	Peça
+	Tampa de PVC para condulete de ½’’ ou ¾’’. Dimensões (A x L): 92,5mm x 50,5mm. Furação para interruptor de 1 tecla. Fixação por encaixe sem parafusos. Não propagante de chama. Resistentes a intempéries e choques térmicos. Atender a norma  ABNT NBR 15465 nas especificações dimensionais e na resistência a ruptura. Estar em conformidade com a norma ABNT NBR 6493. Suportar ambientes com temperatura de -5  à 60 ºC. Produzido de material que permita  a reciclagem. Apresentar total compatibilidade com instalação e cores com os conduletes e eletrodutos de PVC da WETZEL. Linha poliwetzel Cor cinza. O produto deverá apresentar a logomarca do fabricante.
+	Wetzel
+	2,55
+	255,00
+
+	22
+	27409
+	800
+	Peça
+	Tampa de PVC para condulete de 1’’. Dimensões (A x L): 115mm x 60mm. Furação para interruptor de 3 teclas. Fixação por encaixe sem parafusos. Não propagante de chama. Resistentes a intempéries e choques térmicos. Atender a norma ABNT NBR 15465 nas especificações dimensionais e na resistência a ruptura. Estar em conformidade com a norma ABNT NBR 6493. Suportar ambientes com temperatura de -5  à 60 ºC. Produzido de material que permita  a reciclagem. Apresentar total compatibilidade com instalação e cores com os conduletes e eletrodutos de PVC da WETZEL. Linha poliwetzel Cor cinza. O produto deverá apresentar a logomarca do fabricante.
+	Wetzel
+	2,78
+	2.224,00
+
+	23
+	31958
+	100
+	barra
+	Eletroduto PVC s/ rosca na cor vermelha 3/4". Barra de 3 metros, espessura da parede mínima de 2,1mm. Não propagante de chama. Resistentes a intempéries e choques térmicos. Atender a norma NBR 15465 nas especificações dimensionais e na resistência a ruptura. Estar em conformidade com a norma NBR 6493. Suportar ambientes com temperatura de -5  à 60 ºC. permitir o uso de adesivo para PVC ou silicone nas conexões. Produzido de material que permita  a reciclagem. Apresentar total compatibilidade com instalação e cores com os conduletes e eletrodutos de PVC da WETZEL. O produto deverá apresentar a logomarca do fabricante.
+	Wetzel
+	19,64
+	1.964,00
+
+	24
+	31959
+	150
+	pç
+	Curva de eletroduto de 3/4" x 90° / com bolsa / em PVC cor vermelha / não propagante de chama. Cor vermelha em conformidade com a norma NBR 6493. Resistentes a intempéries e choques térmicos. Suportar ambientes com temperatura de -5  à 60 ºC. permitir o uso de adesivo para PVC ou silicone nas conexões. Produzido de material que permita  a reciclagem. Apresentar total compatibilidade com instalação e cores com as caixas, conduletes e eletrodutos de PVC da WETZEL -  linha poliwetzel. O produto deverá apresentar a logomarca do fabricante.
+	Wetzel
+	4,95
+	742,50
+
+	25
+	31960
+	100
+	pç
+	Luva para eletroduto de 3/4" / em PVC cor vermelha / não propagante de chama. Cor vermelha em conformidade com a norma NBR 6493. Resistentes a intempéries e choques térmicos. Suportar ambientes com temperatura de -5  à 60 ºC. permitir o uso de adesivo para PVC ou silicone nas conexões. Produzido de material que permita  a reciclagem. Apresentar total compatibilidade com instalação e cores com as caixas, conduletes e eletrodutos de PVC da WETZEL -  linha poliwetzel. O produto deverá apresentar a logomarca do fabricante.
+	Wetzel
+	2,01
+	201,00
+
+	26
+	31961
+	800
+	pç
+	Abraçadeira para eletroduto de 3/4" / em PVC cor vermelha / não propagante de chama. Cor vermelha em conformidade com a norma NBR 6493. Resistentes a intempéries e choques térmicos. Suportar ambientes com temperatura de -5  à 60 ºC. permitir o uso de adesivo para PVC ou silicone nas conexões. Produzido de material que permita  a reciclagem. O produto deverá apresentar a logomarca do fabricante.
+	Wetzel
+	1,62
+	1.296,00
+
+	27
+	31962
+	150
+	pç
+	Tampa cega para condulete de 3/4" / em PVC cor vermelha / tamanho 92,5 x 50,5 mm (AxL) / fixação por encaixe sem parafusos / não propagante de chama. Cor vermelha em conformidade com a norma NBR 6493. Resistentes a intempéries e choques térmicos. Suportar ambientes com temperatura de -5  à 60 ºC. permitir o uso de adesivo para PVC ou silicone nas conexões. Produzido de material que permita  a reciclagem. Apresentar total compatibilidade com instalação e cores com as caixas, conduletes e eletrodutos de PVC da WETZEL -  linha poliwetzel. O produto deverá apresentar a logomarca do fabricante.
+	Wetzel
+	2,19
+	328,50
+
+	28
+	31963
+	80
+	pç
+	Caixa de derivação modular de 3/4" com 5 entradas (condulete) / em PVC cor vermelha / não propagante de chama. A Cor vermelha em conformidade com a norma NBR 6493. Resistentes a intempéries e choques térmicos. Suportar ambientes com temperatura de -5  à 60 ºC. permitir o uso de adesivo para PVC ou silicone nas conexões. Produzido de material que permita  a reciclagem. Apresentar total compatibilidade com instalação e cores com as caixas, conduletes e eletrodutos de PVC da WETZEL -  linha poliwetzel. O produto deverá apresentar a logomarca do fabricante.
+	Wetzel
+	5,75
+	460,00
+
+	29
+	31964
+	200
+	pç
+	Adaptador de 3/4" / para condulete / em PVC cor vermelha / não propagante de chama. Cor vermelha em conformidade com a norma NBR 6493. Resistentes a intempéries e choques térmicos. Suportar ambientes com temperatura de -5  à 60 ºC. permitir o uso de adesivo para PVC ou silicone nas conexões. Produzido de material que permita  a reciclagem. Apresentar total compatibilidade com instalação e cores com as caixas, conduletes e eletrodutos de PVC da WETZEL -  linha poliwetzel. O produto deverá apresentar a logomarca do fabricante.
+	Wetzel
+	0,88
+	176,00
+
+	30
+	33071
+	50
+	pç
+	Adaptador 1", para conduletes de PVC, cor vermelha, para montagem de conduletes de PVC por meio de conexão nas caixas de derivação.  bitola 1". Cor vermelha em conformidade com a norma NBR 6493. Não propagante de chama. Resistentes a intempéries e choques térmicos. Suportar ambientes com temperatura de -5  à 60 ºC. permitir o uso de adesivo para PVC ou silicone nas conexões. Produzido de material que permita  a reciclagem. Apresentar total compatibilidade com instalação e cores com as caixas, conduletes e eletrodutos de PVC da WETZEL -  linha poliwetzel. O produto deverá apresentar a logomarca do fabricante.
+	Wetzel
+	1,68
+	84,00
+
+	31
+	33072
+	80
+	barra
+	Eletroduto PVC s/ rosca na cor vermelha 1". Barra de 3 metros, espessura da parede mínima de 2,1mm. Não propagante de chama. Resistentes a intempéries e choques térmicos. Atender a norma NBR 15465 nas especificações dimensionais e na resistência a ruptura. Estar em conformidade com a norma NBR 6493. Suportar ambientes com temperatura de -5  à 60 ºC. permitir o uso de adesivo para PVC ou silicone nas conexões. Produzido de material que permita  a reciclagem. Apresentar total compatibilidade com instalação e cores com os conduletes e eletrodutos de PVC da WETZEL. O produto deverá apresentar a logomarca do fabricante.
+	Wetzel
+	30,00
+	2.400,00
+
+	32
+	33073
+	20
+	pç
+	Caixa de derivação modular, Bitola de 1" com 5 entradas (condulete), em PVC cor vermelha, em conformidade com a norma NBR 6493. Não propagante de chama. Resistentes a intempéries e choques térmicos. Suportar ambientes com temperatura de -5  à 60 ºC. permitir o uso de adesivo para PVC ou silicone nas conexões. Produzido de material que permita  a reciclagem. Apresentar total compatibilidade com instalação e cores com as caixas, conduletes e eletrodutos de PVC da WETZEL -  linha poliwetzel. O produto deverá apresentar a logomarca do fabricante.
+	Wetzel
+	9,93
+	198,60
+
+	33
+	33074
+	100
+	pç
+	Abraçadeira para eletroduto de 1", em PVC, cor vermelha. Não propagante de chama. Resistentes a intempéries e choques térmicos. Estar em conformidade com a norma NBR 6493. Suportar ambientes com temperatura de -5  à 60 ºC. Produzido de material que permita  a reciclagem. Apresentar total compatibilidade com instalação e cores com os conduletes e eletrodutos de PVC da WETZEL. O produto deverá apresentar a logomarca do fabricante.
+	Wetzel
+	1,76
+	176,00
+
+	34
+	33075
+	50
+	pç
+	Luva para eletroduto de 1", em PVC, cor vermelha. Não propagante de chama. Resistentes a intempéries e choques térmicos. Estar em conformidade com a norma NBR 6493. Suportar ambientes com temperatura de -5  à 60 ºC. Produzido de material que permita  a reciclagem.  Apresentar total compatibilidade com instalação e cores com os conduletes e eletrodutos de pvc da WETZEL. O produto deverá apresentar a logomarca do fabricante.
+	Wetzel
+	2,25
+	112,50
+
+	35
+	33076
+	20
+	pç
+	Tampa cega para condulete de 1", em PVC, cor vermelha. Tamanho 92,5 x 50,5 mm (AxL), fixação por encaixe sem parafusos. Não propagante de chama. Resistentes a intempéries e choques térmicos. Estar em conformidade com a norma NBR 6493. Suportar ambientes com temperatura de -5  à 60 ºC. Produzido de material que permita  a reciclagem.  Apresentar total compatibilidade com instalação e cores com os conduletes e eletrodutos de pvc da WETZEL. O produto deverá apresentar a logomarca do fabricante.
+	Wetzel
+	2,72
+	54,40
+
+	36
+	4300
+	300
+	pç
+	Conector (box) reto leve com rosca BSP 1/2". Produzido em alumínio SAE 306 de elevada resistência mecânica e a corrosão, com parafuso e arruela,  acabamento sem pintura. 
+	Wetzel
+	3,53
+	1.059,00
+
+	37
+	21312
+	100
+	Metro
+	Eletroduto Flexível Corrugado reforçado de ¾” (25mm), não propagante de chama (antichama), fabricado em PVC para uso embutido em lajes e pisos de concreto, com massa mínima de 84 g/m. Atender as exigências da norma ABNT NBR 5410 e NBR 15465. Cor laranja. Os eletrodutos devem ser fornecidos em rolos de 50 metros.
+	Tigre
+	2,11
+	211,00
+
+	38
+	21313
+	100
+	Metro
+	Eletroduto Flexível Corrugado reforçado de 1” (32mm), não propagante de chama (antichama), fabricado em PVC para uso embutido em lajes e pisos de concreto, com massa mínima de 120 g/m. Atender as exigências da norma ABNT NBR 5410 e NBR 15465. Cor laranja. Os eletrodutos devem ser fornecidos em rolos de 25 metros.
+	Tigre
+	2,85
+	285,00
+
+	39
+	37940
+	300
+	pç
+	Cotovelo 90°, sem rosca 3/4", em PVC cor vermelha, para eletroduto, não propagante de chama; cor vermelha em conformidade com a norma NBR 6493; resistentes a intempéries e choques térmicos.
+	Wetzel
+	4,09
+	1.227,00
+
+	40
+	37941
+	50
+	pç
+	Cotovelo 90°, sem rosca 1", em PVC cor vermelha, para eletroduto, não propagante de chama; cor vermelha em conformidade com a norma NBR 6493; resistentes a intempéries e choques térmicos.
+	Wetzel
+	4,71
+	235,50
+
+	41
+	21626
+	200
+	pç
+	Conector (box) reto leve com rosca BSP 1". Produzido em alumínio SAE 306 de elevada resistência mecânica e a corrosão, com parafuso e arruela,  acabamento sem pintura. 
+	Wetzel
+	3,92
+	784,00
+
+	Preço Total do Lote 
+
+(em R$)
+	71.000,00
+
+	Preço Total do Lote 
+
+(em reais, por extenso)
+	Setenta e um mil reais
+
+
+	Lote: 05
+
+	Item
+	Código FURB
+	Qtde.
+	Und.
+	Descrição do Item
+	Marca
+	Preço Unitário (em R$)
+	Preço Total do Item
+
+ (em R$)
+
+	1
+	4298
+	30
+	Cento
+	Abraçadeira para amarração de cabos. Dimensões: 100mm x 2,45mm (C x L).  Produzida em Nylon 6.6 UV, auto-extinguível conforme UL94V-2. Cor natural. Suportar temperatura de -40 á +85 ºC.  Tensão mínima de ruptura 18lbs (8,0kgf ou 80N). Apresentar compatibilidade com a abraçadeira Insulok T18R
+	Hellermann Tyton
+	4,08
+	122,40
+
+	2
+	3939
+	40
+	Cento
+	Abraçadeira para amarração de cabos. Dimensões: 148mm x 3,6mm (C x L).  Produzida em Nylon 6.6 UV, auto-extinguível conforme UL94V-2. Cor natural. Suportar temperatura de -40 á +85 ºC.  Tensão mínima de ruptura 30lbs (14,0kgf ou 135N). Apresentar compatibilidade com a abraçadeira Insulok T30R
+	Hellermann Tyton
+	9,90
+	396,00
+
+	3
+	3938
+	30
+	Cento
+	Abraçadeira para amarração de cabos. Dimensões: 202mm x 4,6mm (C x L).  Produzida em Nylon 6.6 UV, auto-extinguível conforme UL94V-2. Cor natural. Suportar temperatura de -40 á +85 ºC.  Tensão mínima de ruptura 50lbs (22kgf ou 225N). Apresentar compatibilidade com a abraçadeira Insulok T50R
+	Hellermann Tyton
+	12,80
+	384,00
+
+	4
+	3915
+	20
+	Cento
+	Abraçadeira para amarração de cabos. Dimensões: 390mm x 4,7mm (C x L).  Produzida em Nylon 6.6 UV, auto-extinguível conforme UL94V-2. Cor natural. Suportar temperatura de -40 á +85 ºC.  Tensão mínima de ruptura 50lbs (22kgf ou 225N). Apresentar compatibilidade com a abraçadeira Insulok T50L
+	Hellermann Tyton
+	41,66
+	833,20
+
+	5
+	3805
+	20
+	Cento
+	Abraçadeira para amarração de cabos. Dimensões: 390mm x 7,6mm (C x L).  Produzida em Nylon 6.6 UV, auto-extinguível conforme UL94V-2. Cor natural. Suportar temperatura de -40 á +85 ºC.  Tensão mínima de ruptura 120lbs (54kgf ou 535N). Apresentar compatibilidade com a abraçadeira Insulok T120R
+	Hellermann Tyton
+	76,69
+	1.533,80
+
+	6
+	30543
+	100
+	Metro
+	Organizador de cabos. Dimensões: diâmetro máximo de 16mm, espessura da parede de 0,9mm. Produzido em Polipropileno na cor BRANCA, livre de halogênios, Flamabilidade UL94HB. Temperatura de utilização de -40ºC até +80ºC. Apresentar compatilidade com o organizador HWPP16. Caixa com 25 metros, deve acompanhar o aplicador.
+	Hellermann Tyton
+	8,07
+	807,00
+
+	7
+	27050
+	100
+	Metro
+	Organizador de cabos. Dimensões: diâmetro máximo de 25mm, espessura da parede de 0,9mm. Produzido em Polipropileno na cor BRANCA, livre de halogênios, Flamabilidade UL94HB. Temperatura de utilização de -40ºC até +80ºC. Apresentar compatilidade com o organizador HWPP16. Caixa com 25 metros, deve acompanhar o aplicador.
+	Hellermann Tyton
+	14,50
+	1.450,00
+
+	8
+	2486
+	10
+	Cento
+	Anilha numeradora para cabo ate 6,0mm2 tipo MHG2/5 sendo: 
+
+- algarismo “0”
+
+- algarismo “1”
+
+- algarismo “2”
+
+- algarismo “3”
+
+- algarismo “4”
+
+- algarismo “5”
+
+- algarismo “6”
+
+- algarismo “7”
+
+- algarismo “8”
+
+- algarismo “9”
+
+- letra “A”
+
+- letra “L”
+
+- letra “T”
+
+- letra “R”
+
+- letra “S”
+
+- letra “N” 
+
+(composto por 100 unidades de cada algarismo e cada letra - Total 1600 peças)
+	Hellermann Tyton
+	7,14
+	71,40
+
+	9
+	2485
+	5
+	Cento
+	Anilha numeradora para cabo ate 10,0mm2 tipo MHG3/7 sendo: 
+- algarismo “0”
+- algarismo “1”
+- algarismo “2”
+- algarismo “3”
+- algarismo “4”
+- algarismo “5”
+- algarismo “6”
+- algarismo “7”
+- algarismo “8”
+- algarismo “9”
+- letra “A”
+- letra “L”
+- letra “T”
+- letra “R”
+- letra “S”
+- letra “N” 
+(composto por 100 unidades de cada algarismo e cada letras - Total 1600 peças)
+	Hellermann Tyton
+	18,30
+	91,50
+
+	10
+	28795
+	10
+	rolo
+	Cinta/fita perfurada zincada para poste / tamanho 17 a 19mm de largura e 0,5 mm de espessura / rolo com 25 a 30 metros 
+	Jandrigues
+	31,07
+	310,70
+
+	Preço Total do Lote 
+
+(em R$)
+	6.000,00
+
+	Preço Total do Lote 
+
+(em reais, por extenso)
+	Seis mil reais
+
+
+	Lote: 06
+
+	Item
+	Código FURB
+	Qtde.
+	Und.
+	Descrição do Item
+	Marca
+	Preço Unitário (em R$)
+	Preço Total do Item
+
+ (em R$)
+
+	1
+	30544
+	20
+	kg
+	Barramento de cobre chato ¾”x3/16” - 211 A
+	Nelmetais
+	92,78
+	1.855,60
+
+	2
+	18759
+	20
+	kg
+	Barramento de cobre chato 1”x3/16” - 281 A
+	Nelmetais
+	92,78
+	1.855,60
+
+	3
+	18259
+	20
+	kg
+	Barramento de cobre chato 1x1/4” - 359 A
+	Nelmetais
+	92,77
+	1.855,40
+
+	4
+	18258
+	20
+	kg
+	Barramento de cobre chato 2x1/4” - 719 A
+	Nelmetais
+	92,77
+	1.855,40
+
+	5
+	23770
+	20
+	Peça
+	Barramento de neutro/terra para quadro de disjuntores comprimento 220mm – 12 terminais. 
+	Steck
+	25,23
+	504,60
+
+	6
+	19882
+	10
+	Peça
+	Barramento monofásico 80 A, com isolação, para disjuntores tipo DIN, em barra com 1 metro. Apresentar total compatibilidade de instalação com os barramentos da STECK mod. S1F1000B.
+	Schneider
+	43,64
+	436,40
+
+	7
+	19292
+	20
+	Peça
+	Barramento Trifásico 80 A, com isolação, para disjuntores tipo DIN, em barra com 1 metro. Apresentar total compatibilidade de instalação com os barramentos da STECK mod. S3F1000B.
+	Schneider
+	131,85
+	2.637,00
+
+	Preço Total do Lote 
+
+(em R$)
+	
+
+	Preço Total do Lote 
+
+(em reais, por extenso)
+	
+
+
+	Lote: 07
+
+	Item
+	Código FURB
+	Qtde.
+	Und.
+	Descrição do Item
+	Marca
+	Preço Unitário (em R$)
+	Preço Total do Item
+
+ (em R$)
+
+	1
+	24534
+	1
+	Peça
+	Base e tampa em ferro padrão de 70x46cm para caixa de concreto. Produzida em ferro fundido com reforços diagonais e acabamento betumado. 400kN. O fabricante deve ser cadastrado e tampa Homologada pela CELESC.
+	Comércio de Aço Bureau
+	460,88
+	460,88
+
+	2
+	15593
+	2
+	Peça
+	Base e tampa em ferro padrão de 90x70cm para caixa de concreto. Produzida em ferro fundido com reforços diagonais e acabamento betumado. 400kN.  O fabricante deve ser cadastrado e tampa Homologada pela CELESC.
+	Comércio de Aço Bureau
+	919,56
+	1.839,12
+
+	Preço Total do Lote 
+
+(em R$)
+	2.300,00
+
+	Preço Total do Lote 
+
+(em reais, por extenso)
+	Dois mil e trezentos reais
+
+
+	Lote: 08
+
+	Item
+	Código FURB
+	Qtde.
+	Und.
+	Descrição do Item
+	Marca
+	Preço Unitário (em R$)
+	Preço Total do Item
+
+ (em R$)
+
+	1
+	15191
+	10
+	Peça
+	Quadro de Disjuntores de Sobrepor em Material Termoplástico auto-exinguível, para 12 disjuntores tipo DIN, com Grau de Proteção IP 40, Portas Reversíveis, Cor padrão RAL 7035 (branco). S.CV.12.PT
+	GL Eletro Praticbox
+	41,42
+	414,20
+
+	2
+	4356
+	5
+	Peça
+	Quadro de Disjuntores de Sobrepor em Material Termoplástico auto-exinguível, para 24 disjuntores tipo DIN, com Grau de Proteção IP 40, Portas Reversíveis, Cor padrão RAL 7035 (branco). S.CV.24.PT
+	GL Eletro Praticbox
+	81,04
+	405,20
+
+	3
+	19705
+	3
+	Peça
+	Quadro de Disjuntores de Sobrepor em Material Termoplástico auto-exinguível, para 36 disjuntores tipo DIN, com Grau de Proteção IP 40, Portas Reversíveis, Cor padrão RAL 7035 (branco). S.CS.36.PT
+	GL Eletro Praticbox
+	157,80
+	473,40
+
+	4
+	4383
+	2
+	Peça
+	Quadro de Disjuntores de Sobrepor em Material Termoplástico auto-exinguível, para 48 disjuntores tipo DIN, com Grau de Proteção IP 40, Portas Reversíveis, Cor padrão RAL 7035 (branco). S.CS.48.PT
+	GL Eletro Praticbox
+	182,90
+	365,80
+
+	5
+	2452
+	50
+	Peça
+	Caixa de PVC (caixa p/ ar condicionado) com 1 tomada 2P+T 20A, ABNT NBR 14136, suportar tensão de até 250VAC. 1 Disjuntor unipolar linha branca, 25A,  certificado pelo INMETRO conforme norma ABNT NBR IEC 60898 e atendendo a norma ABNT NBR IEC 60947-2, capacidade de interrupção mínima de 5KA em 220V  e 3KA em 380V, fixação em trilho DIN.  tipo Mini. Cor branca. Apresentar total compatibilidade de dimensões, formato, furação, componentes e substituição com a caixa da SOPRANO
+	Pezzi ABB
+	31,19
+	1.559,50
+
+	6
+	19404
+	40
+	Peça
+	Caixa plástica em PVC c/ tampa cega de 120x120x75mm (AxLxP), de sobrepor cinza. Apresentar total compatibilidade de formato, cor, substituição, fixação e material com a caixa CEMAR - CPS-12 
+	Cemar
+	20,67
+	826,80
+
+	7
+	18284
+	100
+	Peça
+	Caixa plástica em PVC c/ tampa cega de 150x150x68mm (AxLxP) de sobrepor cinza. Apresentar total compatibilidade de formato, cor, substituição, fixação e material com a caixa CEMAR - CPS-15 
+	Cemar
+	23,44
+	2.344,00
+
+	8
+	18283
+	80
+	Peça
+	Caixa plástica em PS c/ tampa cega de 185x210x74mm  (AxLxP) de sobrepor cinza. Apresentar total compatibilidade de formato, cor, substituição, fixação e material com a caixa CEMAR - CPS 17
+	Cemar
+	48,90
+	3.912,00
+
+	9
+	19406
+	50
+	Peça
+	Caixa plástica em PS c/ tampa cega de 250x323x74mm  (AxLxP) de sobrepor cinza. Apresentar total compatibilidade de formato, cor, substituição, fixação e material com a caixa CEMAR - CPS 18 
+	Cemar
+	85,58
+	4.279,00
+
+	10
+	22019
+	15
+	Peça
+	Canaleta em PVC com laterais vazada, para painéis com tampa, Cor cinza. Temperatura  de utilização: -20°C a +70°C, Auto-extinguível UL94V-1. dimensões: 30mm X 80mm X 2,00m (largura X altura X comprimento). 
+	Hellermann Tyton
+	37,78
+	566,70
+
+	11
+	2708
+	15
+	Peça
+	Canaleta em PVC com laterais vazada, para painéis com tampa, Cor cinza. Temperatura  de utilização: -20°C a +70°C, Auto-extinguível UL94V-1. Dimensões: 50mm X 80mm X 2,00m (largura X altura X comprimento). 
+	Hellermann Tyton
+	45,73
+	685,95
+
+	12
+	23412
+	15
+	Peça
+	Canaleta em PVC com laterais vazada, para painéis com tampa, Cor cinza. Temperatura  de utilização: -20°C a +70°C, Auto-extinguível UL94V-1. Dimensões: 80mm X 80mm X 2,00m (largura X altura X comprimento). 
+	Hellermann Tyton
+	53,18
+	797,70
+
+	13
+	2694
+	15
+	Peça
+	Canaleta em PVC com laterais vazada, para painéis com tampa, Cor cinza. Temperatura  de utilização: -20°C a +70°C, Auto-extinguível UL94V-1. Dimensões: 50mm X 50mm X 2,00m (largura X altura X comprimento). 
+	Hellermann Tyton
+	32,65
+	489,75
+
+	14
+	17498
+	800
+	Peça
+	Colar Para RJ45/RJ11 - Compativel com o colar da CEMAR tipo BEZEL Referencia: 91.36.90. Cor cinza.
+	Wetzel
+	1,10
+	880,00
+
+	Preço Total do Lote 
+
+(em R$)
+	18.000,00
+
+	Preço Total do Lote 
+
+(em reais, por extenso)
+	Dezoito mil reais
+
+
+	Lote: 09
+
+	Item
+	Código FURB
+	Qtde.
+	Und.
+	Descrição do Item
+	Marca
+	Preço Unitário (em R$)
+	Preço Total do Item
+
+ (em R$)
+
+	1
+	27581
+	10
+	Peça
+	Conector para tubo metálico flexível tipo SEALTUBO de 1” em alumínio, reusável. 
+	SPTF
+	19,66
+	196,60
+
+	2
+	27582
+	10
+	Peça
+	Conector para tubo metálico flexível tipo SEALTUBO de 3/4” em alumínio, reusável. 
+	SPTF
+	13,64
+	136,40
+
+	3
+	2769
+	30
+	Metro
+	Tubo metálico flexível tipo SEALTUBO de 3/4”, fabricado com fita de aço zincado e revestido externamente com polivinil clorídrico (PVC) extrudado. 
+	SPTF
+	7,79
+	233,70
+
+	4
+	27580
+	30
+	Metro
+	Tubo metálico flexível tipo SEALTUBO de 1”, fabricado com fita de aço zincado e revestido externamente com polivinil clorídrico (PVC) extrudado. 
+	SPTF
+	6,11
+	183,30
+
+	Preço Total do Lote 
+
+(em R$)
+	750,00
+
+	Preço Total do Lote 
+
+(em reais, por extenso)
+	Setecentos e cinquenta reais
+
+
+	Lote: 10
+
+	Item
+	Código FURB
+	Qtde.
+	Und.
+	Descrição do Item
+	Marca
+	Preço Unitário (em R$)
+	Preço Total do Item
+
+ (em R$)
+
+	1
+	3650
+	500
+	Peça
+	Fita isolante preta c/ 20 metros, 19mm de largura e 0,18mm de espessura, anti-chama, com isolação para 750V, classe de temperatura de 90ºC. Atendendo a norma NM 60454-3-1 e ABNT NBR 5037 Referência: Scotch 33+, Prysmian P44, ou melhor de qualidade.
+	Prysmian
+	11,98
+	5.990,00
+
+	2
+	3631
+	10
+	Peça
+	Fita isolante auto fusão para alta tensão, dimensões 19mm x 10m x 0,76mm, a base de borracha EPR, classe de temperatura 90ºC, deve atender a norma ABNT NBR-10669.
+	Prysmian
+	19,63
+	196,30
+
+	3
+	17294
+	70
+	Peça
+	Cartucho de fita adesiva para rotulador eletrônico Brother - fita M tape de 12 mm de largura e 8 metros de comprimento, branca mod. M-K231.
+	Brother
+	106,66
+	7.466,20
+
+	4
+	19632
+	50
+	Metro
+	Fita velcro 1,40 cm de largura preta dupla face, própria para amarração de feixes de cabos de rede e telefonia de uso interno em geral, Rolo com 10 metros no mínimo, com garantia mínima de 12 (doze) meses.
+	Rohdina
+	4,83
+	241,50
+
+	5
+	10922
+	25
+	Rolo
+	Fita adesiva dupla face VHB de espuma acrílica transparente, espessura de 1mm, rolo de 19mm x 20m, para fixação de caneletas e placas em parede (refêrencia 3M-4910) 
+	3M
+	52,24
+	1.306,00
+
+	Preço Total do Lote 
+
+(em R$)
+	15.200,00
+
+	Preço Total do Lote 
+
+(em reais, por extenso)
+	Quinze mil e duzentos reais
+
+
+	Lote: 11
+
+	Item
+	Código FURB
+	Qtde.
+	Und.
+	Descrição do Item
+	Marca
+	Preço Unitário (em R$)
+	Preço Total do Item
+
+ (em R$)
+
+	1
+	4149
+	30
+	Peça
+	Terminal a compressão (2 compressões) para cabo de 16mm².
+	Magnet
+	2,55
+	76,50
+
+	2
+	4150
+	30
+	Peça
+	Terminal a compressão (2 compressões) para cabo de 25mm².
+	Magnet
+	2,95
+	88,50
+
+	3
+	4134
+	20
+	Peça
+	Terminal a compressão (2 compressões) para cabo de 35mm².
+	Magnet
+	3,35
+	67,00
+
+	4
+	19657
+	20
+	Peça
+	Terminal a compressão (2 compressões) para cabo de 50mm².
+	Magnet
+	6,25
+	125,00
+
+	5
+	27392
+	20
+	Peça
+	Terminal a compressão (2 compressões) para cabo de 70mm².
+	Magnet
+	8,14
+	162,80
+
+	6
+	29715
+	20
+	Peça
+	Terminal a compressão (2 compressões) para cabo de 95mm².
+	Magnet
+	11,66
+	233,20
+
+	7
+	18743
+	20
+	Peça
+	Terminal a compressão (2 compressões) para cabo de 120mm².
+	Magnet
+	11,75
+	235,00
+
+	8
+	29713
+	12
+	Peça
+	Terminal a compressão (2 compressões) para cabo de 150mm².
+	Magnet
+	17,65
+	211,80
+
+	9
+	18744
+	12
+	Peça
+	Terminal a compressão (2 compressões) para cabo de 185mm².
+	Magnet
+	22,59
+	271,08
+
+	10
+	29714
+	12
+	Peça
+	Terminal a compressão (2 compressões) para cabo de 240mm
+	Magnet
+	34,91
+	418,92
+
+	11
+	25263
+	1
+	Cento
+	Terminal pré-isolado amarelo p/ cabo até 25,0mm mm. Tipo anel com diâmetro interno de 6,0mm.  
+	Penzel
+	381,38
+	381,38
+
+	12
+	25264
+	1
+	Cento
+	Terminal pré-isolado amarelo p/ cabo até 25,0mm mm. Tipo anel com diâmetro interno de 8mm.  
+	Penzel
+	381,37
+	381,37
+
+	13
+	25265
+	1
+	Cento
+	Terminal pré-isolado amarelo p/ cabo até 25,0mm tipo pino.  
+	Penzel
+	254,86
+	254,86
+
+	14
+	4144
+	4
+	Cento
+	Terminal pré-isolado amarelo p/ cabo até 6,0 mm. Tipo anel com diâmetro interno de 6mm.  
+	Penzel
+	47,66
+	190,64
+
+	15
+	25258
+	2
+	Cento
+	Terminal pré-isolado amarelo p/ cabo até 6,0 mm. Tipo anel com diâmetro interno de 8mm.  
+	Penzel
+	56,84
+	113,68
+
+	16
+	4145
+	5
+	Cento
+	Terminal pré-isolado amarelo p/ cabo até 6,0mm tipo pino.  
+	Penzel
+	45,84
+	229,20
+
+	17
+	19659
+	4
+	Cento
+	Terminal pré-isolado amarelo p/ cabo até 6,0mm. Tipo forquilha com abertura interna de 5mm.  
+	Penzel
+	45,84
+	183,36
+
+	18
+	25260
+	1
+	Cento
+	Terminal pré-isolado azul p/ cabo até 16,0mm mm. Tipo anel com diâmetro interno de 6mm.  
+	Penzel
+	238,36
+	238,36
+
+	19
+	25261
+	1
+	Cento
+	Terminal pré-isolado azul p/ cabo até 16,0mm mm. Tipo anel com diâmetro interno de 8mm.  
+	Penzel
+	238,36
+	238,36
+
+	20
+	25262
+	1
+	Cento
+	Terminal pré-isolado azul p/ cabo até 16,0mm tipo pino.  
+	Penzel
+	227,36
+	227,36
+
+	21
+	19660
+	5
+	Cento
+	Terminal pré-isolado azul p/ cabo até 2,5mm Tipo anel com diâmetro interno de 6mm.  – 
+	Penzel
+	31,17
+	155,85
+
+	22
+	4148
+	10
+	Cento
+	Terminal pré-isolado azul p/ cabo até 2,5mm tipo pino.  
+	Penzel
+	29,34
+	293,40
+
+	23
+	4146
+	3
+	Cento
+	Terminal pré-isolado azul p/ cabo até 2,5mm. Tipo anel com diâmetro interno de 5mm.  – 
+	Penzel
+	22,00
+	66,00
+
+	24
+	4147
+	4
+	Cento
+	Terminal pré-isolado azul p/ cabo até 2,5mm. Tipo forquilha com abertura interna de 4mm  .
+	Penzel
+	29,34
+	117,36
+
+	25
+	19662
+	10
+	Cento
+	Terminal pré-isolado vermelho p/ cabo até 1,5mm tipo pino.  
+	Penzel
+	18,34
+	183,40
+
+	26
+	14821
+	5
+	Cento
+	Terminal pré-isolado vermelho p/ cabo até 1,5mm. Tipo anel com diâmetro interno de 5mm,  
+	Penzel
+	23,84
+	119,20
+
+	27
+	19658
+	2
+	Cento
+	Terminal pré-isolado vermelho p/ cabo até 1,5mm. Tipo forquilha com abertura interna de 4mm.  .
+	Penzel
+	25,67
+	51,34
+
+	28
+	19661
+	3
+	Cento
+	Terminal pré-isolado vermelho p/ cabo até 10,0mm mm. Tipo anel com diâmetro interno de 6mm. 
+	Penzel
+	128,35
+	385,05
+
+	29
+	25259
+	2
+	Cento
+	Terminal pré-isolado vermelho p/ cabo até 10,0mm mm. Tipo anel com diâmetro interno de 8mm.
+	Penzel
+	137,52
+	275,04
+
+	30
+	4274
+	2
+	Cento
+	Terminal pré-isolado vermelho p/ cabo até 10,0mm tipo pino.  
+	Penzel
+	146,69
+	293,38
+
+	31
+	34925
+	2
+	Cento
+	Terminal pré-isolado tipo fêmea  / cor amarela / para cabos de 4,0 até 6,0 mm² / em cobre eletrolítico com camada de estanho / material isolante em poliamida (nylon 66) antichama.
+	Penzel
+	51,34
+	102,68
+
+	32
+	34926
+	2
+	Cento
+	Terminal pré-isolado tipo fêmea  / cor azul / para cabos de 1,5 até 2,5 mm² / em cobre eletrolítico com camada de estanho / material isolante em poliamida (nylon 66) antichama.
+	Penzel
+	36,67
+	73,34
+
+	33
+	21793
+	50
+	Peça
+	Terminal pré-isolado tipo pino / cor vermelha / para cabo de 35 mm² / em cobre eletrolítico com camada de estanho. 
+	Penzel
+	5,08
+	254,00
+
+	34
+	37479
+	2
+	Cento
+	Terminal fêmea tipo bandeira de 6,3mm (1/4") com garra para cabo 1,5mm²,  fabricada em latão.
+	Penzel
+	49,51
+	99,02
+
+	Preço Total do Lote 
+
+(em R$)
+	6.797,43
+
+	Preço Total do Lote 
+
+(em reais, por extenso)
+	Seis mil setecentos e noventa e sete reais e quarenta e três centavos
+
+
+	Lote: 13
+
+	Item
+	Código FURB
+	Qtde.
+	Und.
+	Descrição do Item
+	Marca
+	Preço Unitário (em R$)
+	Preço Total do Item
+
+ (em R$)
+
+	1
+	2461
+	3
+	Peça
+	Disjuntor de potência trifásico 125A em caixa moldada . Capacidade de interrupção mínima de 12kA (380 V~) dimensões: 165mm x 105mm x 68mm (A x L x P) (10KA)
+	Soprano
+	318,32
+	954,96
+
+	2
+	2464
+	3
+	Peça
+	Disjuntor de potência trifásico 150A em caixa moldada . Capacidade de interrupção mínima de 12kA (380 V~) dimensões: 165mm x 105mm x 68mm (A x L x P) (10KA)
+	Soprano
+	318,32
+	954,96
+
+	3
+	2463
+	3
+	Peça
+	Disjuntor de potência trifásico 175A em caixa moldada . Capacidade de interrupção mínima de 12kA (380 V~) dimensões: 165mm x 105mm x 68mm (A x L x P) (10KA)
+	Soprano
+	318,32
+	954,96
+
+	4
+	2454
+	3
+	Peça
+	Disjuntor de potência trifásico 225A em caixa moldada . Capacidade de interrupção mínima de 12kA (380 V~) dimensões: 165mm x 105mm x 68mm (A x L x P) (10KA)
+	Soprano
+	318,32
+	954,96
+
+	5
+	32274
+	5
+	Peça
+	Disjuntor de potência trifásico 63A em caixa moldada . Capacidade de interrupção mínima de 16kA (380 V~). Tensão nominal de isolamento de no mínimo 750V. Suportar tensão de impulso mínima de 7KV. Regulagem que contemple no mínimo a faixa de 44 à 63A. Altura da base dos contatos dos pólos em ambos os lados de 24mm (+ ou – 1mm). Separação entre o centro dos pólos de 25mm (+ ou – 0,5mm). Produzido em conformidade com a norma IEC 60947-2. Apresentar total compatibilidade de dimensões e características com o disjuntor ABB/TMAX  T1B160  63A
+	ABB
+	456,43
+	2.282,15
+
+	6
+	19715
+	5
+	Peça
+	Disjuntor de potência trifásico 100A em caixa moldada . Capacidade de interrupção mínima de 16kA (380 V~). Tensão nominal de isolamento de no mínimo 750V. Suportar tensão de impulso mínima de 7KV. Regulagem que contemple no mínimo a faixa de 70 à 100A. Altura da base dos contatos dos pólos em ambos os lados de 24mm (+ ou – 1mm). Separação entre o centro dos pólos de 25mm (+ ou – 0,5mm). Produzido em conformidade com a norma IEC 60947-2. Apresentar  dimensões e altura das  conexões  compatíveis com os disjuntores da ABB linha TMAX
+	ABB
+	456,43
+	2.282,15
+
+	7
+	26188
+	3
+	Peça
+	Disjuntor de potência trifásico 160A em caixa moldada . Capacidade de interrupção mínima de 16kA (380 V~). Tensão nominal de isolamento de no mínimo 750V. Suportar tensão de impulso mínima de 7KV. Regulagem que contemple no mínimo a faixa de 115 à 160A. Altura da base dos contatos dos pólos em ambos os lados de 24mm (+ ou – 1mm). Separação entre o centro dos pólos de 25mm (+ ou – 0,5mm). Produzido em conformidade com a norma IEC 60947-2. Apresentar dimensões e altura das  conexões  compatíveis com os disjuntores da ABB linha TMAX
+	ABB
+	907,88
+	2.723,64
+
+	8
+	2471
+	2
+	Peça
+	Disjuntor de potência trifásico 200A em caixa moldada . Capacidade de interrupção mínima de 25kA (380 V~). Tensão nominal de isolamento de no mínimo 750V. Suportar tensão de impulso mínima de 7KV. Regulagem que contemple no mínimo a faixa de 140 à 200A. Altura da base dos contatos dos pólos em ambos os lados de 19mm (+ ou – 1mm). Separação entre o centro dos pólos de 35mm (+ ou – 0,5mm). Produzido em conformidade com a norma IEC 60947-2. apresentar total compatibilidade de dimensões e características com o disjuntor ABB/TMAX  T3C250  200A
+	ABB
+	2.018,12
+	4.036,24
+
+	9
+	26189
+	2
+	Peça
+	Disjuntor de potência trifásico 250A em caixa moldada . Capacidade de interrupção mínima de 25kA (380 V~). Tensão nominal de isolamento de no mínimo 750V. Suportar tensão de impulso mínima de 7KV. Regulagem que contemple no mínimo a faixa de 175 à 250A. Altura da base dos contatos dos pólos em ambos os lados de 19mm (+ ou – 1mm). Separação entre o centro dos pólos de 25mm (+ ou – 0,5mm). Produzido em conformidade com a norma IEC 60947-2. Apresentar  dimensões e altura das  conexões  compatíveis com os disjuntores da ABB linha TMAX
+	ABB
+	2.018,45
+	4.036,90
+
+	10
+	26520
+	2
+	Peça
+	Disjuntor de potência trifásico 400A em caixa moldada . Capacidade de interrupção mínima de 36kA (380 V~). Tensão nominal de isolamento de no mínimo 750V. Suportar tensão de impulso mínima de 7KV. Regulagem que contemple no mínimo a faixa de 280 à 400A. Altura da base dos contatos dos pólos em ambos os lados de 20mm (+ ou – 1mm). Separação entre o centro dos pólos de 46,5mm (+ ou – 0,5mm). Produzido em conformidade com a norma IEC 60947-2. Apresentar total compatibilidade de dimensões e características com o disjuntor ABB / TMAX  T5N400  400A.
+	ABB
+	3.509,54
+	7.019,08
+
+	Preço Total do Lote 
+
+(em R$)
+	26.200,00
+
+	Preço Total do Lote 
+
+(em reais, por extenso)
+	Vinte e seis mil e duzentos reais
+
+
+	Lote: 14
+
+	Item
+	Código FURB
+	Qtde.
+	Und.
+	Descrição do Item
+	Marca
+	Preço Unitário (em R$)
+	Preço Total do Item
+
+ (em R$)
+
+	1
+	2434
+	24
+	Peça
+	Disjuntor tripolar 16 A,  linha branca, certificado pelo INMETRO conforme norma NBR 60898. Capacidade de interrupção mínima de 5KA em 220V  e 3KA em 380V, Curva C. Fixação em trilho DIN. Possibilitar a conexão para cabo e barramento simultaneamente em pelo menos um dos pólos. Apresentar  dimensões e altura das  conexões  compatíveis com os disjuntores da PIAL ou da ABB
+	ABB
+	48,03
+	1.152,72
+
+	2
+	2440
+	48
+	Peça
+	Disjuntor unipolar, 20A, linha branca, certificado pelo INMETRO conforme norma NBR 60898. Capacidade de interrupção mínima de 5KA em 220V  e 3KA em 380V, Curva C. Fixação em trilho DIN. Possibilitar a conexão para cabo e barramento simultaneamente em          pelo menos um dos pólos. Apresentar  dimensões e altura das  conexões  compatíveis com os disjuntores da PIAL ou da ABB
+	ABB
+	48,03
+	2.305,44
+
+	3
+	2447
+	24
+	Peça
+	Disjuntor tripolar 25 A,  linha branca, certificado pelo INMETRO conforme norma NBR 60898. Capacidade de interrupção mínima de 5KA em 220V  e 3KA em 380V, Curva C. Fixação em trilho DIN. Possibilitar a conexão para cabo e barramento simultaneamente em pelo menos um dos pólos. Apresentar  dimensões e altura das  conexões  compatíveis com os disjuntores da PIAL ou da ABB
+	ABB
+	48,03
+	1.152,72
+
+	4
+	19686
+	24
+	Peça
+	Disjuntor tripolar 32 A,  linha branca, certificado pelo INMETRO conforme norma NBR 60898. Capacidade de interrupção mínima de 5KA em 220V  e 3KA em 380V, Curva C. Fixação em trilho DIN. Possibilitar a conexão para cabo e barramento simultaneamente em pelo menos um dos pólos. Apresentar  dimensões e altura das  conexões  compatíveis com os disjuntores da PIAL ou da ABB.
+	ABB
+	48,04
+	1.152,96
+
+	5
+	19685
+	24
+	Peça
+	Disjuntor tripolar 40 A,  linha branca, certificado pelo INMETRO conforme norma NBR 60898. Capacidade de interrupção mínima de 5KA em 220V  e 3KA em 380V, Curva C. Fixação em trilho DIN. Possibilitar a conexão para cabo e barramento simultaneamente em pelo menos um dos pólos. Apresentar  dimensões e altura das  conexões  compatíveis com os disjuntores da PIAL ou da ABB.
+	ABB
+	53,32
+	1.279,68
+
+	6
+	21458
+	24
+	Peça
+	Disjuntor tripolar 50A, linha branca, certificado pelo INMETRO conforme norma NBR 60898. Capacidade de interrupção mínima de 5KA em 220V  e 3KA em 380V, Curva C. Fixação em trilho DIN. Possibilitar a conexão para cabo e barramento simultaneamente em pelo menos um dos pólos. Apresentar  dimensões e altura das  conexões  compatíveis com os disjuntores da PIAL ou da ABB.
+	ABB
+	57,92
+	1.309,08
+
+	7
+	19689
+	24
+	Peça
+	Disjuntor tripolar 63A, linha branca, certificado pelo INMETRO conforme norma NBR 60898. Capacidade de interrupção mínima de 5KA em 220V  e 3KA em 380V, Curva C. Fixação em trilho DIN. Possibilitar a conexão para cabo e barramento simultaneamente em pelo menos um dos pólos. Apresentar  dimensões e altura das  conexões  compatíveis com os disjuntores linha branca da PIAL,  ou da ABB.
+	ABB
+	71,77
+	1.722,48
+
+	8
+	19692
+	24
+	Peça
+	Disjuntor unipolar, 10A, linha branca, certificado pelo INMETRO conforme norma NBR 60898. Capacidade de interrupção mínima de 5KA em 220V  e 3KA em 380V, Curva C. Fixação em trilho DIN. Possibilitar a conexão para cabo e barramento simultaneamente em pelo menos um dos pólos. Apresentar  dimensões e altura das  conexões  compatíveis com os disjuntores da PIAL ou da ABB.
+	ABB
+	7,90
+	189,60
+
+	9
+	19693
+	96
+	Peça
+	Disjuntor unipolar, 16A, linha branca, certificado pelo INMETRO conforme norma NBR 60898. Capacidade de interrupção mínima de 5KA em 220V  e 3KA em 380V, Curva C. Fixação em trilho DIN. Possibilitar a conexão para cabo e barramento simultaneamente em pelo menos um dos pólos. Apresentar  dimensões e altura das  conexões  compatíveis com os disjuntores da PIAL ou da ABB.
+	ABB
+	7,90
+	758,40
+
+	10
+	19694
+	96
+	Peça
+	Disjuntor unipolar, 20A, linha branca, certificado pelo INMETRO conforme norma NBR 60898. Capacidade de interrupção mínima de 5KA em 220V  e 3KA em 380V, Curva C. Fixação em trilho DIN. Possibilitar a conexão para cabo e barramento simultaneamente em          pelo menos um dos pólos. Apresentar  dimensões e altura das  conexões  compatíveis com os disjuntores da PIAL ou da ABB.
+	ABB
+	7,90
+	758,40
+
+	11
+	19695
+	96
+	Peça
+	Disjuntor unipolar, 25A, linha branca, certificado pelo INMETRO conforme norma NBR 60898. Capacidade de interrupção mínima de 5KA em 220V  e 3KA em 380V, Curva C. Fixação em trilho DIN. Possibilitar a conexão para cabo e barramento simultaneamente em pelo menos um dos pólos. Apresentar  dimensões e altura das  conexões  compatíveis com os disjuntores da PIAL ou da ABB.
+	ABB
+	7,90
+	758,40
+
+	12
+	19696
+	48
+	Peça
+	Disjuntor unipolar, 32A, linha branca, certificado pelo INMETRO conforme norma NBR 60898. Capacidade de interrupção mínima de 5KA em 220V  e 3KA em 380V, Curva C. Fixação em trilho DIN. Possibilitar a conexão para cabo e barramento simultaneamente em pelo menos um dos pólos. Apresentar  dimensões e altura das  conexões  compatíveis com os disjuntores da PIAL ou da ABB.
+	ABB
+	7,90
+	379,20
+
+	13
+	19697
+	24
+	Peça
+	Disjuntor unipolar, 40A, linha branca, certificado pelo INMETRO conforme norma NBR 60898. Capacidade de interrupção mínima de 5KA em 220V  e 3KA em 380V, Curva C. Fixação em trilho DIN. Possibilitar a conexão para cabo e barramento simultaneamente em pelo menos um dos pólos. Apresentar  dimensões e altura das  conexões  compatíveis com os disjuntores da PIAL ou da ABB.
+	ABB
+	12,59
+	302,16
+
+	14
+	19698
+	24
+	Peça
+	Disjuntor unipolar, 50A, linha branca, certificado pelo INMETRO conforme norma NBR 60898. Capacidade de interrupção mínima de 5KA em 220V  e 3KA em 380V, Curva C. Fixação em trilho DIN. Possibilitar a conexão para cabo e barramento simultaneamente em pelo menos um dos pólos. Apresentar  dimensões e altura das  conexões  compatíveis com os disjuntores da PIAL ou da ABB.
+	ABB
+	13,61
+	326,64
+
+	15
+	25493
+	24
+	Peça
+	Disjuntor unipolar, 63A, linha branca, certificado pelo INMETRO conforme norma NBR 60898. Capacidade de interrupção mínima de 5KA em 220V  e 3KA em 380V, Curva C. Fixação em trilho DIN. Possibilitar a conexão para cabo e barramento simultaneamente em pelo menos um dos pólos. Apresentar  dimensões e altura das  conexões  compatíveis com os disjuntores da PIAL ou da ABB.
+	ABB
+	15,29
+	366,96
+
+	16
+	30493
+	5
+	Peça
+	Dispositivo DR (Diferencial Residual), 4 polos, sensibilidade 30mA, corrente nominal 25A, classe AC, em conformidade com a norma ABNT NBR NM 61008-2-1. Fixação em trilho DIN. Apresentar  dimensões e altura das  conexões  compatíveis com os interruptores diferenciais  e disjuntores linha branca da PIAL ou ABB.
+	ABB
+	201,89
+	1.009,45
+
+	17
+	30494
+	5
+	Peça
+	Dispositivo DR (Diferencial Residual), 4 polos, sensibilidade 30mA, corrente nominal 40A, classe AC, em conformidade com a norma ABNT NBR NM 61008-2-1.  Fixação em trilho DIN. Apresentar  dimensões e altura das  conexões  compatíveis com os interruptores diferenciais  e disjuntores linha branca da PIAL, GE ou ABB.
+	ABB
+	181,54
+	907,70
+
+	18
+	30495
+	5
+	Peça
+	Dispositivo DR (Diferencial Residual), 4 polos, sensibilidade 30mA, corrente nominal 63A, classe AC, em conformidade com a norma ABNT NBR NM 61008-2-1.  Fixação em trilho DIN. Apresentar  dimensões e altura das  conexões  compatíveis com os interruptores diferenciais  e disjuntores linha branca da PIAL, GE ou ABB.
+	ABB
+	211,55
+	1.057,75
+
+	19
+	30491
+	2
+	Peça
+	Dispositivo DR (Diferencial Residual), 4 polos, sensibilidade 300mA, corrente nominal 80A, classe AC, em conformidade com a norma ABNT NBR NM 61008-2-1.  Fixação em trilho DIN. Apresentar  dimensões e altura das  conexões  compatíveis com os interruptores diferenciais  e disjuntores linha branca da PIAL, GE ou ABB.
+	ABB
+	552,89
+	1.105,78
+
+	20
+	30492
+	2
+	Peça
+	Dispositivo DR (Diferencial Residual), 4 polos, sensibilidade 300mA, corrente nominal 100A, classe AC, em conformidade com a norma ABNT NBR NM 61008-2-1.  Fixação em trilho DIN. Apresentar  dimensões e altura das  conexões  compatíveis com os interruptores diferenciais  e disjuntores linha branca da PIAL, GE ou ABB.
+	ABB
+	560,39
+	1.120,78
+
+	21
+	26194
+	10
+	Peça
+	Dispositivo DR (Diferencial Residual), 2 polos, sensibilidade 30mA, corrente nominal 25A, classe AC, em conformidade com a norma ABNT NBR NM 61008-2-1.  Fixação em trilho DIN. Apresentar  dimensões e altura das  conexões  compatíveis com os interruptores diferenciais  e disjuntores linha branca da PIAL, GE ou ABB.
+	ABB
+	136,29
+	1.362,90
+
+	22
+	30488
+	10
+	Peça
+	Dispositivo DR (Diferencial Residual), 2 polos, sensibilidade 30mA, corrente nominal 40A, classe AC, em conformidade com a norma ABNT NBR NM 61008-2-1.  Fixação em trilho DIN. Apresentar  dimensões e altura das  conexões  compatíveis com os interruptores diferenciais  e disjuntores linha branca da PIAL, GE ou ABB..
+	ABB
+	138,57
+	1.385,70
+
+	23
+	30489
+	10
+	Peça
+	Dispositivo DR (Diferencial Residual), 2 polos, sensibilidade 30mA, corrente nominal 63A, classe AC, em conformidade com a norma ABNT NBR NM 61008-2-1. Fixação em trilho DIN.  Apresentar  dimensões e altura das  conexões  compatíveis com os interruptores diferenciais  e disjuntores linha branca da PIAL, GE ou ABB.
+	ABB
+	157,16
+	1.571,60
+
+	24
+	30490
+	50
+	Peça
+	Dispositivo de proteção contra surtos (DPS) monopolar, classe I e II, Tensão de operação contínua 220V. Corrente de descarga ≥ 45kA,  Fixação em trilho DIN.
+	Clamper
+	116,56
+	5.828,00
+
+	25
+	30507
+	2
+	Peça
+	Rele de tempo eletrônico,(pulso na energização) padrão DIN - bobina em 220V - 0-30 segundos, 1 contato reversível. 
+	ABB
+	101,27
+	202,54
+
+	26
+	19325
+	2
+	Peça
+	Rele de tempo eletrônico,(pulso na energização) padrão DIN - bobina em 220V - 0-60 minutos, 1 contato reversível. 
+	ABB
+	137,58
+	275,16
+
+	27
+	36497
+	30
+	Peça
+	Relê falta de fase com neutro trifásico. Alimentação: 380 Vca. Consumo máximo: 3 VA Número de contato: 1SPDT Ajuste de sensibilidade: 7 a 20% Tensão de isolação: 15000 Vrms / 1 min. Grau de proteção: Invólucro = IP 51 – Terminais = IP 10 Dimensões: 88,6 x 25,5 x 97mm (A x E x C) Ref. Comercial:  FSN–22 MM / TRON.
+	Tron
+	99,12
+	2.973,60
+
+	28
+	34889
+	15
+	Peça
+	O Interruptor Horário (timer digital) / com saída a relé para comandar equipamentos conectado / configuração para até 20 programas (10 liga e 10 desliga) / com intervalo mínimo entre programas de 1 minuto / para montagem em trilho DIN, por intermédio de parafusos / bateria recarregável (reserva 100 horas) / programas diários e/ou semanais /  Display LCD multi-indicativo / acionamento manual da saída / horário de verão (+1 h) / com 1 contato de saída rev. (SPDT), 16 A (cos f = 1) / alimentação: 100 a 240 VCA, 48 ~ 63 Hz.
+	Clip
+	146,88
+	2.203,20
+
+	Preço Total do Lote 
+
+(em R$)
+	35.000,00
+
+	Preço Total do Lote 
+
+(em reais, por extenso)
+	Trinta e cinco mil reais
+
+
+	Lote: 15
+
+	Item
+	Código FURB
+	Qtde.
+	Und.
+	Descrição do Item
+	Marca
+	Preço Unitário (em R$)
+	Preço Total do Item
+
+ (em R$)
+
+	1
+	32179
+	30
+	pç
+	Acionador manual de sobrepor IP 20 / endereçável / para central de alarme de incêndio / Estar em conformidade com a NBR 17240 / Possuir total compatibilidade com central de alarme de incêndio endereçável Slim da Intelbras
+	Intelbrás
+	100,40
+	3.012,00
+
+	2
+	32180
+	20
+	pç
+	Sirene audiovisual IP 20 / endereçável / para central de alarme de incêndio / Estar em conformidade com a NBR 17240 / Possuir total compatibilidade com central de alarme de incêndio endereçavel da Engesul/Intelbras.
+	Intelbrás
+	59,54
+	1.190,80
+
+	3
+	32181
+	30
+	pç
+	Detector óptico de fumaça / 24Vcc / endereçável / para central de alarme de incêndio / Estar em conformidade com a NBR 17240 / Possuir total compatibilidade com central de alarme de incêndio endereçável Slim da Intelbras.
+	Intelbrás
+	155,89
+	4.676,70
+
+	4
+	39669
+	4
+	pç
+	Detetor de gás de cozinha, GLP, de sobrepor, de sinalização Visual e através de rele com contato seco, tensão de operação CC - 24Vcc.
+	Ditronic
+	354,68
+	1.418,72
+
+	5
+	39670
+	4
+	pç
+	Módulo de endereçamento para centrais de alarme de incêndio com possibilidade de conectar sensores de contato seco como por exemplo fluxostato, sensores de gás, temperatura, etc. Deve possuir total compatibilidade com a central de alarme modelo SLIM da Engesul/Intelbras.
+	Intelbrás
+	113,44
+	453,76
+
+	6
+	17781
+	2
+	pç
+	Central de Iluminação de Emergência / potência de saída mínima de 1800W / tensão de saída 24Vcc / Alimentação automática 100 - 240 Vac / no mínimo 2 circuitos de saída / de acordo com NBR 10898 /  IP 20.
+	Intelbrás
+	1.113,68
+	2.227,36
+
+	7
+	32074
+	500
+	m
+	Cabo blindado para sistema de detecção de incêndio 4 vias (2X0,75 + 2X1,50)mm2 / conforme norma NBR 17240 / fabricados de cobre eletrolítico / tempera mole / isolados em PVC com classe de isolamento de 600V / cobertura em PVC/E classe 105°C / anti-chama / na cor vermelha.
+	Telecam
+	7,74
+	3.870,00
+
+	Preço Total do Lote 
+
+(em R$)
+	16.849,34
+
+	Preço Total do Lote 
+
+(em reais, por extenso)
+	Dezesseis mil oitocentos e quarenta e nove reais e trinta e quatro centavos
+
+
+	Lote: 17
+
+	Item
+	Código FURB
+	Qtde.
+	Und.
+	Descrição do Item
+	Marca
+	Preço Unitário (em R$)
+	Preço Total do Item
+
+ (em R$)
+
+	1
+	33091
+	800
+	Peça
+	Lâmpada fluorescente trifósforo 28 W, T5. Fluxo luminoso igual ou superior a 2900lm (lumens). Vida útil mínima de 20.000 horas. Temperatura de cor de 4000k. Índice de reprodução de cor (IRC) superior a 80. Eficiência luminosa de no mínimo  100lm/W. Própria para soquetes G5. Comprimento 1163mm.
+	Philips
+	11,79
+	9.432,00
+
+	2
+	33092
+	300
+	Peça
+	Reator eletrônico de alto FP e baixo THD / 2 x 28W. Para lâmpadas fluorescente tubulares tipo T5, com as seguintes características: Fator de potência maior que 0,96. Taxa de distorção harmônica <= 10%. Fator de fluxo luminoso de no mínimo 0,95. Freqüência de operação superior a 25Khz. Perdas internas máximas de 5W. Tensão de alimentação de 220V que aceite uma variação de 5% para mais e 10% para menos. Vida útil mínima de 25.000 horas. Suportar temperatura na carcaça de ate 60 ºC. Possuir proteção contra sobre-corrente. Possuir proteção contra sobre-tensão. Possuir proteção térmica. Corpo totalmente metálico, formado por apenas 2 partes: 1 Base  metálica; e 1 tampa inteiriça de metal  devidamente presa ao corpo. Com bornes de engate rápido ou fiação no comprimento adequado. Comprimento máximo de 450 mm, largura máxima de 36 mm, altura máxima de 32 mm. Produzido em conformidade com as normas: ABNT NBR 14417 (Segurança), NBR 14418 (Desempenho)  e ISO 9000 (Padronização de Produção). Produzido com materiais que permitam a reciclagem Garantia mínima de dois (02) anos.
+	Philips
+	68,32
+	20.496,00
+
+	3
+	26227
+	5
+	Peça
+	Reator para lâmpada vapor de metálico de 1000W - 220 V, próprio para uso integrado interno,  com ignitor e capacitor. Alto fator de potência (superior a 0,92). Corrente absorvida máxima de 5,0A. Perdas internas máximas de 50 Watts. Rendimento mínimo de 89%. Garantia mínima de cinco (05) anos. Em conformidade com a norma ABNT NBR 13593. Ref. Philips.
+	Philips
+	463,85
+	2.319,25
+
+	4
+	24946
+	10
+	Peça
+	Reator para lâmpada vapor de metálico de 400W - 220 V, próprio para uso integrado interno,  ignitor e capacitor. Alto fator de potência (superior a 0,92). Corrente absorvida máxima de 2,15A . Perdas internas máximas de 50 Watts. Rendimento mínimo de 89%. Garantia mínima de cinco (05) anos. Em conformidade com a norma ABNT NBR 13593. Ref. Philips.
+	Philips
+	177,15
+	1.771,50
+
+	5
+	16416
+	40
+	Peça
+	Reator para lâmpada vapor metálico de 400W - 220 V, próprio para uso externo em poste,  com ignitor e capacitor incorporados. Alto fator de potência (superior a 0,92). Corrente absorvida máxima de 2,15A. Perdas internas máximas de 50 Watts. Em conformidade com a norma  ABNT NBR 13593. Garantia mínima de cinco (05) anos. Ref. Philips.
+	Philips
+	181,00
+	7.240,00
+
+	6
+	2502
+	500
+	Peça
+	Soquete de policarbonato para lâmpada fluorescente tubular dos tipos  T8, T10 e T12, de base  G13. Corpo em policarbonato. Contatos em bronze fosforoso e latão . Rotor central giratório. Engate rápido para os fios e fixação através de encaixe. Altura do centro da lâmpada ate a luminária de 295mm. Encaixar em furação padrão de 12 x 25mm. Sem suporte para starter. Corrente e tensão 2A / 250V. Padrão S/254/SN. Estar em conformidade com as normas da UL(EUA), CE (Europa), ENEC (Europa) e IRAM (Argentina). Corpo na cor branca com rotor giratório verde.
+	Lucchi
+	1,32i
+	660,00
+
+	7
+	4305
+	20
+	Peça
+	Base para relé fotoelétrica, corrente nominal de 10A. Compatível com o item 8.
+	Ilumatic
+	13,60
+	272,00
+
+	8
+	3586
+	30
+	Peça
+	Relé fotoelétrico, 198 a 242V, de 1000W/1800VA, 5A, NA   IP64, contatos elétricos em latão estanhado. Compatível com o item 7.
+	Dreik
+	21,04
+	631,20
+
+	9
+	35445
+	4
+	Peça
+	Projetor de LED com facho assimétrico, estrutura em alumínio, IP 65, com fluxo luminoso igual ou superior a 12.000 lm (lumens), Vida útil mínima de 50.000 horas; temperatura de cor de 4000k; tensão de alimentação 100-240V, 60Hz, fator de potência mínimo de 0,90. Eficiência luminosa de no mínimo  95 lm/W.  Própria para substituição projetor com lâmpada HPI de 250W.
+	Philips
+	1.307,81
+	5.231,24
+
+	10
+	35446
+	4
+	Peça
+	Projetor de LED com facho simétrico, estrutura em alumínio, IP 65, com fluxo luminoso igual ou superior a 12.000 lm (lumens), Vida útil mínima de 50.000 horas; temperatura de cor de 4000k; tensão de alimentação 100-240V, 60Hz, fator de potência mínimo de 0,90. Eficiência luminosa de no mínimo  95 lm/W.  Própria para substituição projetor com lâmpada HPI de 250W.
+	Philips
+	1.307,82
+	5.231,28
+
+	11
+	38180
+	300
+	Peça
+	Lâmpada tubular de LED, 10 W, com fluxo luminoso igual ou superior a 1050lm (lúmens); vida útil mínima de 25.000 horas; eficiência luminosa superior a 105 lm/W; temperatura de cor de 4000k;  índice de reprodução de cor (IRC) igual ou superior a 80; tensão de alimentação 100-240V, 60Hz; fator de potência mínimo de 0,92; própria para soquetes G13; atender RoHS; comprimento aproximado de 600mm; a lâmpada deve estar listada na tabela de produtos que possuem o selo PROCEL - Lâmpadas de LED Tubular; garantia mínima de 3 anos.
+	Philips
+	42,73
+	12.819,00
+
+	12
+	37653
+	1000
+	Peça
+	Lâmpada tubular de LED, 18 W, com fluxo luminoso igual ou superior a 2050lm (lúmens); Vida útil mínima de 25.000 horas; eficiência luminosa superior a 113 lm/W, temperatura de cor de 4000k;  índice de reprodução de cor (IRC) igual ou superior a 80; tensão de alimentação 100-240V, 60Hz, fator de potência mínimo de 0,92; própria para soquetes G13; atender RoHS, comprimento aproximado de 1200mm. A lâmpada deve estar listada na Tabela de produtos que possuem o selo PROCEL – Lâmpadas de LED Tubular – na data vigente ao pregão. A lâmpada deverá ser compatível com luminária já existente. Garantia mínima de 3 anos.
+	Philips
+	37,91
+	37.910,00
+
+	13
+	39268
+	30
+	Peça
+	Projetor de LED com estrutura em alumínio, IP 65, com fluxo luminoso igual ou superior a 2400 lm (lumens), Vida útil mínima de 30.000 horas (L70); temperatura de cor entre 4000k e 5700K; tensão de alimentação 100-240V, 60Hz, Eficiência luminosa de no mínimo 80 lm/W.  Fornecida com rabicho de conexão de no mínimo 200mm. Garantia mínima de 3 anos
+	Philips
+	136,04
+	4.081,20
+
+	14
+	39269
+	30
+	Peça
+	Projetor de LED com estrutura em alumínio, IP 65, com fluxo luminoso igual ou superior a 4000 lm (lumens), Vida útil mínima de 30.000 horas (L70); temperatura de cor entre 4000k e 5700K; tensão de alimentação 100-240V, 60Hz, Eficiência luminosa de no mínimo 80 lm/W.  Fornecida com rabicho de conexão de no mínimo 200mm. Garantia mínima de 3 anos
+	Philips
+	173,83
+	5.214,90
+
+	15
+	39270
+	80
+	Peça
+	Lâmpada Bulbo LED com reator integrado, com as seguintes características: Conexão por rosca E27. Tensão de alimentação de 100 - 240V, 60Hz, Temperatura de cor de 6500K. Fluxo luminoso igual ou superior a 600 lumens. Eficiência energética do conjunto igual ou superior a 100lm/W. IRC igual ou superior a 75.Vida útil média de 25000horas
+	Philips
+	8,54
+	683,20
+
+	16
+	39271
+	80
+	Peça
+	Lâmpada Bulbo LED com reator integrado, com as seguintes características: Conexão por rosca E27. Tensão de alimentação de 100 - 240V, 60Hz, Temperatura de cor de 6500K. Fluxo luminoso igual ou superior a 800 lumens. Eficiência energética do conjunto igual ou superior a 100lm/W. IRC igual ou superior a 75.Vida útil média de 25000horas
+	Philips
+	10,48
+	838,40
+
+	17
+	39272
+	80
+	Peça
+	Lâmpada Bulbo LED com reator integrado, com as seguintes características: Conexão por rosca E27. Tensão de alimentação de 100 - 240V,  60Hz, Temperatura de cor de 6500K. Fluxo luminoso igual ou superior a 1500 lumens. Eficiência energética do conjunto igual ou superior a 100lm/W. IRC igual ou superior a 75.Vida útil média de 25000horas
+	Philips
+	24,71
+	1.976,80
+
+	18
+	20951
+	10
+	Peça
+	Lâmpada de vapor de sódio de 400 W ovóide, rosca E40, fluxo luminoso de no mínimo 47000 lumens, vida útil mínima de 23000 horas de funcionamento em condições normais.
+	Philips
+	70,89
+	708,90
+
+	19
+	16415
+	40
+	Peça
+	Lâmpada de vapor metálico de 400 W ovóide leitosa, rosca E40,  garantia de fluxo luminoso de no mínimo 36000 lumens, vida útil mínima de 19000 horas de funcionamento em condições normais. Ref. Philips.
+	Philips
+	94,81
+	3.792,40
+
+	20
+	26195
+	50
+	Peça
+	Lâmpada de vapor metálico de 400 W tubular, rosca E40,  garantia de fluxo luminoso de no mínimo 38000 lumens, vida útil mínima de 19000 horas de funcionamento em condições normais. Ref. Philips.
+	Philips
+	88,53
+	4.426,50
+
+	21
+	26228
+	10
+	Peça
+	Lâmpada de vapor metálico de 1000 W tubular, rosca E40,  garantia de fluxo luminoso de no mínimo 82000 lumens, vida útil mínima de 9000 horas de funcionamento em condições normais. Ref. Philips.
+	Philips
+	426,42
+	4.264,20
+
+	Preço Total do Lote 
+
+(em R$)
+	130.000,00
+
+	Preço Total do Lote 
+
+(em reais, por extenso)
+	Cento e trinta mil reais
+
+
+	Lote: 18
+
+	Item
+	Código FURB
+	Qtde.
+	Und.
+	Descrição do Item
+	Marca
+	Preço Unitário (em R$)
+	Preço Total do Item
+
+ (em R$)
+
+	1
+	2496
+	3
+	Peça
+	Plugue  industrial de 4 pólos (3P+T) 380V 16A Partes plásticas produzidas em Poliamida 6.6 auto-exinguível (C.S.A. C22.2 nº 6 e U.L94HB - Mil spec 22096), Vedações e Guarnições produzidas em  SBR, terminais produzidos em latão maciço. Suportar temperatura de operação de 0 a 120 ºC. Construído em conformidade com as normas NBR7845 - IEC 60309-1 e IEC 60309-2 DIN 49462 - DIN 49463 - CEE 17 - BS 4343 - VDE 0623. Suportar tensão máxima de 690V (rms). As partes plásticas devem apresentar resistência a corrosão por:  Salt spray, Álcool, Óleo, Solvente, Lubrificantes, Graxa, Meios ácidos, Alcalinos e Outros Agentes Químicos. Possibilitar o travamento da conexão entre tomada/prolongador e plugue.
+	ABB
+	20,27
+	60,81
+
+	2
+	14439
+	3
+	Peça
+	Plugue  industrial de 4 pólos (3P+T) 380V 32A Partes plásticas produzidas em Poliamida 6.6 auto-exinguível (C.S.A. C22.2 nº 6 e U.L94HB - Mil spec 22096), Vedações e Guarnições produzidas em  SBR, terminais produzidos em latão maciço. Suportar temperatura de operação de 0 a 120 ºC. Construído em conformidade com as normas NBR7845 - IEC 60309-1 e IEC 60309-2 DIN 49462 - DIN 49463 - CEE 17 - BS 4343 - VDE 0623. Suportar tensão máxima de 690V (rms). As partes plásticas devem apresentar resistência a corrosão por:  Salt spray, Álcool, Óleo, Solvente, Lubrificantes, Graxa, Meios ácidos, Alcalinos e Outros Agentes Químicos. Possibilitar o travamento da conexão entre tomada/prolongador e plugue.
+	ABB
+	22,76
+	68,28
+
+	3
+	25735
+	3
+	Peça
+	Plugue industrial 5 pinos (3F+N+T) 380V 16A. Partes plásticas produzidas em Poliamida 6.6 auto-exinguível (C.S.A. C22.2 nº 6 e U.L94HB - Mil spec 22096), Vedações e Guarnições produzidas em  SBR, terminais produzidos em latão maciço. Suportar temperatura de operação de 0 a 120 ºC. Construído em conformidade com as normas NBR7845 - IEC 60309-1 e IEC 60309-2 DIN 49462 - DIN 49463 - CEE 17 - BS 4343 - VDE 0623. Suportar tensão máxima de 690V (rms). As partes plásticas devem apresentar resistência a corrosão por:  Salt spray, Álcool, Óleo, Solvente, Lubrificantes, Graxa, Meios ácidos, Alcalinos e Outros Agentes Químicos. Possibilitar o travamento da conexão entre tomada/prolongador e plugue.
+	ABB
+	22,71
+	68,13
+
+	4
+	24744
+	3
+	Peça
+	Plugue industrial 5 pinos (3F+N+T) 380V 32A. Partes plásticas produzidas em Poliamida 6.6 auto-exinguível (C.S.A. C22.2 nº 6 e U.L94HB - Mil spec 22096), Vedações e Guarnições produzidas em  SBR, terminais produzidos em latão maciço. Suportar temperatura de operação de 0 a 120 ºC. Construído em conformidade com as normas NBR7845 - IEC 60309-1 e IEC 60309-2 DIN 49462 - DIN 49463 - CEE 17 - BS 4343 - VDE 0623. Suportar tensão máxima de 690V (rms). As partes plásticas devem apresentar resistência a corrosão por:  Salt spray, Álcool, Óleo, Solvente, Lubrificantes, Graxa, Meios ácidos, Alcalinos e Outros Agentes Químicos. Possibilitar o travamento da conexão entre tomada/prolongador e plugue.
+	ABB
+	30,65
+	91,95
+
+	5
+	22836
+	3
+	Peça
+	Prolongador fêmea  industrial 4 pinos (3F+T) 380V 16A. Partes plásticas produzidas em Poliamida 6.6 auto-exinguível (C.S.A. C22.2 nº 6 e U.L94HB - Mil spec 22096), Vedações e Guarnições produzidas em  SBR, terminais produzidos em latão maciço. Suportar temperatura de operação de 0 a 120 ºC. Construído em conformidade com as normas NBR7845 - IEC 60309-1 e IEC 60309-2 DIN 49462 - DIN 49463 - CEE 17 - BS 4343 - VDE 0623. Suportar tensão máxima de 690V (rms). As partes plásticas devem apresentar resistência a corrosão por:  Salt spray, Álcool, Óleo, Solvente, Lubrificantes, Graxa, Meios ácidos, Alcalinos e Outros Agentes Químicos. Possibilitar o travamento da conexão entre tomada/prolongador e plugue.  Com tampa de proteção nos contatos.
+	ABB
+	26,52
+	79,56
+
+	6
+	30498
+	3
+	Peça
+	Prolongador fêmea  industrial 4 pinos (3F+T) 380V 32A. Partes plásticas produzidas em Poliamida 6.6 auto-exinguível (C.S.A. C22.2 nº 6 e U.L94HB - Mil spec 22096), Vedações e Guarnições produzidas em  SBR, terminais produzidos em latão maciço. Suportar temperatura de operação de 0 a 120 ºC. Construído em conformidade com as normas NBR7845 - IEC 60309-1 e IEC 60309-2 DIN 49462 - DIN 49463 - CEE 17 - BS 4343 - VDE 0623. Suportar tensão máxima de 690V (rms). As partes plásticas devem apresentar resistência a corrosão por:  Salt spray, Álcool, Óleo, Solvente, Lubrificantes, Graxa, Meios ácidos, Alcalinos e Outros Agentes Químicos. Possibilitar o travamento da conexão entre tomada/prolongador e plugue.  Com tampa de proteção nos contatos.
+	ABB
+	27,02
+	81,06
+
+	7
+	21276
+	3
+	Peça
+	Prolongador fêmea  industrial 5 pinos (3F+N+T) 380V 16A. Partes plásticas produzidas em Poliamida 6.6 auto-exinguível (C.S.A. C22.2 nº 6 e U.L94HB - Mil spec 22096), Vedações e Guarnições produzidas em  SBR, terminais produzidos em latão maciço. Suportar temperatura de operação de 0 a 120 ºC. Construído em conformidade com as normas NBR7845 - IEC 60309-1 e IEC 60309-2 DIN 49462 - DIN 49463 - CEE 17 - BS 4343 - VDE 0623. Suportar tensão máxima de 690V (rms). As partes plásticas devem apresentar resistência a corrosão por:  Salt spray, Álcool, Óleo, Solvente, Lubrificantes, Graxa, Meios ácidos, Alcalinos e Outros Agentes Químicos. Possibilitar o travamento da conexão entre tomada/prolongador e plugue.  Com tampa de proteção nos contatos.
+	ABB
+	33,46
+	100,38
+
+	8
+	25846
+	3
+	Peça
+	Prolongador fêmea  industrial 5 pinos (3F+N+T) 380V 32A. Partes plásticas produzidas em Poliamida 6.6 auto-exinguível (C.S.A. C22.2 nº 6 e U.L94HB - Mil spec 22096), Vedações e Guarnições produzidas em  SBR, terminais produzidos em latão maciço. Suportar temperatura de operação de 0 a 120 ºC. Construído em conformidade com as normas NBR7845 - IEC 60309-1 e IEC 60309-2 DIN 49462 - DIN 49463 - CEE 17 - BS 4343 - VDE 0623. Suportar tensão máxima de 690V (rms). As partes plásticas devem apresentar resistência a corrosão por:  Salt spray, Álcool, Óleo, Solvente, Lubrificantes, Graxa, Meios ácidos, Alcalinos e Outros Agentes Químicos. Possibilitar o travamento da conexão entre tomada/prolongador e plugue.  Com tampa de proteção nos contatos.
+	ABB
+	37,30
+	111,90
+
+	9
+	14141
+	5
+	Peça
+	Tomada industrial de sobrepor 4 pinos (3F +T) 380V 16A. Partes plásticas produzidas em Poliamida 6.6 auto-exinguível (C.S.A. C22.2 nº 6 e U.L94HB - Mil spec 22096), Vedações e Guarnições produzidas em  SBR, terminais produzidos em latão maciço. Suportar temperatura de operação de 0 a 120 ºC. Construído em conformidade com as normas NBR7845 - IEC 60309-1 e IEC 60309-2 DIN 49462 - DIN 49463 - CEE 17 - BS 4343 - VDE 0623. Suportar tensão máxima de 690V (rms). As partes plásticas devem apresentar resistência a corrosão por:  Salt spray, Álcool, Óleo, Solvente, Lubrificantes, Graxa, Meios ácidos, Alcalinos e Outros Agentes Químicos. Possibilitar o travamento da conexão entre tomada/prolongador e plugue.  Com tampa de proteção nos contatos.
+	ABB
+	28,24
+	141,20
+
+	10
+	30555
+	5
+	Peça
+	Tomada industrial de sobrepor 4 pinos (3F+T) 380V 32A. Partes plásticas produzidas em Poliamida 6.6 auto-exinguível (C.S.A. C22.2 nº 6 e U.L94HB - Mil spec 22096), Vedações e Guarnições produzidas em  SBR, terminais produzidos em latão maciço. Suportar temperatura de operação de 0 a 120 ºC. Construído em conformidade com as normas NBR7845 - IEC 60309-1 e IEC 60309-2 DIN 49462 - DIN 49463 - CEE 17 - BS 4343 - VDE 0623. Suportar tensão máxima de 690V (rms). As partes plásticas devem apresentar resistência a corrosão por:  Salt spray, Álcool, Óleo, Solvente, Lubrificantes, Graxa, Meios ácidos, Alcalinos e Outros Agentes Químicos. Possibilitar o travamento da conexão entre tomada/prolongador e plugue.  Com tampa de proteção nos contatos.
+	ABB
+	43,47
+	217,35
+
+	11
+	25734
+	2
+	Peça
+	Tomada industrial de sobrepor 5 pinos (3F+N+T) 380V 16A. Partes plásticas produzidas em Poliamida 6.6 auto-exinguível (C.S.A. C22.2 nº 6 e U.L94HB - Mil spec 22096), Vedações e Guarnições produzidas em  SBR, terminais produzidos em latão maciço. Suportar temperatura de operação de 0 a 120 ºC. Construído em conformidade com as normas NBR7845 - IEC 60309-1 e IEC 60309-2 DIN 49462 - DIN 49463 - CEE 17 - BS 4343 - VDE 0623. Suportar tensão máxima de 690V (rms). As partes plásticas devem apresentar resistência a corrosão por:  Salt spray, Álcool, Óleo, Solvente, Lubrificantes, Graxa, Meios ácidos, Alcalinos e Outros Agentes Químicos. Possibilitar o travamento da conexão entre tomada/prolongador e plugue.  Com tampa de proteção nos contatos.
+	ABB
+	44,65
+	89,30
+
+	12
+	24743
+	2
+	Peça
+	Tomada industrial de sobrepor 5 pinos (3F+N+T) 380V 32A. Partes plásticas produzidas em Poliamida 6.6 auto-exinguível (C.S.A. C22.2 nº 6 e U.L94HB - Mil spec 22096), Vedações e Guarnições produzidas em  SBR, terminais produzidos em latão maciço. Suportar temperatura de operação de 0 a 120 ºC. Construído em conformidade com as normas NBR7845 - IEC 60309-1 e IEC 60309-2 DIN 49462 - DIN 49463 - CEE 17 - BS 4343 - VDE 0623. Suportar tensão máxima de 690V (rms). As partes plásticas devem apresentar resistência a corrosão por:  Salt spray, Álcool, Óleo, Solvente, Lubrificantes, Graxa, Meios ácidos, Alcalinos e Outros Agentes Químicos. Possibilitar o travamento da conexão entre tomada/prolongador e plugue.  Com tampa de proteção nos contatos.
+	ABB
+	62,92
+	125,84
+
+	13
+	30546
+	3
+	Peça
+	Tomada industrial de sobrepor 5 pinos (3F+N+T) 380V 32A. A prova de água, IP 67.  Partes plásticas produzidas em Poliamida 6.6 auto-exinguível (C.S.A. C22.2 nº 6 e U.L94HB - Mil spec 22096), Vedações e Guarnições produzidas em  SBR, terminais produzidos em latão maciço. Suportar temperatura de operação de 0 a 120 ºC. Construído em conformidade com as normas NBR7845 - IEC 60309-1 e IEC 60309-2 DIN 49462 - DIN 49463 - CEE 17 - BS 4343 - VDE 0623. Suportar tensão máxima de 690V (rms). As partes plásticas devem apresentar resistência a corrosão por:  Salt spray, Álcool, Óleo, Solvente, Lubrificantes, Graxa, Meios ácidos, Alcalinos e Outros Agentes Químicos. Possibilitar o travamento da conexão entre tomada/prolongador e plugue.  Com tampa de proteção nos contatos rosqueável.
+	ABB
+	159,95
+	479,85
+
+	14
+	32275
+	3
+	Peça
+	Plugue industrial 5 pinos (3F+N+T) 380V 32A. A prova de água, IP 67. Partes plásticas produzidas em Poliamida 6.6 auto-exinguível (C.S.A. C22.2 nº 6 e U.L94HB - Mil spec 22096), Vedações e Guarnições produzidas em  SBR, terminais produzidos em latão maciço. Suportar temperatura de operação de 0 a 120 ºC. Construído em conformidade com as normas NBR7845 - IEC 60309-1 e IEC 60309-2 DIN 49462 - DIN 49463 - CEE 17 - BS 4343 - VDE 0623. Suportar tensão máxima de 690V (rms). As partes plásticas devem apresentar resistência a corrosão por:  Salt spray, Álcool, Óleo, Solvente, Lubrificantes, Graxa, Meios ácidos, Alcalinos e Outros Agentes Químicos. Possibilitar o travamento da conexão entre tomada/prolongador e plugue.
+	ABB
+	224,01
+	672,03
+
+	15
+	30547
+	3
+	Peça
+	Tomada industrial de sobrepor 4 pinos (3F +T) 380V 16A. A prova de água, IP 67.  Partes plásticas produzidas em Poliamida 6.6 auto-exinguível (C.S.A. C22.2 nº 6 e U.L94HB - Mil spec 22096), Vedações e Guarnições produzidas em  SBR, terminais produzidos em latão maciço. Suportar temperatura de operação de 0 a 120 ºC. Construído em conformidade com as normas NBR7845 - IEC 60309-1 e IEC 60309-2 DIN 49462 - DIN 49463 - CEE 17 - BS 4343 - VDE 0623. Suportar tensão máxima de 690V (rms). As partes plásticas devem apresentar resistência a corrosão por:  Salt spray, Álcool, Óleo, Solvente, Lubrificantes, Graxa, Meios ácidos, Alcalinos e Outros Agentes Químicos. Possibilitar o travamento da conexão entre tomada/prolongador e plugue.  Com tampa de proteção nos contatos rosqueável. 
+	ABB
+	84,21
+	252,63
+
+	Preço Total do Lote 
+
+(em R$)
+	2.640,27
+
+	Preço Total do Lote 
+
+(em reais, por extenso)
+	Dois mil seiscentos e quarenta reais e vinte e sete centavos
+
+
+	Lote: 19
+
+	Item
+	Código FURB
+	Qtde.
+	Und.
+	Descrição do Item
+	Marca
+	Preço Unitário (em R$)
+	Preço Total do Item
+
+ (em R$)
+
+	1
+	14543
+	5
+	Peça
+	Quadro comando em aço SAE 1010/1020 com tratamento anti-corrosivo e pintura eletrostática a pó, de sobrepor, instalação abrigada, com chapa de montagem, com as dimensões: Altura de 1200mm, Largura de 800mm, Profundidade de 250mm. 
+	Opção
+	688,21
+	3.441,05
+
+	2
+	30499
+	5
+	Peça
+	Quadro comando em aço SAE 1010/1020 com tratamento anti-corrosivo e pintura eletrostática a pó, de sobrepor, instalação abrigada, com chapa de montagem, com as dimensões: Altura de 600mm, Largura de 480mm, Profundidade de 220mm. 
+	Opção
+	254,96
+	1.274,80
+
+	3
+	21250
+	5
+	Peça
+	Quadro comando em aço SAE 1010/1020 com tratamento anti-corrosivo e pintura eletrostática a pó, de sobrepor, instalação abrigada, com chapa de montagem, com as dimensões: Altura de 950mm, Largura de 600mm, Profundidade de 220mm. 
+	Opção
+	457,72
+	2.288,60
+
+	4
+	20540
+	5
+	Peça
+	Quadro comando em aço SAE 1010/1020 com tratamento anti-corrosivo e pintura eletrostática a pó, de sobrepor, instalação abrigada, com chapa de montagem, com as dimensões: Altura de 480mm, Largura de 380mm, Profundidade de 220mm. 
+	Opção
+	219,39
+	1.096,95
+
+	5
+	14725
+	3
+	Peça
+	Quadro comando em aço SAE 1010/1020 com tratamento anti-corrosivo e pintura eletrostática a pó, de sobrepor, instalação abrigada, com chapa de montagem, com as dimensões: Altura de 380mm, Largura de 320mm, Profundidade de 170mm. 
+	Opção
+	139,81
+	419,43
+
+	6
+	19777
+	5
+	Peça
+	Quadro de telefone de sobrepor padrão TELEBRÁS, com fundo de chapa sobreposto por placa de madeira com altura de 600mm (mais ou menos 10mm), largura de 600mm (mais ou menos 10mm) e profundidade mínima de 158 mm. Com fecho.
+	Alubethol
+	241,38
+	1.206,90
+
+	7
+	19778
+	5
+	Peça
+	Quadro de telefone de sobrepor padrão TELEBRÁS, com fundo de chapa sobreposto por placa de madeira com altura de 300mm (mais ou menos 10mm), largura de 300mm (mais ou menos 10mm) e profundidade mínima de 158 mm. Com fecho.
+	Alubethol
+	115,43
+	577,15
+
+	Preço Total do Lote 
+
+(em R$)
+	10.304,88
+
+	Preço Total do Lote 
+
+(em reais, por extenso)
+	Dez mil trezentos e quatro reais e oitenta e oito centavos
+
+
+	Lote: 20
+
+	Item
+	Código FURB
+	Qtde.
+	Und.
+	Descrição do Item
+	Marca
+	Preço Unitário (em R$)
+	Preço Total do Item
+
+ (em R$)
+
+	1
+	26545
+	5
+	Peça
+	Chave de partida trifásica  para motor de 3 CV em 380V, bobina  220V com rele de sobrecarga e contator-
+	Tron
+	158,53
+	795,65
+
+	2
+	21987
+	2
+	Peça
+	Chave de partida trifásica  para motor de 5 CV em 380V, bobina  220V com rele de sobrecarga e contator-
+	Tron
+	181,69
+	363,38
+
+	3
+	27010
+	2
+	Peça
+	Chave de partida trifásica  para motor de 15 CV em 380V, bobina  220V com rele de sobrecarga e contator-
+	Tron
+	151,96
+	303,92
+
+	4
+	3686
+	5
+	Peça
+	Contator tripolar de força, para manobra de motor de 15CV em 380V, funcionamento intermitente, bobina em 220V/60Hz.
+	ABB
+	119,08
+	595,40
+
+	5
+	18695
+	5
+	Peça
+	Contator tripolar de força, para manobra de motor de 5CV em 380V, funcionamento intermitente, bobina em 220V/60Hz.
+	ABB
+	82,87
+	414,35
+
+	6
+	26187
+	5
+	Peça
+	Contator tripolar de força, para manobra de motor de 2CV em 380V, funcionamento intermitente, bobina em 220V/60Hz.
+	ABB
+	82,87
+	414,35
+
+	7
+	26186
+	5
+	Peça
+	Contator tripolar de força, para manobra de motor de 1CV em 380V, funcionamento intermitente, bobina em 220V/60Hz.
+	ABB
+	82,87
+	414,35
+
+	8
+	26191
+	5
+	Peça
+	Disjuntor termomagnético tripolar para manobra e  proteção de motores (disjuntor-motor), para motor de 3/4CV em 380V, faixa de ajuste 1,1 à 1,6A,  com contato auxiliar 1NA + 1NF e contato de alarme 1NA+1NF. 
+	ABB
+	189,89
+	949,45
+
+	9
+	30504
+	3
+	Peça
+	Disjuntor termomagnético tripolar para manobra e  proteção de motores (disjuntor-motor), para motor de 1CV em 380V, faixa de ajuste 1,6 à 2,5A, com contato auxiliar 1NA + 1NF e contato de alarme 1NA+1NF. 
+	ABB
+	189,90
+	569,70
+
+	10
+	26193
+	3
+	Peça
+	Disjuntor termomagnético tripolar para manobra e  proteção de motores (disjuntor-motor), para motor de 2CV em 380V, faixa de ajuste 2,5 à 4,0A, com contato auxiliar 1NA + 1NF e contato de alarme 1NA+1NF. 
+	ABB
+	189,89
+	569,67
+
+	11
+	30505
+	3
+	Peça
+	Disjuntor termomagnético tripolar para manobra e  proteção de motores (disjuntor-motor), para motor de 3CV em 380V, faixa de ajuste 4,0 à 6,3A, com contato auxiliar 1NA + 1NF e contato de alarme 1NA+1NF. 
+	ABB
+	189,89
+	569,67
+
+	12
+	26190
+	3
+	Peça
+	Disjuntor termomagnético tripolar para manobra e  proteção de motores (disjuntor-motor), para motor de 5CV em 380V, faixa de ajuste 7 à 10A, com contato auxiliar 1NA + 1NF e contato de alarme 1NA+1NF. 
+	ABB
+	200,26
+	600,78
+
+	13
+	38878
+	5
+	Peça
+	Contator de 20A, próprio para banco de capacitores, com resistor de pré-carga, bobina de acionamento em 220V.
+	ABB
+	336,70
+	1.683,50
+
+	14
+	38879
+	5
+	Peça
+	Contator de 30A, próprio para banco de capacitores, com resistor de pré-carga, bobina de acionamento em 220V.
+	ABB
+	392,78
+	1.963,90
+
+	15
+	38880
+	5
+	Peça
+	Contator de 40A, próprio para banco de capacitores, com resistor de pré-carga, bobina de acionamento em 220V.
+	ABB
+	673,47
+	3.367,35
+
+	16
+	38881
+	5
+	Peça
+	Contator de 60A, próprio para banco de capacitores, com resistor de pré-carga, bobina de acionamento em 220V.
+	ABB
+	909,36
+	4.546,80
+
+	17
+	38882
+	5
+	Peça
+	Contator de 90A, próprio para banco de capacitores, com resistor de pré-carga, bobina de acionamento em 220V.
+	ABB
+	1.367,99
+	6.839,95
+
+	18
+	33922
+	3
+	Peça
+	Controlador de fator de potência / sensoramento trifásico / com doze saídas de controle / porta comunicação Ethernet (TCP/IP) e memória de massa / modelo referência CM4040/T/12/EA. Compatível com software Power4000 da Embrasul. 
+	Embrasul
+	3.013,61
+	9.040,83
+
+	Preço Total do Lote 
+
+(em R$)
+	34.000,00
+
+	Preço Total do Lote 
+
+(em reais, por extenso)
+	Trinta e quatro mil reais
+
+
+	Lote: 21
+
+	Item
+	Código FURB
+	Qtde.
+	Und.
+	Descrição do Item
+	Marca
+	Preço Unitário (em R$)
+	Preço Total do Item
+
+ (em R$)
+
+	1
+	4087
+	100
+	peça
+	Terminal Aéreo, em aço galvanizado com fixação horizontal.
+	Wipe
+	14,97
+	1.497,00
+
+	2
+	33567
+	50
+	Peça
+	Terminal tipo cruz/prensa em latão (sapatilha), para cabo de 16mm2 - 25mm2.
+	Conimel
+	17,95
+	897,50
+
+	3
+	4101
+	40
+	Peça
+	Conector reforçado cabo/haste com grampo em ''U", especial tipo GTDU para haste de aterramento. Compatível com a referencia RAYCON  DR-099.
+	Incesa
+	14,06
+	562,40
+
+	4
+	3600
+	40
+	Peça
+	Haste de terra diâmetro 5/8" x 240cm em aço revestida de cobre, camada mínima 250um (micra), alta camada.
+	Intelli
+	61,02
+	2.440,80
+
+	5
+	19765
+	20
+	Peça
+	Conector split bolt para cabo 50mm2.
+	Intelli
+	11,15
+	223,00
+
+	6
+	33568
+	20
+	Peça
+	Conector split bolt, com rabicho rosca soberba, para cabo 16-35mm2.
+	Intelli
+	9,32
+	186,40
+
+	7
+	18165
+	20
+	Peça
+	Caixa de alvenaria quadrada, com tampa de concreto, para inspeção de aterramento, com dimensões 30x30x40 cm.
+	Silvério Art. De Cimento
+	18,37
+	367,40
+
+	8
+	33082
+	100
+	barra
+	Barra de alumínio retangular 1/8"x7/8" (Barra de 600cm) para pára-raio.
+	Nelmetais
+	39,46
+	3.946,00
+
+	9
+	15570
+	50
+	Peça
+	Condulete de alumínio tipo C, 2", com rosca
+	Wetzel
+	61,59
+	3,079,50
+
+	Preço Total do Lote 
+
+(em R$)
+	13.200,00
+
+	Preço Total do Lote 
+
+(em reais, por extenso)
+	Treze mil e duzentos reais
+
+
+	Lote: 22
+
+	Item
+	Código FURB
+	Qtde.
+	Und.
+	Descrição do Item
+	Marca
+	Preço Unitário (em R$)
+	Preço Total do Item
+
+ (em R$)
+
+	1
+	6340
+	100
+	Cento
+	Arruela lisa de 1/4", em aço zincado.
+	Ciser
+	5,65
+	565,00
+
+	2
+	6258
+	20
+	Cento
+	Arruela lisa de 5/16", em aço zincado.
+	Ciser
+	5,65
+	113,00
+
+	3
+	24576
+	50
+	Cento
+	Parafuso cabeça lentilha auto travante de 1/4'' x 1/2" de comprimento, em aço zincado.
+	Ciser
+	13,18
+	659,00
+
+	4
+	14029
+	30
+	Cento
+	Parafuso cabeça lentilha com fenda simples  de 1/4'' x 5/8" de comprimento, em aço zincado.
+	Ciser
+	15,05
+	451,50
+
+	5
+	24577
+	10
+	Cento
+	Parafuso cabeça lentilha auto travante de 5/16''  x 1/2" de comprimento, em aço zincado.
+	Ciser
+	22,58
+	225,80
+
+	6
+	17003
+	30
+	Barra
+	Vergalhão roscado, de 1/4" x 3000mm, em aço zincado.
+	Ciser
+	7,48
+	224,40
+
+	7
+	6161
+	40
+	Cento
+	Porca sextavada de 1/4" NC, em aço zincado.
+	Ciser
+	5,65
+	226,00
+
+	8
+	6166
+	20
+	Cento
+	Porca sextavada de 5/16" NC, em aço zincado.
+	Ciser
+	9,41
+	188,20
+
+	9
+	7511
+	10
+	Cento
+	Bucha para concreto S10 x 50 mm; fabricada em poliamida de alta qualidade (nylon), não halogenada. Referência Fischer.
+	Fischer
+	45,16
+	451,60
+
+	10
+	26369
+	50
+	Cento
+	Bucha para concreto S8 x 40 mm; fabricada em poliamida de alta qualidade (nylon), não halogenada. Referência Fischer.
+	Fischer
+	24,46
+	1.223,00
+
+	11
+	7506
+	50
+	Cento
+	Bucha para concreto S6 x 30 mm; fabricada em poliamida de alta qualidade (nylon), não halogenada. Referência Fischer.
+	Fischer
+	13,17
+	658,50
+
+	12
+	33026
+	40
+	Cento
+	Bucha universal FU10 x 60 mm com flange; fabricada em poliamida de alta qualidade (nylon), não halogenada. Referência Fischer.
+	Fischer
+	99,73
+	3.989,20
+
+	13
+	22099
+	40
+	Cento
+	Bucha universal FU8 x 50 mm com flange; fabricada em poliamida de alta qualidade (nylon), não halogenada. Referência Fischer.
+	Fischer
+	47,98
+	1.919,20
+
+	14
+	32200
+	120
+	Cento
+	Bucha universal FU6 x 35 mm com flange; fabricada em poliamida de alta qualidade (nylon), não halogenada. Referência Fischer.
+	Fischer
+	30,11
+	3.613,20
+
+	15
+	27252
+	10
+	Cento
+	Bucha para Drywall HDF, para gesso acartonado simples de 12,5mm; fabricada em poliamida de alta qualidade (nylon), não halogenada. Referência Fischer.
+	Fischer
+	186,29
+	1.862,90
+
+	16
+	39643
+	20
+	Cento
+	Parafuso auto-atarraxante cabeça flangeada / fenda Philips de 5,0 x 60mm / em aço bicromatizado
+	Ciser
+	17,88
+	357,60
+
+	17
+	39642
+	20
+	Cento
+	Parafuso auto-atarraxante cabeça flangeada / fenda Philips de 3,5 x 40mm / em aço bicromatizado
+	Ciser
+	7,53
+	150,60
+
+	18
+	32202
+	15
+	Cento
+	Parafuso auto-atarraxante cabeça panela, fenda tipo Philips de 4,5 x 60 mm, em aço zincado.
+	Ciser
+	15,06
+	225,90
+
+	19
+	33027
+	15
+	Cento
+	Parafuso cabeça sextavada  rosca soberba  de 1/4" x 3" (6,3 x 76mm), em aço zincado.
+	Ciser
+	31,99
+	479,85
+
+	20
+	6303
+	10
+	Cento
+	Parafuso auto-atarraxante cabeça panela, fenda tipo philips de 6,3 x 50 mm,  em aço zincado.
+	Ciser
+	24,46
+	244,60
+
+	21
+	29271
+	15
+	Cento
+	Parafuso auto-atarraxante cabeça panela, fenda tipo philips de 4,2 x 32 mm,  em aço zincado.
+	Ciser
+	7,53
+	112,95
+
+	22
+	29270
+	40
+	Cento
+	Parafuso auto-atarraxante cabeça panela, fenda tipo philips de 5,5 x 32 mm,  em aço zincado.
+	Ciser
+	25,40
+	1.016,00
+
+	23
+	36669
+	200
+	peça
+	Porca losangular 32 x 27,5 x 2,0mm, para perfilado, com pino rosca 1/4" x 25mm de comprimento.
+	Eletropoll
+	1,05
+	210,00
+
+	Preço Total do Lote 
+
+(em R$)
+	19.168,00
+
+	Preço Total do Lote 
+
+(em reais, por extenso)
+	Dezenove mil cento e sessenta e oito reais
+
+
+	Lote: 23
+
+	Item
+	Código FURB
+	Qtde.
+	Und.
+	Descrição do Item
+	Marca
+	Preço Unitário (em R$)
+	Preço Total do Item
+
+ (em R$)
+
+	1
+	3050
+	1000
+	Metro
+	Cabo telefonico CCI 2 pares uso interno, com garantia mínima de 12 (doze) meses.
+	Piazza
+	0,55
+	550,00
+
+	2
+	19884
+	300
+	Metro
+	Cabo telefonico de uso externo CCE 4 pares, com garantia mínima de 12 (doze) meses.
+	Piazza
+	4,10
+	1.230,00
+
+	3
+	3052
+	500
+	Metro
+	Cabo telefônico de uso externo CTP APL Auto-sustentável de 10 pares bitola 50 ( 50 x 10), com garantia mínima de 12 (doze) meses.
+	Piazza
+	8,84
+	4.420,00
+
+	Preço Total do Lote 
+
+(em R$)
+	6.200,00
+
+	Preço Total do Lote 
+
+(em reais, por extenso)
+	Seis mil e duzentos reais
+
+
+	Lote: 24
+
+	Item
+	Código FURB
+	Qtde.
+	Und.
+	Descrição do Item
+	Marca
+	Preço Unitário (em R$)
+	Preço Total do Item
+
+ (em R$)
+
+	1
+	31976
+	500
+	Peça
+	Conector macho RJ 45 Conector transparente, exceder as características elétricas da norma ANSI/TIA/EIA-568-B.2-1 Categoria 6. Corpo em termoplástico de alto impacto (UL 94 V-0). Vias de contato produzidas em bronze fosforoso com camadas de no mínimo 2,50μm de níquel e 1,25μm de ouro. Atender a FCC 68.5 (EMI – Interferência Eletromagnética). Os contatos devem ser adequados para conectorização de condutores sólidos ou flexíveis de bitola entre 26 e 22 AWG. Prensáveis por meio de alicate climpador. Atender as terminações T568A e T568B. O produto deverá possuir certificado de homologação da UL - Underwriters Laboratorie. O fabricante deve possuir certificação ISO 9001 e ISO 14001. A comprovação da certificação deve acompanhar a embalagem.
+	Furukawa
+	5,43
+	2.715,00
+
+	2
+	3990
+	1500
+	Peça
+	Conector macho RJ 45 transparente, categoria 5E .  Corpo em termoplástico de alto impacto (UL 94 V-0). Vias de contato produzidas em bronze fosforoso com camadas de no mínimo 2,50μm de níquel e 1,25μm de ouro. Atender a FCC 68.5 (EMI – Interferência Eletromagnética). Os contatos devem ser adequados para conectorização de condutores sólidos ou flexíveis, Prensáveis por meio de alicate climpador. O produto deverá possuir  certificado de homologação da UL - Underwriters Laboratorie. A comprovação da certificação deve acompanhar a embalagem.
+	Furukawa
+	2,78
+	4.170,00
+
+	3
+	31375
+	500
+	Peça
+	Tomadas fêmea RJ 45 categoria 6. Conexão de cabos UTP por meio de inserção. Identificadas com indicação de cores para norma EIA/TIA 568A e 568B. Próprias para encaixar em  módulos de 20 x 15 mm (dimensão do encaixe).
+	Furukawa
+	32,58
+	16.290,00
+
+	4
+	16810
+	500
+	Peça
+	Tomadas fêmea RJ 45 categoria 5E. Conexão de cabos UTP por meio de inserção. Identificadas com indicação de cores para norma EIA/TIA 568A e 568B. Próprias para encaixar em  módulos de 20 x 15 mm (dimensão do encaixe).
+	Furukawa
+	21,08
+	10.540,00
+
+	5
+	2335
+	6100
+	Metro
+	Cabo UTP  4 pares x 24 AWG categoria 5E. Cabo de pares trançados compostos de condutores sólidos de cobre nu, 24 AWG, isolados em polietileno especial. Capa externa em PVC não propagante à chama, na cor azul. Marcação seqüencial métrica no cabo em ordem decrescente (305/300 - 0 m). Embalagem de fácil retirada, com gravação de dia/mês/ano - hora de fabricação, proporcionando rastreamento do lote em caso de problemas. Cada caixa deverá conter 300/305 metros de cabo. Cabo próprio para uso em sistemas de  Cabeamento Estruturado para tráfego de voz, dados e imagens, segundo requisitos das normas ANSI/TIA/EIA-568B.2 e ISO/IEC 11801, Categoria 5e, para cabeamento horizontal ou secundário entre os painéis de distribuição (Patch Panels) e os conectores nas áreas de trabalho. Cor AZUL, em caixas, com 300 ou 305 metros de cabo por caixa.
+	Furukawa
+	2,45
+	14.945,00
+
+	6
+	30162
+	6100
+	Metro
+	Cabo UTP 4 pares x 24 AWG categoria 6. Cabo de pares trançados compostos de condutores sólidos de cobre nu, 24 AWG, isolados em polietileno especial, com separador dielétrico interno de modo a manter os pares eqüidistantes. Capa externa em PVC não propagante à chama, na cor cinza. Marcação seqüencial métrica no cabo em ordem decrescente (305/300 - 0 m). Embalagem de fácil retirada, com gravação de dia/mês/ano - hora de fabricação, proporcionando rastreamento do lote em caso de problemas. Possuir impedância característica de 100W (Ohms). Cabo próprio para uso em sistemas de  Cabeamento Estruturado para tráfego de voz, dados e imagens, segundo requisitos das normas ANSI/TIA/EIA-568B.2-1 e ISO/IEC 11801, Categoria 6, para cabeamento horizontal ou secundário entre os painéis de distribuição (Patch Panels) e os conectores nas áreas de trabalho. Caixas com 300 ou 305 metros de cabo por caixa. Possuir testes comprobatórios das principais características elétricas em transmissão de altas velocidades, como atenuação, NEXT, dentre outros para freguência de 100, 200, 350 e 500 MHz. O cabo utilizado deverá possuir certificação ANATEL impressa na capa. atender a diretiva RoHS. o fabricante deve possuir certificação ISO 9001 e ISO 14001.
+	Furukawa
+	4,73
+	28.853,00
+
+	7
+	2399
+	200
+	Peça
+	Patch cable flexível categoria 5E,  com 1,5 m, cor AZUL, com capa cover. Certificado e Identificado em ambas as pontas por  etiqueta especial para cabo com proteção plástica tipo Brady WML 311-292 ou similar. A  identificação (numeração) será informada no ato do pedido.  Produzido com Cabo Extra-flexível. Montado e testado 100% em fábrica. Exceder as características da norma TIA/EIA 568 B.1 para CAT. 5e e ISO/IEC 11.801. Certificado dentro dos padrões e normas da categoria. Contatos dos conectores com no mínimo 50 micropolegadas de ouro. Montado na configuração 568/A ou 568/B. Embalados individualmente junto com a comprovação da certificação fornecida pelo fabricante
+	Furukawa
+	16,61
+	3.322,00
+
+	8
+	2833
+	15
+	Peça
+	PATCH PANEL 24 portas padrão 19” para montagem em RACK. Corpo fabricado em termoplástico de alto impacto não propagante à chama (UL 94 V-0). Na parte frontal alojamento para pino macho RJ 45, na parte posterior terminais de conexão em bronze fosforoso estanhado, padrão 110 IDC, para condutores de 22 a 26 AWG. Vias de contato produzidas em bronze fosforoso com camadas de no mínimo 2,5μm de níquel e 1,25μm de ouro. Código de cores (T 568ª) para definir e facilitar a inserção dos condutores do cabo de par trançado (UTP), categoria 5e, ou ainda condutores telefônicos entre 22 e 26 AWG, deverão permitir pelo menos 200 (duzentos) re-conexões dos condutores através de ferramenta punch down, área própria para identificação da porta RJ45 na parte frontal. Fornecido com guia traseiro para melhor organização dos cabos. Permitir a utilização da Trava Patch Panel GigaLan para aumentar a segurança da sua rede. Os patch panels deverão atender plenamente as especificações das normas EIA/TIA 568ª Enhanced – Standard Proposal N.º 4195; FCC68.5, ISSO 8877; Cenelev env 41001, que regem performance de transmissão de dados em categoria 5E. atender também a FCC part 68.5 (EMI – Indução Eletromagnética). O produto deverá possuir  certificado de homologação da UL – Underwriters Laboratorie. A comprovação da certificação deve acompanhar a embalagem.
+	Furukawa
+	555,96
+	8.339,40
+
+	9
+	19633
+	100
+	Peça
+	Patch cable flexível categoria 5E, com 3 m, cor AZUL, com capa cover. Certificado e Identificado em ambas as pontas por etiqueta especial para cabo com proteção plástica tipo Brady WML 311-292 ou similar. A identificação (numeração) será informada no ato do pedido.  Produzido com Cabo Extra flexível. Montado e testado 100% em fábrica. Exceder as características da norma TIA/EIA 568 B.1 para CAT. 5e e ISO/IEC 11.801. Certificado dentro dos padrões e normas da categoria. Contatos dos conectores com no mínimo 50 micro polegadas de ouro. Montado na configuração 568/A ou 568/B. Embalados individualmente junto com a comprovação da certificação fornecida pelo fabricante
+	Furukawa
+	33,96
+	3.396,00
+
+	10
+	22739
+	400
+	Peça
+	Adapter cable flexível categoria 5E, com 2 m, cor AZUL com capa cover. Certificado e Identificado em ambas as pontas por  etiqueta especial para cabo com proteção plástica tipo Brady WML 311-292 ou similar. A  identificação (numeração)será informada no ato do pedido. Produzido com Cabo Extra-flexível. Montado e testado 100% em fábrica. Exceder as características da norma TIA/EIA 568 B.1 para CAT. 5e e ISSO/IEC 11.801. Certificado dentro dos padrões e normas da categoria. Contatos dos conectores com no mínimo 50 micropolegadas de ouro. Montado na configuração 568/A ou 568/B. Embalados individualmente junto com a comprovação da certificação fornecida pelo fabricante.
+	Furukawa
+	24,87
+	9.948,00
+
+	11
+	31974
+	50
+	Peça
+	Adapter cable flexível categoria 6,  com 5 m, cor CINZA, com capa cover. Certificado e Identificado em ambas as pontas por etiqueta especial para cabo com proteção plástica tipo Brady WML 311-292 ou similar. A identificação (numerção) será informada no ato do pedido. Produzido com Cabo Extra-flexível. Possuir impedância característica de 100W (Ohms). Montado e testado 100% em fábrica. Exceder as características da norma TIA/EIA 568-B.2-1 para CAT. 6 e ISO/IEC 11.801. Certificado dentro dos padrões e normas da categoria.  Possuir vias de contato produzidas em bronze fosforoso com camadas de 2,54 mm de níquel e 1,27 mm de ouro, para a proteção contra oxidação, garras duplas para garantia de vinculação elétrica com as veias do cabo. Montado na configuração 568/A ou 568/B. Embalados individualmente junto com a comprovação da certificação fornecida pelo fabricante. O fabricante deve possuir certificação ISO 9001 e ISO 14001.
+	Furukawa
+	72,03
+	3.601,50
+
+	12
+	31977
+	10
+	Unid.
+	PATCH PANEL 24 portas padrão 19” para montagem em RACK. Corpo fabricado em termoplástico de alto impacto não propagante à chama (UL 94 V-0). Vias de contato produzidas em bronze fosforoso com camadas de no mínimo 2,54 μm de níquel e 1,27 μm de ouro. Apresentar largura de 19” e altura de 1U (44,5mm). Os conectores fêmea RJ-45 devem atender a ANSI/TIA/EIA-568-B.2-1 Categoria 6, possuir vias de contato produzidas em bronze fosforoso com camadas de 2,54 mm de níquel e 1,27 mm de ouro, possuir terminação do tipo 110 IDC (conexão traseira) estanhados para a proteção contra oxidação, permitindo inserção de condutores de 22 AWG a 26 AWG; Compatível com as terminações T568A e T568B, segundo a norma ANSI/TIA/EIA-568-B.2, sem a necessidade de trocas de etiqueta, permitir pelo menos 200 (duzentos) re-conexões dos condutores através de ferramenta punch down, área própria para identificação da porta RJ45 na parte frontal. Suportar ciclos de inserção, na parte frontal, igual ou superior a 750 (setecentas e cinqüenta) vezes com conectores RJ-45. Fornecido com guia traseiro para melhor organização dos cabos. Atender também a FCC part 68.5 (EMI – Indução Eletromagnética). O produto devera possuir  certificado de homologação da UL – Underwriters Laboratorie. O fabricante deve possuir certificação ISO 9001 e ISO 14001. A comprovação da certificação deve acompanhar a embalagem.
+	Furukawa
+	1.067,73
+	10.677,30
+
+	13
+	18729
+	15
+	Peça
+	Organizador (guia) de cabos de 19" / 1U, para fixação em rack. Capacidade com ocupação de 40%: CAT 5e = 40, CAT 6 = 24 e CAT 6a = 12 cabos; com laterais vazadas e tampa removível. Confeccionado em aço com pintura epoxi na cor preta.
+	Furukawa
+	125,56
+	1.883,40
+
+	14
+	17774
+	100
+	Peça
+	Kit de fixação (porca gaiola, parafuso e arruela)  para fixar os equipamentos com por exemplo HUB, Roteador, Switch etc.
+	Metal
+	0,84
+	84,00
+
+	15
+	25653
+	20
+	Peça
+	Régua com oito (08) tomadas 2P+T de 10A/220V, padrão 19", com cabo de 3x1,0mm²  com 2 metros de comprimento, em conformidade com a norma ABNT NBR 14136.
+	Sollan
+	61,27
+	1.225,40
+
+	Preço Total do Lote 
+
+(em R$)
+	119.990,00
+
+	Preço Total do Lote 
+
+(em reais, por extenso)
+	Cento e dezenove mil novecentos e noventa reais
+
+
+	Lote: 25
+
+	Item
+	Código FURB
+	Qtde.
+	Und.
+	Descrição do Item
+	Marca
+	Preço Unitário (em R$)
+	Preço Total do Item
+
+ (em R$)
+
+	1
+	2537
+	100
+	Peça
+	Placa cega (tampa) 4" x 2" com dois (02) furos para fixação, cor cinza, para alvenaria, fabricada em PVC.
+	Schneider
+	2,69
+	269,00
+
+	2
+	18149
+	50
+	Peça
+	Caixa plástica em PVC antichama de embutir para alvenaria 4" x 2",(dimensões: 108,5 x 70 x 47,5mm), fator de proteção IP40.
+	Tigre
+	2,21
+	110,50
+
+	3
+	18150
+	30
+	Peça
+	Caixa plástica em PVC antichama de embutir para alvenaria 4" x 4", (dimensões: 112 x 112 x 47,5mm), fator de proteção IP40.
+	Tigre
+	5,43
+	162,90
+
+	4
+	33077
+	50
+	Peça
+	Caixa plástica em PVC rigido antichama de embutir para gesso acartonado 4" x 2", (dimensões: 105 x 63 x 47mm), com flange e olhais integrados  para fixação da caixa, com dois (02) fixadores para eletrodutos e com protetor montante. Ref. Tigre
+	Legrand
+	4,12
+	206,00
+
+	5
+	2474
+	400
+	Peça
+	Tomada 2P + T sem placa 10A/250Vac. Corpo em termoplástico de alta resistência na cor preta.  Certificada pelo INMETRO conforme NBR NM 60884-1 e NBR 14136. Fixação dos fios em furos passantes e aperto por parafusos. Deverá acompanhar os parafusos para fixação. Apresentar total compatibilidade de formato e funcionamento com a tampa Poliwetzel TCPI-03. Apresentar total compatibilidade de conexão e formato com a tomada PRIME-PRM610 ou Pezzi ref. 10.056
+	Pezzi
+	8,41
+	3.364,00
+
+	6
+	2520
+	150
+	Peça
+	Tomada 2P + T sem placa 20A/250Vac. Corpo em termoplástico de alta resistência na cor preta.  Certificada pelo INMETRO conforme NBR NM 60884-1 e NBR 14136. Fixação dos fios em furos passantes e aperto por parafusos. Deverá acompanhar os parafusos para fixação. Apresentar total compatibilidade de formato e funcionamento com a tampa Poliwetzel TCPI-03. Apresentar total compatibilidade de conexão e formato com a tomada PRIME-PRM615 ou Pezzi ref. 10.057
+	Pezzi
+	8,41
+	1.261,50
+
+	7
+	6396
+	1500
+	Peça
+	Duas (02) tomadas 2P + T sem placa 10A/250Vac. Corpo em termoplástico de alta resistência na cor preta.  Certificada pelo INMETRO conforme norma NBR NM 60884-1 e NBR 14136. Fixação dos fios em furos passantes e aperto por parafusos. Deverá acompanhar os parafusos para fixação. Apresentar total compatibilidade de formato e funcionamento com a tampa Poliwetzel TCPI-03. Apresentar total compatibilidade de conexão e formato com a tomada PRIME-PRM625 ou Pezzi ref. 10.018.
+	Pezzi
+	15,78
+	23.670,00
+
+	8
+	19426
+	30
+	Peça
+	Interruptor de embutir uma (01) tecla, paralelo, padrão linha silentoque. 10A-250V. Corpo em termoplástico de alta resistência na cor preta.  Certificado pelo INMETRO conforme norma ABNT NBR NM 60669-1 e portaria nº. 82 - UC OCP-0004. Fixação dos fios em furos passantes redondos e aperto por parafusos. Apresentar total compatibilidade e especificação quanto a material, formato e funcionamento com o interruptor da PIAL LEGRAND modelo 1101.  
+	Pezzi
+	6,16
+	184,80
+
+	9
+	31344
+	20
+	Peça
+	Interruptor de embutir duas (02) teclas juntas, paralelo, padrão linha silentoque. 10A-250V. Corpo em termoplástico de alta resistência na cor preta.  Certificado pelo INMETRO conforme norma ABNT NBR NM 60669-1 e portaria nº. 82 - UC OCP-0004. Fixação dos fios em furos passantes redondos e aperto por parafusos. Apresentar total compatibilidade e especificação quanto a material, formato e funcionamento com o interruptor da PIAL LEGRAND modelo 2104. 
+	Pezzi
+	12,42
+	248,40
+
+	10
+	31345
+	20
+	Peça
+	Interruptor de embutir três (03) teclas, paralelo, padrão linha silentoque. 10A-250V. Corpo em termoplástico de alta resistência na cor preta.  Certificado pelo INMETRO conforme norma ABNT NBR NM 60669-1 e portaria nº. 82 - UC OCP-0004. Fixação dos fios em furos passantes redondos e aperto por parafusos. Apresentar total compatibilidade e especificação quanto a material, formato e funcionamento com o interruptor da PIAL LEGRAND modelo 3106.
+	Pezzi
+	26,40
+	528,00
+
+	11
+	19427
+	80
+	Peça
+	Interruptor de embutir uma (01) tecla, simples, sem placa, padrão linha silentoque. 10A-250V. Corpo em termoplástico de alta resistência na cor preta.  Certificado pelo INMETRO conforme norma ABNT NBR 6527 e portaria nº. 82 - UC OCP-0004. Fixação dos fios em furos passantes redondos e aperto por parafusos. Apresentar total compatibilidade e especificação quanto a material, formato e funcionamento com o interruptor da PIAL LEGRAND modelo 2000.
+	Pezzi
+	5,72
+	457,60
+
+	12
+	28339
+	80
+	Peça
+	Interruptor de embutir duas (02) teclas juntas, simples, sem placa, padrão linha silentoque. 10A-250V. Corpo em termoplástico de alta resistência na cor preta.  Certificado pelo INMETRO conforme norma ABNT NBR 6527 e portaria nº. 82 - UC OCP-0004. Fixação dos fios em furos passantes redondos e aperto por parafusos. Apresentar total compatibilidade e especificação quanto a material, formato e funcionamento com o interruptor da PIAL LEGRAND modelo 2000.
+	Pezzi
+	10,51
+	840,80
+
+	13
+	28340
+	80
+	Peça
+	Interruptor de embutir três (03) teclas juntas, simples, sem placa, padrão linha silentoque. 10A-250V. Corpo em termoplástico de alta resistência na cor preta.  Certificado pelo INMETRO conforme norma ABNT NBR 6527 e portaria nº. 82 - UC OCP-0004. Fixação dos fios em furos passantes redondos e aperto por parafusos. Apresentar total compatibilidade e especificação quanto a material, formato e funcionamento com o interruptor da PIAL LEGRAND modelo 2000.
+	Pezzi
+	16,93
+	1.354,40
+
+	14
+	31531
+	100
+	Peça
+	Plugue fêmea (2P+T) de 10A/250V, cor cinza, com saída  lateral. Prensa cabo com fixação através de dois parafusos. Certificada pelo INMETRO conforme normas ABNT NBR 6147 e NBR 14136. Apresentar total compatibilidade de conexão e formato com o plugue PEZZI modelo 1096-3.
+	Pezzi
+	11,09
+	1.109,00
+
+	15
+	33570
+	30
+	Peça
+	Plugue fêmea (2P+T) de 20A/250V, cor cinza, com saída  lateral. Prensa cabo com fixação através de dois parafusos. Certificada pelo INMETRO conforme normas ABNT NBR 6147 e NBR 14136. Apresentar total compatibilidade de conexão e formato com o plugue  PEZZI modelo 1097-3. 
+	Pezzi
+	10,08
+	302,40
+
+	16
+	2588
+	300
+	Peça
+	Plugue de saída lateral padrão brasileiro 2P + T, pinos maciços, diâmetro do pino de 4mm, com as extremidades esféricas, 10A/250Vac, com prensa-cabo ajustável por dois parafusos, para cabos com diâmetro externo ate 13mm, cor cinza, certificada pelo INMETRO conforme normas ABNT  NBR 6147 e NBR 14136. Apresentar total compatibilidade de conexão e formato com o plugue PRIME-PRM8428C ou Pezzi ref. 1066-3
+	Pezzi
+	7,99
+	2.397,00
+
+	17
+	18028
+	100
+	Peça
+	Plugue de saída lateral padrão brasileiro 2P + T, pinos maciços, diâmetro do pino de 4,8mm, com as extremidades esféricas, 20A/250Vac, com prensa-cabo ajustável por meio de dois parafusos, para cabos com diâmetro externo ate 13mm, cor cinza, certificada pelo INMETRO conforme normas ABNT NBR 6147 e NBR 14136. Apresentar total compatibilidade de conexão e formato com o plugue PRIME-PRM8429C ou Pezzi ref. 1067-3.
+	Pezzi
+	8,16
+	816,00
+
+	18
+	39602
+	100
+	Peça
+	Tomada 2P+T para piso de 10A / 250Vac / redonda na cor preta / novo padrão brasileiro. Referência Pezzi 10.066-2.
+	Pezzi
+	8,86
+	886,00
+
+	Preço Total do Lote 
+
+(em R$)
+	38.168,30
+
+	Preço Total do Lote 
+
+(em reais, por extenso)
+	Trinta e oito mil cento e sessenta e oito reais e trinta centavos
+
+
+	Lote: 27
+
+	Item
+	Código FURB
+	Qtde.
+	Und.
+	Descrição do Item
+	Marca
+	Preço Unitário (em R$)
+	Preço Total do Item
+
+ (em R$)
+
+	1
+	15621
+	10
+	pç
+	Óculos de proteção, com proteção UVA/UVB, lente fumê, com CA.
+	Libus
+	7,00
+	70,00
+
+	2
+	29549
+	2
+	pç
+	Estrado (tapete) de Borracha Isolante (25kV) – Dimensões mínimas 1000 x 1000 x 25 mm.
+	Borcol
+	673,12
+	1.346,24
+
+	3
+	22669
+	2
+	par
+	Par de luvas classe 3 - 30 kV n⁰ 10, com CA.
+	Orion
+	1.368,29
+	2.736,58
+
+	4
+	546
+	10
+	par
+	Par de luva de raspa de couro Tam. 11". Com CA.
+	TKVB
+	26,88
+	268,80
+
+	Preço Total do Lote 
+
+(em R$)
+	4.421,62
+
+	Preço Total do Lote 
+
+(em reais, por extenso)
+	Quatro mil quatrocentos e vinte e um reais e sessenta e dois centavos
+
+
+	Lote: 28
+
+	Item
+	Código FURB
+	Qtde.
+	Und.
+	Descrição do Item
+	Marca
+	Preço Unitário (em R$)
+	Preço Total do Item
+
+ (em R$)
+
+	1
+	32428
+	4
+	pç
+	Para-raio neutro aterrado 25kV, 10kA, com desligador automático tipo polimérico.  Padrão Celesc.
+	Delmar
+	308,00
+	1.232,00
+
+	2
+	3793
+	1
+	pç
+	Chave seccionadora tripolar completa, uso interno, com comando manual, classe 25KV, 400A, 16KA, NBI 125KV, com sistema de abertura rápida com mola pré-carregada, abertura sob carga,  com dispositivos de fixação e manobra (prolongador, punho e demais acessórios).  Tratamento anticorrosivo a base de pintura eletrostática a pó.
+	Sarel
+	10.224,65
+	10.224,65
+
+	3
+	18777
+	1
+	pç
+	Chave seccionadora tripolar completa com porta fusível HH e fusível HH de 50A, uso interno, com comando manual, classe 25KV, 400A, 16KA, NBI 125KV, com sistema de abertura rápida com mola pré-carregada,  abertura sob carga simultânea nas três fases, mesmo com a queima de apenas um fusível, com dispositivos de fixação e manobra (prolongador, punho e demais acessórios).  Tratamento anticorrosivo a base de pintura eletrostática a pó.
+	Sarel
+	11.901,26
+	11.901,26
+
+	4
+	38871
+	3
+	pç
+	Fusivel HH de 25A - 25KV.
+	Sarel
+	523,46
+	1.570,38
+
+	5
+	38872
+	3
+	pç
+	Fusivel HH de 32A - 25KV.
+	Sarel
+	547,25
+	1.641,75
+
+	Preço Total do Lote 
+
+(em R$)
+	26.570,04
+
+	Preço Total do Lote 
+
+(em reais, por extenso)
+	Vinte e seis mil quinhentos e setenta reais e quatro centavos
+
+
+	Lote: 29
+
+	Item
+	Código FURB
+	Qtde.
+	Und.
+	Descrição do Item
+	Marca
+	Preço Unitário (em R$)
+	Preço Total do Item
+
+ (em R$)
+
+	1
+	29689
+	96
+	Lata
+	Micro óleo - Lubrificante e anticorrosivo multiuso / derivado de petróleo. Lata aerossol com 300 ml mínimo. Com válvula 180° para uso com a lata de cabeça para baixo.
+Produto para lubrificar, proteger, limpar, eliminar umidade e penetrar. 
+Composição e propriedades físicas e químicas:
+Óleos minerais, solventes alifáticos  e anticorrosivo  (Derivado de petróleo 30 – 40% e Butano/propano 30 – 40%). Cor levemente amarelado, Insolúvel em água. Ponto fulgor – 60 °C (aerossol).
+Não pode conter: água, querosene ou silicone.
+Ref.: WD – 40
+	WD 40
+	34,00
+	3.264,00
+
+	2
+	4029
+	72
+	Lata
+	Limpa contato para circuitos elétricos e eletrônicos. Lata aerossol com 300 ml mínimo. Solvente incolor para eliminar óleos, graxas, fluxo de soldas, agentes corrosivos, poeira, entre outros contaminantes de difícil remoção. 
+Composição e propriedades físicas e químicas: Solventes de petróleo 50% e Propelente butano/propano 50%.
+Ponto fulgor 35 °C. Viscosidade 0,45 Cst a 25 °C. Densidade: 0,660 a 0,700 g/ml a 20 °C
+ Ref.: Contacmatic Spray Limpa Contato Sprayon.
+	Hellermann Tyton
+	24,27
+	1.747,44
+
+	Preço Total do Lote 
+
+(em R$)
+	5.011,44
+
+	Preço Total do Lote 
+
+(em reais, por extenso)
+	Cinco mil e onze reais e quarenta e quatro centavos
+
+
+	Lote: 30
+
+	Item
+	Código FURB
+	Qtde.
+	Und.
+	Descrição do Item
+	Marca
+	Preço Unitário (em R$)
+	Preço Total do Item
+
+ (em R$)
+
+	1
+	34030
+	10
+	Unidade
+	Capacitor para correção de fator de potência / monofásico / 1,67kVAr / 60Hz /  380V / conector Faston.
+	Epcos
+	61,70
+	617,00
+
+	2
+	34031
+	10
+	Unidade
+	Capacitor para correção de fator de potência / monofásico / 2,5kVAr / 60Hz /  380V / conector Faston.
+	Epcos
+	82,67
+	826,70
+
+	3
+	29106
+	10
+	Unidade
+	Capacitor para correção de fator de potência / monofásico / 3,3kVAr / 60Hz /  380V / conector Faston.
+	Epcos
+	78,11
+	781,10
+
+	4
+	29107
+	20
+	Unidade
+	Capacitor para correção de fator de potência / monofásico / 5,0kVAr / 60Hz /  380V / conector Faston.
+	Epcos
+	99,26
+	1.985,20
+
+	5
+	34032
+	10
+	Unidade
+	Capacitor para correção de fator de potência / trifásico / 5,0kVAr / 60Hz /  380V / conexão através de borneira.
+	Epcos
+	157,01
+	1.570,10
+
+	6
+	34033
+	10
+	Unidade
+	Capacitor para correção de fator de potência / trifásico / 7,5kVAr / 60Hz /  380V / conexão através de borneira.
+	Epcos
+	231,01
+	2.310,10
+
+	7
+	34034
+	10
+	Unidade
+	Capacitor para correção de fator de potência / trifásico / 10,0kVAr / 60Hz /  380V / conexão através de borneira.
+	Epcos
+	243,89
+	2.438,90
+
+	8
+	34035
+	10
+	Unidade
+	Capacitor para correção de fator de potência / trifásico / 15,0kVAr / 60Hz /  380V / conexão através de borneira.
+	Epcos
+	336,67
+	3.366,70
+
+	9
+	34036
+	10
+	Unidade
+	Capacitor para correção de fator de potência / trifásico / 20,0kVAr / 60Hz /  380V / conexão através de borneira.
+	Epcos
+	462,85
+	4.628,50
+
+	Preço Total do Lote 
+
+(em R$)
+	18.524,30
+
+	Preço Total do Lote 
+
+(em reais, por extenso)
+	Dezoito mil quinhentos e vinte e quatro reais e trinta centavos
+
+
+	Lote: 31
+
+	Item
+	Código FURB
+	Qtde.
+	Und.
+	Descrição do Item
+	Marca
+	Preço Unitário (em R$)
+	Preço Total do Item
+
+ (em R$)
+
+	1
+	2653
+	50
+	pç
+	Eletroduto rigido em PVC antichama preto de 2" com rosca nas extremidades  em conformidade com a norma ABNT NBR 15465 / barra de 3 metros
+	Tigre
+	38,02
+	1.901,00
+
+	4
+	18165
+	20
+	pç
+	Caixa de alvenaria quadrada, com tampa de concreto, para inspeção de aterramento, com dimensões 30x30x40 cm.
+	Silverio Art. De Cimento
+	22,42
+	448,40
+
+	5
+	2649
+	200
+	pç
+	Abraçadeira do tipo D para eletroduto de 2",  com chaveta em aço galvanizada.
+	Villefix
+	3,20
+	640,00
+
+	6
+	2788
+	50
+	pç
+	Abraçadeira do tipo D para eletroduto de 1 1/4"  com chaveta em aço galvanizada.
+	Villefix
+	2,53
+	126,50
+
+	7
+	15578
+	50
+	pç
+	Abraçadeira do tipo D para eletroduto de 1 1/2"  com chaveta em aço galvanizada.
+	Villefix
+	2,80
+	140,00
+
+	8
+	21673
+	2
+	pç
+	Medidor de consumo de energia elétrica eletrônico (kWh) e (kVAr) / trifásico  380V / 120A sem o uso de TCs  /   com saída de pulso.
+	Landis Gyr
+	513,50
+	1.027,00
+
+	9
+	39945
+	2000
+	pç
+	Conector de emenda rápida 2 polos, para fios e cabos de 0,2 - 4mm². Suportar uma corrente de 32A e tensão de 450V. Corpo em policarbonato transparente, deve possuir alavanca para conexão dos condutores. Referência: Wago 221-412
+	Wago
+	2,12
+	4.240,00
+
+	10
+	39946
+	2000
+	pç
+	Conector de emenda rápida 3 polos, para fios e cabos de 0,2 - 4mm². Suportar uma corrente de 32A e tensão de 450V. Corpo em policarbonato transparente, deve possuir alavanca para conexão dos condutores. Referência: Wago 221-413
+	Wago
+	2,59
+	5.180,00
+
+	11
+	39947
+	1000
+	pç
+	Conector de emenda rápida 5 polos, para fios e cabos de 0,2 - 4mm². Suportar uma corrente de 32A e tensão de 450V. Corpo em policarbonato transparente, deve possuir alavanca para conexão dos condutores. Referência: Wago 221-415
+	Wago
+	4,16
+	4.160,00
+
+	12
+	39948
+	500
+	pç
+	Conector de emenda rápida 2 polos, para fios e cabos de 0,5 - 6mm². Suportar uma corrente de 41A e tensão de 450V. Corpo em policarbonato transparente, deve possuir alavanca para conexão dos condutores. Referência: Wago 221-612
+	Wago
+	3,36
+	1.680,00
+
+	13
+	39949
+	500
+	pç
+	Conector de emenda rápida 3 polos, para fios e cabos de 0,5 - 6mm². Suportar uma corrente de 41A e tensão de 450V. Corpo em policarbonato transparente, deve possuir alavanca para conexão dos condutores. Referência: Wago 221-613
+	Wago
+	3,99
+	1.995,00
+
+	14
+	39950
+	500
+	pç
+	Conector de emenda rápida 5 polos, para fios e cabos de 0,5 - 6mm². Suportar uma corrente de 41A e tensão de 450V. Corpo em policarbonato transparente, deve possuir alavanca para conexão dos condutores. Referência: Wago 221-615
+	Wago
+	6,82
+	3.410,00
+
+	15
+	4101
+	50
+	pç
+	Conector reforçado cabo/haste com grampo em ''U", especial tipo GTDU para haste de aterramento. Conector em latão, grampo e porca em aço galvanizado a fogo. Compatível com a referência RAYCON  DR-099.
+	Termotécnica
+	37,46
+	1.873,00
+
+	16
+	3600
+	100
+	pç
+	Haste de terra diâmetro 5/8" x 240cm em aço revestida de cobre, camada mínima 250um (micra), alta camada.
+	Intelli
+	66,20
+	6.620,00
+
+	17
+	21616
+	5
+	pç
+	Molde de grafite  para solda exotérmica de cabo a haste.  Para cabo 50mm² e haste 5/8" - (haste com cabo passante no topo)
+	Conexsolda
+	134,27
+	671,35
+
+	18
+	21615
+	5
+	pç
+	Molde de grafite para solda exotérmica de cabo a cabo em formato "X" conectar com 4 pontas.  Para cabos  50mm² - (cabo passante sobreposto, cruzando com cabo derivação interiço)
+	Conexsolda
+	134,28
+	671,40
+
+	19
+	23348
+	5
+	pç
+	Molde de grafite para solda exotérmica de cabo a cabo / derivação 90°.  Para cabos  50mm² - (cabo passante com derivação "T" 90º)
+	Conexsolda
+	134,28
+	671,40
+
+	20
+	32765
+	10
+	pç
+	Contator tripolar de força / corrente nominal de 12A em AC3 / 380V / funcionamento intermitente / bobina em 220V/60Hz.
+	ABB
+	93,55
+	935,50
+
+	21
+	32766
+	5
+	pç
+	Contator tripolar de força / corrente nominal de 17A em AC3 / 380V / funcionamento intermitente / bobina em 220V/60Hz.
+	ABB
+	100,48
+	502,40
+
+	22
+	32767
+	5
+	pç
+	Contator tripolar de força / corrente nominal de 25A em AC3 / 380V / funcionamento intermitente / bobina em 220V/60Hz.
+	ABB
+	123,36
+	616,80
+
+	23
+	5509
+	50
+	pç
+	Conector tipo tubo de emenda e medição para SPDA, de latão fundido, com 4 parafusos cabeça sextavada, para cabos de 16mm² à 50 mm².
+	WIPE
+	25,23
+	1.261,50
+
+	24
+	2665
+	100
+	pç
+	Abraçadeira regulável em aço carbono, rosca sem fim, abertura de  ½" a ¾"  (13 a 19mm), largura mínima 9mm.
+	Flexil
+	2,87
+	287,00
+
+	25
+	21608
+	25
+	kit
+	Cartucho de 150g - pó de solda exotérmica com chapinha e ignitor, para uso em solda de cabo de cobre em para raio
+	Conexsolda
+	16,29
+	407,25
+
+	26
+	21609
+	25
+	kit
+	Cartucho de 45g - pó de solda exotérmica com chapinha e ignitor, para uso em solda de cabo de cobre em para raio
+	Conexsolda
+	5,75
+	143,75
+
+	27
+	21611
+	25
+	kit
+	Cartucho de 90g - pó de solda exotérmica com chapinha e ignitor, para uso em solda de cabo de cobre em para raio
+	Conexsolda
+	11,63
+	290,75
+
+	Preço Total do Lote 
+
+(em R$)
+	39.900,00
+
+	Preço Total do Lote 
+
+(em reais, por extenso)
+	Trinta e nove mil e novecentos reais
+
+
+	Lote: 32
+
+	Item
+	Código FURB
+	Qtde.
+	Und.
+	Descrição do Item
+	Marca
+	Preço Unitário (em R$)
+	Preço Total do Item
+
+ (em R$)
+
+	1
+	39925
+	12
+	cento
+	Porca auto-travante em aço zincado sextavada / com anel de borracha / tamanho " 3/8” (tipo Parlock)    BAIXA
+	Ciser
+	19,05
+	228,60
+
+	2
+	39926
+	6
+	cento
+	Parafuso Cabeça francesa em aço zincado 3/8” x 3.1/2” 
+	Ciser
+	87,61
+	525,66
+
+	3
+	39927
+	6
+	cento
+	arruela aba larga 3/8 - tipo latoeiro - espessura 2mm
+	Ciser
+	28,57
+	171,42
+
+	Preço Total do Lote 
+
+(em R$)
+	925,68
+
+	Preço Total do Lote 
+
+(em reais, por extenso)
+	Novecentos e vinte e cinco reais e sessenta e oito centavos
+
+
+	Lote: 33
+
+	Item
+	Código FURB
+	Qtde.
+	Und.
+	Descrição do Item
+	Marca
+	Preço Unitário (em R$)
+	Preço Total do Item
+
+ (em R$)
+
+	1
+	39928
+	1200
+	peça
+	Arruela de borracha antivibratória; com furo central de 10mm de diâmetro. Altura de 15mm e largura 40mm. Referência: Vibra-stop
+	Vibra-Stop
+	4,24
+	5.088,00
+
+	Preço Total do Lote 
+
+(em R$)
+	5.088,00
+
+	Preço Total do Lote 
+
+(em reais, por extenso)
+	Cinco mil e oitenta e oito reais
+
+
+	Lote: 34
+
+	Item
+	Código FURB
+	Qtde.
+	Und.
+	Descrição do Item
+	Marca
+	Preço Unitário (em R$)
+	Preço Total do Item
+
+ (em R$)
+
+	1
+	29637
+	6
+	peça
+	Exaustor/ventilador axial comercial de parede; diâmetro 30cm; fabricado em aço galvanizado; monofásico 220 V - 60Hz; rotação 1500/1750 RPM; potência de 1/6  a 1/4 HP. Com 5 pás metálicas, motor blindado, protegido contra agentes corrosivos e ferrugem. Baixo nível de ruidos.
+	Ventidelta
+	176,68
+	1.060,08
+
+	2
+	30100
+	5
+	peça
+	Renovador de ar axial completo com veneziana autofechante / capacidade de renovação 280 m³/h / tubo em alumínio extensível até 20cm / adaptável a tubos de 150mm / potência 40W / bivolt. Modelo de ref. Ventokit 280. Certificado pelo INMETRO.
+Garantia mínima de 36 meses.
+	Westaflex
+	269,36
+	1.346,80
+
+	3
+	31270
+	5
+	peça
+	Renovador de ar axial completo com veneziana autofechante / capacidade de renovação 150 m³/h / tubo em alumínio extensível até 20cm / adaptável a tubos de 125mm / potência 20W / bivolt. Modelo de ref. Ventokit 150. Certificado pelo INMETRO.
+Garantia mínima de 36 meses.
+	Westaflex
+	184,18
+	920,90
+
+	4
+	27173
+	5
+	peça
+	Renovador de ar axial completo com veneziana autofechante / capacidade de renovação 80 m³/h / tubo em alumínio extensível até 20cm / adaptável a tubos de 100mm / potência 20W / bivolt. Modelo de ref. Ventokit 80. Certificado pelo INMETRO.
+Garantia mínima de 36 meses.
+	Westaflex
+	177,45
+	887,25
+
+	Preço Total do Lote 
+
+(em R$)
+	4.215,03
+
+	Preço Total do Lote 
+
+(em reais, por extenso)
+	Quatro mil duzentos e quinze reais e três centavos
+
+
+	Lote: 35
+
+	Item
+	Código FURB
+	Qtde.
+	Und.
+	Descrição do Item
+	Marca
+	Preço Unitário (em R$)
+	Preço Total do Item
+
+ (em R$)
+
+	1
+	2962
+	100
+	peça
+	Lâmpada incandescente / 220V / 15W
+	Sadokin
+	5,47
+	547,00
+
+	2
+	2976
+	60
+	metro
+	Lâmpada LED para decoração natalina.
+	Stella
+	21,35
+	1.281,00
+
+	3
+	38191
+	200
+	peça
+	Lâmpada halógena clara; 42W 220V QCY; base E27.
+	Philips
+	4,24
+	848,00
+
+	4
+	36681
+	100
+	peça
+	Fusível Diazed 4A 500VCA, efeito retardado.
+	TEE
+	3,24
+	324,00
+
+	Preço Total do Lote 
+
+(em R$)
+	3.000,00
+
+	Preço Total do Lote 
+
+(em reais, por extenso)
+	Três mil reais
+
+
+PAGAMENTO: O pagamento será efetuado em até 30 (trinta) dias consecutivos após a efetiva entrega (com descarga) dos materiais, desde que os mesmos estejam em perfeitas condições de uso, sejam aprovados pelo Gestor designado pela CONTRATANTE e sigam acompanhados da respectiva Nota Fiscal Eletrônica (NF-e), através de depósitos bancários (hipótese na qual a NF-e deverá conter os dados bancários da CONTRATADA) ou de boletos bancários (caso no qual tais documentos deverão acompanhar a NF-e).
+PRAZO DE VIGÊNCIA: Esta Ata de Registro de Preços terá vigência de 12 (doze) meses, a partir de sua assinatura.
+DATA: 30/09/2020.

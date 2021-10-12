@@ -1,0 +1,88 @@
+
+FUNDAÇÃO UNIVERSIDADE REGIONAL DE BLUMENAU
+
+Extrato nº. 395/2020
+PARTES:  FUNDAÇÃO UNIVERSIDADE REGIONAL DE BLUMENAU
+
+E
+
+                  SIGMAFONE COMÉRCIO DE TELEFONES E INFORMÁTICA LTDA
+OBJETO: Aquisição de equipamentos de áudio e vídeo para uso nas aulas via streaming da Universidade.
+FUNDAMENTO LEGAL: Pregão Presencial nº 210/2020 e Contrato nº 178/2020, firmado em 02 de outubro de 2020.  
+PREÇO: Pelo objeto contratado, a CONTRATANTE pagará o preço constante nas tabelas abaixo, de acordo com a proposta apresentada pela CONTRATADA:
+	Item
+	Código FURB
+	Qtde.
+	Und.
+	Descrição do Item
+	Marca  e Modelo
+	Preço Unitário (em R$)
+	Preço Total do Item
+
+ (em R$)
+
+	03
+	40174
+	70
+	Peça
+	Headset Bluetooth com microfone para videoconferência, com as seguintes características:
+Tipo: Supra-auricular,
+
+Cores predominantes: Preta, Cinza ou Branca
+
+Material da almofada auricular:  macia e revestida em couro sintético.
+
+Deverá possuir LED com indicação de status.
+
+Peso Máximo: 125 gramas
+
+Botões com as seguintes funções:
+
+· Liga/desliga
+Áudio:
+
+· Alto faltante do tipo mono auricular
+
+· Driver:  entre 32 e 40 milímetros
+· Resposta de frequência dinâmica: Entre 20 Hz e 20 KHz 
+Microfone:
+
+· Integrado ao headset
+
+· Mínimo de 2 microfones
+
+· Tecnologia para cancelamento de ruídos (Noise Canceling)
+Conexão: Bluetooth 5.0 ou superior
+· Adaptador bluetooth USB-A dedicado para conectividade com computadores e notebooks
+
+· Não serão aceitos adaptadores genéricos, deverá ser do mesmo fabricante e indicado para o headset ofertado.
+· Alcance mínimo: 10 metros
+· Perfis mínimos: A2DP, AVRCP, HFP e HSP
+Bateria: Polímero de íons de lítio, recarregável e com capacidade mínima de 300mAh
+
+Tempo de uso na bateria: Mínimo de 12 horas em conversação.
+Tempo para recarga completa: Máximo de 2 horas
+
+Compatibilidade: Windows 10 ou superior
+Embalagem: Original, lacrada e com todos os acessórios inclusos.
+
+Acessórios:
+
+· Cabo para carregamento
+· Adaptador bluetooth
+Garantia: Mínima de 12 (doze) meses.
+
+	Poly / Voyager 4210 UC, USB A (P/N: 211317-101)
+
+Garantia: 12 meses
+	1.150,00
+	80.500,00
+
+	Preço Total do Item 
+(em reais, por extenso)
+	Oitenta mil e quinhentos reais.
+
+
+PAGAMENTO: O pagamento será realizado em até 30 (trinta) dias consecutivos após a efetiva entrega (com descarga) do(s) produto(s) desde que estas sejam aprovados pela Gestão Contratual e sigam acompanhados da respectiva Nota Fiscal Eletrônica (NF-e), através de depósito bancário (hipótese na qual a NF-e deverá conter os dados bancários da CONTRATADA) ou de boleto bancário (caso no qual tal documento deverá acompanhar a NF-e).
+PRAZO DE VIGÊNCIA: Por se tratar de contratação imediata, este contrato terá início a partir da data de sua assinatura e encerramento vinculado ao término do respectivo exercício financeiro, em conformidade com o descrito no caput do artigo 57 da Lei Federal nº. 8.666/93.
+DATA: 05/10/2020.

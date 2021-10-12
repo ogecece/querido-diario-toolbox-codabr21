@@ -1,0 +1,2161 @@
+
+	ANEXO ÚNICO
+
+	Portaria SEMED nº 279, de 05 de novembro de 2020.
+
+	CADASTRO
+	SERVIDOR
+	UNIDADE
+	DISCIPLINA/CARGO
+	CH
+	TURNO
+
+	231928
+	Aline Aparecida Setti Ferreira
+	EBM Pedro I
+	Anos Iniciais
+	20
+	Mat
+
+	231897
+	Andressa Pereira de Alcantara
+	EBM Vidal Ramos
+	Anos Iniciais
+	20
+	Mat
+
+	179558
+	Angela Regina de Oliveira
+	EBM Duque De Caxias
+	Anos Iniciais
+	20
+	Mat
+
+	179558
+	Angela Regina de Oliveira
+	EBM Duque De Caxias
+	Anos Iniciais
+	20
+	Ves
+
+	231960
+	Angelita de Souza Stolfi
+	EBM Prof.ª Alice Thiele
+	Anos Iniciais
+	20
+	Ves
+
+	231840
+	Bianca Pereira de Araujo Politelo
+	EBM Prof. Friedrich K. Kemmelmeier
+	Anos Iniciais
+	20
+	Ves
+
+	231974
+	Bruna Dos Santos Fabricio
+	EBM Bilíngue Prof. Fernando Ostermann
+	Anos Iniciais
+	20
+	Ves
+
+	231836
+	Carmem Penteado do Nascimento
+	EBM Visconde De Taunay
+	Anos Iniciais
+	20
+	Mat
+
+	231201
+	Claudia Montibeller
+	EBM Machado de Assis
+	Anos Iniciais
+	20
+	Ves
+
+	231846
+	Consuelo Pinto Campos Lopes
+	EBM Gustavo Richard
+	Anos Iniciais
+	20
+	Ves
+
+	231895
+	Cristiane Minatti Peixer
+	EBM Wilhelm Theodor Schurmann
+	Anos Iniciais
+	20
+	Ves
+
+	231963
+	Daiana Lana
+	EBM Prof.ª Alice Thiele
+	Anos Iniciais
+	20
+	Mat
+
+	231956
+	Daniela Noriler
+	EBM General Lúcio Esteves
+	Anos Iniciais
+	20
+	Ves
+
+	231837
+	Danilso Alves de Souza
+	EBM Prof.ª Alice Thiele
+	Anos Iniciais
+	20
+	Mat
+
+	231899
+	Debora Cristina da Silva
+	EBM Prof. Joao Joaquim Fronza
+	Anos Iniciais
+	20
+	Ves
+
+	175307
+	Deise Cristiane Cardozo Geisler
+	EBM General Lúcio Esteves
+	Anos Iniciais
+	20
+	Mat
+
+	175307
+	Deise Cristiane Cardozo Geisler
+	EBM General Lúcio Esteves
+	Anos Iniciais
+	20
+	Ves
+
+	231156
+	Deise Emilia Constantino Endler
+	EBM Felipe Schmidt
+	Anos Iniciais
+	20
+	Ves
+
+	201863
+	Elis Rosana Fumagalli
+	EBM Henrique Alfarth
+	Anos Iniciais
+	20
+	Mat
+
+	231892
+	Elisandra Richartz Petri
+	EBM Lauro Muller
+	Anos Iniciais
+	20
+	Mat
+
+	231995
+	Ester da Cunha Duarte
+	EBM Prof. Oscar Unbehaun
+	Anos Iniciais
+	20
+	Mat
+
+	231910
+	Fabiana Pereira da Silva
+	Em Alwino Dorow
+	Anos Iniciais
+	20
+	Mat
+
+	231864
+	Fernanda Coninch Camargo
+	EBM Vidal Ramos
+	Anos Iniciais
+	20
+	Ves
+
+	231872
+	Gabriella Panini Jaeger
+	EBM Prof.ª Zulma S. da Silva
+	Anos Iniciais
+	20
+	Mat
+
+	231957
+	Giseli Ana Piva Pereira
+	EBM Prof.ª Alice Thiele
+	Anos Iniciais
+	20
+	Mat
+
+	231900
+	Gisleide Scherer
+	EBM Lore Sita Bollmann
+	Anos Iniciais
+	20
+	Ves
+
+	231905
+	Greici Schmitz Amorim
+	EBM Prof.ª Adelaide Starke
+	Anos Iniciais
+	20
+	Ves
+
+	231922
+	Helisabete Rodrigues Pereira
+	EBM Annemarie Techentin
+	Anos Iniciais
+	20
+	Ves
+
+	150630
+	Heloise Vanusa Prestes Schmutzler de Oliveira
+	EBM Bilíngue Prof. Fernando Ostermann
+	Anos Iniciais
+	40 (20H +20H  Bilíngue)
+	Mat/Ves
+
+	231903
+	Jacinta Jungblut
+	EBM General Lúcio Esteves
+	Anos Iniciais
+	20
+	Mat
+
+	231920
+	Janaina Lopes Pereira
+	EBM Alberto Stein
+	Anos Iniciais
+	20
+	Ves
+
+	231898
+	Jeniffer Schmitt Dutra
+	EBM Conselheiro Mafra
+	Anos Iniciais
+	20
+	Ves
+
+	229612
+	Jose Luiz Bernardes dos Santos
+	Em Alwino Dorow
+	Anos Iniciais
+	20
+	Mat
+
+	201448
+	Josiane Schwabe Junkglus
+	EBM Pedro II
+	Anos Iniciais
+	20
+	Ves
+
+	231170
+	Jucylene Regina Alberto dos Santos
+	EBM Prof.ª Zulma S. da Silva
+	Anos Iniciais
+	20
+	Ves
+
+	231978
+	Julia Cristina Pedro
+	EBM Annemarie Techentin
+	Anos Iniciais
+	20
+	Ves
+
+	231893
+	Jussara Rodrigues
+	EBM Quintino Bocaiuva
+	Anos Iniciais
+	20
+	Ves
+
+	231975
+	Jussara Soraia Hensel Regis
+	EBM Prof.ª Adelaide Starke
+	Anos Iniciais
+	20
+	Mat
+
+	231839
+	Larissa Zanella
+	EBM Prof. Joao Joaquim Fronza
+	Anos Iniciais
+	20
+	Ves
+
+	231896
+	Laysa Berg Beschinock
+	EBM Prof. Rodolfo Hollenweger
+	Anos Iniciais
+	20
+	Mat
+
+	231849
+	Leia Bitencourtte da Silva
+	EBM Prof.ª Adelaide Starke
+	Anos Iniciais
+	20
+	Ves
+
+	231921
+	Ligia Cardoso
+	EBM Pedro II
+	Anos Iniciais
+	20
+	Mat
+
+	231841
+	Lilian Germano Pereira
+	EBM Annemarie Techentin
+	Anos Iniciais
+	40H (20+20  Bilíngue)
+	Mat/Ves
+
+	231350
+	Marcia Hostert
+	EBM Francisco Lanser
+	Anos Iniciais
+	20
+	Mat
+
+	228615
+	Mari Lucia Rodrigues
+	EBM Prof.ª Nemésia Margarida
+	Anos Iniciais
+	20
+	Ves
+
+	231866
+	Maria Alice Farias Mendes
+	EBM Felipe Schmidt
+	Anos Iniciais
+	20
+	Mat
+
+	231844
+	Maria Isabel Machado
+	EBM Pedro I
+	Anos Iniciais
+	20
+	Mat
+
+	231976
+	Marlene Silveira de Abreu
+	EBM Prof. Oscar Unbehaun
+	Anos Iniciais
+	20
+	Mat
+
+	229819
+	Marli Alcarde Matias Ventura
+	EBM Felipe Schmidt
+	Anos Iniciais
+	20
+	Mat
+
+	200476
+	Marta Carolina dos Santos
+	EBM Tiradentes E Prof.ª Julia S.
+	Anos Iniciais
+	40 (20H +20H  Bilíngue)
+	Mat
+
+	197661
+	Marta Nascimento de Oliveira
+	EBM Quintino Bocaiuva
+	Anos Iniciais
+	20
+	Ves
+
+	231847
+	Michelle Gracielle Peters Testoni
+	EBM Vidal Ramos
+	Anos Iniciais
+	20
+	Mat
+
+	231842
+	Miriam Muniz de Liz Legnaghi
+	EBM General Lúcio Esteves
+	Anos Iniciais
+	20
+	Ves
+
+	231883
+	Monica Fernandes
+	EBM Prof.ª Helena M. Wincler
+	Anos Iniciais
+	40 (20+20 Bilíngue)
+	Mat
+
+	152200
+	Nilzete Musoline de Almeida
+	EBM Francisco Lanser
+	Anos Iniciais
+	20
+	Mat
+
+	152200
+	Nilzete Musoline de Almeida
+	EBM Francisco Lanser
+	Anos Iniciais
+	20
+	Ves
+
+	231209
+	Priscila Caliga de Oliveira Taveira
+	EBM Tiradentes E Prof.ª Julia S.
+	Anos Iniciais
+	20
+	Mat
+
+	231848
+	Rosangela Cicatto Longui
+	EBM Wilhelm Theodor Schurmann
+	Anos Iniciais
+	20
+	Ves
+
+	230620
+	Rosanna Ross Espezim da Silva
+	EBM General Lúcio Esteves
+	Anos Iniciais
+	20
+	Mat
+
+	230620
+	Rosanna Ross Espezim da Silva
+	EBM General Lúcio Esteves
+	Anos Iniciais
+	20
+	Ves
+
+	230603
+	Rosilene Constantino Lana
+	EBM Prof. Rodolfo Hollenweger
+	Anos Iniciais
+	20
+	Mat
+
+	184799
+	Sandra Regina Quarantani
+	EBM Machado de Assis
+	Anos Iniciais
+	20
+	Mat
+
+	184799
+	Sandra Regina Quarantani
+	EBM Machado de Assis
+	Anos Iniciais
+	20
+	Ves
+
+	219142
+	Sheila Denise Trapp Bortolini
+	EBM Lauro Muller
+	Anos Iniciais
+	20
+	Mat
+
+	219142
+	Sheila Denise Trapp Bortolini
+	EBM Lauro Muller
+	Anos Iniciais
+	20
+	Ves
+
+	231894
+	Silvia Milene da S. W. P. Do Nascimento
+	EBM Henrique Alfarth
+	Anos Iniciais
+	20
+	Mat
+
+	175129
+	Sinclair Emilia Reinert
+	EBM Prof.ª Helena M. Wincler
+	Anos Iniciais
+	20
+	Mat
+
+	231838
+	Sirlei Aparecida Lobo Vogel
+	EBM Prof. Oscar Unbehaun
+	Anos Iniciais
+	20
+	Mat
+
+	231890
+	Solange Ap Silva dos Santos de Sousa
+	EBM Prof.ª Zulma S. da Silva
+	Anos Iniciais
+	20
+	Mat
+
+	231919
+	Suzana Correa Branco Tausendfrend
+	EBM Vidal Ramos
+	Anos Iniciais
+	20
+	Mat
+
+	231906
+	Suzete Macarini
+	EBM Pedro I
+	Anos Iniciais
+	20
+	Mat
+
+	231901
+	Sylvia Loch Schroeder
+	EBM Leoberto Leal
+	Anos Iniciais
+	20
+	Mat
+
+	231850
+	Tais Alves Barros Krutli
+	Eim Alves Ramos
+	Anos Iniciais
+	20
+	Mat
+
+	231955
+	Tarciano Lopes Santos
+	EBM Wilhelm Theodor Schurmann
+	Anos Iniciais
+	20
+	Mat
+
+	231859
+	Tatiane Maria Deschamps
+	EBM Conselheiro Mafra
+	Anos Iniciais
+	20
+	Mat
+
+	231904
+	Thais de Souza
+	EBM Henrique Alfarth
+	Anos Iniciais
+	20
+	Ves
+
+	231857
+	Valci Pereira dos Santos Junior
+	EBM Alberto Stein
+	Anos Iniciais
+	20
+	Ves
+
+	229593
+	Jeane Andrea Schuhart
+	Eim Alves Ramos
+	Arte
+	10
+	Mat
+
+	229576
+	Mirele Floriani
+	EBM Paulina Wagner
+	Arte
+	10
+	Mat
+
+	229576
+	Mirele Floriani
+	EBM Paulina Wagner
+	Arte
+	10
+	Ves
+
+	231748
+	Stephanie David de Lima
+	EBM Visconde de Taunay
+	Arte
+	10
+	Mat
+
+	228660
+	Vanessa Fernandes
+	EBM Machado de Assis
+	Arte
+	10
+	Mat
+
+	228660
+	Vanessa Fernandes
+	EBM Machado de Assis
+	Arte
+	10
+	Ves
+
+	219380
+	Vania Rizzotto Tillmann
+	EBM Annemarie Techentin
+	Arte
+	10
+	Mat
+
+	231347
+	Bruna Marcela Benevenutti
+	EBM Francisco Lanser
+	Bandas E Fanfarras
+	20
+	M/v
+
+	231934
+	Kamila Vieira
+	EBM Anita Garibaldi
+	Ciências
+	10
+	Mat
+
+	231917
+	Alciane Ce Valim Fiedler
+	EBM Anita Garibaldi
+	Ciências
+	20
+	Mat
+
+	231934
+	Kamila Vieira
+	EBM Anita Garibaldi
+	Ciências
+	10
+	Ves
+
+	231923
+	Leandro Demarchi
+	EBM Anita Garibaldi
+	Ciências
+	10
+	Ves
+
+	231877
+	Michele Gomes Ferreira
+	EBM Annemarie Techentin
+	Ciências
+	10
+	Mat
+
+	231843
+	Hana Julia Lunelli
+	EBM Conselheiro Mafra
+	Ciências
+	20
+	Mat
+
+	231931
+	Debora Pereira dos Santos Bertholdo
+	EBM Conselheiro Mafra
+	Ciências
+	20
+	Ves
+
+	231876
+	Gabriel Nardelli Schneider
+	EBM Duque de Caxias
+	Ciências
+	10
+	Mat
+
+	231876
+	Gabriel Nardelli Schneider
+	EBM Duque de Caxias
+	Ciências
+	10
+	Ves
+
+	231923
+	Leandro Demarchi
+	EBM Felipe Shcmidt
+	Ciências
+	10
+	Mat
+
+	231929
+	Rejane Holandina Reuter
+	EBM Leoberto Leal
+	Ciências
+	10
+	Ves
+
+	231881
+	Mary Susan Rossetim
+	EBM General Lúcio Esteves
+	Ciências
+	20
+	Mat
+
+	231971
+	Robson Damasio Mazzi
+	EBM Henrique Alfarth
+	Ciências
+	10
+	Ves
+
+	231877
+	Michele Gomes Ferreira
+	EBM Machado de Assis
+	Ciências
+	10
+	Ves
+
+	231390
+	Camila da Costa Goncalves
+	EBM Paulina Wagner
+	Ciências
+	10
+	Mat
+
+	231929
+	Rejane Holandina Reuter
+	EBM Paulina Wagner
+	Ciências
+	10
+	Mat
+
+	231971
+	Robson Damasio Mazzi
+	EBM Pedro II
+	Ciências
+	10
+	Ves
+
+	231891
+	Angela Aparecida Poyer
+	EBM João Joaquim Fronza
+	Ciências
+	10
+	Mat
+
+	231855
+	Ligia Navarro dos Santos
+	EBM João Joaquim Fronza
+	Ciências
+	10
+	Ves
+
+	231855
+	Ligia Navarro dos Santos
+	EBM Prof. Oscar Unbehaun
+	Ciências
+	10
+	Ves
+
+	231930
+	Raquel Welinski de Abreu
+	EBM Prof.ª Alice Thiele
+	Ciências
+	10
+	Mat
+
+	231930
+	Raquel Welinski de Abreu
+	EBM Prof.ª Alice Thiele
+	Ciências
+	10
+	Ves
+
+	231891
+	Angela Aparecida Poyer
+	EBM Prof.ª Hella Altenburg
+	Ciências
+	10
+	Mat
+
+	231390
+	Camila da Costa Goncalves
+	EBM Prof.ª Nemésia Margarida
+	Ciências
+	10
+	Ves
+
+	231863
+	Jaqueline Fumis
+	EBM Visconde de Taunay
+	Ciências
+	20
+	Mat
+
+	198714
+	Adelia Rosana Deschamps Kowacz
+	EBM Prof. Fernando Ostermann
+	Coordenação
+	40
+	Mat/Ves
+
+	179299
+	Alessandra Helena Wiederkehr
+	EBM General Lúcio Esteves
+	Coordenação
+	40
+	Mat/Ves
+
+	231914
+	Ana Paula de Jesus Moita Santiago Zutter
+	EBM Prof. Oscar Unbehaun
+	Coordenação
+	40
+	Mat/Ves
+
+	204013
+	Anderson Alanderlan Macaneiro
+	CEI Johanna Conrad
+	Coordenação
+	40
+	Mat/Ves
+
+	231136
+	Andrea Gomes de Lima Machado
+	CEI Dr. Arão Rebello
+	Coordenação
+	40
+	Mat/Ves
+
+	231852
+	Andreia Alexandra Ristow Siebert
+	CEI Maike Andressen Deeke
+	Coordenação
+	40
+	Mat/Ves
+
+	230729
+	Andriele Cristine Scharf Konrad
+	CEI Carlos Rohweder
+	Coordenação
+	40
+	Mat/Ves
+
+	231226
+	Bruna da Silva Freitas Isensee
+	CEI Emma Tribess
+	Coordenação
+	40
+	Mat/Ves
+
+	230008
+	Cassia Heluise Koehler
+	EBM Prof.ª Alice Thiele
+	Coordenação
+	40
+	Mat/Ves
+
+	231211
+	Cyntia Fabiana Laube
+	EBM Visconde de Taunay
+	Coordenação
+	40
+	Mat/Ves
+
+	188565
+	Dulcemar Figueiredo dos Santos
+	CEI Maria Salete Strauch
+	Coordenação
+	40
+	Mat/Ves
+
+	228698
+	Elisa Marqueti
+	EBM Lauro Muller
+	Coordenação
+	40
+	Mat/Ves
+
+	231360
+	Elisangela de Melo Monteiro Mesquita
+	EBM Leoberto Leal
+	Coordenação
+	40
+	Mat/Ves
+
+	231869
+	Elizabeth Aparecida da Silva
+	EBM Prof. João J. Fronza
+	Coordenação
+	40
+	Mat/Ves
+
+	231562
+	Franciane Franca Rodrigues de Almeida
+	CEI Thiago Anzini
+	Coordenação
+	40
+	Mat/Ves
+
+	225487
+	Jandira Franca dos Passos
+	EBM Prof.ª Zulma S. da Silva
+	Coordenação
+	40
+	Mat/Ves
+
+	231908
+	Jessica Leticia Erhardt Prado
+	CEI Prof. Anselmo A Hillesheim
+	Coordenação
+	40
+	Mat/Ves
+
+	231851
+	Jose Eduardo da Silva
+	CEI Herondina Helena da Silva
+	Coordenação
+	40
+	Mat/Ves
+
+	197807
+	Kelly Cristina Nardelli Vieira
+	EBM Prof. Oscar Unbehaun
+	Coordenação
+	40
+	Mat/Ves
+
+	229626
+	Lenice Ramos
+	CEI Daniel Bressanini
+	Coordenação
+	40
+	Mat/Ves
+
+	231909
+	Lisandra Pereira Cadore
+	CEI Marita Deeke Sasse
+	Coordenação
+	40
+	Mat/Ves
+
+	220752
+	Lucimar de Almeida de Melo
+	EBM Conselheiro Mafra
+	Coordenação
+	40
+	Mat/Ves
+
+	231913
+	Marili Ogliari
+	EBM Quintino Bocaiuva
+	Coordenação
+	40
+	Mat/Ves
+
+	191930
+	Marisa Venzke
+	CEI Dr. Wilson Gomes Santiago
+	Coordenação
+	40
+	Mat/Ves
+
+	231348
+	Mere Teresinha de Souza
+	EBM Conselheiro Mafra
+	Coordenação
+	40
+	Mat/Ves
+
+	198684
+	Mislaine Aparecida Trainotti
+	CEI Cilly Jensen
+	Coordenação
+	40
+	Mat/Ves
+
+	231874
+	Noeli Muller Brugnago
+	CEI Alwin Knaesel
+	Coordenação
+	40
+	Mat/Ves
+
+	231096
+	Renata Vianna Brizolara
+	CEI Anilda Batista
+	Coordenação
+	40
+	Mat/Ves
+
+	230574
+	Rosangela Gorges
+	CEI Max Scheidmantel
+	Coordenação
+	40
+	Mat/Ves
+
+	231832
+	Roseli Oliveira do Prado
+	EBM General Lúcio Esteves
+	Coordenação
+	40
+	Mat/Ves
+
+	220531
+	Shirlei Fabiana Reinhold Junkes
+	EBM Prof. Rodolfo Hollenweger
+	Coordenação
+	40
+	Mat/Ves
+
+	178993
+	Silvia Valeria Silveira de Magalhaes Martins
+	CEI Pedro Krauss
+	Coordenação
+	40
+	Mat/Ves
+
+	220426
+	Simone Janice Bretzke Probst
+	EBM Machado de Assis
+	Coordenação
+	40
+	Mat/Ves
+
+	230022
+	Suelen Regina Nunes
+	CEI Irmgard Zoschke
+	Coordenação
+	40
+	Mat/Ves
+
+	222739
+	Tais Emanuelle Dalfovo Lucindo
+	EBM Gustavo Richard
+	Coordenação
+	40
+	Mat/Ves
+
+	230029
+	Tatiana Lourdes de Souza
+	CEI Erica Braun
+	Coordenação
+	40
+	Mat/Ves
+
+	229549
+	Katia Vargas Soares
+	EBM Vidal Ramos
+	Educação Especial
+	40
+	Mat/Ves
+
+	231888
+	Adilo Vavassori Junior
+	EBM Prof. Rodolfo Hollenweger
+	Educação Física
+	20
+	Mat
+
+	231958
+	Adriana Egert Rosa
+	EBM Prof. Oscar Unbehaun
+	Educação Física
+	20
+	Mat
+
+	231865
+	Aline Brick
+	EBM Wilhelm Theodor Schurmann
+	Educação Física
+	20
+	Mat
+
+	228664
+	Amanda de Oliveira Gomes
+	EBM Prof.ª Hella Altenburg
+	Educação Física
+	20
+	Mat
+
+	228664
+	Amanda de Oliveira Gomes
+	EBM Prof.ª Hella Altenburg
+	Educação Física
+	20
+	Ves
+
+	185000
+	Anesia Clarice Gebien Schmitt
+	EBM Prof.ª Adelaide Starke
+	Educação Física
+	20
+	Mat
+
+	185000
+	Anesia Clarice Gebien Schmitt
+	EBM Prof.ª Adelaide Starke
+	Educação Física
+	20
+	Ves
+
+	191558
+	Angelita Marcia Westphal
+	EBM Prof.ª Alice Thiele
+	Educação Física
+	20
+	Mat
+
+	231889
+	Betragner de Oliveira Pires
+	EBM Leoberto Leal
+	Educação Física
+	20
+	Ves
+
+	231902
+	Cesar Conceicao Rodrigues
+	EBM Conselheiro Mafra
+	Educação Física
+	20
+	Ves
+
+	231924
+	Daiana Manerich
+	EBM General Lúcio Esteves
+	Educação Física
+	20
+	Mat
+
+	231996
+	Emanuella Grah De Souza
+	EBM Pastor Faulhaber
+	Educação Física
+	20
+	Mat
+
+	231885
+	Gabriela Bastos Goncalves
+	EBM Felipe Schimidt
+	Educação Física
+	20
+	Mat
+
+	231912
+	Gean Patrick Feldhaus
+	EBM Conselheiro Mafra
+	Educação Física
+	20
+	Ves
+
+	108880
+	Gercy De Almeida Camargo Filho
+	EBM Machado de Assis
+	Educação Física
+	20
+	Mat
+
+	155560
+	Gilmar dos Santos
+	EBM Machado de Assis
+	Educação Física
+	20
+	Mat
+
+	155560
+	Gilmar dos Santos
+	EBM Machado de Assis
+	Educação Física
+	20
+	Ves
+
+	231882
+	Giovana da Silveira
+	EBM Visconde de Taunay
+	Educação Física
+	20
+	Ves
+
+	211206
+	Gracielle Fernanda da Costa Teixeira
+	EBM Pedro II
+	Educação Física
+	20
+	Mat
+
+	231932
+	Jessica Cardoso Leandro
+	EBM Quintino Bocaiúva
+	Educação Física
+	20
+	Ves
+
+	211303
+	Joseane Junkes
+	EIM Cap. Euclides de Castro
+	Educação Física
+	10
+	Mat
+
+	211303
+	Joseane Junkes
+	EIM Cap. Euclides de Castro
+	Educação Física
+	10
+	Ves
+
+	231926
+	Luis Carlos Hellmann
+	EBM Tiradentes e Prof.ª Julia S.
+	Educação Física
+	20
+	Ves
+
+	231927
+	Maria Aparecida Gomes Guimaraes
+	EBM Machado de Assis
+	Educação Física
+	20
+	Ves
+
+	231907
+	Marlei Fischer
+	EBM Conselheiro Mafra
+	Educação Física
+	20
+	Mat
+
+	231853
+	Mauricio Pfiffer
+	EBM Francisco Lanser
+	Educação Física
+	20
+	Mat
+
+	231884
+	Priscila Alexandre
+	EBM General Lúcio Esteves
+	Educação Física
+	20
+	Ves
+
+	231967
+	Rafael Mayer de Melo
+	EBM Wilhelm Theodor Schurmann
+	Educação Física
+	20
+	Ves
+
+	189189
+	Ricardo De Matos Pereira
+	EBM Quintino Bocaiúva
+	Educação Física
+	10
+	Ves
+
+	143049
+	Rita de Cassia Barcellos
+	EBM Alberto Stein
+	Educação Física
+	20
+	Mat
+
+	143049
+	Rita de Cassia Barcellos
+	EBM Alberto Stein
+	Educação Física
+	20
+	Ves
+
+	231933
+	Saulo Candido
+	EBM Tiradentes e Prof.ª Julia S.
+	Educação Física
+	10
+	Mat
+
+	231933
+	Saulo Candido
+	EBM Tiradentes e Prof.ª Julia S.
+	Educação Física
+	10
+	Ves
+
+	231935
+	Valdecir Tancon Junior
+	EBM Leoberto Leal
+	Educação Física
+	20
+	Ves
+
+	112801
+	Vera Lucia Bucco de Liz
+	EBM Gustavo Richard
+	Educação Física
+	10
+	Mat
+
+	231180
+	Wilson Cleber Pereira
+	EBM Leoberto Leal
+	Educação Física
+	20
+	Mat
+
+	231123
+	Adenilma da Conceicao Costa
+	CEI Manoela Reinert
+	Educação Infantil
+	40
+	Mat/Ves
+
+	231147
+	Adriana Gavazzoni
+	CEI Prof. João Bertoldo Petry
+	Educação Infantil
+	40
+	Mat/Ves
+
+	229351
+	Alexandra da Silva
+	CEI Carlos Rohweder
+	Educação Infantil
+	40
+	Mat/Ves
+
+	193054
+	Ana Patricia da Cruz
+	CEI Erica Braun
+	Educação Infantil
+	40
+	Mat/Ves
+
+	231270
+	Ana Paula Steinbach dos Santos
+	CEI Prof.ª Andreia da Silva
+	Educação Infantil
+	40
+	Mat/Ves
+
+	187801
+	Andrea Mara Teodoro
+	CEI Frei Odorico Durieux
+	Educação Infantil
+	40
+	Mat/Ves
+
+	231340
+	Andreia Fermino Fernandes
+	CEI Manoel da Luz Rampelotti
+	Educação Infantil
+	40
+	Mat/Ves
+
+	231279
+	Angelica Alexandre
+	EBM Hella Altenburg/Adelia Cardoso
+	Educação Infantil
+	40
+	Mat/Ves
+
+	229465
+	Carina Paz Ottesbach
+	CEI Heinrich Reif
+	Educação Infantil
+	40
+	Mat/Ves
+
+	204781
+	Cintia Livia Girardi Huber
+	CEI Dr. Wilson Gomes Santiago
+	Educação Infantil
+	40
+	Mat/Ves
+
+	205117
+	Claudiane Rogeria Zardo Machado
+	CEI Robert Rudolph Barth
+	Educação Infantil
+	40
+	Mat/Ves
+
+	230021
+	Daiana Janning
+	CEI Johanna Conrad
+	Educação Infantil
+	40
+	Mat/Ves
+
+	230023
+	Daiane Cristina da Silva
+	CEI Wally Serena Brandes
+	Educação Infantil
+	40
+	Mat/Ves
+
+	230026
+	Daniela Erica Imme
+	CEI Hilca Piazera Schnaider
+	Educação Infantil
+	40
+	Mat/Ves
+
+	231213
+	Debora Kammer Hadlich
+	CEI Prof. João Bertoldo Petry
+	Educação Infantil
+	40
+	Mat/Ves
+
+	230104
+	Enilir Ferrera
+	CEI Prof.ª Marlise S. Theiss
+	Educação Infantil
+	40
+	Mat/Ves
+
+	210129
+	Fabiana Goncalves Brueckheimer
+	CEI Herondina Helena da Silva
+	Educação Infantil
+	40
+	Mat/Ves
+
+	197599
+	Fabiana Haverroth da Silva
+	CEI Walter Rosemann
+	Educação Infantil
+	40
+	Mat/Ves
+
+	231326
+	Franciele Caroline Petri
+	CEI Frei Silvério Weber
+	Educação Infantil
+	40
+	Mat/Ves
+
+	231217
+	Franciele Ferreira
+	CEI Prof. Emiliano Stolff
+	Educação Infantil
+	40
+	Mat/Ves
+
+	230822
+	Giselle Oberziner
+	CEI Prof.ª Tereza Amélia Augsburger
+	Educação Infantil
+	40
+	Mat/Ves
+
+	230759
+	Gizeli Carvalho de Oliveira
+	CEI Anilda Batista Schmitt
+	Educação Infantil
+	40
+	Mat/Ves
+
+	231141
+	Isis Julie Rauber Grotmann
+	CEI Herondina Helena da Silva
+	Educação Infantil
+	40
+	Mat/Ves
+
+	229498
+	Jaqueline da Rocha
+	CEI Anilda Batista Schmitt
+	Educação Infantil
+	40
+	Mat/Ves
+
+	170399
+	Jerusa Zimmermann Rinco
+	CEI Daniel Bressanini
+	Educação Infantil
+	40
+	Mat/Ves
+
+	230727
+	Josiane Christiane Bucher de Oliveira
+	CEI Emma Tribess
+	Educação Infantil
+	40
+	Mat/Ves
+
+	229396
+	Josiane da Silva
+	CEI Prof. Paulo Freire
+	Educação Infantil
+	40
+	Mat/Ves
+
+	230046
+	Joslaine Martins
+	CEI Irmã Maria Christa Prüllage
+	Educação Infantil
+	40
+	Mat/Ves
+
+	198773
+	Juliana Giacomossi
+	CEI Olga Brehmer
+	Educação Infantil
+	40
+	Mat/Ves
+
+	224901
+	Karine de Paula Vieira
+	CEI Erica Braun
+	Educação Infantil
+	40
+	Mat/Ves
+
+	224910
+	Katherine Aparecida Barreto Hadlich
+	CEI Max Scheidmantel
+	Educação Infantil
+	40
+	Mat/Ves
+
+	231336
+	Kati Michelle Reiter Guski
+	CEI Jose Dickmann
+	Educação Infantil
+	40
+	Mat/Ves
+
+	229277
+	Laurita Prochnow da Silva
+	CEI Walter Rosemann
+	Educação Infantil
+	40
+	Mat/Ves
+
+	229401
+	Luana Cavilha
+	CEI Prof.ª Evelina E. Eichstaedt
+	Educação Infantil
+	40
+	Mat/Ves
+
+	192635
+	Madalena da Cruz Hansen
+	CEI Prof.ª Tereza Amélia Augsburger
+	Educação Infantil
+	40
+	Mat/Ves
+
+	231229
+	Magda Poli Ramos Jung
+	CEI Nazaré
+	Educação Infantil
+	40
+	Mat/Ves
+
+	231341
+	Marcia Fabiane da Silva Jodar
+	CEI Manoel da Luz Rampelotti
+	Educação Infantil
+	40
+	Mat/Ves
+
+	230083
+	Maria Dos Anjos de Souza Lima Zancanella
+	CEI Oswaldo Burger
+	Educação Infantil
+	40
+	Mat/Ves
+
+	229801
+	Maria Ivanete Brick Foppa
+	CEI Thiago Anzini
+	Educação Infantil
+	40
+	Mat/Ves
+
+	225290
+	Marileia Alexandra Knoth Pitz
+	CEI Walter Rosemann
+	Educação Infantil
+	40
+	Mat/Ves
+
+	229410
+	Marilene Alves
+	CEI Prof.ª Teresa Raquel S. De Araújo
+	Educação Infantil
+	40
+	Mat/Ves
+
+	230049
+	Marilze Raquel Schmitt
+	CEI Nazaré
+	Educação Infantil
+	40
+	Mat/Ves
+
+	200646
+	Marineide de Souza Lima Zonta
+	CEI Olga Brehmer
+	Educação Infantil
+	40
+	Mat/Ves
+
+	224944
+	Marines Pazinatto
+	CEI Manoel da Luz Rampelotti
+	Educação Infantil
+	40
+	Mat/Ves
+
+	229437
+	Neiva Perucci Garcia
+	CEI Cilly Jensen
+	Educação Infantil
+	40
+	Mat/Ves
+
+	229284
+	Pamela Adriana Paolin
+	CEI Anilda Batista Schmitt
+	Educação Infantil
+	40
+	Mat/Ves
+
+	231145
+	Paola Cadore
+	CEI Manoel da Luz Rampelotti
+	Educação Infantil
+	40
+	Mat/Ves
+
+	228533
+	Regiani Carla Hoffmann Rosa
+	CEI Erica Braun
+	Educação Infantil
+	40
+	Mat/Ves
+
+	205087
+	Rita de Cassia da Silva Becker
+	CEI Max Scheidmantel
+	Educação Infantil
+	40
+	Mat/Ves
+
+	175064
+	Roberta Sachtleben
+	CEI Augusto Koester
+	Educação Infantil
+	40
+	Mat/Ves
+
+	231478
+	Rosenilda Souza dos Santos
+	CEI Erica Braun
+	Educação Infantil
+	40
+	Mat/Ves
+
+	228527
+	Rosilene Correa Alves
+	CEI Anilda Batista Schmitt
+	Educação Infantil
+	40
+	Mat/Ves
+
+	211893
+	Sandra De Fatima Alves Xavier
+	CEI Frieda Zadrozny
+	Educação Infantil
+	40
+	Mat/Ves
+
+	229504
+	Sandra Michele Trapp Fischer
+	CEI Nazaré
+	Educação Infantil
+	40
+	Mat/Ves
+
+	192686
+	Sandra Regina dos Santos
+	CEI Prof.ª Evelina E. Eichstaedt
+	Educação Infantil
+	40
+	Mat/Ves
+
+	230109
+	Sandra Ribeiro Bairros Petri
+	CEI Prof.ª Andreia da Silva
+	Educação Infantil
+	40
+	Mat/Ves
+
+	229241
+	Silvia Raquel Nogueira Calixto
+	CEI Erica Braun
+	Educação Infantil
+	40
+	Mat/Ves
+
+	231181
+	Simone Cristiane Froehlich de Pra
+	CEI Nazaré
+	Educação Infantil
+	40
+	Mat/Ves
+
+	231239
+	Sueine Thayse Schulte Moreton
+	CEI Prof. João Bertoldo Petry
+	Educação Infantil
+	40
+	Mat/Ves
+
+	230752
+	Taysa Margareth Forte Silva
+	CEI João Gervaz Neto
+	Educação Infantil
+	40
+	Mat/Ves
+
+	229412
+	Thayse Regina Fuck Schmitt
+	CEI Irmã Maria Christa Prüllage
+	Educação Infantil
+	40
+	Mat/Ves
+
+	231260
+	Valeria Schultz de Souza
+	CEI Anilda Batista Schmitt
+	Educação Infantil
+	40
+	Mat/Ves
+
+	229307
+	Ana Paula Preis
+	EBM Anita Garibaldi
+	Educação Infantil
+	20
+	Ves
+
+	229335
+	Cili Sandri
+	EBM Wilhelm Theodor Schurmann
+	Educação Infantil
+	20
+	Mat
+
+	229335
+	Cili Sandri
+	EBM Wilhelm Theodor Schurmann
+	Educação Infantil
+	20
+	Ves
+
+	218723
+	Filomena Nazareth Pereira
+	EM Alwino Dorow
+	Educação Infantil
+	20
+	Mat
+
+	230133
+	Juliana Aparecida de Mello
+	EBM Prof.ª Alice Thiele
+	Educação Infantil
+	20
+	Mat
+
+	230133
+	Juliana Aparecida de Mello
+	EBM Prof.ª Alice Thiele
+	Educação Infantil
+	20
+	Ves
+
+	229397
+	Keite Ap Pasold dos Santos
+	EBM Francisco Lanser
+	Educação Infantil
+	20
+	Mat
+
+	229397
+	Keite Ap Pasold dos Santos
+	EBM Wilhelm Theodor Schurmann
+	Educação Infantil
+	20
+	Ves
+
+	229317
+	Marcia Bento Uller
+	EBM Gustavo Richard
+	Educação Infantil
+	20
+	Mat
+
+	229477
+	Shirlei Aparecida da Silva
+	EBM Pedro I
+	Educação Infantil
+	20
+	Ves
+
+	144673
+	Shirlei Fagundes Conti
+	EBM Paulina Wagner
+	Educação Infantil
+	20
+	Mat
+
+	144673
+	Shirlei Fagundes Conti
+	EBM Paulina Wagner
+	Educação Infantil
+	20
+	Ves
+
+	228661
+	Alessandra Morais Cavalheiro
+	EBM Prof.ª Alice Thiele
+	Geografia
+	10
+	Mat
+
+	228661
+	Alessandra Morais Cavalheiro
+	EBM Vidal Ramos
+	Geografia
+	10
+	Ves
+
+	225584
+	Anderson Rodrigues dos Santos
+	EBM Conselheiro Mafra
+	Geografia
+	10
+	Ves
+
+	231972
+	Jesse Vicente
+	EBM Conselheiro Mafra
+	Geografia
+	10
+	Mat
+
+	231972
+	Jesse Vicente
+	EBM Henrique Alfarth
+	Geografia
+	10
+	Ves
+
+	231973
+	Roberto Basei
+	EBM Henrique Alfarth
+	Geografia
+	10
+	Mat
+
+	231973
+	Roberto Basei
+	EBM Pedro II
+	Geografia
+	10
+	Ves
+
+	231954
+	Valdemir Prust
+	EBM Machado de Assis
+	Geografia
+	10
+	Mat
+
+	231954
+	Valdemir Prust
+	EBM Machado de Assis
+	Geografia
+	10
+	Ves
+
+	231377
+	Christian David Machado
+	EBM Wilhelm Theodor Schurmann
+	História
+	10
+	Mat
+
+	231835
+	Edinan Cardoso Dourado
+	EBM Alberto Stein
+	História
+	10
+	Ves
+
+	231835
+	Edinan Cardoso Dourado
+	EBM Henrique Alfarth
+	História
+	10
+	Mat
+
+	231356
+	Henrique Luiz Voltolini
+	EBM Prof.ª Alice Thiele
+	História
+	10
+	Ves
+
+	228637
+	Priscilla De Sousa Pereira dos Santos
+	EBM Olga Rutzen
+	História
+	10
+	Ves
+
+	230200
+	Silvana Montibeller Burg
+	EBM Prof.ª Norma D. Huber
+	História
+	10
+	Mat
+
+	231968
+	Viviane Bewiahn
+	EBM Almirante Tamandaré
+	História
+	10
+	Mat
+
+	231968
+	Viviane Bewiahn
+	EBM Prof.ª Alice Thiele
+	História
+	10
+	Mat
+
+	231845
+	Andressa Regiane Gesser
+	EBM Lore Sita Bollmann
+	Inglês
+	10
+	Ves
+
+	231845
+	Andressa Regiane Gesser
+	EBM Pedro I
+	Inglês
+	10
+	Mat
+
+	231878
+	Antonio Carlos Bambino Filho
+	EBM Lauro Muller
+	Inglês
+	10
+	Mat
+
+	231878
+	Antonio Carlos Bambino Filho
+	EBM Lauro Muller
+	Inglês
+	10
+	Ves
+
+	231966
+	Caio Gustavo Pereira
+	EBM Henrique Alfarth
+	Inglês
+	10
+	Mat
+
+	231966
+	Caio Gustavo Pereira
+	EBM Henrique Alfarth
+	Inglês
+	10
+	Ves
+
+	201170
+	Claudia Pereira Maueler
+	EBM Machado de Assis
+	Inglês
+	10
+	Mat
+
+	231965
+	Cristiane Moeller
+	EBM General Lúcio Esteves
+	Inglês
+	10
+	Ves
+
+	231965
+	Cristiane Moeller
+	EBM Prof. Oscar Unbehaun
+	Inglês
+	10
+	Mat
+
+	231854
+	Ecilda Weiss
+	EBM Prof.ª Zulma S. da Silva
+	Inglês
+	10
+	Mat
+
+	231854
+	Ecilda Weiss
+	EBM Prof.ª Zulma S. da Silva
+	Inglês
+	10
+	Ves
+
+	231761
+	Elisangela Alves da Silva Rodriguez
+	EBM Pastor Faulhaber
+	Inglês
+	10
+	Mat
+
+	231761
+	Elisangela Alves da Silva Rodriguez
+	EBM Prof.ª Norma D. Huber
+	Inglês
+	10
+	Mat
+
+	231992
+	Lais Behring
+	EBM Prof.ª Adelaide Starke
+	Inglês
+	10
+	Mat
+
+	231992
+	Lais Behring
+	EBM Prof.ª Adelaide Starke
+	Inglês
+	10
+	Ves
+
+	231875
+	Aleff Russi
+	EBM Visconde de Taunay
+	Matemática
+	20
+	Mat
+
+	231915
+	Cleiton Luiz de Sá
+	EBM Vidal Ramos
+	Matemática
+	10
+	Mat
+
+	231915
+	Cleiton Luiz de Sá
+	EBM Wilhelm T. Schurmann
+	Matemática
+	10
+	Mat
+
+	219177
+	Graziela Rosana da Costa Wruck
+	EBM Prof.ª Adelaide Starke
+	Matemática
+	10
+	Mat
+
+	184071
+	Jeanete Cristine Paul
+	EBM Anita Garibaldi
+	Matemática
+	20
+	Ves
+
+	231918
+	Juliana Mezadri Russi
+	EBM Duque de Caxias
+	Matemática
+	20
+	Ves
+
+	221490
+	Juliano Eli
+	EBM Felipe Schmidt
+	Matemática
+	10
+	Ves
+
+	231879
+	Luciane Aparecida Amancio Damasio
+	EBM Duque de Caxias
+	Matemática
+	10
+	Mat
+
+	231879
+	Luciane Aparecida Amancio Damasio
+	EBM Duque de Caxias
+	Matemática
+	10
+	Mat
+
+	231833
+	Nayara Bianchi Stupp
+	EBM Conselheiro Mafra
+	Matemática
+	20
+	Mat
+
+	231916
+	Graziela Ortaca Zirr
+	EBM Vidal Ramos
+	Português
+	20
+	Mat
+
+	233824
+	Jorge Alfenus dos Santos
+	EBM Quintino Bocaiuva
+	Português
+	20
+	Ves
+
+	231925
+	Luana Cassini Cunha Goncalves
+	EBM Pastor Faulhaber
+	Português
+	20
+	Mat
+
+	221511
+	Tatiane Morbach da Cunha
+	EBM Prof. Oscar Unbehaun
+	Português
+	10
+	Mat
+
+	231834
+	Thayse Adriana Seide
+	EBM Profª. Adelaide Starke
+	Português
+	20
+	Ves
+
+	231979
+	Vanessa Andreia da Silva Reckelberg
+	EBM Tiradentes e Prof.ª Julia S.
+	Português
+	20
+	Mat
+
+	228585
+	Idelma Almansa Concari
+	EBM Vidal Ramos
+	AEE Surdez/Sala de Recursos
+	40
+	Mat/Ves
+
+
+
+
+
+
+3
+

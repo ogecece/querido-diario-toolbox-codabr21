@@ -1,0 +1,4127 @@
+ANEXO ÚNICO - DECRETO Nº 12.787, DE 20 DE AGOSTO DE 2020
+TABELA DE ATIVIDADES DE OCUPAÇÃO MEI COM CLASSIFICAÇÃO DE RISCO SANITARIO (PERMITIDAS COM RESTRIÇÃO E NÃO PERMITIDAS)
+1. PCR – ATIVIDADE PERMITIDA COM RESTRIÇÃO
+2. N/A – NÃO SE APLICA
+3. INDEPENDENTE – O Termo “Independente” foi acrescentado em todas as ocupações do MEI através da Resolução 137 CGSN/2017. Entende-se como independente a ocupação exercida pelo titular do empreendimento desde que este não guarde, cumulativamente, com o contratante do serviço, relação de pessoalidade, subordinação e habitualidade.
+	CNAE
+	Ocupação MEI
+	Descrição da subclasse CNAE
+	Vigilância sanitária
+	Grau de Risco Sanitário
+	Restrições  sanitárias 
+	Observações 
+
+	0121-1/01
+	Viveirista Independente
+	Horticultura, exceto morango
+	N/A
+	N/A
+	
+	
+
+	0159-8/01
+	Apicultor Independente
+	Apicultura
+	N/A
+	N/A
+	
+	
+
+	0159-8/02
+	Criador de animais domésticos Independente
+	Criação de animais de estimação
+	N/A
+	N/A
+	
+	Atividade depende de autorização previa da SEMMAS/CEPREAD, conforme Art. 29 da Lei Complementar Municipal 1054/2016.
+
+	0161-0/02
+	Prestador(a) De Serviços de Poda, Sob Contrato de Empreitada, Independente
+	Serviço de Poda de Arvores Para Lavoura
+	N/A
+	N/A
+	
+	
+
+	0161-0/03
+	Prestador(a) De Serviços de Colheita, Sob Contrato de Empreitada, Independente
+	Serviço de Preparação de Terreno, Cultivo e Colheita
+	N/A
+	N/A
+	
+	
+
+	0161-0/03
+	Prestador(a) De Serviços de Preparação de Terrenos, Sob Contrato de Empreitada, Independente
+	Serviço de Preparação de Terreno, Cultivo e Colheita
+	N/A
+	N/A
+	
+	
+
+	0161-0/03
+	Prestador(a) De Serviços de Roçagem, Destocamento, Lavração, Gradagem e Sulcamento, Sob Contrato de Empreitada, Independente
+	Serviço de Preparação de Terreno, Cultivo e Colheita
+	N/A
+	N/A
+	
+	
+
+	0161-0/03
+	Prestador(a) De Serviços de Semeadura, Sob Contrato de Empreitada, Independente
+	Serviço de Preparação de Terreno, Cultivo e Colheita
+	N/A
+	N/A
+	
+	
+
+	0162-8/02
+	Tosquiador Independente
+	Serviço de tosquiamento de ovinos
+	N/A
+	N/A
+	
+	
+
+	0321-3/04
+	Criador De Peixes Ornamentais Em Água Salgada Independente
+	Criação De Peixes Ornamentais Em Água Salgada E Salobra
+	N/A
+	N/A
+	
+	
+
+	0322-1/04
+	Criador De Peixes Ornamentais Em Água doce Independente
+	Criação De Peixes Ornamentais Em Água doce
+	N/A
+	N/A
+	
+	
+
+	0892-4/01
+	Salineiro/extrator De Sal Marinho Independente
+	Extração de sal marinho
+	N/A
+	N/A
+	
+	
+
+	1013-9/01
+	Fabricante de produtos derivados de carne Independente
+	Fabricação de produtos de carne
+	N/A
+	N/A
+	(J)
+	Exigência: Registro de Estabelecimento no Ministério da Agricultura, Pecuária e Abastecimento (MAPA). Os empreendimentos produtores de carnes, pescados, ovos, mel, leites e seus derivados, bebidas alcoólicas e outros são objeto de fiscalização/inspeção dos órgãos da agricultura. 
+
+	1013-9/01
+	Salsicheiro/linguiceiro Independente
+	Fabricação de produtos de carne
+	N/A
+	N/A
+	(J)
+	Exigência: Registro de Estabelecimento no Ministério da Agricultura, Pecuária e Abastecimento (MAPA). Os empreendimentos produtores de carnes, pescados, ovos, mel, leites e seus derivados, bebidas alcoólicas e outros são objeto de fiscalização/inspeção dos órgãos da agricultura. 
+
+	1031-7/00
+
+	Compoteiro Independente
+
+	Fabricação de conservas de frutas
+	PCR - Exigência de Alvará Sanitário
+
+	BAIXO RISCO SANITARIO
+
+
+	(A); (B); (C)
+	
+
+	1031-7/00
+
+	Fabricante de conservas de frutas Independente
+	Fabricação de conservas de frutas
+	PCR - Exigência de Alvará Sanitário
+
+	BAIXO RISCO SANITARIO
+
+
+	(A); (B); (C)
+	
+
+	1031-7/00
+
+	Fabricante de polpa de frutas Independente
+	Fabricação de conservas de frutas
+	PCR - Exigência de Alvará Sanitário
+
+	BAIXO RISCO SANITARIO
+
+
+	(A); (B); (C)
+	
+
+	1031-7/00
+
+	Fabricante de amendoim e castanha de caju torrados e salgados Independente
+	Fabricação de conservas de frutas
+	PCR - Exigência de Alvará Sanitário
+
+	BAIXO RISCO SANITARIO
+
+
+	(A); (B); (C)
+	
+
+	1031-7/00
+
+	Beneficiador de castanha Independente
+	Fabricação de conservas de frutas
+	PCR - Exigência de Alvará Sanitário
+
+	BAIXO RISCO SANITARIO
+
+
+	(A); (B); (C)
+	
+
+	1032-5/99
+
+	Fabricante de conservas de legumes e outros vegetais Independente
+	Fabricação de conservas de legumes e outros vegetais, exceto palmito
+	PCR - Exigência de Alvará Sanitário
+
+	BAIXO RISCO SANITARIO
+
+
+	(A); (B); (C)
+	
+
+	1033-3/01
+
+	Fabricante de sucos concentrados de frutas, hortaliças e legumes Independente 
+
+	Fabricação de sucos concentrados de frutas, hortaliças e legumes
+
+	N/A
+	N/A
+	(J)
+	Exigência: Registro de Estabelecimento no Ministério da Agricultura, Pecuária e Abastecimento (MAPA). Os empreendimentos produtores de carnes, pescados, ovos, mel, leites e seus derivados, bebidas alcoólicas e outros são objeto de fiscalização/inspeção dos órgãos da agricultura. 
+
+	1033-3/02
+
+	Fabricante de sucos de frutas, hortaliças e legumes Independente 
+
+	Fabricação de sucos de frutas, hortaliças e legumes
+
+	N/A
+	N/A
+	(J)
+	Exigência: Registro de Estabelecimento no Ministério da Agricultura, Pecuária e Abastecimento (MAPA). Os empreendimentos produtores de carnes, pescados, ovos, mel, leites e seus derivados, bebidas alcoólicas e outros são objeto de fiscalização/inspeção dos órgãos da agricultura. 
+
+	1052-0/00
+	Fabricante de laticínios Independente
+	Fabricação de laticínios
+	N/A
+	N/A
+	(J)
+	Exigência: Registro de Estabelecimento no Ministério da Agricultura, Pecuária e Abastecimento (MAPA). Os empreendimentos produtores de carnes, pescados, ovos, mel, leites e seus derivados, bebidas alcoólicas e outros são objeto de fiscalização/inspeção dos órgãos da agricultura. 
+
+	1052-0/00
+	Queijeiro/ Manteigueiro Independente
+	Fabricação de laticínios
+	N/A
+	N/A
+	(J)
+	Exigência: Registro de Estabelecimento no Ministério da Agricultura, Pecuária e Abastecimento (MAPA). Os empreendimentos produtores de carnes, pescados, ovos, mel, leites e seus derivados, bebidas alcoólicas e outros são objeto de fiscalização/inspeção dos órgãos da agricultura. 
+
+	1061-9/02
+
+	Fabricante de produtos derivados do arroz Independente
+	Fabricação de produtos do arroz
+	PCR - Exigência de Alvará Sanitário
+
+	ALTO RISCO SANITARIO
+
+
+	(A); (B); (C)
+	
+
+	1063-5/00
+
+	Farinheiro de mandioca Independente
+	Fabricação de farinha de mandioca e derivados
+	PCR - Exigência de Alvará Sanitário
+
+	BAIXO RISCO SANITARIO
+
+
+	(A); (B); (C)
+	
+
+	1064-3/00
+
+	Farinheiro de milho Independente
+	Fabricação de farinha de milho e derivados, exceto óleos de milho
+	PCR - Exigência de Alvará Sanitário
+
+	BAIXO RISCO SANITARIO
+
+
+	(A); (B); (C)
+	
+
+	1065-1/01
+
+	Fabricante de amido e féculas de vegetais Independente
+	Fabricação de amidos e féculas de vegetais
+	PCR - Exigência de Alvará Sanitário
+
+	BAIXO RISCO SANITARIO
+
+
+	(A); (B); (C)
+	
+
+	1069-4/00
+
+	Moendeiro Independente
+	Moagem e fabricação de produtos de origem vegetal não especificados anteriormente
+	PCR - Exigência de Alvará Sanitário
+
+	BAIXO RISCO SANITARIO
+
+
+	(A); (B); (C)
+	
+
+	1071-6/00
+
+	Fabricante de açúcar mascavo Independente 
+	Fabricação de açúcar em bruto
+	PCR - Exigência de Alvará Sanitário
+
+	BAIXO RISCO SANITARIO
+
+
+	(A); (B); (C)
+	
+
+	1071-6/00
+
+	Fabricante de rapadura e melaço Independente
+	Fabricação de açúcar em bruto
+	PCR - Exigência de Alvará Sanitário
+
+	BAIXO RISCO SANITARIO
+
+
+	(A); (B); (C)
+	
+
+	1091-1/01
+	Fabricante de pão de queijo congelado Independente
+	Fabricação de produtos de panificação industrial
+	PCR - Exigência de Alvará Sanitário
+
+	ALTO RISCO SANITARIO
+
+
+	(A); (B); (C)
+	
+
+	1091-1/01
+	Padeiro Independente
+	Fabricação de produtos de panificação industrial
+	PCR - Exigência de Alvará Sanitário
+
+	ALTO RISCO SANITARIO
+
+
+	(A); (B); (C)
+	
+
+	1091-1/02
+	Confeiteiro Independente
+	Fabricação de produtos de padaria e confeitaria com predominância de produção própria
+	PCR - Exigência de Alvará Sanitário
+
+	ALTO RISCO SANITARIO
+
+
+	(A); (B); (C)
+	
+
+	1092-9/00
+
+	Bolacheiro /biscoiteiro Independente
+	Fabricação de biscoitos e bolachas
+	PCR - Exigência de Alvará Sanitário
+
+	BAIXO RISCO SANITARIO
+
+
+	(A); (B); (C)
+	
+
+	1093-7/01
+
+	Chocolateiro Independente
+	Fabricação de produtos derivados do cacau e de chocolates
+	PCR - Exigência de Alvará Sanitário
+
+	BAIXO RISCO SANITARIO
+
+
+	(A); (B); (C)
+	
+
+	1093-7/02
+
+	Fabricante de balas, confeitos e frutas cristalizadas Independente
+	Fabricação de frutas cristalizadas, balas e semelhantes
+	PCR - Exigência de Alvará Sanitário
+
+	BAIXO RISCO SANITARIO
+
+
+	(A); (B); (C)
+	
+
+	1094-5/00
+
+	Fabricante de massas alimentícias Independente
+	Fabricação de massas alimentícias
+	PCR - Exigência de Alvará Sanitário
+
+	BAIXO RISCO SANITARIO
+
+
+	(A); (B); (C)
+	
+
+	1095-3/00
+
+	Fabricante de especiarias Independente
+	Fabricação de especiarias, molhos, temperos e condimentos
+	NÃO PERMITIDO 
+	NÃO PERMITIDO 
+	NÃO PERMITIDO 
+	
+
+	1096-1/00
+
+	Fabricante de alimentos prontos congelados Independente
+	Fabricação de alimentos e pratos prontos
+	PCR - Exigência de Alvará Sanitário
+
+	BAIXO RISCO SANITARIO
+
+
+	(A); (B); (C)
+	
+
+	1099-6/01
+	Vinagreiro Independente
+	Fabricação de vinagres 
+	N/A
+	N/A
+	
+	
+
+	1099-6/04
+
+	Fabricante de gelo comum Independente
+	Fabricação de gelo comum
+	PCR - Exigência de Alvará Sanitário
+
+	ALTO RISCO SANITARIO
+
+
+	(A); (B); (C)
+	
+
+	1099-6/05
+
+	Fabricante de chá Independente
+	Fabricação de produtos para infusão (chá, mate, etc)
+	NÃO PERMITIDO 
+	NÃO PERMITIDO 
+	NÃO PERMITIDO 
+	
+
+	1099-6/99
+	Fabricante de geléia de mocotó  Independente
+	Fabricação de outros produtos alimentícios não especificados anteriormente
+	PCR - Exigência de Alvará Sanitário
+
+	ALTO RISCO SANITARIO
+
+
+	(A); (B); (C)
+	
+
+	1099-6/99
+	Fabricante de produtos de soja Independente
+	Fabricação de outros produtos alimentícios não especificados anteriormente
+	PCR - Exigência de Alvará Sanitário
+
+	ALTO RISCO SANITARIO
+
+
+	(A); (B); (C)
+	
+
+	1122-4/03
+
+	Fabricante de refrescos, xaropes e pós para refrescos, exceto refrescos de frutas Independente
+	Fabricação de refresco, xaropes e pós para refrescos, exceto refrescos de frutas
+	PCR - Exigência de Alvará Sanitário
+
+	ALTO RISCO SANITARIO
+
+
+	(A); (B); (C)
+	
+
+	1220-4/99
+	Fabricante de fumo e derivados do fumo Independente
+	Fabricação de outros produtos do fumo, exceto cigarros, cigarrilhas e charutos
+	N/A
+	N/A
+	
+	
+
+	1311-1/00
+	Fabricante de fios de algodão Independente 
+	Preparação e fiação de fibras de algodão
+	N/A
+	N/A
+	
+	
+
+	1312-0/00
+	Fabricante de fios de linho, rami, juta, seda e lã Independente
+	Preparação e fiação de fibras têxteis naturais, exceto algodão
+	N/A
+	N/A
+	
+	
+
+	1321-9/00
+	Tecelão de algodão  Independente
+	Tecelagem de fios de algodão 
+	N/A
+	N/A
+	
+	
+
+	1322-7/00
+	Tecelão Independente
+	Tecelagem de fios de fibras têxteis naturais, exceto algodão 
+	N/A
+	N/A
+	
+	
+
+	1340-5/01
+	Estampador de peças do vestuário Independente
+	Estamparia e texturização em fios, tecidos, artefatos têxteis e peças do vestuário
+	N/A
+	N/A
+	
+	
+
+	1340-5/99
+	Bordadeiro Independente
+	Outros Serviços De Acabamento Em Fios, Tecidos, Artefatos Têxteis E Peças Do Vestuário
+	N/A
+	N/A
+	
+	
+
+	1340-5/99
+	Customizador de roupas Independente
+	Outros Serviços De Acabamento Em Fios, Tecidos, Artefatos Têxteis E Peças Do Vestuário
+	N/A
+	N/A
+	
+	
+
+	1351-1/00
+	Fabricante de artefatos têxteis para uso doméstico Independente
+	Fabricação de artefatos têxteis para uso doméstico
+	N/A
+	N/A
+	
+	
+
+	1352-9/00
+	Tapeceiro Independente
+	Fabricação de artefatos de tapeçaria
+	N/A
+	N/A
+	
+	
+
+	1353-7/00
+	Redeiro Independente
+	Fabricação De Artefatos De Cordoaria
+	N/A
+	N/A
+	
+	
+
+	1359-6/00
+	Artesão Textil Independente
+	Fabricação de outros produtos têxteis não especificados 
+	N/A
+	N/A
+	
+	
+
+	1359-6/00
+	Rendeiro Independente
+	Fabricação de outros produtos têxteis não especificados anteriormente
+	N/A
+	N/A
+	
+	
+
+	1411-8/01
+	Fabricante de roupas íntimas Independente
+	Confecção de roupas íntimas
+	N/A
+	N/A
+	
+	
+
+	1411-8/02
+	Fabricante de partes de roupas íntimas – facção Independente
+	Facção de roupas íntimas
+	N/A
+	N/A
+	
+	
+
+	1412-6/01
+	Costureiro De Roupas, Exceto Sob Medida Independente
+	Confecção De Peças De Vestuário, Exceto Roupas Íntimas E As Confeccionadas Sob Medida
+	N/A
+	N/A
+	
+	
+
+	1412-6/02
+	Alfaiate Independente
+	Confecção, Sob Medida, De Peças Do Vestuário, Exceto Roupas Íntimas
+	N/A
+	N/A
+	
+	
+
+	1412-6/02
+	Costureiro De Roupas, Sob Medida Independente
+	Confecção, Sob Medida, De Peças Do Vestuário, Exceto Roupas Íntimas
+	N/A
+	N/A
+	
+	
+
+	1412-6/03
+	Fabricante de partes de peças do vestuário – facção Independente
+	Facção de peças do vestuário, exceto roupas intimas
+	N/A
+	N/A
+	
+	
+
+	1413-4/03
+	Fabricante de partes de roupas profissionais – facção Independente
+	Facção de roupas profissionais
+	N/A
+	N/A
+	
+	
+
+	1414-2/00
+	Boneleiro (Fabricante De Bonés) Independente
+	Fabricação de acessórios do vestuario, exceto para segurança e proteção
+	N/A
+	N/A
+	
+	
+
+	1414-2/00
+	Chapeleiro Independente
+	Fabricação de acessórios do vestuario, exceto para segurança e proteção
+	N/A
+	N/A
+	
+	
+
+	1414-2/00
+	Fabricante de cintos/cinteiro Independente
+	Fabricação de acessórios do vestuario, exceto para segurança e proteção
+	N/A
+	N/A
+	
+	
+
+	1421-5/00
+	Fabricante de meias Independente
+	Fabricação de meias
+	N/A
+	N/A
+	
+	
+
+	1422-3/00
+	Crocheteiro Independente
+
+	Fabricação De Artigos Do Vestuário, Produzidos Em Malharias E Tricotagens, Exceto Meias
+	N/A
+	N/A
+	
+	
+
+	1422-3/00
+	Tricoteiro Independente
+	Fabricação De Artigos Do Vestuário, Produzidos Em Malharias E Tricotagens, Exceto Meias
+	N/A
+	N/A
+	
+	
+
+	1510-6/00
+
+	Curtidor De Couro Independente
+	Curtimento E Outras Preparações De Couro
+	N/A
+	N/A
+	
+	
+
+	1521-1/00
+	Fabricante de bolsas/bolseiro Independente
+	Fabricação de artigos para viagem, bolsas e semelhantes de qualquer material
+	N/A
+	N/A
+	
+	
+
+	1521-1/00
+	Fabricante de mochilas e carteiras Independente
+	Fabricação de artigos para viagem, bolsas e semelhantes de qualquer material
+	N/A
+	N/A
+	
+	
+
+	1521-1/00
+	Fabricante de malas Independente
+	Fabricação de artigos para viagem, bolsas e semelhantes de qualquer material
+	N/A
+	N/A
+	
+	
+
+	1529-7/00
+	Artesão em Couro Independente
+	Fabricação De Artefatos De Couro Não Especificados Anteriormente
+	N/A
+	N/A
+	
+	
+
+	1529-7/00
+	Seleiro Independente
+	Fabricação De Artefatos De Couro Não Especificados Anteriormente
+	N/A
+	N/A
+	
+	
+
+	1531-9/01
+	Fabricante de calçados de couro Independente
+	Fabricação de calçados de couro
+	N/A
+	N/A
+	
+	
+
+	1531-9/02
+	Acabador de Calçados Independente
+	Acabamento De Calçados De Couro Sob Contrato
+	N/A
+	N/A
+	
+	
+
+	1539-4/00
+	Fabricante de calçados de borracha, madeira e tecidos e fibra Independente
+	Fabricação de calçados de materiais não especificados anteriormente
+	N/A
+	N/A
+	
+	
+
+	1540-8/00
+	Fabricante de partes para calçados Independente
+	Fabricação de partes para calçados, de qualquer material
+	N/A
+	N/A
+	
+	
+
+	1622-6/99
+	Carpinteiro Independente
+	Fabricação de outros artigos de carpintaria para construção
+	N/A
+	N/A
+	
+	
+
+	1623-4/00
+	Fabricante de embalagens de madeira Independente
+	Fabricação de artefatos de tanoaria e de embalagens de madeira
+	N/A
+	N/A
+	
+	
+
+	1623-4/00
+	Tanoeiro Independente
+	Fabricação de artefatos de tanoaria e de embalagens de madeira
+	N/A
+	N/A
+	
+	
+
+	1629-3/01
+	Artesão em madeira Independente
+	Fabricação de artefatos diversos de madeira, exceto moveis 
+	N/A
+	N/A
+	
+	
+
+	1629-3/02
+	Artesão em cortiça, bambu e afins Independente
+	Fabricação de artefatos diversos de cortiça, bambu, palha, vime e outros materiais trançados, exceto moveis 
+	N/A
+	N/A
+	
+	
+
+	1721-4/00
+	Fabricante de papel Independente
+	Fabricação de papel
+	N/A
+	N/A
+	
+	PROIBIDA a fabricação de papel Grau Cirúrgico
+
+	1731-1/00
+
+	Fabricante de embalagens de papel Independente
+	Fabricação de embalagens de papel 
+
+	N/A
+	N/A
+	
+	PROIBIDA a fabricação de embalagens para alimentos e bebidas
+
+	1732-0/00
+
+	Fabricante de embalagens de cartolina e papel cartão Independente
+	Fabricação de embalagens de cartolina e papel cartão 
+	N/A
+	N/A
+	
+	
+
+	1742-7/99
+	Fabricante de guardanapos e copos de papel Independente
+	 Fabricação De Produtos De Papel Para Uso Doméstico E Higiênico-sanitário, Não Especificados Anteriormente
+	N/A
+	N/A
+	
+	 PROIBIDA  a fabricação de caixas de perfurocortantes
+
+	1749-4/00
+	Artesão em papel Independente
+	Fabricação de produtos de pastas celulósicas, papel, cartolina, papel cartão e papel ondulado, não especificados anteriormente
+	N/A
+	N/A
+	
+	
+
+	1813-0/99
+	Serigrafista Independente
+	Impressão De Material Para Outros Usos
+	N/A
+	N/A
+	
+	
+
+	1813-0/01
+	Serigrafista Publicitário Independente
+	Impressão De Material Para Uso Publicitário
+	N/A
+	N/A
+	
+	
+
+	1821-1/00
+	Clicherista Independente
+	Serviços de pré-impressão
+	N/A
+	N/A
+	
+	
+
+	1822-9/01
+	Encadernador/plastificador Independente
+	Serviços De Encadernação E Plastificação
+	N/A
+	N/A
+	
+	
+
+	2219-6/00
+	Artesão em borracha Independente
+	Fabricação de artefatos de borracha não especificados arteriormente
+	N/A
+	N/A
+	
+	
+
+	2229-3/99
+	Artesão em plástico Independente
+	Fabricação de artefatos de material plástico para outros usos não especificados anteriormente 
+	N/A
+	N/A
+	
+	
+
+	2319-2/00
+	Artesão em vidro Independente
+	Fabricação de artigos de vidro 
+	N/A
+	N/A
+	
+	
+
+	2330-3/99
+	Artesão em cimento  Independente
+	Fabricação de outros artefatos e produtos de concreto, cimento, fibrocimento, gesso e materiais semelhantes
+	N/A
+	N/A
+	
+	
+
+	2330-3/99
+	Artesão em gesso Independente
+	Fabricação de outros artefatos e produtos de concreto, cimento, fibrocimento, gesso e materiais semelhantes
+	N/A
+	N/A
+	
+	
+
+	2342-7/02
+	Oleiro Independente
+	Fabricação De Artefatos De Cerâmica E Barro Cozido Para Uso Na Construção, Exceto Azulejos E Pisos
+	N/A
+	N/A
+	
+	
+
+	2349-4/99
+	Artesão em cerâmica Independente
+	Fabricação de produtos cerâmicos não-refratários não especificados anteriormente
+	N/A
+	N/A
+	
+	
+
+	2391-5/01
+	Britador Independente
+	Britamento de pedras, exceto associado à extração
+	N/A
+	N/A
+	
+	
+
+	2391-5/03
+	Artesão em Mármore, Granito, Ardósia e outras pedras Independente
+	Aparelhamento de placas e execução de trabalhos em Mármore, Granito, Ardósia e outras pedras
+	N/A
+	N/A
+	
+	
+
+	2399-1/01
+	Artesão em louças, vidro e cristal Independente
+	Decoração, lapidação, gravação, vitrificação e outros trabalhos em cerâmica, louca, vidro e cristal
+	N/A
+	N/A
+	
+	
+
+	2512-8/00
+	Fabricante de esquadrias metálicas sob encomenda ou não Independente
+	Fabricação de esquadrias de metal
+	N/A
+	N/A
+	
+	
+
+	2532-2/01
+	Fabricante de artefatos de funilaria Independente
+	Produção de artefatos estampados de metal
+	N/A
+	N/A
+	
+	
+
+	2532-2/01
+	Fabricante de artefatos estampados de metal, sob encomenda ou não Independente
+	Produção de artefatos estampados de metal
+	N/A
+	N/A
+	
+	
+
+	2539-1/01
+	Soldador/Brasador Independente
+	Serviços De Usinagem, Tornearia E Solda
+	N/A
+	N/A
+	
+	
+
+	2539-1/01
+	Torneiro Mecânico Independente
+	Serviços De Usinagem, Tornearia E Solda
+	N/A
+	N/A
+	
+	
+
+	2539-0/02
+	Galvanizador Independente
+	Serviços de tratamento e revestimento em metais
+	N/A
+	N/A
+	
+	
+
+	2541-1/00
+	Fabricante de artigos de cutelaria Independente
+	Fabricação de artigos de cutelaria
+	N/A
+	N/A
+	
+	
+
+	2542-0/00
+	Serralheiro, Exceto para Esquadrias, Sob Encomenda Ou Não, Independente
+	Fabricação De Artigos De Serralheria, Exceto Esquadrias
+	N/A
+	N/A
+	
+	
+
+	2543-8/00
+	Ferramenteiro, Independente
+	Fabricação de ferramentas
+	N/A
+	N/A
+	
+	
+
+	2543-8/00
+	Ferreiro/forjador, Independente
+	Fabricação de ferramentas
+	N/A
+	N/A
+	
+	
+
+	2599-3/01
+	Armador De Ferragens Na Construção Civil, Independente
+	Serviços De Confecção De Armações Metálicas Para A Construção
+	N/A
+	N/A
+	
+	
+
+	2599-3/99
+	Artesão Em Metais, Independente
+	Fabricação De Outros Produtos De Metal Não Especificados Anteriormente
+	N/A
+	N/A
+	
+	
+
+	2740-6/02
+	Fabricante de luminárias e outros equipamentos de iluminação, Independente
+	Fabricação de luminárias e outros equipamentos de iluminação
+	N/A
+	N/A
+	
+	
+
+	2950-6/00
+	Retificador De Motores Para Veículos Automotores
+	Recondicionamento E Recuperação De Motores Para Veículos Automotores
+	N/A
+	N/A
+	
+	
+
+	3101-2/00
+	Marceneiro Sob Encomenda ou não, Independente
+	Fabricação De Móveis Com Predominância De madeiral
+	N/A
+	N/A
+	
+	
+
+	3102-1/00
+	Moveleiro De Móveis Metálicos, Independente
+	Fabricação De Móveis Com Predominância De Metal
+	N/A
+	N/A
+	
+	
+
+	3103-9/00
+	Moveleiro Independente
+	Fabricação De Móveis De Outros Materiais, Exceto Madeira E Metal
+	N/A
+	N/A
+	
+	
+
+	3104-7/00
+	Colchoeiro Independente
+	Fabricação de colchões 
+	N/A
+	N/A
+	
+	
+
+	3211-6/01
+	Lapidador Independente
+	Lapidação de gemas
+	N/A
+	N/A
+	
+	
+
+	3211-6/02
+	Artesão Em Metais Preciosos Independente
+	Fabricação De Artefatos De Joalheria E Ourivesaria
+	N/A
+	N/A
+	
+	
+
+	3211-6/03
+	Cunhador De Moedas E Medalhas Independente
+	Cunhagem De Moedas E Medalhas
+	N/A
+	N/A
+	
+	
+
+	3212-4/00
+	Artesão de bijuterias Independente
+	Fabricação de bijuterias e artefatos semelhantes
+	N/A
+	N/A
+	
+	
+
+	3220-5/00
+	Fabricante de instrumentos musicais Independente
+	Fabricação de instrumentos musicais, peças e acessórios 
+	N/A
+	N/A
+	
+	
+
+	3230-2/00
+	Fabricante de artefatos para pesca e esporte Independente
+	Fabricação de artefatos para pesca e esporte
+	N/A
+	N/A
+	
+	
+
+	3240-0/99
+	Fabricante de jogos recreativos Independente
+	Fabricação de outros brinquedos e jogos recreativos não especificados anteriormente 
+	N/A
+	N/A
+	
+	
+
+	3240-0/99
+	Fabricante de brinquedos não eletrônicos Independente
+	Fabricação de outros brinquedos e jogos recreativos não especificados anteriormente
+	N/A
+	N/A
+	
+	
+
+	3291-4/00
+
+	Vassoureiro Independente
+	Fabricação de escovas, pinceis e vassouras 
+
+	N/A
+	N/A
+	
+	PROIBIDA a fabricação de escova dental para uso humano
+
+
+	3292-2/02
+
+	Fabricante de produtos de tecido não tecido para uso odonto-médico-hospitalar Independente
+	Fabricação de equipamentos e acessórios para segurança pessoal e profissional 
+	NÃO PERMITIDO 
+	NÃO PERMITIDO 
+	NÃO PERMITIDO 
+	
+
+	3299-0/01
+	Fabricante de guarda chuvas e similares Independente
+	Fabricação de guarda-chuvas e similares 
+	N/A
+	N/A
+	
+	
+
+	3299-0/02
+	Confeccionador de Carimbos Independente 
+	Fabricação De Canetas, Lápis E Outros Artigos Para Escritório
+	N/A
+	N/A
+	
+	
+
+	3299-0/03
+	Fabricante de letreiros, placas e painéis não luminosos, sob encomenda ou não Independente
+	Fabricante de letras, letreiros e placas de qualquer material, exceto luminosos
+	N/A
+	N/A
+	
+	
+
+	3299-0/04
+	Fabricante de painéis e letreiros luminosos Independente
+	Fabricação de aviamentos para costura 
+	N/A
+	N/A
+	
+	
+
+	3299-0/05
+	Fabricante de aviamentos para costura Independente
+	Fabricação de painéis e letreiros luminosos
+	N/A
+	N/A
+	
+	
+
+	3299-0/06
+	Fabricante de velas, inclusive decorativas Independente
+	Fabricação de velas, inclusive decorativas
+	N/A
+	N/A
+	
+	
+
+	3299-0/99
+	Artesão em Outros Materiais Independente
+	Fabricação De Produtos Diversos Não Especificados Anteriormente
+	N/A
+	N/A
+	
+	
+
+	3311-2/00
+	Reparador de Tanques, Reservatórios Metálicos E Caldeiras, Exceto Para Veículos, Independente
+	Manutenção E Reparação De Tanques, Reservatórios Metálicos E Caldeiras, Exceto Para Veículos
+	N/A
+	N/A
+	
+	
+
+	3313-9/01
+	Reparador de Geradores, Transformadores E Motores Elétricos, Independente
+	Manutenção E Reparação De Geradores, Transformadores E Motores Elétricos
+	N/A
+	N/A
+	
+	
+
+	3313-9/02
+	Reparado de Baterias E Acumuladores Elétricos, Exceto Para Veículos, Independente
+	Manutenção E Reparação De Baterias E Acumuladores Elétricos, Exceto Para Veículos
+	N/A
+	N/A
+	
+	
+
+	3313-9/99
+	Reparador De Aparelhos E Equipamentos Para Distribuição E Controle De Energia Elétrica, Independente
+	Manutenção E Reparação De Máquinas, Aparelhos E Materiais Elétricos Não Especificados Anteriormente
+	N/A
+	N/A
+	
+	
+
+	3314-7/01
+	Reparador de Máquinas Motrizes Não-elétricas Lanchonetes, Independente
+	Manutenção E Reparação De Máquinas Motrizes Não-elétricas Equipamentos Para Uso Geral Não Especificados Anteriormente
+	N/A
+	N/A
+	
+	
+
+	3314-7/02
+	Reparador de Equipamentos Hidráulicos E Pneumáticos, Exceto Válvulas, Independente
+	Manutenção E Reparação De Equipamentos Hidráulicos E Pneumáticos, Exceto Válvulas
+	N/A
+	N/A
+	
+	
+
+	3314-7/06
+	Reparador de Máquinas, Aparelhos e Equipamentos Para Instalações Térmicas, Independente
+	Manutenção E Reparação de Máquinas, Aparelhos e Equipamentos Para Instalações Térmicas
+	N/A
+	N/A
+	
+	
+
+	3314-7/07
+	Reparador de Máquinas E Aparelhos De Refrigeração E Ventilação Para Uso Industrial E Comercial, Independente
+	Manutenção E Reparação De Máquinas E Aparelhos De Refrigeração E Ventilação Para Uso Industrial E Comercial
+	N/A
+	N/A
+	
+	
+
+	3314-7/09
+	Reparador de Máquinas De Escrever, Calcular E De Outros Equipamentos Não-eletrônicos Para Escritório, Independente
+	Manutenção E Reparação De Máquinas De Escrever, Calcular E De Outros Equipamentos Não Eletrônicos Para Escritório
+	N/A
+	N/A
+	
+	
+
+	3314-7/10
+	Reparador de Balanças Industriais E Comerciais, Independente
+	Manutenção E Reparação De Máquinas E Equipamentos Para Uso Geral Não Especificados Anteriormente
+	N/A
+	N/A
+	
+	
+
+	3314-7/10
+	Reparador de Extintor De Incêndio, Independente
+	Manutenção E Reparação De Máquinas E Equipamentos Para Uso Geral Não Especificados Anteriormente
+	N/A
+	N/A
+	
+	
+
+	3314-7/10
+	Reparador de Filtros Industriais, Independente
+	Manutenção E Reparação De Máquinas E Equipamentos Para Uso Geral Não Especificados Anteriormente
+	N/A
+	N/A
+	
+	
+
+	3314-7/10
+	Reparador de Máquinas Para Bares e Lanchonetes, Independente
+	Manutenção E Reparação De Máquinas E Equipamentos Para Uso Geral Não Especificados Anteriormente
+	N/A
+	N/A
+	
+	
+
+	3314-7/11
+	Reparador de Máquinas E Equipamentos Para Agricultura E Pecuária, Independente
+	Manutenção E Reparação De Máquinas E Equipamentos Para Agricultura E Pecuária
+	N/A
+	N/A
+	
+	
+
+	3314-7/12
+	Reparador de Tratores Agrícolas, Independente
+	Manutenção E Reparação De Tratores Agrícolas
+	N/A
+	N/A
+	
+	
+
+	3314-7/19
+	Reparador De Máquinas E Equipamentos Para As Indústrias De Alimentos, Bebidas E Fumo, Independente
+	Manutenção E Reparação De Máquinas E Equipamentos Para As Indústrias De Alimentos, Bebidas E Fumo
+	N/A
+	N/A
+	
+	
+
+	3314-7/20
+	Reparador de Máquinas E Equipamentos Para A Indústria Têxtil, Do Vestuário, Do Couro E Calçados, Independente
+	Manutenção E Reparação De Máquinas E Equipamentos Para A Indústria Têxtil, Do Vestuário, Do Couro E Calçado
+	N/A
+	N/A
+	
+	
+
+	3314-7/99
+	Reparador de Máquinas E Aparelhos Para A Indústria Gráfica, Independente
+	Manutenção E Reparação De Outras Máquinas E Equipamentos Para Usos Industriais Não Especificados Anteriormente
+	N/A
+	N/A
+	
+	
+
+	3314-7/99
+	Reparador de Máquinas E Equipamentos Para A Indústria Da Madeira, Independente
+	Manutenção E Reparação De Outras Máquinas E Equipamentos Para Usos Industriais Não Especificados Anteriormente
+	N/A
+	N/A
+	
+	
+
+	3314-7/99
+	Reparador de Máquinas Para Encadernação Equipamentos Para Instalações Térmicas, Independente
+	Manutenção E Reparação De Outras Máquinas E Equipamentos Para Usos Industriais Não Especificados Anteriormente
+	N/A
+	N/A
+	
+	
+
+	3317-1/02
+	Reparador De Embarcações Para Esporte E Lazer, Independente
+	Manutenção E Reparação De Embarcações Para Esporte E Lazer
+	N/A
+	N/A
+	
+	
+
+	3319-8/00
+	Reparador de Cordas, Velames e Lonas, Independente
+	Manutenção E Reparação De Equipamentos E Produtos Não Especificados Anteriormente
+	N/A
+	N/A
+	
+	PROIBIDA a atividade de reparador de equipamentos médico-hospitalares não eletrônicos 
+
+	3319-8/00
+	Reparador de Equipamentos Médico- Hospitalares Não-eletrônicos, Independente
+	Manutenção E Reparação De Equipamentos E Produtos Não Especificados Anteriormente
+	EXIGENCIA DE ALVARA SANITARIO 
+	BAIXO RISCO SANITARIO 
+	
+	
+
+	3319-8/00
+	Reparador de Tonéis, Barris E Paletes De Madeira, Independente
+	Manutenção E Reparação De Equipamentos E Produtos Não Especificados Anteriormente
+	N/A
+	N/A
+	
+	PROIBIDA a atividade de reparador de equipamentos médico-hospitalares não eletrônicos 
+
+	3319-8/00
+	Reparador de Veículos De Tração Animal, Independente
+	Manutenção E Reparação De Equipamentos E Produtos Não Especificados Anteriormente
+	N/A
+	N/A
+	
+	PROIBIDA a atividade de reparador de equipamentos médico-hospitalares não eletrônicos 
+
+	3319-8/00
+	Restaurador de Instrumentos Musicais Históricos, Independente
+	Manutenção E Reparação De Equipamentos E Produtos Não Especificados Anteriormente
+	N/A
+	N/A
+	
+	PROIBIDA a atividade de reparador de equipamentos médico-hospitalares não eletrônicos 
+
+	3319-8/00
+	Restaurador De Jogos Acionados Por Moedas, Independente
+	Manutenção E Reparação De Equipamentos E Produtos Não Especificados Anteriormente
+	N/A
+	N/A
+	
+	PROIBIDA a atividade de reparador de equipamentos médico-hospitalares não eletrônicos 
+
+	3321-0/00
+	Instalador de Máquinas E Equipamentos Industriais, Independente
+	Instalação De Máquinas E Equipamentos Industriais
+	N/A
+	N/A
+	
+	
+
+	3329-5/01
+	Montador de Móveis, Independente
+	Serviços De Montagem De Móveis De Qualquer Material
+	N/A
+	N/A
+	
+	
+
+	3600-6/02
+	Distribuidor de água potável em caminhão pipa, Independente
+	Distribuição de água por caminhões 
+	PCR - Exigência de Alvará Sanitário
+
+	ALTO RISCO SANITARIO
+
+
+	(H) 
+	
+
+	3702-9/00
+	Fosseiro (limpador de fossa), Independente
+	Atividades relacionadas a esgoto, exceto a gestão de redes
+	PCR - Exigência de Alvará Sanitário
+
+	BAIXO RISCO SANITARIO
+
+	
+	
+
+	3811-4/00
+	Carroceiro- coleta de entulhos e resíduos, Independente
+	Coleta de resíduos não-perigosos
+	NÃO PERMITIDO 
+	NÃO PERMITIDO 
+	NÃO PERMITIDO 
+	
+
+	3811-4/00
+	Coletor de resíduos não perigosos, Independente
+	Coleta de resíduos não-perigosos
+	N/A
+	N/A
+	
+	
+
+	3831-9/01
+	Reciclador De Sucatas De Alumínio, Independente
+	Recuperação De Sucatas De Alumínio
+	N/A
+	N/A
+	
+	
+
+	3831-9/99
+	Reciclador de Materiais Metálicos, Exceto Alumínio, Independente
+	Recuperação De Materiais Metálicos, Exceto Alumínio
+	N/A
+	N/A
+	
+	
+
+	3832-7/00
+	Reciclador de Materiais Plásticos, Independente
+	Recuperação De Materiais Plásticos
+	N/A
+	N/A
+	
+	
+
+	3839-4/99
+	Reciclador de Borracha, Madeira, Papel E Vidro,  Independente
+	Recuperação De Materiais Não Especificados Anteriormente
+	N/A
+	N/A
+	
+	
+
+	4321-5/00
+	Eletricista em Residências E Estabelecimentos Comerciais, Independente
+	Instalação E Manutenção Elétrica
+	N/A
+	N/A
+	
+	
+
+	4321-5/00
+	Instalador de Antenas De Tv, Independente
+	Instalação E Manutenção Elétrica
+	N/A
+	N/A
+	
+	
+
+	4321-5/00
+	Instalador de Equipamentos de Segurança Domiciliar E Empresarial, Sem Prestação De Serviços De Vigilância E Segurança, Independente
+	Instalação E Manutenção Elétrica
+	N/A
+	N/A
+	
+	
+
+	4322-3/01
+	Bombeiro Hidráulico Independente
+	Instalações Hidráulicas, Sanitárias E De Gás
+	N/A
+	N/A
+	
+	
+
+	4322-3/01
+	Encanador Independente
+	Instalações Hidráulicas, Sanitárias E De Gás
+	N/A
+	N/A
+	
+	
+
+	4322-3/02
+	Instalador E Reparador De Sistemas Centrais De Ar Condicionado, De Ventilação E Refrigeração, Independente
+	Instalação E Manutenção De Sistemas Centrais De Ar Condicionado, De Ventilação E Refrigeração
+	N/A
+	N/A
+	
+	
+
+	4322-3/03
+	Instalador De Sistema De Prevenção Contra Incêndio, Independente
+	Instalações De Sistema De Prevenção Contra Incêndio
+	N/A
+	N/A
+	
+	
+
+	4329-1/01
+	Instalador de Painéis Publicitários, Independente
+	Instalação De Painéis Publicitários
+	N/A
+	N/A
+	
+	
+
+	4329-1/02
+	Instalador de Equipamentos Para Orientação À Navegação Marítima, Fluvial E Lacustre, Independente
+	Instalação De Equipamentos Para Orientação À Navegação Marítima, Fluvial E Lacustre
+	N/A
+	N/A
+	
+	
+
+	4329-1/03
+	Instalador e Reparador De Elevadores, Escadas E Esteiras Rolantes, Independente
+	Instalação, Manutenção E Reparação De Elevadores, Escadas E Esteiras Rolantes
+	N/A
+	N/A
+	
+	
+
+	4329-1/04
+	Montador e Instalador De Sistemas E Equipamentos De Iluminação E Sinalização Em Vias Públicas, Portos E Aeroportos, Independente
+	Montagem E Instalação De Sistemas E Equipamentos De Iluminação E Sinalização Em Vias Públicas, Portos E Aeroportos
+	N/A
+	N/A
+	
+	
+
+	4329-1/05
+	Instalador de Isolantes Acústicos E De Vibração, Independente
+	Tratamentos Térmicos, Acústicos Ou De Vibração
+	N/A
+	N/A
+	
+	
+
+	4329-1/05
+	Instalador de Isolantes Térmicos, Independente
+	Tratamentos Térmicos, Acústicos Ou De Vibração
+	N/A
+	N/A
+	
+	
+
+	4330-4/02
+	Carpinteiro Instalador Independente
+	Instalação De Portas, Janelas, Tetos, Divisórias E Armários Embutidos De Qualquer Material
+	N/A
+	N/A
+	
+	
+
+	4330-4/03
+	Gesseiro Independente
+	Obras de acabamento em gesso e estuque
+	N/A
+	N/A
+	
+	
+
+	4330-4/04
+	Pintor De Parede Independente
+	Serviços De Pintura De Edifícios Em Geral
+	N/A
+	N/A
+	
+	
+
+	4330-4/05
+	Azulejista Independente
+	Aplicação De Revestimentos E De Resinas Em Interiores E Exteriores
+	N/A
+	N/A
+	
+	
+
+	4330-4/05
+	Calafetador Independente
+	Aplicação De Revestimentos E De Resinas Em Interiores E Exteriores
+	N/A
+	N/A
+	
+	
+
+	4330-4/05
+	Colocador De Revestimentos Independente
+	Aplicação De Revestimentos E De Resinas Em Interiores E Exteriores
+	N/A
+	N/A
+	
+	
+
+	4330-4/05
+	Sintequeiro Independente
+	Aplicação De Revestimentos E De Resinas Em Interiores E Exteriores
+	N/A
+	N/A
+	
+	
+
+	4330-4/05
+	Pastilheiro Independente
+	Aplicação De Revestimentos E De Resinas Em Interiores E Exteriores
+	N/A
+	N/A
+	
+	
+
+	4399-1/03
+	Pedreiro Independente
+	Obras De Alvenaria
+	N/A
+	N/A
+	
+	
+
+	4399-1/05
+	Poceiro/ Cisterneiro/ Cacimbeiro Independente
+	Perfuração E Construção De Poços De Água
+	N/A
+	N/A
+	
+	
+
+	4399-1/99
+	Calheiro Independente
+	Serviços Especializados Para Construção Não Especificados Anteriormente
+	N/A
+	N/A
+	
+	
+
+	4399-1/99
+	Cerqueiro Independente
+	Serviços Especializados Para Construção Não Especificados Anteriormente
+	N/A
+	N/A
+	
+	
+
+	4399-1/99
+	Telhador Independente
+	Serviços Especializados Para Construção Não Especificados Anteriormente
+	N/A
+	N/A
+	
+	
+
+	4520-0/01
+	Mecânico De Veículos Independente
+	Serviços De Manutenção E Reparação Mecânica De Veículos Automotores
+	N/A
+	N/A
+	
+	
+
+	4520-0/01
+	Vidraceiro De Automóveis Independente
+	Serviços De Manutenção E Reparação Mecânica De Veículos Automotores
+	N/A
+	N/A
+	
+	
+
+	4520-0/02
+	Funileiro/lanterneiro Independente
+	Serviços de lanternagem ou funilaria e pintura de veículos automotores
+	N/A
+	N/A
+	
+	
+
+	4520-0/02
+	Pintor De Automóveis Independente
+	Serviços de lanternagem ou funilaria e pintura de veículos automotores
+	N/A
+	N/A
+	
+	
+
+	4520-0/03
+	Eletricista De Automóveis Independente
+	Serviços De Manutenção E Reparação Elétrica De Veículos Automotores
+	N/A
+	N/A
+	
+	
+
+	4520-0/05
+	Lavador e polidor de carro Independente
+	Serviços de lavagem, lubrificação e polimento de veículos automotores
+	N/A
+	N/A
+	
+	
+
+	4520-0/06
+	Borracheiro Independente
+	Serviços De Borracharia Para Veículos Automotores
+	N/A
+	N/A
+	
+	
+
+	4520-0/07
+	Instalador E Reparador De Acessórios Automotivos Independente
+	Serviços De Instalação, Manutenção E Reparação De Acessórios Para Veículos Automotores
+	N/A
+	N/A
+	
+	
+
+	4520-0/08
+	Capoteiro Independente
+	Serviços De Capotaria
+	N/A
+	N/A
+	
+	
+
+	4530-7/03
+	Comerciante de peças e acessórios novos para veículos automotores, Independente
+	Comercio a varejo de peças e acessórios novos para veículos automotores
+	N/A
+	N/A
+	
+	
+
+	4530-7/04
+	Comerciante de peças e acessórios usados para veículos automotores, Independente
+	Comercio a varejo de peças e acessórios usados para veículos automotores
+	PCR - Exigência de Alvará Sanitário
+
+	ALTO RISCO – especificamente para ferro- velho
+
+
+	(F) 
+	
+
+	4530-7/05
+	Comerciante de pneumáticos e câmaras de ar, Independente
+	Comercio a varejo de pneumáticos e câmaras de ar
+	N/A
+	N/A
+	
+	
+
+	4541-2/06
+	Comerciante de peças e acessórios novos para motocicletas e motonetas, Independente
+	Comercio a varejo de peças e acessórios novos para motocicletas e motonetas
+	N/A
+	N/A
+	
+	
+
+	4541-2/07
+	Comerciante de peças e acessórios usados para motocicletas e motonetas, Independente
+	Comercio a varejo de peças e acessórios usados para motocicletas e motonetas
+	PCR - Exigência de Alvará Sanitário
+
+	ALTO RISCO – especificamente para ferro- velho
+
+
+	(F) 
+	
+
+	4543-9/00
+	Mecânico De Motocicletas E Motonetas, Independente
+	Manutenção E Reparação De Motocicletas E Motonetas
+	N/A
+	N/A
+	
+	
+
+	4712-1/00
+	Barraqueiro Independente
+	Comercio varejista de mercadorias em geral, com predominância de produtos alimentícios – minimercados, mercearias e armazéns 
+	PCR - Exigência de Alvará Sanitário
+
+	BAIXO RISCO SANITARIO
+
+
+	(B); (S); (E)
+
+
+
+	
+
+	4712-1/00
+	Merceeiro/vendeiro Independente
+	Comercio varejista de mercadorias em geral, com predominância de produtos alimentícios – minimercados, mercearias e armazéns 
+	PCR - Exigência de Alvará Sanitário
+
+	BAIXO RISCO SANITARIO
+
+
+	(B); (S); (E)
+
+
+
+	
+
+	4713-0/02
+	Comerciante de miudezas e quinquilharias Independente
+	Lojas de variedades, exceto lojas de departamentos ou magazines 
+	N/A
+	N/A
+	
+	
+
+	4721-1/02
+	Comerciante de produtos de panificação Independente
+	Padaria e confeitaria com predominância de revenda
+	PCR - Exigência de Alvará Sanitário
+
+	BAIXO RISCO SANITARIO
+
+
+	(B); (S) 
+	
+
+	4721-1/03
+	Comerciante de laticínios Independente 
+	Comercio varejista de laticínios e frios
+	PCR - Exigência de Alvará Sanitário
+	BAIXO RISCO SANITARIO
+
+	(B); (S) 
+	
+
+	4721-1/04
+	Baleiro Independente
+	Comercio varejista de doces, balas, bombons e semelhantes
+	PCR - Exigência de Alvará Sanitário
+	BAIXO RISCO SANITARIO
+
+	(B); (S) 
+	
+
+	4722-9/01
+	Açougueiro Independente
+	Comercio varejista de carnes - açougues
+	NÃO PERMITIDO
+
+
+	NÃO PERMITIDO
+
+
+	
+	
+
+	4722-9/02
+	Peixeiro Independente
+	Peixaria 
+	NÃO PERMITIDO
+
+
+	NÃO PERMITIDO
+
+
+	
+	
+
+	4723-7/00
+	Comerciante de bebidas Independente
+	Comercio varejista de bebidas
+	PCR - Exigência de Alvará Sanitário
+
+	BAIXO RISCO SANITARIO
+	(B); (S)
+
+
+	
+
+	4724-5/00
+	Quitandeiro Independente
+	Comercio varejista de hortifrutigranjeiros
+	PCR - Exigência de Alvará Sanitário
+
+	BAIXO RISCO SANITARIO
+	(B); (D)
+
+
+	
+
+	4724-5/00
+	Verdureiro Independente
+	Comercio varejista de hortifrutigranjeiros
+	PCR - Exigência de Alvará Sanitário
+	BAIXO RISCO SANITARIO
+	(B); (D) 
+
+	
+
+	4724-5/00
+	Abatedor de aves com comercialização do produto Independente
+	Comercio varejista de hortifrutigranjeiros
+	PCR - Exigência de Alvará Sanitário
+
+	BAIXO RISCO SANITARIO
+
+	(B); 
+
+	
+
+	4724-5/00
+	Vendedor de aves vivas, coelhos e outros pequenos animais para alimentação Independente
+	Comercio varejista de hortifrutigranjeiros
+	PCR - Exigência de Alvará Sanitário
+
+	BAIXO RISCO SANITARIO
+
+
+	(B); 
+
+	
+
+	4729-6/01
+	Comerciante de produtos de tabacaria Independente
+	Tabacaria
+	PCR - Exigência de Alvará Sanitário
+
+	BAIXO RISCO SANITARIO
+
+
+	(B); 
+
+	
+
+	4729-6/99
+	Comerciante de cestas de café da manhã Independente
+	Comercio varejista de produtos alimentícios em geral ou especializado em produtos alimentícios não especificados anteriormente 
+	PCR - Exigência de Alvará Sanitário
+
+	BAIXO RISCO SANITARIO
+
+
+	(B); (E); (S) 
+	
+
+	4729-6/99
+	Comerciante de produtos naturais Independente
+	Comercio varejista de produtos alimentícios em geral ou especializado em produtos alimentícios não especificados anteriormente 
+	PCR - Exigência de Alvará Sanitário
+
+	BAIXO RISCO SANITARIO
+
+
+	(B); (E); (S) 
+	
+
+	4729-6/99
+	Sorveteiro Independente
+	Comercio varejista de produtos alimentícios em geral ou especializado em produtos alimentícios não especificados anteriormente 
+	PCR - Exigência de Alvará Sanitário
+
+	BAIXO RISCO SANITARIO
+
+
+	(B); (E); (S) 
+	
+
+	4732-6/00
+	Comerciante de lubrificantes Independente 
+	Comercio varejista de lubrificantes
+	N/A
+	N/A
+	
+	
+
+	4741-5/00
+	Comerciante de tintas e materiais para pintura Independente
+	Comercio varejista de tintas e materiais para pintura
+	N/A
+	N/A
+	
+	
+
+	4742-3/00
+	Comerciante de material elétrico Independente
+	Comercio varejista de material elétrico 
+	N/A
+	N/A
+	
+	
+
+	4743-1/00
+	Comerciante de vidros Independente
+	Comércio varejista de vidros
+	N/A
+	N/A
+	
+	
+
+	4744-0/01
+	Comerciante de ferragens e ferramentas, Independente
+	Comercio varejista de ferragens e ferramentas
+	N/A
+	N/A
+	
+	
+
+	4744-0/02
+	Comerciante de madeira e artefatos, Independente
+	Comercio varejista de madeira e artefatos
+	N/A
+	N/A
+	
+	
+
+	4744-0/03
+	Comerciante de materiais hidráulicos, Independente
+	Comercio varejista de materiais hidráulicos 
+	N/A
+	N/A
+	
+	
+
+	4744-0/04
+	Comerciante de cal, areia, pedra britada, tijolos e telhas, Independente
+	Comercio varejista de cal, areia, pedra britada, tijolos e telhas
+	N/A
+	N/A
+	
+	
+
+	4744-0/99
+	Comerciante de materiais de construção em geral, Independente
+	Comercio varejista de materiais de construção em geral
+	N/A
+	N/A
+	
+	
+
+	4751-2/01
+	Comerciante De Equipamentos E Suprimentos De Informática, Independente
+	Comércio Varejista Especializado De Equipamentos E Suprimentos De Informática
+	N/A
+	N/A
+	
+	
+
+	4751-2/02
+	Recarregador De Cartuchos Para Equipamentos De Informática, Independente
+	Recarga De Cartuchos Para Equipamentos De Informática
+	N/A
+	N/A
+	
+	
+
+	4752-1/00
+	Comerciante de equipamentos de telefonia e comunicação, Independente
+	Comercio varejista especializado de equipamentos de telefonia e comunicação
+	N/A
+	N/A
+	
+	
+
+	4753-9/00
+	Comerciante de eletrodomésticos e equipamentos de áudio e vídeo, Independente
+	Comercio varejista especializado de eletrodomésticos e equipamentos de áudio e vídeo 
+	N/A
+	N/A
+	
+	
+
+	4754-7/01
+	Comerciante de moveis Independente
+	Comercio varejista de moveis 
+	N/A
+	N/A
+	
+	
+
+	4754-7/02
+	Comercio de artigos de colchoaria Independente
+	Comercio varejista de artigos de colchoaria
+	N/A
+	N/A
+	
+	
+
+	4754-7/03
+	Comercio de artigos de iluminação Independente
+	Comercio varejista de artigos de iluminação
+	N/A
+	N/A
+	
+	
+
+	4755-5/01
+	Comerciante de tecidos Independente
+	Comercio varejista de tecidos
+	N/A
+	N/A
+	
+	
+
+	4755-5/02
+	Comerciante de artigos de armarinho Independente
+	Comercio varejista de artigos de armarinho
+	N/A
+	N/A
+	
+	
+
+	4755-5/03
+	Comerciante de artigos de cama, mesa e banho Independente
+	Comercio varejista de artigos de cama, mesa e banho
+	N/A
+	N/A
+	
+	
+
+	4756-3/00
+	Comerciante de instrumentos musicais e acessórios, Independente
+	Comercio especializado de instrumentos musicais e acessórios 
+	N/A
+	N/A
+	
+	
+
+	4757-1/00
+	Comerciante de peças e acessórios para aparelhos eletroeletrônicos para uso doméstico, Independente
+	Comercio varejista especializado de peças e acessórios para aparelhos eletroeletrônicos para uso doméstico, exceto informática e comunicação 
+	N/A
+	N/A
+	
+	
+
+	4759-8/01
+	Comerciante de Artigos De Tapeçaria, Cortinas E Persianas Independente
+	Comércio Varejista De Artigos De Tapeçaria, Cortinas E Persianas
+	N/A
+	N/A
+	
+	
+
+	4759-8/99
+	Comerciante De Artigos De Cutelaria Independente
+	Comércio Varejista De Outros Artigos De Uso Pessoal E Doméstico Não Especificados Anteriormente
+	N/A
+	N/A
+	
+	
+
+	4759-8/99
+	Comerciante de Artigos Para Habitação Independente
+	Comércio Varejista De Outros Artigos De Uso Pessoal E Doméstico Não Especificados Anteriormente
+	N/A
+	N/A
+	
+	
+
+	4759-8/99
+	Comerciante de Sistema De Segurança Residencial Independente
+	Comércio Varejista De Outros Artigos De Uso Pessoal E Doméstico Não Especificados Anteriormente
+	N/A
+	N/A
+	
+	
+
+	4759-8/99
+	Comerciante de Toldos E Papel de Parede Independente
+	Comércio Varejista De Outros Artigos De Uso Pessoal E Doméstico Não Especificados Anteriormente
+	N/A
+	N/A
+	
+	
+
+	4761-0/01
+	Livreiro Independente
+	Comercio varejista de livros
+	N/A
+	N/A
+	
+	
+
+	4761-0/02
+	Jornaleiro Independente
+	Comercio varejista de jornais e revistas
+	N/A
+	N/A
+	
+	
+
+	4761-0/03
+	Papeleiro Independente
+	Comércio Varejista De Artigos De Papelaria
+	N/A
+	N/A
+	
+	
+
+	4762-8/00
+	Comerciante de discos, Cds, Dvds, e fitas Independente
+	Comercio varejista de discos, Cds, Dvds, e fitas
+	N/A
+	N/A
+	
+	
+
+	4763-6/01
+	Comerciante de brinquedos e artigos recreativos Independente
+	Comercio varejista de brinquedos e artigos recreativos
+	N/A
+	N/A
+	
+	
+
+	4763-6/02
+	Comerciante de artigos esportivos Independente
+	Comercio varejista de artigos esportivos
+	N/A
+	N/A
+	
+	
+
+	4763-6/03
+	Comerciante de bicicletas e triciclos, peças e acessórios Independente
+	Comercio varejista de bicicletas e triciclos, peças e acessórios 
+	N/A
+	N/A
+	
+	
+
+	4763-6/04
+	Comerciante de artigos de caça, pesca e camping Independente
+	Comercio varejista de artigos de caça, pesca e camping
+	N/A
+	N/A
+	
+	
+
+	4772-5/00
+	Comerciante de cosméticos e artigos de perfumaria Independente
+	Comercio varejista de cosméticos, produtos de perfumaria e de higiene pessoal
+	SEDE - Exigência de Alvará Sanitário
+
+	BAIXO RISCO SANITARIO
+
+	(B); (R) 
+
+
+	EA – Atividade dispensada de Alvará Sanitário
+
+
+	4772-5/00
+	Comerciante de produtos de higiene pessoal, Independente
+	Comercio varejista de cosméticos, produtos de perfumaria e de higiene pessoal
+	SEDE - Exigência de Alvará Sanitário
+
+	BAIXO RISCO SANITARIO
+
+	(B); (R) 
+
+
+	EA – Atividade dispensada de Alvará Sanitário
+
+
+	4773-3/00
+	Comerciante de artigos médicos e ortopédicos Independente
+	Comercio varejista de artigos médicos e ortopédicos 
+	NÃO PERMITIDO 
+	NÃO PERMITIDO 
+	NÃO PERMITIDO 
+	
+
+	4774-1/00
+	Comerciante de artigos de óptica Independente
+	Comercio varejista de artigos de óptica
+	NÃO PERMITIDO 
+	NÃO PERMITIDO 
+	NÃO PERMITIDO 
+	
+
+	4781-4/00
+	Comerciante de artigos do vestuário e acessórios Independente
+	Comercio varejista de artigos do vestuário e acessórios 
+	N/A
+	N/A
+	
+	
+
+	4782-2/01
+	Comerciante de calçados Independente
+	Comercio varejista de calçados
+	N/A
+	N/A
+	
+	
+
+	4782-2/02
+	Comerciante de artigos de viagem Independente
+	Comercio varejista de artigos de viagem
+	N/A
+	N/A
+	
+	
+
+	4783-1/01
+	Comerciante de artigos de joalheria Independente
+	Comercio varejista de artigos de joalheira
+	N/A
+	N/A
+	
+	
+
+	4783-1/02
+	Comerciante de artigos de relojoaria Independente
+	Comercio varejista de artigos de relojoaria
+	N/A
+	N/A
+	
+	
+
+	4785-7/01
+	Antiquário Independente
+	Comércio Varejista De Antiguidades
+	N/A
+	N/A
+	
+	
+
+	4785-7/99
+	Comerciante De Artigos Usados Independente
+	Comércio Varejista De Outros Artigos Usados
+	N/A
+	N/A
+	
+	
+
+	4789-0/01
+	Comerciante de Suvenires, Bijuterias e Artesanatos Independente
+	Comércio Varejista De Suvenires, Bijuterias E Artesanatos
+	N/A
+	N/A
+	
+	
+
+	4789-0/02
+	Comerciante de Plantas, Flores Naturais, Vasos E Adubos Independente
+	Comércio Varejista De Plantas E Flores Naturais
+	N/A
+	N/A
+	
+	
+
+	4789-0/03
+	Comerciante de Objetos De Arte Independente
+	Comércio Varejista De Objetos De Arte
+	N/A
+	N/A
+	
+	
+
+	4789-0/04
+	Comerciante de artigos e alimentos para animais de estimação (pet shop) Independente
+	Comercio varejista de animais vivos e de artigos e alimentos para animais de estimação
+	NÃO PERMITIDO
+
+
+	NÃO PERMITIDO
+
+
+	(N) 
+
+	
+
+	4789-0/05
+	Comerciante de inseticidas e raticidas, Independente
+	Comercio varejista de produtos saneantes domissanitários
+	PCR - Exigência de Alvará Sanitário
+
+	BAIXO RISCO SANITARIO
+
+
+	(B); 
+
+	
+
+	4789-0/05
+	Comerciante de produtos para piscinas, Independente
+	Comercio varejista de produtos saneantes domissanitários
+	PCR - Exigência de Alvará Sanitário
+
+	BAIXO RISCO SANITARIO
+
+
+	(B); 
+
+	
+
+	4789-0/05
+	Comerciante de produtos de limpeza Independente
+	Comercio varejista de produtos saneantes domissanitários
+	PCR - Exigência de Alvará Sanitário
+
+	BAIXO RISCO SANITARIO
+
+
+	(B); 
+
+	
+
+	4789-0/07
+	Comerciante de Equipamentos Para Escritório Independente
+	Comércio Varejista De Equipamentos Para Escritório
+	N/A
+	N/A
+	
+	
+
+	4789-0/08
+	Comerciante de Artigos Fotográficos e Para Filmagem Independente
+	Comércio Varejista De Artigos Fotográficos E Para Filmagem
+	N/A
+	N/A
+	
+	
+
+	4789-0/99
+	Comerciante de artigos de bebe, Independente
+
+	Comercio varejista de outros produtos não especificados anteriormente 
+	SEDE - Exigência de Alvará Sanitário
+
+
+	BAIXO RISCO-Exclusivamente para produtos de higiene infantil
+	(B); 
+
+	EA – Atividade dispensada de Alvará Sanitário
+
+
+	4789-0/99
+	Comerciante de artigos erótico, Independente
+	Comercio varejista de outros produtos não especificados anteriormente 
+	SEDE - Exigência de Alvará Sanitário
+
+
+	BAIXO RISCO SANITARIO- Exclusivamente para artigos de sex shop
+	(B); 
+
+	EA – Atividade dispensada de Alvará Sanitário
+
+
+	4789-0/99
+	Comerciante De Artigos Funerários Independente
+	Comercio varejista de outros produtos não especificados anteriormente 
+	N/A
+	N/A
+	
+	
+
+	4789-0/99
+	Comerciante de Carvão E Lenha Independente
+	Comercio varejista de outros produtos não especificados anteriormente 
+	N/A
+	N/A
+	
+	
+
+	4789-0/99
+	Comerciante de Embalagens Independente
+	Comercio varejista de outros produtos não especificados anteriormente 
+	N/A
+	N/A
+	
+	
+
+	4789-0/99
+	Comerciante de Flores, Plantas E Frutas Artificiais Independente
+	Comercio varejista de outros produtos não especificados anteriormente  
+	N/A
+	N/A
+	
+	
+
+	4789-0/99
+	Comerciante de Molduras E Quadros Independente
+	Comercio varejista de outros produtos não especificados anteriormente  
+	N/A
+	N/A
+	
+	
+
+	4789-0/99
+	Comerciante de Perucas Independente
+	Comercio varejista de outros produtos não especificados anteriormente 
+	N/A
+	N/A
+	
+	
+
+	4789-0/99
+	Comerciante De Produtos Para Festas e NataL Independente
+	Comercio varejista de outros produtos não especificados anteriormente 
+	N/A
+	N/A
+	
+	
+
+	4789-0/99
+	Comerciante De Produtos Religiosos Independente
+	Comercio varejista de outros produtos não especificados anteriormente 
+	N/A
+	N/A
+	
+	
+
+	4789-0/99
+	Comerciante De Redes Para Dormir Independente
+	Comercio varejista de outros produtos não especificados anteriormente 
+	N/A
+	N/A
+	
+	
+
+	4923-0/01
+	Mototaxista Independente
+	Serviço De Táxi
+	N/A
+	N/A
+	
+	
+
+	4923-0/01
+	Taxista Independente
+	Serviço De Táxi
+	N/A
+	N/A
+	
+	
+
+	4924-8/00
+	Transportador escolar independente
+	Transporte escolar
+	N/A
+	N/A
+	
+	
+
+	4929-9/01
+	Transportador Municipal Coletivo De Passageiros Sob Frete Independente
+	Transporte Rodoviário Coletivo De Passageiros, Sob Regime De Fretamento, Municipal
+	N/A
+	N/A
+	
+	
+
+	4929-9/02
+	Transportador Intermunicipal Coletivo De Passageiros Sob Frete Em Região Metropolitana Independente
+	Transporte Rodoviário Coletivo De Passageiros, Sob Regime De Fretamento, Intermunicipal, Interestadual E Internacional
+	N/A
+	N/A
+	
+	
+
+	4929-9/03
+	Organizador De Excursões Em Veículo Próprio, Municipal Independente
+	Organização De Excursões Em Veículos Rodoviários Próprios, Municipal
+	N/A
+	N/A
+	
+	
+
+	4930-2/01
+
+	Transportador municipal de cargas não perigosas (carreto) Independente
+	Transporte rodoviário de carga, exceto produtos perigosos e mudanças, municipal 
+	PCR - Exigência de Alvará Sanitário para transporte de alimentos
+
+	NÃO PERMITIDA atividade MEI - para TRANSPORTE de medicamentos, insumos farmacêuticos, produtos para saúde, cosméticos ou saneantes
+	
+	Atividade dispensada de Alvará Sanitário, desde que NÃO transporte ou armazene produtos de interesse da saúde ou alimentos ou medicamentos
+
+
+
+	4930-2/01
+	Carroceiro – transporte de carga Independente
+	Transporte rodoviário de carga, exceto produtos perigosos e mudanças, municipal 
+	NÃO PERMITIDO 
+	NÃO PERMITIDO 
+	NÃO PERMITIDO 
+	
+
+	4930-2/02
+
+	Caminhoneiro de cargas não perigosas, intermunicipal e interestadual Independente
+	Transporte rodoviário de carga, exceto produtos perigosos e mudanças, intermunicipal, interestadual e internacional
+	PCR - Exigência de Alvará Sanitário para transporte de alimentos
+
+	NÃO PERMITIDA atividade MEI - para TRANSPORTE de medicamentos, insumos farmacêuticos, produtos para saúde, cosméticos ou saneantes
+	
+	Atividade dispensada de Alvará Sanitário, desde que NÃO transporte ou armazene produtos de interesse da saúde ou alimentos ou medicamentos
+
+
+	4930-2/04
+	Carroceiro – transporte de mudanças Independente
+	Transporte rodoviário de mudanças
+	NÃO PERMITIDO 
+	NÃO PERMITIDO 
+	NÃO PERMITIDO 
+	
+
+	4930-2/04
+	Transportador de mudanças Independente
+	Transporte rodoviário de mudanças
+	N/A
+	N/A
+	
+	
+
+	5011-4/01
+	Transportador marítimo de carga Independente
+	Transporte marítimo de cabotagem- carga
+	N/A
+	N/A
+	
+	
+
+	5021-1/01
+	Transportador municipal hidroviário de carga Independente
+	Transporte por navegação interior de carga, municipal, exceto travessia
+	N/A
+	N/A
+	
+	
+
+	5091-2/01
+	Transportador municipal de travessia por navegação pluvial  Independente
+	Transporte por navegação de travessia, municipal 
+	N/A
+	N/A
+	
+	
+
+	5091-2/02
+	Transportador intermunicipal e interestadual de travessia por navegação pluvial  Independente
+	Transporte por navegação de travessia, intermunicipal, interestadual e internacional
+	N/A
+	N/A
+	
+	
+
+	5099-8/01
+	Transportador Aquaviário Para Passeios Turísticos Independente
+	Transporte Aquaviário Para Passeios Turísticos
+	N/A
+	N/A
+	
+	
+
+	5099-8/99
+	Barqueiro Independente
+	Outros Transportes Aquaviários Não Especificados Anteriormente
+	N/A
+	N/A
+	
+	
+
+	5211-7/02
+	Guardador de moveis Independente
+	Guarda-móveis
+	N/A
+	N/A
+	
+	
+
+	5212-5/00
+	Carregador (veículos de transporte terrestre) Independente
+	Carga e descarga
+	N/A
+	N/A
+	
+	
+
+	5223-1/00
+	Proprietário de Estacionamento De Veículos Independente
+	Estacionamento De Veículos
+	N/A
+	N/A
+	
+	PROIBIDO para estadia ou guarda de veículos apreendidos
+
+	5229-0/02
+	Guincheiro (reboque de veículos) Independente
+	Serviços de reboque de veiculos
+	N/A
+	N/A
+	
+	
+
+	5229-0/99
+	Motorista (por aplicativo ou não) Independente
+	Outras atividades auxiliares dos transportes terrestres nào especificadas anteriormente
+	N/A
+	N/A
+	
+	
+
+	5310-5/02
+	Agente de Correio Franqueado E Permissionário Independente
+	Atividades De Franqueadas Do Correio
+	N/A
+	N/A
+	
+	PROIBIDO para medicamentos, insumos farmacêuticos, produtos para saúde, cosméticos e saneantes
+
+	5320-2/01
+	Entregador de malotes Independente
+	Serviços de malote não realizados pelo correio nacional
+	N/A
+	N/A
+	
+	
+
+	5320-2/02
+	Bikeboy (Ciclista Mensageiro) Independente
+	Serviços De Entrega Rápida
+	N/A
+	N/A
+	
+	
+
+	5320-2/02
+	Motoboy Independente
+	Serviços De Entrega Rápida
+	N/A
+	N/A
+	
+	
+
+	5590-6/01
+	Proprietário de albergue não assistencial Independente
+	Albergues, exceto assistenciais
+	 Exigência de Alvará Sanitário
+
+	BAIXO RISCO SANITARIO
+
+
+	
+	
+
+	5590-6/02
+	Proprietário de camping Independente
+	Campings
+	Exigência de Alvará Sanitário
+
+	BAIXO RISCO SANITARIO
+
+
+	
+	
+
+	5590-6/03
+	Proprietário de pensão Independente
+	Pensões (alojamento)
+	Exigência de Alvará Sanitário
+
+	BAIXO RISCO SANITARIO
+
+
+	
+	
+
+	5590-6/99
+	Proprietário de hospedaria Independente
+	Outros alojamentos não especificados anteriormente
+	Exigência de Alvará Sanitário
+
+	BAIXO RISCO SANITARIO
+
+
+	
+	
+
+	5611-2/01
+	Proprietário de restaurante Independente
+	Restaurantes e similares
+	NÃO PERMITIDO
+
+
+	NÃO PERMITIDO
+
+
+	
+	
+
+	5611-2/03
+	Proprietário de lanchonete Independente
+	Lanchonetes, casas de chá, de sucos e similares
+	NÃO PERMITIDO
+
+
+	NÃO PERMITIDO
+
+
+	
+	
+
+	5611-2/03
+	Proprietário de casa de sucos Independente
+	Lanchonetes, casas de chá, de sucos e similares
+	NÃO PERMITIDO
+
+
+	NÃO PERMITIDO
+
+
+	
+	
+
+	5611-2/03
+	Proprietário de casa de chá Independente
+	Lanchonetes, casas de chá, de sucos e similares
+	NÃO PERMITIDO
+
+
+	NÃO PERMITIDO
+
+
+	
+	
+
+	5611-2/04
+
+	Proprietário de bar e congêneres sem entretenimento Independente
+	Bares e outros estabelecimentos especializados em servir bebidas, sem entretenimento
+	PCR - Exigência de Alvará Sanitário
+
+	BAIXO RISCO SANITARIO
+
+
+	(B);  (P)
+
+
+	
+
+	5611-2/05
+
+	Proprietário de bar e congêneres s/ entretenimento Independente
+	Bares e outros estabelecimentos especializados em servir bebidas, com entretenimento
+	PCR - Exigência de Alvará Sanitário
+
+	BAIXO RISCO SANITARIO
+
+
+	(B);  (P)
+
+
+	
+
+	5612-1/00
+	Pipoqueiro ambulante Independente
+	Serviços ambulantes de alimentação
+	N/A
+
+	BAIXO RISCO
+	(F)
+	Deverá ter parecer favorável da VISA no processo de Alvará Anual de Ambulante expedido SEPLAN 
+
+	5612-1/00
+	Quitandeiro Ambulante Independente
+	Serviços ambulantes de alimentação
+	NÃO PERMITIDO
+
+	NÃO PERMITIDO
+
+	AMBULANTE
+
+	
+
+	5612-1/00
+	Sorveteiro Ambulante Independente
+	Serviços ambulantes de alimentação
+	NÃO PERMITIDO
+
+	NÃO PERMITIDO
+
+	AMBULANTE
+
+	
+
+	5612-1/00
+	Churrasqueiro Ambulante Independente
+	Serviços ambulantes de alimentação
+	NÃO PERMITIDO
+
+	NÃO PERMITIDO
+
+	AMBULANTE
+
+	
+
+	5612-1/00
+	Vendedor  Ambulante De Produtos Alimentícios Independente
+	Serviços ambulantes de alimentação
+	N/A
+
+	
+	(F)
+	Deverá ter parecer favorável da VISA no processo de Alvará Anual de Ambulante expedido SEPLAN (pipoca, churros, algodão doce e cachorro quente)
+
+	5620-1/01
+	Fornecedor de alimentos preparados para empresas, independente
+	Fornecimento de alimentos preparados preponderantemente para empresas 
+	NÃO PERMITIDO
+
+	NÃO PERMITIDO
+
+	NÃO PERMITIDO
+
+	
+
+	5620-1/02
+	Churrasqueiro em domicilio independente
+	Serviços de alimentação para eventos e recepções -bufe
+	EA  -  Atividade dispensada de Alvará Sanitário
+
+	BAIXO RISCO SANITARIO
+
+
+	(G) ; (K)
+
+
+	Deverá possuir carteira de saúde atualizada para manipulador de alimentos 
+
+	5620-1/02
+	Pizzaiolo em domicilio independente
+	Serviços de alimentação para eventos e recepções -bufe
+	EA  -  Atividade dispensada de Alvará Sanitário
+
+	BAIXO RISCO SANITARIO
+
+
+	(G); (K)
+
+	Deverá possuir carteira de saúde atualizada para manipulador de alimentos 
+
+	5620-1/03
+	Proprietário de cantina independente
+	Cantinas- serviços de alimentação privativos
+	PCR -  Atividade dispensada de Alvará Sanitário
+
+	BAIXO RISCO SANITARIO
+
+
+	(O)
+	
+
+	5620-1/04
+	Cozinheiro que fornece refeições prontas e embaladas para consumo Independente
+	Fornecimento de alimentos preparados preponderantemente para consumo domiciliar
+	PCR - Exigência de Alvará Sanitário
+
+	BAIXO RISCO SANITARIO
+
+
+	 (C);  (O)
+
+
+	
+
+	5620-1/04
+	Doceiro Independente
+	Fornecimento de alimentos preparados preponderantemente para consumo domiciliar
+	PCR - Exigência de Alvará Sanitário
+
+	BAIXO RISCO SANITARIO
+
+
+	 (C);  (O)
+
+
+	
+
+	5620-1/04
+	Marmiteiro Independente
+	Fornecimento de alimentos preparados preponderantemente para consumo domiciliar
+	PCR - Exigência de Alvará Sanitário
+
+	BAIXO RISCO SANITARIO
+
+
+	 (C);  (O)
+
+
+	
+
+	5620-1/04
+	Salgadeiro Independente
+	Fornecimento de alimentos preparados preponderantemente para consumo domiciliar
+	PCR - Exigência de Alvará Sanitário
+	BAIXO RISCO SANITARIO
+
+
+	 (C);  (O)
+
+
+	
+
+	5811-5/00
+	Editor De Livros Independente
+	Edição De Livros
+	N/A
+	N/A
+	
+	
+
+	5812-3/01
+	Editor De Jornais Diários Independente
+	Editor De Jornais Diários
+	N/A
+	N/A
+	
+	
+
+	5812-3/02
+	Editor De Jornais Não Diários Independente
+	Editor De Jornais Não Diários
+	N/A
+	N/A
+	
+	
+
+	5813-1/00
+	Editor De Revistas Independente
+	Edição De Revistas
+	N/A
+	N/A
+	
+	
+
+	5819-1/00
+	Editor De Lista De Dados E De Outras Informações Independente
+	Edição De Cadastros, Listas E De Outros Produtos Gráficos
+	N/A
+	N/A
+	
+	
+
+	5912-0/01
+	Dublador Independente
+
+	Serviços De Dublagem
+	N/A
+	N/A
+	
+	
+
+	5912-0/99
+	Editor De Vídeo Independente
+	Atividades De Pós-produção Cinematográfica, De Vídeos E De Programas De Televisão Não Especificadas Anteriormente
+	N/A
+	N/A
+	
+	
+
+	6190-6/99
+	Instalador de Rede De Computadores Independente
+	Outras Atividades De Telecomunicações Não Especificadas Anteriormente
+	N/A
+	N/A
+	
+	
+
+	6399-2/00
+	Apurador, Coletor E Fornecedor De Recortes De Matérias Publicadas Em Jornais E Revistas Independente
+	Outras Atividades De Prestação De Serviços De Informação Não Especificadas Anteriormente
+	N/A
+	N/A
+	
+	
+
+	7319-0/02
+	Panfleteiro Independente
+	Promoção De Vendas
+	N/A
+	N/A
+	
+	
+
+	7319-0/02
+	Promotor De Vendas Independente
+	Promoção De Vendas
+	N/A
+	N/A
+	
+	
+
+	7319-0/99
+	Bike Propagandista Independente
+	Outras Atividades De Publicidade Não Especificadas Anteriormente
+	N/A
+	N/A
+	
+	
+
+	7319-0/99
+	Proprietário De Carro De Som Para Fins Publicitários Independente
+	Outras Atividades De Publicidade Não Especificadas Anteriormente
+	N/A
+	N/A
+	
+	
+
+	7420-0/01
+	Fotografo Independente
+	Atividades de produção de fotografias, exceto aérea e submarina
+	N/A
+	N/A
+	
+	
+
+	7420-0/02
+	Fotografo (aéreo) Independente
+	Atividades De Produção De Fotografias Aéreas E Submarinas
+	N/A
+	N/A
+	
+	
+
+	7420-0/02
+	Fotografo (submarino) Independente
+	Atividades De Produção De Fotografias Aéreas E Submarinas
+	N/A
+	N/A
+	
+	
+
+	7420-0/03
+	Revelador Fotográfico Independente
+	Laboratórios Fotográficos
+	N/A
+	N/A
+	
+	
+
+	7420-0/04
+	Filmador Independente
+	Filmagem de festas e eventos
+	N/A
+	N/A
+	
+	
+
+	7490-1/02
+	Mergulhador (Escafandrista) Independente
+	Escafandria E Mergulho
+	N/A
+	N/A
+	
+	
+
+	7719-5/99
+	Locador de motocicleta, sem condutos, independente
+	Locação de Outros Meios de Transporte Não Especificados Anteriormente, Sem Condutor
+	N/A
+	N/A
+	
+	
+
+	7721-7/00
+	Locador de bicicletas independente
+	Aluguel de equipamentos recreativos e esportivos
+	N/A
+	N/A
+	
+	
+
+	7721-7/00
+	Locador De Equipamentos Recreativos E Esportivos Independente
+	Aluguel De Equipamentos Recreativos E Esportivos
+	N/A
+	N/A
+	
+	
+
+	7721-7/00
+	Locador de material e equipamento esportivo, independente
+	Aluguel de Equipamentos Recreativos e Esportivos
+	N/A
+	N/A
+	
+	
+
+	7722-5/00
+	Locado De Fitas De Vídeo, Dvds E Similares, Independente
+	Aluguel De Fitas De Vídeo, Dvds E Similares
+	N/A
+	N/A
+	
+	
+
+	7722-5/00
+	Locador de vídeo games independente
+	Aluguel De Fitas De Vídeo, Dvds E Similares
+	N/A
+	N/A
+	
+	
+
+	7723-3/00
+	Locador de Objetos do Vestuário, Jóias E Acessórios, Independente
+	Aluguel De Objetos Do Vestuário, Jóias E Acessórios
+	N/A
+	N/A
+	
+	
+
+	7729-2/01
+	Locador de aparelhos de jogos eletrônicos, Independente
+	Aluguel de aparelhos de jogos eletrônicos
+	N/A
+	N/A
+	
+	
+
+	7729-2/02
+	Locador De Instrumentos Musicais, Independente
+	Aluguel De Móveis, Utensílios E Aparelhos De Uso Doméstico E Pessoal; Instrumentos Musicais
+	N/A
+	N/A
+	
+	
+
+	7729-2/02
+	Locador de Móveis E Utensílios, Inclusive Para Festas, Independente
+	Aluguel De Móveis, Utensílios E Aparelhos De Uso Doméstico E Pessoal; Instrumentos Musicais
+	N/A
+	N/A
+	
+	
+
+	7729-2/03
+	Locador De Material Médico, Independente
+	Aluguel De Material Médico
+	NÃO PERMITIDO 
+	NÃO PERMITIDO 
+	NÃO PERMITIDO 
+	
+
+	7729-2/99
+	Locador de Livros, Revistas, Plantas e Flores, Independente
+	Aluguel De Outros Objetos Pessoais E Domésticos Não Especificados Anteriormente
+	N/A
+	N/A
+	
+	
+
+	7731-4/00
+	Locador De Máquinas E Equipamentos Agrícolas Sem Operador, Independente
+	Aluguel De Máquinas E Equipamentos Agrícolas Sem Operador
+	N/A
+	N/A
+	
+	
+
+	7732-2/01
+	Locador De Máquinas E Equipamentos Para Construção Sem Operador, Exceto Andaimes, Independente
+	Aluguel De Máquinas E Equipamentos Para Construção Sem Operador, Exceto Andaimes
+	N/A
+	N/A
+	
+	
+
+	7732-2/02
+	Locador de andaime, Independente
+	Aluguel de andaimes
+	N/A
+	N/A
+	
+	
+
+	7733-1/00
+	Locador De Máquinas E Equipamentos Para Escritório, Independente
+	Aluguel De Máquinas E Equipamentos Para Escritório
+	N/A
+	N/A
+	
+	
+
+	7739-0/02
+	Locador de equipamentos científicos, médicos e hospitalares, sem operador, Independente
+	Aluguel de equipamentos científicos, médicos e hospitalares, sem operador
+	NÃO PERMITIDO 
+	NÃO PERMITIDO 
+	NÃO PERMITIDO 
+	
+
+	7739-0/03
+	Locador De Palcos, Coberturas E Outras Estruturas De Uso Temporário, Exceto Andaimes, Independente
+	Aluguel De Palcos, Coberturas E Outras Estruturas De Uso Temporário, Exceto Andaimes
+	N/A
+	N/A
+	
+	
+
+	7739-0/99
+	Locador De Outras Máquinas E Equipamentos Comerciais E Industriais Não Especificados Anteriormente, Sem Operador, Independente
+	Aluguel De Outras Máquinas E Equipamentos Comerciais E Industriais Não Especificados Anteriormente, Sem Operador
+	N/A
+	N/A
+	
+	
+
+	7911-2/00
+	Agente de Viagens Independente
+	Agências De Viagens
+	N/A
+	N/A
+	
+	
+
+	7912-1/00
+	Guia de turismo Independente
+	Operadores turísticos
+	N/A
+	N/A
+	
+	
+
+	7990-2/00
+	Promotor de Turismo Local Independente
+	Serviços De Reservas E Outros Serviços De Turismo Não Especificados Anteriormente
+	N/A
+	N/A
+	
+	
+
+	8011-1/02
+	Adestrador de cães de guarda Independente
+	Serviços de adestramento de cães de guarda
+	N/A
+	N/A
+	(G)
+
+	Atividade depende de autorização previa da SEMMAS/CEPREAD, conforme Art. 29 da Lei Complementar Municipal 1054/2016.
+
+	8020-0/02
+	Instalador E Reparador De Cofres, Trancas E Travas De Segurança, Independente
+	Outras Atividades De Serviços De Segurança
+	N/A
+	N/A
+	(G)
+
+	
+
+	8129-0/00
+
+	Piscineiro Independente
+	Atividades de limpeza não especificados anteriormente 
+	EA - Atividade dispensada de Alvará sanitário. 
+
+	N/A
+	(G); ( J )
+	
+
+	8130-3/00
+	Jardineiro Independente
+	Atividades paisagisticas
+	N/A
+	N/A
+	
+	
+
+	8219-9/01
+	Fotocopiador Independente
+	Fotocopias
+	N/A
+	N/A
+	
+	
+
+	8219-9/99
+	Digitador Independente
+	Preparação De Documentos E Serviços Especializados De Apoio Administrativo Não Especificados Anteriormente
+	N/A
+	N/A
+	
+	
+
+	8230-0/01
+	Promotor e Eventos Independente
+	Serviços De Organização De Feiras, Congressos, Exposições E Festas
+	N/A
+	N/A
+	
+	
+
+	8230-0/02
+	Proprietário de Casas De Festas e Eventos Independente
+	Casas De Festas E Eventos
+	Exigência de Alvará Sanitário
+
+	BAIXO RISCO SANITARIO-  com serviço de alimentação
+
+	
+	
+
+	8291-1/00
+	Cobrador de dívidas Independente
+	Atividades de cobrança e informações cadastrais
+	N/A
+	N/A
+	
+	
+
+	8292-0/00
+
+	Envasador e empacotador independente
+	Envasamento e empacotamento sob contrato
+	N/A
+	N/A
+	(K)  
+	
+
+	8299-7/03
+	Gravador de carimbos Independente
+	Serviços de gravação de carimbos, exceto confecção
+	N/A
+	N/A
+	
+	
+
+	8299-7/07
+	Proprietário de Sala De Acesso À Internet Independente
+	Salas De Acesso À Internet
+	N/A
+	N/A
+	
+	
+
+	8299-7/99
+	Cartazista, Pintor de Faixas Publicitárias de De Letras Independente
+	Outras Atividades De Serviços Prestados Principalmente Às Empresas Não Especificadas Anteriormente
+	N/A
+	N/A
+	
+	
+
+	8592-9/02
+	Instrutor de artes cênicas Independente
+	Ensino de artes cênicas, exceto dança
+	PCR - Exigência de Alvará Sanitário  
+	BAIXO RISCO
+
+	(G)
+
+	
+
+	8592-9/03
+	Instrutor de musica Independente
+	Ensino de musica
+	PCR - Exigência de Alvará Sanitário  
+	BAIXO RISCO SANITARIO
+	(G)
+
+	
+
+	8592-9/99
+	Instrutor de Arte e Cultura Em Geral Independente
+	Ensino De Arte E Cultura Não Especificado Anteriormente
+	PCR - Exigência de Alvará Sanitário  
+	BAIXO RISCO SANITARIO
+
+	(G)
+
+	
+
+	8593-7/00
+	Instrutor de idiomas Independente
+	Ensino de idiomas
+	PCR - Exigência de Alvará Sanitário  
+	BAIXO RISCO SANITARIO
+	(G)
+
+	
+
+	8599-6/03
+	Instrutor de informática Independente
+	Treinamento em informática
+	N/A
+	N/A
+	
+	
+
+	8599-6/04
+	Instrutor de cursos gerenciais Independente
+	Treinamento em desenvolvimento profissional e gerencial
+	N/A
+	N/A
+	
+	
+
+	8599-6/05
+	Instrutor de cursos preparatórios Independente
+	Cursos preparatórios para concursos
+	PCR - Exigência de Alvará Sanitário  
+	BAIXO RISCO SANITARIO
+
+	(G)
+
+	
+
+	8599-6/99
+
+	Professor particular Independente
+	Outras atividades de ensino não especificadas anteriormente
+	PCR- Exigência de Alvará Sanitário 
+
+ 
+	BAIXO RISCO SANITARIO
+
+
+	(G)
+
+	
+
+	8712-3/00
+	Cuidador de idosos e enfermos, independente
+	Atividades de fornecimento de infra-estrutura de apoio e assistência a pacientes no domicilio
+	PCR - Exigência de Alvará Sanitário  
+
+	BAIXO RISCO SANITARIO
+
+	(G)
+
+	
+
+	9001-9/01
+	Humorista e Contador De Histórias Independente
+	Produção Teatral
+	N/A
+	N/A
+	
+	
+
+	9001-9/02
+	Cantor/músico Independente
+	Produção Musical
+	N/A
+	N/A
+	
+	
+
+	9001-9/06
+	Disc Jockey (Dj) Ou Video Jockey (Vj) Independente
+	Atividades De Sonorização E De Iluminação
+	N/A
+	N/A
+	
+	
+
+	9001-9/06
+	Técnico de Sonorização E De Iluminação Independente
+	Atividades De Sonorização E De Iluminação
+	N/A
+	N/A
+	
+	
+
+	9002-7/02
+	Restaurador de obras de arte Independente
+	Restaurador de obras de arte
+	N/A
+	N/A
+	
+	
+
+	9329-8/03
+	Proprietário de salão de jogos de sinuca e bilhar Independente 
+	Exploração de jogos de sinuca, bilhar e similares
+	N/A
+	N/A
+	
+	
+
+	9329-8/04
+	Proprietário de fliperama Independente
+	Exploração de jogos eletrônicos recreativos
+	N/A
+	N/A
+	
+	
+
+	9329-8/99
+	Animador de festas Independente
+	Outras atividades de recreação e lazer não especificadas anteriormente
+	N/A
+	N/A
+	
+	
+
+	9329-8/99
+	Mágico Independente
+	Outras atividades de recreação e lazer não especificadas anteriormente
+	N/A
+	N/A
+	
+	
+
+	9511-8/00
+	Técnico de manutenção de computador Independente
+	Reparação e manutenção de computadores e de equipamentos
+	N/A
+	N/A
+	
+	
+
+	9512-6/00
+	Técnico de manutenção de telefonia Independente
+	Reparação e manutenção de equipamentos de comunicação
+	N/A
+	N/A
+	
+	
+
+	9521-5/00
+	Técnico de manutenção de eletrodomésticos Independente
+	Reparação e manutenção de equipamentos eletroeletrônicos de uso pessoal e doméstico
+	N/A
+	N/A
+	
+	
+
+	9529-1/01
+	Sapateiro Independente
+	Reparação De Calçados, De Bolsas E Artigos De Viagem
+	N/A
+	N/A
+	
+	
+
+	9529-1/02
+	Chaveiro Independente
+	Chaveiros 
+	N/A
+	N/A
+	
+	
+
+	9529-1/03
+	Relojoeiro Independente
+	Reparação de relógios 
+	N/A
+	N/A
+	
+	
+
+	9529-1/04
+	Reparador de Bicicleta Independente
+	Reparação De Bicicletas, Triciclos E Outros Veículos Não-motorizados
+	N/A
+	N/A
+	
+	
+
+	9529-1/05
+	Estofador Independente
+	Reparação de artigos do mobiliário
+	N/A
+	N/A
+	
+	
+
+	9529-1/05
+	Reparador De Artigos De Tapeçaria Independente
+	Reparação de artigos do mobiliário
+	N/A
+	N/A
+	
+	
+
+	9529-1/05
+	Reparador de Móveis  Independente
+	Reparação de artigos do mobiliário
+	N/A
+	N/A
+	
+	
+
+	9529-1/05
+	Reparador de Toldos E Persianas Independente
+	Reparação de artigos do mobiliário
+	N/A
+	N/A
+	
+	
+
+	9529-1/06
+	Ourives Independente
+	Reparação de jóias
+	N/A
+	N/A
+	
+	
+
+	9529-1/99
+	Amolador De Artigos De Cutelaria Independente
+	Reparação E Manutenção De  Outros Objetos E Equipamentos Pessoais E Domésticos Não Especificados Anteriormente
+	N/A
+	N/A
+	
+	
+
+	9529-1/99
+	Reparador de Artigos E Acessórios do Vestuário Independente
+	Reparação E Manutenção De Outros Objetos E Equipamentos Pessoais E Domésticos Não Especificados Anteriormente
+	N/A
+	N/A
+	
+	
+
+	9529-1/99
+	Reparador de Brinquedos Independente
+	Reparação E Manutenção De Outros Objetos E Equipamentos Pessoais E Domésticos Não Especificados Anteriormente
+	N/A
+	N/A
+	
+	
+
+	9529-1/99
+	Reparador e Equipamentos Esportivos Independente
+	Reparação E Manutenção De Outros Objetos E Equipamentos Pessoais E Domésticos Não Especificados Anteriormente
+	N/A
+	N/A
+	
+	
+
+	9529-1/99
+	Reparador De Guarda Chuva E Sombrinhas Independente
+	Reparação E Manutenção De Outros Objetos E Equipamentos Pessoais E Domésticos Não Especificados Anteriormente
+	N/A
+	N/A
+	
+	
+
+	9529-1/99
+	Reparador De Instrumentos Musicais Independente
+	Reparação E Manutenção De Outros Objetos E Equipamentos Pessoais E Domésticos Não Especificados Anteriormente
+	N/A
+	N/A
+	
+	
+
+	9529-1/99
+	Reparador De Panelas (Paneleiro)
+	Reparação E Manutenção De Outros Objetos E Equipamentos Pessoais E Domésticos Não Especificados Anteriormente
+	N/A
+	N/A
+	
+	
+
+	9529-1/99
+	Restaurador de Livros Independente
+	Reparação E Manutenção De Outros Objetos E Equipamentos Pessoais E Domésticos Não Especificados Anteriormente
+	N/A
+	N/A
+	
+	
+
+	9601-7/01
+
+	Lavadeiro de roupas independente
+	Lavanderias 
+	PCR - Exigência de Alvará Sanitário
+
+	BAIXO RISCO SANITARIO
+
+	(L)
+	
+
+	9601-7/02
+	Tintureiro Independente
+	Tinturarias
+	N/A
+	N/A
+	
+	
+
+	9601-7/03
+	Lavadeiro de roupas profissionais Independente
+	Toalheiros 
+	N/A
+	N/A
+	
+	
+
+	9602-5/01
+	Barbeiro independente
+	Cabeleireiros, manicure e pedicure
+	PCR - Exigência de Alvará Sanitário
+
+	BAIXO RISCO SANITARIO
+
+	( I ); (C)
+	
+
+	9602-5/01
+	Cabeleireiro Independente
+	Cabeleireiros, manicure e pedicure
+	PCR - Exigência de Alvará Sanitário
+
+	BAIXO RISCO SANITARIO
+
+	( I ); (C)
+	
+
+	9602-5/01
+	Manicure/pedicure Independente
+	Cabeleireiros, manicure e pedicure
+	PCR - Exigência de Alvará Sanitário
+
+	BAIXO RISCO SANITARIO
+
+	( I ); (C)
+	
+
+	9602-5/02
+
+	Depilador independente
+	Atividades De Estética E Outros Serviços De Cuidados Com A Beleza
+	PCR - Exigência de Alvará Sanitário
+
+	BAIXO RISCO SANITARIO
+	( I ); (C); (M)
+	Não permitido procedimentos invasivos
+
+	9602-5/02
+
+	Esteticista Independente
+	Atividades De Estética E Outros Serviços De Cuidados Com A Beleza
+	PCR - Exigência de Alvará Sanitário
+
+	 BAIXO RISCO SANITARIO 
+	( I ); (C); (M)
+	Não permitido procedimentos invasivos
+
+	9602-5/02
+
+	Maquiador Independente
+	Atividades De Estética E Outros Serviços De Cuidados Com A Beleza
+	PCR - Exigência de Alvará Sanitário
+
+	BAIXO RISCO SANITARIO 
+	( I ); (C); (M)
+	Não permitido procedimentos invasivos
+
+	9603-3/04
+	Agente funerário Independente
+	Serviços de funerárias 
+	N/A
+	N/A
+	
+	
+
+	9609-2/02
+	Agente matrimonial Independente
+	Agências Matrimoniais
+	N/A
+	N/A
+	
+	
+
+	9609-2/06
+	Colocador de piercing Independente
+	Serviços de tatuagem e colocação de piercing 
+	PCR - Exigência de Alvará Sanitário
+
+	ALTO RISCO SANITARIO
+
+	( I ); (Q)
+	
+
+	9609-2/06
+	Tatuador Independente
+	Serviços de tatuagem e colocação de piercing 
+	PCR - Exigência de Alvará Sanitário
+
+	ALTO RISCO SANITARIO
+
+	( I ); (Q)
+	
+
+	9609-2/07
+	Adestrador de animais  Independente
+	Alojamento de animais domésticos
+	N/A
+	N/A
+	(G); (N)
+
+	Atividade depende de autorização previa da SEMMAS/CEPREAD, conforme Art. 29 da Lei Complementar Municipal 1054/2016.
+
+	9609-2/08
+	Banhista de animais domésticos Independente
+	Higiene e embelezamento de animais domésticos
+	PCR - Exigência de Alvará Sanitário 
+ 
+	BAIXO RISCO SANITARIO  
+
+	(G); (N)
+
+	
+
+	9609-2/08
+	Cuidador de animais (pet sitter) Independente
+	Higiene e embelezamento de animais domésticos
+	PCR - Exigência de Alvará Sanitário 
+ 
+	BAIXO RISCO SANITARIO  
+
+	(G); (N)
+
+	
+
+	9609-2/08
+	Esteticista de animais domésticos  Independente
+	Higiene e embelezamento de animais domésticos
+	PCR - Exigência de Alvará Sanitário 
+ 
+	BAIXO RISCO SANITARIO  
+	(G); (N)
+
+	
+
+	9609-2/08
+	Tosador de animais domésticos Independente
+	Higiene e embelezamento de animais domésticos
+	PCR - Exigência de Alvará Sanitário  
+	BAIXO RISCO SANITARIO  
+
+	(G); (N)
+
+	
+
+	9609-2/99
+	Engraxate Independente
+	Outras atividades de serviços pessoais não especificadas anteriormente
+	N/A
+	N/A
+	
+	
+
+	9609-2/99
+	Lavador de estofado e sofá Independente
+	Outras atividades de serviços pessoais não especificadas anteriormente
+	N/A
+	N/A
+	
+	
+
+	9609-2/99
+	Astrólogo Independente
+	Outras atividades de serviços pessoais não especificadas anteriormente
+	N/A
+	N/A
+	
+	
+
+	9609-2/99
+	Carregador de malas Independente
+	Outras atividades de serviços pessoais não especificadas anteriormente
+	N/A
+	N/A
+	
+	
+
+	9609-2/99
+	Locutor de Mensagens Fonadas e Ao Vivo, Independente
+	Outras atividades de serviços pessoais não especificadas anteriormente
+	N/A
+	N/A
+	
+	
+
+	9700-5/00
+	Diarista Independente
+	Serviços domésticos 
+	N/A
+	N/A
+	
+	
+
+
+
+CÓDIGOS PARA RESTRIÇÕLES MEI
+(A) Atividade permitida desde que exercida sob a “forma artesanal”. PRODUTO ARTESANAL (Baixo risco): aquele produzido em escala reduzida com atenção direta e especifica dos responsáveis por sua manipulação. Sua produção é, em geral, de origem familiar ou de pequenos grupos, com a transferência de conhecimentos sobre técnicas e processos originais.
+(B) Atividade permitida desde que SEM depósito no local.  
+(C) Atividade permitida em endereço residencial desde que:
+I – As atividades a serem desenvolvidas sejam executadas em local exclusivo, com área física separada das áreas de moradia, não podendo ter acesso direto com estas, não devendo servir de permanência e uso dos moradores que não estejam envolvidos nas atividades relacionadas ao empreendimento.
+II – o local disponha e mantenha as condições físicas, de instalações elétricas e hidráulicas, de acordo com as exigências dispostas na legislação sanitária para a atividade econômica a ser desenvolvida;
+III - os utensílios e equipamentos a serem utilizados no exercício da atividade sejam exclusivos para o local e processo de trabalho, não podendo ser utilizados utensílios da moradia;
+IV - as áreas de residência, incluindo a moradia, construções anexas, terreno ou quintal sejam mantidos em condições adequadas de conservação, livres de objetos em desuso, resíduos, entulhos para que não propiciem a criação e permanência de vetores e pragas urbanas.
+(D) Somente permitido o comércio de produtos hortifrutis "in natura"
+(E) Não permitido açougue
+ 	(F) Atividade depende de prévia obtenção das autorizações específicas, de acordo com a legislação municipal correspondente.
+(G) Atividade permitida desde que exercida no endereço do cliente e/ou locais licenciados pela VISA.
+(H) Providenciar licença sanitária de transporte para o veiculo utilizado.
+(I) Atividade permitida somente para SEDE, no endereço que constar no Alvará de Localização. Não permitido a atividade de forma itinerante
+(J) Obter registro de estabelecimento no Ministério da Agricultura, Pecuária e Abastecimento (MAPA). Os empreendimentos produtores de carnes, pescados, ovos, mel, leites e seus derivados, bebidas alcoólicas e outros são objeto de fiscalização/inspeção dos órgãos da agricultura.
+(K) Deverá manter atualizada a carteira de saúde para manipulador de alimentos.
+(L) NÃO permitido o processamento de roupas de uso hospitalar
+(M) NÃO permitidos procedimentos invasivos
+(N) Não permitida à venda de medicamentos
+(O) Atividade permitida quando exercida em locais licenciados pela VISA
+(P) Proibida à manipulação de alimentos no local
+(Q) Atividade não permitida no endereço residencial
+(R) PROIBIDA atividade de fracionamento
+(S) Não permitido o consumo de alimentos e bebidas no local (mesas e cadeiras)
+

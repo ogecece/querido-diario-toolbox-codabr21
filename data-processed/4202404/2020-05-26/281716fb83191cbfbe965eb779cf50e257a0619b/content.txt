@@ -1,0 +1,668 @@
+
+FUNDAÇÃO UNIVERSIDADE REGIONAL DE BLUMENAU
+
+Extrato nº. 168/2020
+PARTES:  FUNDAÇÃO UNIVERSIDADE REGIONAL DE BLUMENAU
+
+E
+
+                  REFLO COMÉRCIO DE FERROS LTDA
+OBJETO: Registro de Preços para aquisições futuras de ferro, chapas de aço e outros metais para o uso em manutenções da Universidade.
+FUNDAMENTO LEGAL: Pregão Presencial (SRP) nº 067/2020 e Ata de Registro de Preços nº 091/2020, a ser firmado em 29 de maio de 2020.  
+PREÇO: O preço ofertado pela empresa signatária da presente Ata de Registro de Preços é o abaixo informado, de acordo com a respectiva classificação:
+
+	Lote 01
+
+	Item
+	Código FURB
+	Qtde.
+	Und.
+	Descrição do Item
+	Preço Unitário (em R$)
+	Preço Total do Item
+ (em R$)
+
+	1
+	6395
+	50
+	barra
+	Barra chata 1/4 x 1''. Comprimento da barra: 6 metros. Material conforme norma SAE 1020.
+Marca: Acelor Mittal
+	53,79
+	2.689,50
+
+	2
+	6435
+	5
+	barra
+	Barra chata 1/4'' x 1.1/2''. Comprimento da barra: 6 metros. Material conforme norma SAE 1020.
+Marca: Acelor Mittal
+	82,09
+	410,45
+
+	3
+	6436
+	5
+	barra
+	Barra chata 1/4'' x 1.1/4''. Comprimento da barra: 6 metros. Material conforme norma SAE 1020.
+Marca: Acelor Mittal
+	67,30
+	336,50
+
+	4
+	28087
+	10
+	barra
+	Barra chata 1/4 x 2''. Comprimento da barra: 6 metros. Material conforme norma SAE 1020.
+Marca: Acelor Mittal
+	108,34
+	1.083,40
+
+	5
+	6394
+	20
+	barra
+	Barra chata 1/8 x 1''. Comprimento da barra: 6 metros. Material conforme norma SAE 1020.
+Marca: Acelor Mittal
+	27,50
+	550,00
+
+	6
+	20826
+	10
+	barra
+	Barra chata 1/8 x 1.1/2''. Comprimento da barra: 6 metros. Material conforme norma SAE 1020.
+Marca: Acelor Mittal
+	44,86
+	448,60
+
+	7
+	23697
+	50
+	barra
+	Barra chata 3/16 x 1''. Comprimento da barra: 6 metros. Material conforme norma SAE 1020.
+Marca: Acelor Mittal
+	42,03
+	2.101,50
+
+	8
+	28113
+	5
+	barra
+	Barra chata 3/16 x 1.1/2''. Comprimento da barra: 6 metros. Material conforme norma SAE 1020.
+Marca: Acelor Mittal
+	61,78
+	308,90
+
+	9
+	17206
+	5
+	barra
+	Barra chata 3/16 x 1.1/4''. Comprimento da barra: 6 metros. Material conforme norma SAE 1020.
+Marca: Acelor Mittal
+	54,08
+	270,40
+
+	10
+	23694
+	5
+	barra
+	Barra chata 3/16 x 5/8''. Comprimento da barra: 6 metros. Material conforme norma SAE 1020.
+Marca: Acelor Mittal
+	26,65
+	133,25
+
+	11
+	28151
+	5
+	barra
+	Ferro cantoneira 1/4 x 1.1/4''. Comprimento da barra: 6 metros. Material conforme norma SAE 1020.
+Marca: Acelor Mittal
+	132,80
+	664,00
+
+	12
+	19287
+	10
+	barra
+	Ferro cantoneira 1/4 x 2''. Comprimento da barra: 6 metros. Material conforme norma SAE 1020.
+Marca: Acelor Mittal
+	211,05
+	2.110,50
+
+	13
+	6398
+	20
+	barra
+	Ferro cantoneira 1/8 x 1''. Comprimento da barra: 6 metros. Material conforme norma SAE 1020.
+Marca: Acelor Mittal
+	51,35
+	1.027,00
+
+	14
+	27778
+	5
+	barra
+	Ferro cantoneira 1/8 x 1.1/2''. Comprimento da barra: 6 metros. Material conforme norma SAE 1020.
+Marca: Acelor Mittal
+	81,68
+	408,40
+
+	15
+	28152
+	5
+	barra
+	Ferro cantoneira 1/8 x 1.1/4''. Comprimento da barra: 6 metros. Material conforme norma SAE 1020.
+Marca: Acelor Mittal
+	68,86
+	344,30
+
+	16
+	26913
+	80
+	barra
+	Ferro cantoneira 3/16 x 1.1/2''. Comprimento da barra: 6 metros. Material conforme norma SAE 1020.
+Marca: Acelor Mittal
+	116,01
+	9.280,80
+
+	17
+	6391
+	50
+	barra
+	Ferro cantoneira 3/16 x 1.1/4''. Comprimento da barra: 6 metros. Material conforme norma SAE 1020.
+Marca: Acelor Mittal
+	96,65
+	4.832,50
+
+	Preço Total do Lote
+
+ (em reais, R$)
+	27.000,00
+
+	Preço Total do Lote
+
+ (em reais, por extenso)
+	Vinte e sete mil reais
+
+
+	Lote 02
+
+	Item
+	Código FURB
+	Qtde.
+	Und.
+	Descrição do Item
+	Preço Unitário (em R$)
+	Preço Total do Item
+ (em R$)
+
+	1
+	28142
+	20
+	barra
+	Barra de aço mecânico em SAE 1020, redondo de 1/2''. Comprimento da barra: 6 metros.
+Marca: Acelor Mittal
+	40,29
+	805,80
+
+	2
+	28143
+	300
+	barra
+	Barra de aço mecânico em SAE 1020, redondo de 3/8''. Comprimento da barra: 6 metros.
+Marca: Acelor Mittal
+	25,37
+	7.611,00
+
+	3
+	28144
+	10
+	barra
+	Barra de aço mecânico em SAE 1020, redondo de 5/16''. Comprimento da barra: 6 metros.
+Marca: Acelor Mittal
+	18,80
+	188,00
+
+	4
+	28145
+	2
+	barra
+	Barra de aço mecânico em SAE 1020, redondo de 5/8''. Comprimento da barra: 6 metros.
+Marca: Acelor Mittal
+	63,60
+	127,20
+
+	5
+	20083
+	10
+	barra
+	Barra de Aço redondo trefilado 1/4''. Comprimento da barra: 6 metros. Material conforme norma SAE 1020.
+Marca: Acelor Mittal
+	15,80
+	158,00
+
+	6
+	28119
+	10
+	barra
+	Barra de aço redondo trefilado 3/16''. Comprimento da barra: 6 metros. Material conforme norma SAE 1020.
+Marca: Acelor Mittal
+	11,00
+	110,00
+
+	Preço Total do Lote
+
+ (em reais, R$)
+	9.000,00
+
+	Preço Total do Lote
+
+ (em reais, por extenso)
+	Nove mil reais
+
+
+	Lote 03
+
+	Item
+	Código FURB
+	Qtde.
+	Und.
+	Descrição do Item
+	Preço Unitário (em R$)
+	Preço Total do Item
+ (em R$)
+
+	1
+	28156
+	5,00
+	m2
+	Chapa de ferro lisa 1/2''. Material conforme norma SAE 1020. As dimensões das chapas serão informadas em cada pedido e conforme a necessidade da FURB.
+Marca: Acelor Mittal
+	1.154,92
+	5.774,60
+
+	2
+	28157
+	5,00
+	m2
+	Chapa de ferro lisa 1/4''. Material conforme norma SAE 1020.  As dimensões das chapas serão informadas em cada pedido e conforme a necessidade da FURB.
+Marca: Acelor Mittal
+	560,00
+	2.800,00
+
+	3
+	28158
+	5,00
+	m2
+	Chapa de ferro lisa 1/8''. Material conforme norma SAE 1020.  As dimensões das chapas serão informadas em cada pedido e conforme a necessidade da FURB.
+Marca: Acelor Mittal
+	277,42
+	1.387,10
+
+	4
+	28159
+	5,00
+	m2
+	Chapa de ferro lisa 2mm. Material conforme norma SAE 1020.  As dimensões das chapas serão informadas em cada pedido e conforme a necessidade da FURB.
+Marca: Acelor Mittal
+	178,37
+	891,85
+
+	5
+	28160
+	5,00
+	m2
+	Chapa de ferro lisa 3/16''. Material conforme norma SAE 1020.  As dimensões das chapas serão informadas em cada pedido e conforme a necessidade da FURB.
+Marca: Acelor Mittal
+	411,03
+	2.055,15
+
+	6
+	27712
+	5,00
+	m2
+	Chapa de ferro lisa 3/8''. Material conforme norma SAE 1020.  As dimensões das chapas serão informadas em cada pedido e conforme a necessidade da FURB.
+Marca: Acelor Mittal
+	889,47
+	4.447,35
+
+	7
+	28161
+	5,00
+	m2
+	Chapa de ferro lisa 5/16''. Material conforme norma SAE 1020.  As dimensões das chapas serão informadas em cada pedido e conforme a necessidade da FURB.
+Marca: Acelor Mittal
+	728,79
+	3.643,95
+
+	Preço Total do Lote
+
+ (em reais, R$)
+	21.000,00
+
+	Preço Total do Lote
+
+ (em reais, por extenso)
+	Vinte e um mil reais
+
+
+	Lote 04
+
+	Item
+	Código FURB
+	Qtde.
+	Und.
+	Descrição do Item
+	Preço Unitário (em R$)
+	Preço Total do Item
+ (em R$)
+
+	1
+	25613
+	10
+	peça
+	Chapa de alumínio 2000 x 1000 x 1,0mm
+Marca: CBA
+	167,83
+	1.678,30
+
+	2
+	25612
+	10
+	peça
+	Chapa de alumínio 2000 x 1000 x 1,5mm
+Marca: CBA
+	271,68
+	2.716,80
+
+	3
+	7546
+	15
+	peça
+	Chapa de alumínio 2000 x 1000 x 2,0mm
+Marca: CBA
+	334,04
+	5.010,60
+
+	4
+	28117
+	10
+	barra
+	Perfil de alumínio anodizado (barra chata) 1/8 x 1''. Comprimento da barra: 6 metros.
+Marca: CBA
+	72,07
+	720,70
+
+	5
+	28118
+	10
+	barra
+	Perfil de alumínio anodizado (barra chata) 1/8 x 1.1/2''. Comprimento da barra: 6 metros.
+Marca: CBA
+	71,12
+	711,20
+
+	6
+	7489
+	10
+	barra
+	Cantoneira de alumínio anodizado 1/8 x 1.1/2''. Comprimento da barra: 6 metros. 
+Marca: CBA
+	77,99
+	779,90
+
+	7
+	28155
+	10
+	barra
+	Cantoneira de alumínio anodizado 1/8 x 1''. Comprimento da barra: 6 metros.
+Marca: CBA
+	63,25
+	632,50
+
+	Preço Total do Lote
+
+ (em reais, R$)
+	12.250,00
+
+	Preço Total do Lote
+
+ (em reais, por extenso)
+	Doze mil duzentos e cinquenta reais
+
+
+	Lote 06
+
+	Item
+	Código FURB
+	Qtde.
+	Und.
+	Descrição do Item
+	Preço Unitário (em R$)
+	Preço Total do Item
+ (em R$)
+
+	1
+	38602
+	100
+	peça
+	Disco de corte estacionário para policorte, diamêtro 300mm, furo 25,4mm e espessura 2,5mm / para corte de aço inoxidavel rotação de trabalho 5100 RPM. Composição com alto teor de zircônio SEM ferro e enxofre, conforme Norma EN 12413. Qualidade conforme ST38 da RHORIUS ou superior.
+Marca: HD
+	25,84
+	2.584,00
+
+	2
+	38604
+	500
+	peça
+	Disco de corte extrafino para corte de aço inoxidável (uso em esmerilhadeira), diâmetro 115mm, furo 22,2mm e espessura 1,0mm / rotação de trabalho 13285 RPM (80m/s) para máquina elétrica com potência superior 1000W.  Composição abrasiva com “hydro protect” (grãos abrasivos revestidos com uma barreira protetora) e NÃO deverá ter ferro e enxofre conforme Norma EN 12413. Qualidade conforme XT10 da RHORIUS ou superior.
+Marca: HD
+	5,78
+	2.890,00
+
+	3
+	15773
+	20
+	lata
+	Fluído de corte para todos os metais, inclusive alumínio. Composição básica: composto de solventes orgânicos voláteis, anti-corrosivos e óleos lubricantes. Lata com 500ml.
+Marca: Vonder
+	45,56
+	911,20
+
+	4
+	22696
+	5
+	peça
+	Rolo de arame para solda MIG fio 0,8mm. Com 15kg.
+Marca: Energyacr
+	169,26
+	846,30
+
+	5
+	37170
+	50
+	peça
+	Escova cônica trançada de aço temperado de 115mm (4 1/2"), para esmerilhadeira com rotação até 12500 RPM; sistema de encaixe porca M14.
+Marca: Vonder
+	29,37
+	1.468,50
+
+	Preço Total do Lote
+
+ (em reais, R$)
+	8.700,00
+
+	Preço Total do Lote
+
+ (em reais, por extenso)
+	Oito mil e setecentos reais
+
+
+	Lote 08
+
+	Item
+	Código FURB
+	Qtde.
+	Und.
+	Descrição do Item
+	Preço Unitário (em R$)
+	Preço Total do Item
+ (em R$)
+
+	1
+	38605
+	10
+	barra
+	Aço inoxidável AISI 316. diâmetro 3/8". Comprimento 6m.
+Marca: Feital
+	153,25
+	1.532,50
+
+	2
+	38606
+	10
+	barra
+	Aço inoxidável AISI 316. diâmetro 5/16". Comprimento 6m.
+Marca: Feital
+	108,21
+	1.082,10
+
+	3
+	38607
+	10
+	barra
+	Aço inoxidável AISI 316. diâmetro 1/4". Comprimento 6m.
+Marca: Feital
+	68,70
+	687,00
+
+	4
+	38608
+	10
+	barra
+	Aço inoxidável AISI 316. diâmetro 3/16". Comprimento 6m.
+Marca: Feital
+	49,84
+	498,40
+
+	Preço Total do Lote
+
+ (em reais, R$)
+	3.800,00
+
+	Preço Total do Lote
+
+ (em reais, por extenso)
+	Três mil e oitocentos reais
+
+
+	Lote 09
+
+	Item
+	Código FURB
+	Qtde.
+	Und.
+	Descrição do Item
+	Preço Unitário (em R$)
+	Preço Total do Item
+ (em R$)
+
+	1
+	7618
+	10
+	Quilo
+	Eletrodos para solda elétrica 2,5mm. Comprimento 350mm. Confome Norma E6013. Referência OK 46.00
+Marca: Magma
+	24,00
+	240,00
+
+	Preço Total do Lote
+
+ (em reais, R$)
+	240,00
+
+	Preço Total do Lote
+
+ (em reais, por extenso)
+	Duzentos e quarenta reais
+
+
+	Lote 10
+
+	Item
+	Código FURB
+	Qtde.
+	Und.
+	Descrição do Item
+	Preço Unitário (em R$)
+	Preço Total do Item 
+(em R$)
+
+	1
+	38619
+	50
+	peça
+	Lixa flap disco diâmetro 115 x 22mm, para desbaste e acabamento de aço inoxidável - grão G40 / para equipamento de 13300 RPM. Características: mineral óxido de alumínio zircônia – costado pano peso Y - adesivo resina sobre resina – camada fechada – granulometria Norma ANSI. Ref. 564D da 3M ou superior.
+Marca: HD
+	9,93
+	496,50
+
+	2
+	38620
+	50
+	peça
+	 Lixa flap disco diâmetro 115 x 22mm, para desbaste e acabamento de aço inoxidável - grão G60 / para equipamento de 13300 RPM. Características: mineral óxido de alumínio zircônia – costado pano peso Y - adesivo resina sobre resina – camada fechada – granulometria Norma ANSI. Ref. 564D da 3M ou superior.
+	10,05
+	502,50
+
+	3
+	38621
+	50
+	peça
+	Lixa flap disco diâmetro 115 x 22mm, para desbaste e acabamento de aço inoxidável - grão G80 / para equipamento de 13300 RPM. Características: mineral óxido de alumínio zircônia – costado pano peso Y - adesivo resina sobre resina – camada fechada – granulometria Norma ANSI. Ref. 564D da 3M ou superior.
+Marca: HD
+	10,26
+	513,00
+
+	4
+	27628
+	50
+	peça
+	 Disco lixa 4 ½” - Disco de fibra tipo C diâmetro 115 x 22mm, para desbaste e acabamento de aço inoxidável - grão 36 / para equipamento de 6500 RPM. Características: mineral óxido de alumínio – costado fibra vulcanizada - adesivo resina sobre resina – camada fechada – granulometria Norma ANSI. Ref. 281 C da 3M ou superior.
+Marca: HD
+	5,98
+	299,00
+
+	5
+	27629
+	50
+	peça
+	Disco lixa 4 ½” - Disco de fibra tipo C diâmetro 115 x 22mm, para desbaste e acabamento de aço inoxidável - grão 50 / para equipamento de 6500 RPM. Características: mineral óxido de alumínio – costado fibra vulcanizada - adesivo resina sobre resina – camada fechada – granulometria Norma ANSI. Ref. 281 C da 3M ou superior.
+Marca: HD
+	5,89
+	294,50
+
+	6
+	27630
+	50
+	peça
+	 Disco lixa 4 ½” - Disco de fibra tipo C diâmetro 115 x 22mm, para desbaste e acabamento de aço inoxidável - grão 60 / para equipamento de 6500 RPM. Características: mineral óxido de alumínio – costado fibra vulcanizada - adesivo resina sobre resina – camada fechada – granulometria Norma ANSI. Ref. 281 C da 3M ou superior.
+Marca: HD
+	5,89
+	294,50
+
+	Preço Total do Lote
+
+ (em reais, R$)
+	2.400,00
+
+	Preço Total do Lote
+
+ (em reais, por extenso)
+	Dois mil e quatrocentos reais
+
+
+PAGAMENTO: O pagamento será efetuado em até 30 (trinta) dias consecutivos após a efetiva entrega (com descarga) dos materiais/produtos, desde que os mesmos estejam em perfeitas condições de uso, sejam aprovados pelo Gestor designado pela CONTRATANTE e sigam acompanhados da respectiva Nota Fiscal Eletrônica (NF-e), através de depósitos bancários (hipótese na qual a NF-e deverá conter os dados bancários da CONTRATADA) ou de boletos bancários (caso no qual tais documentos deverão acompanhar a NF-e).
+PRAZO DE VIGÊNCIA: A presente Ata de Registro de Preços terá a validade de 12 (doze) meses, contados a partir da data de sua assinatura.
+DATA: 26/05/2020.

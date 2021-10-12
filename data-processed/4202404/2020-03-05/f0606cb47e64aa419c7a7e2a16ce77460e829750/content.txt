@@ -1,0 +1,165 @@
+
+FUNDAÇÃO UNIVERSIDADE REGIONAL DE BLUMENAU
+
+Extrato nº. 035/2020
+PARTES:
+FUNDAÇÃO UNIVERSIDADE REGIONAL DE BLUMENAU
+E
+
+SANIMED INDÚSTRIA E COMÉRCIO DE PRODUTOS HOSPITALARES EIRELI EPP
+OBJETO: Registro de preços para aquisições futuras de materiais médico hospitalar e de higiene e beleza para a Universidade.
+FUNDAMENTO LEGAL: Concorrência (SRP) nº 455/2019 e Ata (SRP) nº 015/2020 firmado em 05 de março de 2020. 
+PREÇO: O preço ofertado pela empresa signatária da presente Ata de Registro de Preços é o abaixo informado, de acordo com a respectiva classificação:
+	Item
+	Código FURB
+	Qtde. Estimada
+	Und.
+	Descrição dos Produtos
+	Marca e Modelo
+	Preço
+
+Unitário
+	Preço Total do Item
+
+	42
+	39408
+	30
+	Caixa    
+	Caixa para acondicionamento de material perfurocortante / em papelão / cor amarela / capacidade total 3L / caixa com 20 unidades
+	Descarbox
+	35,58
+	1.067,40
+
+	91
+	24647
+	20
+	Peça
+	Extensor intermediário de quatro vias 
+para administração de medicações
+parenterais compatíveis.
+Tubo transparente em PVC , látex livre conectores luer slip com paciente e conectores distais luer femea com protetor de cone com pinça tipo clamp . Apirogênico e estéril.
+	Vital Gold
+	0,68
+	13,60
+
+	98
+	35207
+	100
+	Caixa
+	Fio de sutura nylon 3-0 / com agulha de aço inoxidável 3/8 cuticular 30 mm/ fios com 45 cm de comprimento / Monofilamentar, estéril, não absorvível, composta de polímeros alifáticos de cadeia longa, Nylon 6 e Nylon 6,6. Tingido de preto. Caixa c/ aproximadamente 24 envelopes.
+	Supermedy
+	28,60
+	2.860,00
+
+	100
+	8965
+	30
+	Caixa     
+	Fio Mononylon 2-0 / com agulha de 3cm cortante 3/8 / caixa com 24 unidades
+	Supermedy
+	28,60
+	858,00
+
+	104
+	8457
+	60
+	Rolo      
+	Fita Adesiva Microporosa / largura 25mm / comprimento 10m
+	Missner
+	1,96
+	117,60
+
+	105
+	8473
+	50
+	Rolo      
+	Fita Adesiva Microporosa/ largura 50mm / comprimento 10m
+	Missner
+	3,98
+	199,00
+
+	109
+	8430
+	20
+	Quilo
+	Gel para ultrassom / 1kg.
+	Multigel
+	4,40
+	88,00
+
+	114
+	21740
+	10
+	Caixa    
+	Lâmina para bisturi número 11 / caixa com 100 lâminas
+	Advantive
+	23,40
+	234,00
+
+	119
+	6079
+	10
+	Peça
+	Lanterna pequena (tipo lapiseira)
+	Pen Light
+	9,10
+	91,00
+
+	163
+	34083
+	5
+	Peça
+	Reanimador (ressuscitador) manual adulto (ambu) / balão auto-inflável de silicone / válvula unidirecional / com reservatório para oxigênio fechado / volume 2600ml / máscara adulto de PVC transparente, atóxica.
+	Pharmatex
+	148,60
+	743,00
+
+	265
+	39961
+	3
+	Peça
+	Balança eletrônica digital infantil (pediátrica); capacidade 25kg; divisão de 2g até 10kg e de 5g de 10 a 25kg; concha anatômica com capa almofadada higienizável e atóxica; bivolt automático; pés antiderrapantes em borracha sintética.
+	Balmak
+	620,80
+	1.862,40
+
+	270
+	36678
+	5
+	Peça
+	Esfigmomanômetro neonatal (aparelho de pressão arterial) / braçadeira neonatal em nylon anti-alérgico com fecho em velcro / manômetro aneróide resistente / pêra e manguito em latex / válvula em rosca de metal cromado / com estojo (selo INMETRO) / Tamanho da braçadeira 10cm.
+	Glicomed
+	68,60
+	343,00
+
+	271
+	24011
+	5
+	Peça
+	Esfigmomanômetro pediátrico (aparelho de pressão arterial) / braçadeira pediátrica em nylon anti-alérgico com fecho em velcro / manômetro aneróide resistente / pêra e manguito em latex / válvula em rosca de metal cromado / com estojo (selo INMETRO) / Tamanho da braçadeira a ser definida no pedido de compra.
+	Glicomed
+	59,90
+	299,50
+
+	272
+	15128
+	5
+	Peça 
+	Esfigmomanômetro adulto (aparelho de pressão arterial) / braçadeira adulta em nylon anti-alérgico com fecho em velcro / manômetro aneróide resistente / pêra e manguito em látex / válvula em rosca de metal cromado / com estojo / selo INMETRO / Tamanho da braçadeira a ser definida no pedido de compra.
+	Glicomed
+	50,88
+	254,40
+
+	273
+	10587
+	5
+	Peça     
+	Esfigmomanômetro adulto para obeso (aparelho de pressão arterial) / manômetro aneróide resistente / braçadeira adulta em nylon anti-alérgico / fecho em velcro / pêra e manguito em latex / válvula em rosca de metal cromado / com estojo / selo INMETRO / Tamanho da braçadeira a ser definida no pedido.
+	Glicomed
+	69,80
+	349,00
+
+
+PAGAMENTO: O pagamento será realizado em até 30 (trinta) dias consecutivos após a efetiva entrega (com descarga) do(s) material(is), desde que estes sejam aprovados pela Gestão Contratual e acompanhados da respectiva Nota Fiscal Eletrônica (NF-e), através de depósito bancário (hipótese na qual a NF-e deverá conter os dados bancários da CONTRATADA) ou de boleto bancário (caso no qual tal documento deverá acompanhar a NF-e)
+PRAZO DE VIGÊNCIA: A presente Ata de Registro de Preços terá a validade de 12 (doze) meses, contados a partir da data de sua assinatura.
+DATA: 05/03/2019

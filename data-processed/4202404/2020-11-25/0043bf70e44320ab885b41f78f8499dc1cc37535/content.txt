@@ -1,0 +1,251 @@
+
+FUNDAÇÃO UNIVERSIDADE REGIONAL DE BLUMENAU
+
+Extrato nº. 509/2020
+PARTES:  FUNDAÇÃO UNIVERSIDADE REGIONAL DE BLUMENAU
+
+E
+
+                  PAULO ROBERTO DOS SANTOS (SEVEN PRODUTOS DE LIMPEZA)
+OBJETO: Registro de preços para aquisições futuras de materiais de limpeza para Universidade.
+FUNDAMENTO LEGAL: Concorrência (SRP) nº 204/2020 e Ata de Registro de Preços nº 223/2020, firmada em 20 de novembro de 2020.  
+	Lote 2
+
+	Item
+	Código FURB
+	Qtde.
+	Und.
+	Descrição do Item
+	Marca/
+
+Modelo
+	Preço Unitário (em R$)
+	Preço Total do Item (em R$)
+
+	1
+	27442
+	50
+	Peça
+	Disco de fibra sintética para limpeza / cor preta / resistente à água, detergentes e limpadores / normalmente usados para manutenção de pisos / diâmetro 350mm.
+	British
+	12,00
+	600,00
+
+	2
+	27441
+	100
+	Peça
+	Disco de fibra sintética para lustrar cera / cor branca / com boa resistência / diâmetro 350mm.
+	British
+	12,00
+	1.200,00
+
+	3
+	25782
+	200
+	Peça
+	Disco de fibra sintética para limpeza / cor verde / resistente à água, detergentes e limpadores / normalmente usados para manutenção de pisos / diâmetro 350 mm.
+	British
+	12.00
+	2.400,00
+
+	4
+	27440
+	10
+	Peça
+	Disco de fibra sintética para limpeza / cor verde / resistente à água, detergentes e limpadores / normalmente usados para manutenção de pisos / diâmetro 410mm.
+	British
+	17,00
+	170,00
+
+	5
+	23750
+	10
+	Peça
+	Disco de fibra sintética para limpeza / cor verde / resistente à água, detergentes e limpadores / normalmente usados para manutenção de pisos / diâmetro 510mm.
+	British
+	25,00
+	250,00
+
+	6
+	575
+	6.000
+	Peça
+	Esponja dupla face verde/amarela / tamanho 75mm x 110mm x 20mm / composição: espuma de poliuretano com bactericida e fibra sintética com mineral abrasivo na cor verde.
+	Spon Limpa
+	0,50
+	3.000,00
+
+	7
+	19937
+	50
+	Peça
+	Fibra de limpeza leve / cor branca / medidas 102mm x 260mm x 10,5mm / composição: manta não-tecido de fibras sintéticas, unidas com resina à prova d'água.
+	British
+	1,25
+	62,50
+
+	8
+	640
+	5.000
+	Peça
+	Fibra sintética com mineral abrasivo para limpeza geral / cor verde / medidas 260mm x 102mm x 8mm / composição: manta não-tecido de fibras sintéticas e mineral abrasivo unidos por resina à prova d´água.
+	British
+	1,00
+	5.000,00
+
+	9
+	37828
+	200
+	Peça
+	Esponja dupla face ANTI-RISCO, tamanho 75mm x 110mm x 20mm/ composição: espuma de poliuretano com bactericida e fibra sintética com mineral baixa abrasividade na cor azul/azul.
+	Condor
+	1,50
+	300,00
+
+	10
+	34927
+	200
+	Peça
+	Esponja de fibra sintética com mineral abrasivo para limpeza pesada de grelhas e churrasqueiras / medidas 125 x 87 x 20mm na cor verde.
+	British
+	1,79
+	358,00
+
+	Preço Total do Lote 
+
+(em R$)
+	13.340,50
+
+	Preço Total do Lote 
+
+(em reais, por extenso)
+	Treze mil, trezentos e quarenta reais e cinquenta centavos.
+
+
+	Lote 3
+
+	Item
+	Código FURB
+	Qtde.
+	Und.
+	Descrição do Item
+	Marca/
+
+Modelo
+	Preço Unitário (em R$)
+	Preço Total do Item (em R$)
+
+	1
+	19995
+	15
+	Peça
+	Conjunto mop pó acrílico de 60cm x 15cm composto por: 1) armação dobrável euro com canopla para fixação do cabo; 2) cabo liso em alumínio anodizado de 1,4m de comprimento e no mínimo 22 mm de diâmetro com manopla ergonômica e 3) refil mop pó profi (luva composta por fios 100%  acrílicos que permitem uma estática natural), com a parte superior confeccionada em tecido sintético lavável e de fácil secagem; abertura com sistema de fechamento por laços.
+	Bralimpa
+	50,00
+	750,00
+
+	2
+	27445
+	50
+	Peça
+	Cabo liso em alumínio anodizado natural / diâmetro de 22mm / comprimento de 1,4m / com manopla de borracha em uma das extremidades
+	Twist
+	13.00
+	650,00
+
+	3
+	24036
+	100
+	Peça
+	Refil mop pó profi acrílico de 60cm x 15cm - Luva composta por fios 100%  acrílicos que permitem uma estática natural / parte superior confeccionada com tecido sintético lavável e de fácil secagem / abertura com sistema de fechamento por laços
+	Bralimpa
+	22,00
+	2.200,00
+
+	4
+	27433
+	15
+	Peça
+	Refil mop pó profi acrílico de 80cm x 15cm - Luva composta por fios 100%  acrílicos que permitem uma estática natural / parte superior confeccionada com tecido sintético lavável e de fácil secagem / abertura com sistema de fechamento por laços
+	Bralimpa
+	40,00
+	600,00
+
+	5
+	27435
+	10
+	Peça
+	Refil mop pó profi acrílico de 100cm x 15cm - Luva composta por fios 100% acrílicos que permitem uma estática natural / parte superior confeccionada com tecido sintético lavável e de fácil secagem / abertura com sistema de fechamento por laços
+	Bralimpa
+	54,00
+	540,00
+
+	6
+	536
+	80
+	Peça
+	Rodo industrial em nylon reforçado / largura de 45 cm / com lâmina de borracha dupla preta / sem cabo / sistema de acoplamento do cabo ao rodo por canopla
+	Nycol
+	13,00
+	1.040,00
+
+	7
+	20089
+	50
+	Peça
+	Suporte para fibras de limpeza / dimensões 102mm x 260mm / com movimento giratório / com canopla para a fixação do cabo / produzido em plástico inflexível / moldado com ganchos para fixação da fibra / com cabo liso em alumínio anodizado de 1,4m de comprimento e no mínimo 22mm de diâmetro com manopla ergonômica
+	Twist
+	19,00
+	950,00
+
+	Preço Total do Lote 
+
+(em R$)
+	6.730,00
+
+	Preço Total do Lote 
+
+(em reais, por extenso)
+	Seis mil, setecentos e trinta reais.
+
+
+	Lote 23
+
+	Item
+	Código FURB
+	Qtde.
+	Und.
+	Descrição do Item
+	Marca/
+
+Modelo
+	Preço Unitário (em R$)
+	Preço Total do Item (em R$)
+
+	1
+	29584
+	15
+	Peça
+	Rodo industrial em nylon reforçado / largura de 70 cm MINÍMO / com lâmina de borracha dupla preta / com cabo de alumínio de 1,40m de comprimento com manopla de borracha / sistema de acoplamento do cabo ao rodo por canopla.
+	Nycol
+	22,00
+	330,00
+
+	Preço Total do Lote 
+
+(em R$)
+	330,00
+
+	Preço Total do Lote 
+
+(em reais, por extenso)
+	Trezentos e trinta reais
+
+
+PREÇO: O preço ofertado pela empresa signatária da presente Ata de Registro de Preços é o abaixo informado, de acordo com a respectiva classificação:
+
+PAGAMENTO: O pagamento será realizado em até 30 (trinta) dias consecutivos após a efetiva entrega (com descarga) do(s) material(is), desde que estes sejam aprovados pela Gestão Contratual e acompanhados da respectiva Nota Fiscal Eletrônica (NF-e), através de depósito bancário (hipótese na qual a NF-e deverá conter os dados bancários da CONTRATADA) ou de boleto bancário (caso no qual tal documento deverá acompanhar a NF-e).
+PRAZO DE VIGÊNCIA: A presente Ata de Registro de Preços terá a validade de 12 (doze) meses, contados a partir da data de sua assinatura.
+
+DATA: 24/11/2020.

@@ -1,0 +1,148 @@
+
+Prefeitura Municipal da Serra 
+Espirito Santo 
+
+DECRETO Nº 6943/2020 
+O PREFEITO MUNICIPAL DA SERRA, ESPÍRITO SANTO, usando de suas atribuições legais, e com base no artigo 9º inciso 
+I da Lei nº 5.155/2020 de 10/01/2020; 
+
+D E C R E T A: 
+Art. 1º. Ficam suplementadas no orçamento vigente as dotações orçamentárias constantes do Anexo I. 
+Art. 2º. Para efeito das suplementações constante no Artigo anterior, ficam anuladas as dotações orçamentárias, indicada 
+no anexo II. 
+Art. 3º. Este Decreto entra em vigor na data de sua publicação, revogadas as disposições em contrário 
+
+Palácio Municipal, em Serra, em 26 de novembro de 2020 
+AUDIFAX CHARLES PIMENTEL BARCELOS 
+
+Prefeito Municipal 
+JAIRO DE CARVALHO GUIMARÃES JÚNIOR 
+
+Secretário Municipal de Planejamento Estratégico em Substituição 
+CRÉDITO ADICIONAL SUPLEMENTAR - ANEXO I - SUPLEMENTAÇÃO 
+
+R$ 1,00 
+
+CÓDIGO ESPECIFICAÇÃO NATUREZA FR VALOR 
+
+05.00.00 SEC. ADM. E RECURSOS HUMANOS    
+
+05.01.00 Sec. Adm. e Recursos Humanos    
+
+04.122.0530.2003 Manutenção e Conservação de Bens Imóveis 3.3.90.34.00 1.001.0000.0000 68.000 
+
+04.122.0530.2004 Manutenção dos Serviços de Transporte 3.3.90.39.00 1.001.0000.0000 32.000 
+
+08.00.00 SECRETARIA DE OBRAS    
+
+08.01.00 Secretaria de Obras    
+
+15.451.0100.2127 Manter, Reformar, Adequar e Ampliar Sistema, Equip 4.4.90.51.00 2.001.0000.0000 400.000 
+
+10.00.00 SEC. TURISMO, CULTURA, ESPORTE E LAZER    
+
+10.01.00 Sec. Turismo, Cultura, Esporte e Lazer    
+
+13.391.0150.2226 Apoiar e Fomentar as Manifestações Culturais da Ci 3.3.90.39.00 1.001.0000.0000 624.000 
+
+12.00.00 SECRETARIA DE SAUDE    
+
+12.01.00 Fundo Municipal de Saúde    
+
+10.122.0530.2001 Pagamento de Pessoal e Encargos 3.1.90.92.00 1.211.0000.0000 40.000 
+
+24.00.00 ENCARGOS GERAIS DO MUNICIPIO    
+
+24.01.00 Rec. Sob Supervisão Sefa/Proger    
+
+28.841.0000.3288 Juros, Amortização e Encargos da Dívida Pública 3.1.91.13.00 1.001.0000.0000 11.300.000 
+  TOTAL  12.464.000 
+
+ 
+CRÉDITO ADICIONAL SUPLEMENTAR - ANEXO II - ANULAÇÃO 
+
+R$ 1,00 
+
+CÓDIGO ESPECIFICAÇÃO NATUREZA FR VALOR 
+
+05.00.00 SEC. ADM. E RECURSOS HUMANOS    
+
+05.01.00 Sec. Adm. e Recursos Humanos    
+
+04.122.0050.1210 Desenvolvimento de Sistemas de Informação 3.3.90.39.00 1.001.0000.0000 5.000 
+
+04.122.0050.1210 Desenvolvimento de Sistemas de Informação 4.4.90.39.00 1.001.0000.0000 5.000 
+
+04.122.0050.1212 Modernização Tecnológica e Fortalecimento Instituc 3.3.90.30.00 1.001.0000.0000 5.000 
+
+04.122.0050.1212 Modernização Tecnológica e Fortalecimento Instituc 3.3.90.36.00 1.001.0000.0000 5.000 
+
+04.122.0050.1212 Modernização Tecnológica e Fortalecimento Instituc 3.3.90.39.00 1.001.0000.0000 5.000 
+
+04.122.0050.1212 Modernização Tecnológica e Fortalecimento Instituc 3.3.90.92.00 1.001.0000.0000 2.000 
+
+04.122.0050.1212 Modernização Tecnológica e Fortalecimento Instituc 4.4.90.52.00 1.001.0000.0000 5.000 
+
+04.122.0050.2211 Modernização da Gestão Pública e Controle de Gasto 3.3.90.30.00 1.001.0000.0000 10.000 
+
+04.122.0050.2211 Modernização da Gestão Pública e Controle de Gasto 3.3.90.36.00 1.001.0000.0000 5.000 
+
+04.122.0050.2211 Modernização da Gestão Pública e Controle de Gasto 3.3.90.92.00 1.001.0000.0000 5.000 
+
+04.122.0050.2211 Modernização da Gestão Pública e Controle de Gasto 4.4.90.52.00 1.001.0000.0000 5.000 
+
+04.122.0060.1071 Implantar Plano de Cargos, Carreiras e Vencimentos 3.3.90.30.00 1.001.0000.0000 5.000 
+
+04.122.0060.1071 Implantar Plano de Cargos, Carreiras e Vencimentos 3.3.90.36.00 1.001.0000.0000 5.000 
+
+04.122.0060.1071 Implantar Plano de Cargos, Carreiras e Vencimentos 3.3.90.92.00 1.001.0000.0000 5.000 
+
+04.122.0060.1074 Realizar Concurso Público 3.3.90.39.00 1.001.0000.0000 5.000 
+
+04.122.0060.1074 Realizar Concurso Público 3.3.90.92.00 1.001.0000.0000 1.000 
+
+04.122.0060.1074 Realizar Concurso Público 3.3.90.93.00 1.001.0000.0000 1.000 
+
+04.122.0060.2073 Qualificar e Capacitar os Servidores Públicos Muni 3.3.90.14.00 1.001.0000.0000 5.000 
+
+04.122.0060.2073 Qualificar e Capacitar os Servidores Públicos Muni 3.3.90.30.00 1.001.0000.0000 5.000 
+
+04.122.0060.2073 Qualificar e Capacitar os Servidores Públicos Muni 3.3.90.33.00 1.001.0000.0000 5.000 
+
+04.122.0060.2073 Qualificar e Capacitar os Servidores Públicos Muni 3.3.90.36.00 1.001.0000.0000 5.000 
+
+
+
+CRÉDITO ADICIONAL SUPLEMENTAR - ANEXO II - ANULAÇÃO 
+R$ 1,00 
+
+CÓDIGO ESPECIFICAÇÃO NATUREZA FR VALOR 
+
+04.122.0060.2073 Qualificar e Capacitar os Servidores Públicos Muni 3.3.90.92.00 1.001.0000.0000 1.000 
+
+08.00.00 SECRETARIA DE OBRAS    
+
+08.01.00 Secretaria de Obras    
+
+15.451.0100.1123 Construir, Reformar e Ampliar Prédios Administrati 4.4.90.51.00 2.001.0000.0000 400.000 
+
+12.00.00 SECRETARIA DE SAUDE    
+
+12.01.00 Fundo Municipal de Saúde    
+
+10.122.0530.2001 Pagamento de Pessoal e Encargos 3.1.91.92.00 1.211.0000.0000 20.000 
+
+10.305.0530.2001 Pagamento de Pessoal e Encargos 3.1.90.04.00 1.211.0000.0000 20.000 
+
+24.00.00 ENCARGOS GERAIS DO MUNICIPIO    
+
+24.01.00 Rec. Sob Supervisão Sefa/Proger    
+
+28.841.0000.3288 Juros, Amortização e Encargos da Dívida Pública 3.2.90.21.00 1.001.0000.0000 5.000.000 
+
+28.841.0000.3288 Juros, Amortização e Encargos da Dívida Pública 4.6.90.71.00 1.001.0000.0000 6.924.000 
+  TOTAL  12.464.000 
+
+ 
+
+

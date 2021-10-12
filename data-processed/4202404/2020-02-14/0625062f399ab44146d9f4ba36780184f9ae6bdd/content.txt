@@ -1,0 +1,67 @@
+
+FUNDAÇÃO UNIVERSIDADE REGIONAL DE BLUMENAU
+
+Extrato nº. 028/2020
+PARTES:
+FUNDAÇÃO UNIVERSIDADE REGIONAL DE BLUMENAU
+e
+WORKCONNECT COMÉRCIO DE TELECOMUNICAÇÕES E INFORMÁTICA LTDA.
+ADITIVO DE ALTERAÇÃO CONTRATUAL QUALITATIVA.
+TERMO ADITIVO Nº 002 AO CONTRATO Nº 268/2019
+OBJETO: Contratação de empresa especializada para o fornecimento, instalação e manutenção de Data Center para a Universidade.
+
+FUNDAMENTO LEGAL: Pregão Presencial nº 151/2019 e Contrato nº. 268/2019, de 14 de novembro de 2019. 
+CLÁUSULA PRIMEIRA – DA ALTERAÇÃO: 
+
+Altera-se parcialmente a Cláusula Primeira, Lote 01, itens 07 e 11, que passam a ter a seguinte descrição:
+
+Altera-se parcialmente a Cláusula Primeira, Lote 01, item 09, que passa a ter a seguinte descrição: 
+
+CLÁUSULA PRIMEIRA – DO OBJETO, DO PRAZO, DO PREÇO E DO REAJUSTE:
+
+1.1.
+Constitui o objeto da presente a Contratação de empresa especializada para o fornecimento, instalação e manutenção de Data Center para a Universidade, conforme abaixo descrito e nos termos e condições do Edital e seus anexos, que passam a fazer parte integrante deste instrumento, independentemente de transcrição.
+
+1.2. 
+
+Pelo objeto contratado, a CONTRATANTE pagará o preço constante na tabela abaixo, de acordo com a proposta apresentada pela CONTRATADA:
+	Lote 01
+
+	Item
+	Código FURB
+	Quant.
+	Und.
+	Descrição do Item
+	Marca dos principais componentes
+	Modelo dos principais componentes
+	Preço Unitário (R$)
+	Preço Total Unitário (R$)
+
+	9
+	38989
+	8
+	kit
+	Kit de elétrica contendo: 50 metros de cabo PP 3X4mm afumex, 06 plugs macho e fêmea do tipo auto travante de 32A. O Comprimento do cabo é apenas estimativo devendo ser conferido no projeto executivo.  
+	· Prysrrian
+
+· Steck
+	· Cabo elétrico afumex 
+0.6k/1kv HEPR 
+
+3x4, Omrn - 26665079
+
+· Plugue macho 2P+T 32A com trava 
+· IP44 – S3276
+
+· S3276
+
+· Tomada 2P+T 32A IP44 - S3246
+
+	800,00
+	6.400,00
+
+
+CLÁUSULA SEGUNDA – DA MANUNTEÇÃO DAS DEMAIS CLÁUSULAS: 
+Permanecem inalteradas as demais cláusulas e condições previstas no Contrato de nº. 268/2019 e aditivo nº 001, que não conflitarem com o presente documento
+Blumenau/SC, 13 de fevereiro  de 2020.
+

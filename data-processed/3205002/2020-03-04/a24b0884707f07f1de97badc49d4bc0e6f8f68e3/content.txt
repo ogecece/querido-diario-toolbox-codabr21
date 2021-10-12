@@ -1,0 +1,126 @@
+
+Prefeitura Municipal da Serra 
+Estado do Espírito Santo 
+
+DECRETO Nº 5.819/2020 
+O PREFEITO MUNICIPAL DA SERRA, ESPÍRITO SANTO, usando de suas atribuições legais, e com base no 
+artigo 9º inciso I da Lei nº 5.155/2020 de 10/01/2020; 
+
+D E C R E T A: 
+
+Art. 1º. Ficam suplementadas no orçamento vigente as dotações orçamentárias constantes do Anexo I. 
+Art. 2º. Para efeito das suplementações constante no Artigo anterior, ficam anuladas as dotações orçamentárias, 
+indicada no anexo II. 
+Art. 3º. Este Decreto entra em vigor na data de sua publicação, revogadas as disposições em contrário 
+
+Palácio Municipal, em Serra, em 03 de março de 2020 
+AUDIFAX CHARLES PIMENTEL BARCELOS 
+
+Prefeito Municipal 
+LAURIETE CANEVA 
+
+Secretária de Planejamento Estratégico 
+CRÉDITO ADICIONAL SUPLEMENTAR - ANEXO I - SUPLEMENTAÇÃO 
+
+R$ 1,00 
+
+CÓDIGO ESPECIFICAÇÃO NATUREZA FR VALOR 
+
+06.00.00 SEC. DE PLANEJAMENTO ESTRATÉGICO    
+
+06.01.00 Sec. de Planejamento Estratégico    
+
+19.126.0080.2141 Ampliar e Manter a Rede de Fibra Ótica e Rádio 3.3.90.39.00 1.001.0000.0000 143.000 
+
+07.00.00 SECRETARIA DA FAZENDA    
+
+07.01.00 Secretaria da Fazenda    
+
+04.122.0530.2002 Manutenção dos Serviços Administrativos Gerais 3.3.90.39.00 1.001.0000.0000 50.000 
+
+11.00.00 SECRETARIA DE EDUCAÇÃO    
+
+11.01.00 Secretaria de Educação    
+
+12.361.0170.2034 Formação Continuada dos Profissionais da Educação 3.3.90.39.00 1.111.0000.0000 12.000 
+
+12.361.0530.2003 Manutenção e Conservação de Bens Imóveis 3.3.90.39.00 1.111.0000.0000 200.000 
+
+12.365.0170.2034 Formação Continuada dos Profissionais da Educação 3.3.90.39.00 1.111.0000.0000 7.000 
+
+12.365.0170.2278 Garantir e Manter a Aprendizagem na Educação Infan 3.3.90.39.00 1.111.0000.0000 19.000 
+
+12.365.0180.2099 Garantir e manter as atividades administrativas e 3.3.90.93.00 1.111.0000.0000 13.000 
+
+12.00.00 SECRETARIA DE SAUDE    
+
+12.01.00 Fundo Municipal de Saúde    
+
+10.301.0240.2205 Ampliar e Melhorar a Qualidade do Acesso na Atençã 3.3.90.30.00 1.211.0000.0000 1.020.000 
+
+10.303.0210.2190 Manter as Ações da Assistência Farmacêutica 3.3.90.30.00 1.211.0000.0000 800.000 
+  3.3.90.32.00 1.211.0000.0000 2.000.000 
+
+10.304.0200.2172 Executar e monitorar as ações de vigilância ambien 3.3.90.30.00 1.211.0000.0000 500.000 
+  TOTAL  4.764.000 
+
+ 
+CRÉDITO ADICIONAL SUPLEMENTAR - ANEXO II - ANULAÇÃO 
+
+R$ 1,00 
+
+CÓDIGO ESPECIFICAÇÃO NATUREZA FR VALOR 
+
+06.00.00 SEC. DE PLANEJAMENTO ESTRATÉGICO    
+
+06.01.00 Sec. de Planejamento Estratégico    
+
+19.126.0080.2141 Ampliar e Manter a Rede de Fibra Ótica e Rádio 3.3.90.30.00 1.001.0000.0000 110.000 
+  4.4.90.52.00 1.001.0000.0000 33.000 
+
+07.00.00 SECRETARIA DA FAZENDA    
+
+07.01.00 Secretaria da Fazenda    
+
+04.123.0090.1092 Gestão do Sistema de TI da Fazenda Municipal 4.4.90.52.00 1.001.0000.0000 40.000 
+
+04.123.0090.1094 Revisar e Atualizar as Alíquotas e Taxas 3.3.90.39.00 1.001.0000.0000 10.000 
+
+11.00.00 SECRETARIA DE EDUCAÇÃO    
+
+11.01.00 Secretaria de Educação    
+
+12.361.0180.2098 Descentralização de Recursos Financeiros na Educaç 3.3.50.43.00 1.111.0000.0000 251.000 
+
+12.00.00 SECRETARIA DE SAUDE    
+
+12.01.00 Fundo Municipal de Saúde    
+
+10.122.0530.2002 Manutenção dos Serviços Administrativos Gerais 3.3.90.14.00 1.211.0000.0000 5.000 
+  3.3.90.34.00 1.211.0000.0000 5.000 
+
+
+
+CRÉDITO ADICIONAL SUPLEMENTAR - ANEXO II - ANULAÇÃO 
+R$ 1,00 
+
+CÓDIGO ESPECIFICAÇÃO NATUREZA FR VALOR 
+  3.3.90.35.00 1.211.0000.0000 5.000 
+  3.3.90.36.00 1.211.0000.0000 5.000 
+
+10.122.0530.2003 Manutenção e Conservação de Bens Imóveis 3.3.90.34.00 1.211.0000.0000 1.400.000 
+  3.3.90.39.00 1.211.0000.0000 700.000 
+
+10.122.0530.2004 Manutenção dos Serviços de Transporte 3.3.90.30.00 1.211.0000.0000 50.000 
+
+10.301.0220.2200 Fortalecimento das Ações de Regulação, Controle e 3.3.90.39.00 1.211.0000.0000 50.000 
+
+10.302.0190.2195 Manter a rede de urgência e emergência. 3.3.50.39.00 1.211.0000.0000 1.800.000 
+
+10.303.0210.2191 Manutenção da distribuição de materiais médicos ho 3.3.90.30.00 1.211.0000.0000 100.000 
+  3.3.90.32.00 1.211.0000.0000 200.000 
+  TOTAL  4.764.000 
+
+ 
+
+

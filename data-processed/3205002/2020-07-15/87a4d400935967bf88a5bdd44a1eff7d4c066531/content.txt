@@ -1,0 +1,103 @@
+
+Prefeitura Municipal da Serra 
+Espirito Santo 
+
+DECRETO Nº 6283/2020 
+
+O PREFEITO MUNICIPAL DA SERRA, ESPÍRITO SANTO, usando de suas atribuições legais, e com base no artigo 9º inciso 
+I da Lei nº 5.155/2020 de 10/01/2020; 
+
+D E C R E T A: 
+
+Art. 1º. Ficam suplementadas no orçamento vigente as dotações orçamentárias constantes do Anexo I. 
+Art. 2º. Para efeito das suplementações constante no Artigo anterior, ficam anuladas as dotações orçamentárias, indicada 
+no anexo II. 
+Art. 3º. Este Decreto entra em vigor na data de sua publicação, revogadas as disposições em contrário 
+
+Palácio Municipal, em Serra, em 14 de julho de 2020 
+
+AUDIFAX CHARLES PIMENTEL BARCELOS 
+Prefeito Municipal 
+
+LAURIETE CANEVA 
+Secretária de Planejamento Estratégico 
+
+CRÉDITO ADICIONAL SUPLEMENTAR - ANEXO I - SUPLEMENTAÇÃO 
+R$ 1,00 
+
+CÓDIGO ESPECIFICAÇÃO NATUREZA FR VALOR 
+
+10.00.00 SEC. TURISMO, CULTURA, ESPORTE E LAZER    
+
+10.01.00 Sec. Turismo, Cultura, Esporte e Lazer    
+
+13.392.0150.2232 Valorizar e Preservar o Patrimônio Histórico Mater 3.3.90.93.00 1.001.0000.0000 18.000 
+
+12.00.00 SECRETARIA DE SAUDE    
+
+12.01.00 Fundo Municipal de Saúde    
+
+10.302.0230.2132 Ampliar e Melhorar dos Serviços de Atenção Especia 4.4.90.51.00 1.211.0000.0000 11.514.000 
+
+13.00.00 SECRETARIA DE ASSISTÊNCIA SOCIAL    
+
+13.01.00 Secretaria de Assistência Social    
+
+08.122.0530.2004 Manutenção dos Serviços de Transporte 3.3.90.30.00 1.001.0000.0000 170.000 
+
+13.02.00 Fundo Munic. Assistência Social    
+
+08.244.0250.1180 Desenvolver Ações de Segurança Alimentar e Nutrici 3.3.90.32.00 1.001.0000.0000 300.000 
+
+08.244.0250.2183 Manter e Desenvolver Serv. Continuados da Proteção 3.3.90.39.00 1.390.0010.0000 50.000 
+
+08.244.0280.2188 Garantir e Manter os Serviços Continuados de Prote 3.3.90.39.00 1.390.0010.0000 5.000 
+
+24.00.00 ENCARGOS GERAIS DO MUNICIPIO    
+
+24.01.00 Rec. Sob Supervisão Sefa/Proger    
+
+28.846.0000.3289 Pagamentos de Sentenças Judiciárias 3.1.90.91.00 1.620.0000.0000 11.514.000 
+  TOTAL  23.571.000 
+
+ 
+CRÉDITO ADICIONAL SUPLEMENTAR - ANEXO II - ANULAÇÃO 
+
+R$ 1,00 
+
+CÓDIGO ESPECIFICAÇÃO NATUREZA FR VALOR 
+
+09.00.00 SECRETARIA DE SERVIÇOS    
+
+09.01.00 Secretaria de Serviços    
+
+15.452.0120.2263 Intensificar e Modernizar a Manutenção do Sistema 3.3.90.39.00 1.620.0000.0000 11.514.000 
+
+10.00.00 SEC. TURISMO, CULTURA, ESPORTE E LAZER    
+
+10.01.00 Sec. Turismo, Cultura, Esporte e Lazer    
+
+27.813.0140.2222 Fomentar, Promover e Apoiar o Esporte e Lazer nas 3.3.90.31.00 1.001.0000.0000 18.000 
+
+13.00.00 SECRETARIA DE ASSISTÊNCIA SOCIAL    
+
+13.02.00 Fundo Munic. Assistência Social    
+
+08.244.0250.2178 Assegurar o Apoio Técnico e Financeiro das Metas P 3.3.50.43.00 1.001.0000.0000 115.000 
+
+08.244.0250.2182 Manter a oferta de Benefícios Eventuais da Assistê 3.3.90.39.00 1.001.0000.0000 300.000 
+
+08.244.0250.2183 Manter e Desenvolver Serv. Continuados da Proteção 3.3.90.30.00 1.001.0000.0000 55.000 
+
+08.244.0280.2188 Garantir e Manter os Serviços Continuados de Prote 3.3.90.30.00 1.390.0010.0000 55.000 
+
+24.00.00 ENCARGOS GERAIS DO MUNICIPIO    
+
+24.01.00 Rec. Sob Supervisão Sefa/Proger    
+
+28.846.0000.3289 Pagamentos de Sentenças Judiciárias 3.1.90.91.00 1.001.0000.0000 11.514.000 
+  TOTAL  23.571.000 
+
+ 
+
+

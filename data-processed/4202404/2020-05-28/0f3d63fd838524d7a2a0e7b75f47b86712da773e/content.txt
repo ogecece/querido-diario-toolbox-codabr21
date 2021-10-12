@@ -1,0 +1,154 @@
+
+FUNDAÇÃO UNIVERSIDADE REGIONAL DE BLUMENAU
+
+Extrato nº. 176/2020
+PARTES:  FUNDAÇÃO UNIVERSIDADE REGIONAL DE BLUMENAU
+
+E
+
+                 IMPÉRIO DO PAPEL COMÉRCIO DE PAPÉIS LTDA 
+OBJETO: Aquisição de materiais laboratoriais para uso em diversos setores da Universidade.
+FUNDAMENTO LEGAL: Pregão Presencial (SRP) nº 473/2019 e Ata de Registro de Preços nº 077/2020, firmado em 20 de maio de 2020.  
+	Item
+	Código FURB
+	Qtde.
+	Und.
+	Descrição do Item
+	Marca/
+
+Modelo
+	Garantia (se houver, em meses)
+	Preço Unitário (em R$)
+	Preço Total do Item (em R$)
+
+	1
+
+
+	32753
+	30
+	Peça
+	Cartucho de grampos para impressora Xerox WorkCentre 5890, com as seguintes características:
+
+Part numbers / Referências aceitas: 008R12912
+
+Compatibilidade: Compatível com impressora Xerox WorkCentre 5890
+
+Rendimento mínimo: 5.000 grampeamentos
+
+Características:
+· • Obrigatoriamente original do fabricante
+
+· • Deve ser de primeira linha do fabricante
+
+· • Não poderá ser remanufaturado
+
+Embalagem:
+· • Original do fabricante
+
+· • Obrigatoriamente com lacres de segurança holográficos originais e intactos
+
+· • Deverá ter a referência exata do fabricante impressa
+
+Garantia mínima: 03 (três) meses
+	Xerox 008R12912
+	3 meses
+	490,00
+	14.700,00
+
+
+
+	5
+
+
+	22961
+	120
+	Peça
+	Fonte ATX de 220W Reais, com as seguintes características:
+
+Padrão: ATX 12V
+
+Potência total de saída: mínimo de 220 Watts reais
+
+Tensão de entrada: Entre 110 e 230 volts, comutada através de chave seletora ou bivolt automático.
+
+Frequência da tensão de entrada: 50/60 Hz
+
+Ventilação: cooler de no mínimo 80x80 mm
+
+Conectores mínimos:
+· • 1 conector ATX de 24 pinos
+
+· • 1 conectores IDE ATA
+
+· • 2 conectores SATA
+
+· • 1 conector ATX de 12V
+
+Tipos de Proteção:
+· • Curto circuito
+
+· • Sobre tensão
+
+· • Sobre potência
+
+Acessórios inclusos: Cabo de energia padrão NBR 14136:2002
+
+Garantia mínima: 06 (seis) meses
+	Bluecase Blu 230-E Small
+	6 meses
+	68,00
+	8.160,00
+
+	6
+
+
+	39966
+	30
+	Peça
+	Fonte ATX 500W Reais com certificação 80 Plus, com as seguintes características:
+Padrão: ATX 12V
+
+Potência total de saída: mínimo de 500 Watts reais
+
+Tensão de entrada: Entre 110 e 230 volts, comutada através de chave seletora ou bivolt automático.
+
+Frequência da tensão de entrada: 50/60 Hz
+
+Ventilação: cooler de no mínimo 80x80 mm
+
+Certificação: 80 PLUS
+
+Conectores mínimos:
+· • 1 conector ATX de 24 pinos
+
+· • 1 conectores IDE ATA
+
+· • 3 conectores SATA
+
+· • 1 conector ATX de 12V
+
+· • 1 conector auxiliar de placa de vídeo PCI-Express de 6+2 pinos
+
+Tipos de Proteção:
+· • Curto circuito
+
+· • Sobre tensão
+
+· • Sobre potência
+
+Acessórios inclusos: Cabo de energia padrão NBR 14136:2002
+
+Garantia mínima: 06 (seis) meses
+	Bluecase Blu 500R-B
+	6 meses
+	225,00
+	6.750,00
+
+	Preço Total 
+(em R$ e por extenso)
+	29.610,00 (vinte e nove mil, seiscentos e dez reais)
+
+
+PAGAMENTO: O pagamento será realizado em até 30 (trinta) dias consecutivos após a efetiva entrega (com descarga) dos equipamento(s)/produto(s), desde que estes sejam aprovados pela Gestão Contratual e acompanhados da respectiva Nota Fiscal Eletrônica (NF-e), através de depósito bancário (hipótese na qual a NF-e deverá conter os dados bancários da CONTRATADA) ou de boleto bancário (caso no qual tal documento deverá acompanhar a NF-e).
+PRAZO DE VIGÊNCIA: A presente Ata de Registro de Preços terá a validade de 12 (doze) meses, contados a partir da data de sua assinatura.
+DATA: 27/05/2020.

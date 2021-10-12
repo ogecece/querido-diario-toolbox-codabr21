@@ -1,0 +1,131 @@
+FUNDAÇÃO UNIVERSIDADE REGIONAL DE BLUMENAU
+
+Extrato nº. 282/2020
+PARTES:
+FUNDAÇÃO UNIVERSIDADE REGIONAL DE BLUMENAU
+
+e a empresa
+
+SENIOR SITEMAS S/A. 
+ADITIVO DE PRORROGAÇÃO E REAJUSTE
+TERMO ADITIVO Nº 003 AO CONTRATO Nº. 076/2017
+OBJETO: prestação de Serviços de Suporte Técnico Mensal para Produtos de Gestão de Pessoas já em utilização na Universidade. 
+FUNDAMENTO LEGAL: Inexigibilidade nº. 074/2017 e Contrato nº. 076/2017, firmado em 1º de setembro de 2017.
+
+CLÁUSULA PRIMEIRA – DO PRAZO:
+
+O prazo de vigência previsto na Cláusula Primeira, Item 1.3 do Contrato nº 076/2017 fica prorrogado por mais doze (12) meses, a contar de 01 de setembro de 2020 até 31 de agosto de 2021, totalizando 48 (quarenta e oito) meses contratados.
+
+CLÁUSULA SEGUNDA – DO PREÇO:
+
+A Cláusula Primeira, Item 1.2 do Contrato nº. 076/2017 passa a ter a seguinte redação, a partir 1º de setembro de 2020:
+
+1.2. Pelo objeto contratado, a CONTRATANTE pagará o preço anual de R$ 53.243,40 (cinquenta e três mil, duzentos e quarenta e três reais e quarenta centavos) para os itens mensais e de R$ 90.452,44 (noventa mil, quatrocentos e cinquenta e dois reais e quarenta e quatro centavos) estimado para os itens sob demanda, constante nas seguintes tabelas: 
+
+· Itens mensais:
+
+	 Item
+	Código FURB
+	Qtde.
+	Und.
+	Qtde. Colaboradores
+	Descrição do Item
+	Preço Total do Item (em R$)
+
+	01
+	38193
+	12
+	Meses
+	2.700
+	Suporte mensal para software Senior - Rubi Win                                                       
+	19.547,04
+
+	03
+	38195
+	12
+	Meses
+	2.700
+	Suporte mensal para software Senior - Módulo Benefícios Win
+	4.910,52
+
+	04
+	38196
+	12
+	Meses
+	2.500
+	Suporte mensal para software Senior - Módulo Treinamento Win
+	8.305,92
+
+	05
+	38545
+	12
+	Meses
+	200
+	Suporte mensal para software Senior – Módulo Treinamento Win – ampliação de nº de colaboradores
+	
+
+	07
+	38197
+	12
+	Meses
+	12
+	Suporte mensal para software Senior - Portal                                                                                 
+	12.982,56
+
+	08
+	38201
+	12
+	Meses
+	10
+	Assinatura mensal para acesso a solução de educação continuada Senior - Gestão de Pessoas
+	6.346,08
+
+	10
+	38254
+	12
+	Meses
+	-
+	Suporte mensal para software Senior – Módulo de envio de informações ao TCE
+	2.242,56
+
+
+· Itens sob demanda:
+
+	Item
+	Código FURB
+	Qtde. ESTIMADA por ano
+	Und.
+	Descrição do Item
+	Preço Unitário (em R$)
+	Preço Total do Item (em R$)
+
+	11
+	38198
+	300
+	Horas
+	Hora Técnica de Customização para Consultor Senior – Consultor de implantação
+	226,46
+	67.938,00
+
+	12
+	38199
+	80
+	Horas
+	Hora Técnica de Customização para Consultor Senior – Analista de Ambiente de Tecnologia TI
+	239,64
+	19.171,20
+
+	13
+	38202
+	24
+	Horas
+	Hora Técnica para resolução de dúvidas em capacitações para Gestão de Pessoas Senior
+	216,56
+	5.197,44
+
+
+CLÁUSULA TERCEIRA – DA MANUTENÇÃO DAS DEMAIS CLÁUSULAS: 
+Permanecem inalteradas as demais cláusulas e condições previstas no Contrato nº 076/2017 e Termos Aditivo nº01 e 002, que não colidirem com o presente documento.
+
+Blumenau (SC), 28 de julho de 2020.
+

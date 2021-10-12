@@ -1,0 +1,389 @@
+
+FUNDAÇÃO UNIVERSIDADE REGIONAL DE BLUMENAU
+
+Extrato nº. 099/2020
+PARTES:
+FUNDAÇÃO UNIVERSIDADE REGIONAL DE BLUMENAU
+E
+
+MUNDIAL SOLUÇÕES LABORATORIAIS LTDA
+OBJETO: Registro de preços para aquisições futuras de materiais médico hospitalar e de higiene e beleza para a Universidade.
+FUNDAMENTO LEGAL: Concorrência (SRP) nº 448/2019 e Ata (SRP) nº 034/2020 que será firmada em 16 de março de 2020. 
+PREÇO: O preço ofertado pela empresa signatária da presente Ata de Registro de Preços é o abaixo informado, de acordo com a respectiva classificação:
+	Item
+	Código FURB
+	Qtde.
+	Und.
+	Descrição do Item
+	Marca
+	Preço Unitário 
+
+(em R$)
+	Preço Total do Item 
+
+(em R$)
+
+	5
+	10700
+	4
+	Frasco
+	Ágar ferro-açúcar triplo (triple sugar iron agar) / frasco de 500g
+	Kasvi
+	182,00
+	728,00
+
+	18
+	28272
+	20
+	Caixa
+	Agulha Vacuntainer múltipla / tamanho 25x0,7 mm / caixa com 100 agulhas.
+	Vacuplast
+	32,00
+	640,00
+
+	19
+	28273
+	20
+	Caixa
+	Agulha Vacuntainer múltipla / tamanho 25x0,8 mm / caixa com 100 agulhas.
+	Vacuplast
+	32,00
+	640,00
+
+	25
+	13796
+	10
+	Frasco
+	Azul de cresil-brilhante 100ml (C.I. 51010)
+	Newprov
+	22,00
+	220,00
+
+	40
+	33212
+	6
+	Kit
+	Cepa Escherichia Coli (ATCC 8739)
+	Newprov
+	82,00
+	492,00
+
+	41
+	24634
+	6
+	Frasco
+	Cepa padrão de Shigella flexineri (ATCC 12022) / frasco com 5 discos
+	Newprov
+	82,00
+	492,00
+
+	42
+	24635
+	15
+	Frasco
+	Cepa padrão de Streptococcus pyogenes (ATCC 19615) / frasco com 5 discos
+	Newprov
+	82,00
+	1.230,00
+
+	44
+	33211
+	20
+	Kit
+	Cepa Staphylococcus Aureus ATCC 6538
+	Newprov
+	82,00
+	1.640,00
+
+	46
+	10724
+	25
+	Frasco
+	Coagu plasma / frasco com 3ml
+	Laborclin
+	65,00
+	1.625,00
+
+	56
+	10512
+	6
+	Galão
+	Detergente enzimático para analisador hematológico modelo Cell-Dyn 1400 / galão de 20L
+	Diagon
+	189,00
+	1.134,00
+
+	106
+	10647
+	6
+	Litro
+	Fucsina (segundo Ziehl)/ frasco de 1 litro
+	Newprov
+	37,80
+	226,80
+
+	107
+	32119
+	20
+	Kit
+	HBSAG VIKIA teste rápido com 25 testes  
+	Wama
+	65,00
+	1.300,00
+
+	108
+	32120
+	20
+	Kit
+	HCV teste rápido com 25 testes (CASSETE) 
+	Wama
+	65,00
+	1.300,00
+
+	110
+	17419
+	6
+	Galão
+	Hemolisante para analisador hematológico Cell Dyn 1400 / galão de 4L
+	Diagon
+	170,00
+	1.020,00
+
+	129
+	23707
+	6
+	Kit
+	Kit de teste Elisa Giardia II / com 96 testes
+	Rbiopharm
+	1.500,00
+	9.000,00
+
+	132
+	24375
+	30
+	Kit
+	Kit de teste Elisa para cortisol (soro e plasma) / com controles / kit com 96 testes
+	RBC
+	750,00
+	22.500,00
+
+	139
+	24345
+	6
+	Kit
+	Kit de Waller Rose por hemoaglutinação / com 50 testes
+	Wana
+	123,00
+	738,00
+
+	144
+	9292
+	6
+	Kit
+	Kit GPT (ALT) / com 3 unidades de 20ml cada
+	Analisa
+	86,00
+	516,00
+
+	149
+	28593
+	6
+	Kit
+	Kit lipase K-025 / método colorimétrico / princípio do teste: lipase - tributirato ditiopropanol - DTNB
+	Analisa
+	146,00
+	876,00
+
+	158
+	36386
+	6
+	Kit
+	Kit para determinação de alanina aminotransferase (TGP/ALT) / Metodologia: U.V. otimizado (IFCC), Procedimento para automação / Apresentação: 04 frascos de reagente A (40 a 50ml) + 01 frasco de reagente B (40 a 50ml), prontos para o uso, em soluções líqui
+	Biotécnica
+	111,00
+	666,00
+
+	160
+	36391
+	20
+	Kit
+	Kit para determinação de amilase / Metodologia: Cinético, substrato CNPG3, Procedimento para automação / Apresentação: 03 frascos de 10ml, líquido, pronto para o uso.
+	Analisa
+	120,00
+	2.400,00
+
+	163
+	20685
+	10
+	Kit
+	Kit para determinação de CK-MB
+	Biotécnica
+	180,00
+	1.800,00
+
+	166
+	36398
+	6
+	Kit
+	Kit para determinação de Ferro / Metodologia: Ferene, Procedimento para automação / Apresentação: 01 frasco de 100ml + 01 frasco de 20ml
+	Biotécnica
+	99,50
+	597,00
+
+	167
+	36388
+	6
+	Kit
+	Kit para determinação de fosfatase alcalina (ALP) / Metodologia: Colorimétrico-cinético (IFCC), Procedimento para automação / Apresentação: 04 frascos de reagente A (40 a 50ml) + 01 frasco de reagente B (40 a 50ml), prontos para o uso, em soluções líquida
+	Analisa
+	60,00
+	360,00
+
+	168
+	36389
+	10
+	Kit
+	Kit para determinação de gama-GT (GGT) / Metodologia: Colorimétrico-cinético (IFCC), Procedimento para automação / Apresentação: 04 frascos de reagente A (20 a 50ml) + 01 frasco de reagente B (20 a 50ml), prontos para o uso, em soluções líquidas. / Estabi
+	Analisa
+	100,00
+	1.000,00
+
+	169
+	36390
+	6
+	Kit
+	Kit para determinação de lactato desidrogenase (LDH) / Metodologia: U.V. otimizado (IFCC), Procedimento para automação / Apresentação: 04 frascos de reagente A (20 a 50ml) + 01 frasco de reagente B (20 a 50ml), prontos para o uso, em soluções líquidas. / 
+	Analisa
+	54,00
+	324,00
+
+	174
+	10446
+	6
+	Kit
+	Kit para dosagem de bilirrubinas total e direta (sulfanílico diazotado) / kit com 2 frascos de 50ml cada + 2 frascos de 50ml cada
+	Analisa
+	90,00
+	540,00
+
+	178
+	10015
+	15
+	Kit
+	Kit para dosagem de creatinina cinética (picrato alcalino) / 5x100ml
+	Dialab
+	100,00
+	1.500,00
+
+	184
+	9367
+	10
+	Kit
+	Kit para dosagem de KPTT
+	Analisa
+	45,67
+	456,70
+
+	186
+	20684
+	6
+	Kit
+	Kit para dosagem de magnésio colorimétrico
+	Analisa
+	34,80
+	208,80
+
+	187
+	10053
+	15
+	Kit
+	Kit para dosagem de proteínas totais / kit com 2 frascos de reagentes de 250ml e 1 frasco de padrão de 5ml
+	Analisa
+	37,00
+	555,00
+
+	190
+	30483
+	10
+	Kit
+	Kit para dosagem de uréia CE / método colorimétrico / para 500 determinações / padrão incluído / comprimento de onda 600 nm (580 - 620 nm).
+	Analisa
+	100,00
+	1.000,00
+
+	201
+	20195
+	6
+	Kit
+	Kit TGO (AST) / reagente líquido pronto para uso / para reações em sistema semi-automatizado / com 4 frascos de 40ml + 40ml
+	Biotécnica
+	111,00
+	666,00
+
+	204
+	20258
+	6
+	Frasco
+	Lactose / frasco com 500g
+	Newprov
+	36,00
+	216,00
+
+	247
+	36802
+	14
+	Frasco
+	Sangue de carneiro desfibrilado / frasco de 50ml
+	Newprov
+	59,00
+	826,00
+
+	249
+	24291
+	10
+	Frasco
+	Solução de MIF (mercúrio/iodo/formol); frasco de 1 litro
+	Renylab
+	20,00
+	200,00
+
+	250
+	25214
+	6
+	Frasco
+	Solução de Sudam III para coloração / frasco de 100ml.
+	Biotec
+	79,00
+	474,00
+
+	265
+	36399
+	20
+	Kit
+	Tiras reativas para urina com 10 áreas (parâmetros) e uma área de compensação ou banda identificativa. / Metodologia: Química seca / Apresentação: Caixa com 100 tiras reativas
+	Wama
+	30,00
+	600,00
+
+	268
+	25929
+	20
+	Caixa
+	Tubo de coleta à vácuo siliconizado / tampa vermelha / volume 5ml / caixa com 100 unidades
+	FirstLab
+	49,50
+	990,00
+
+	272
+	10479
+	20
+	Caixa
+	Tubo para Vacuntainer / volume 5ml / com anticoagulante EDTA / caixa com 100 tubos.
+	First
+	42,00
+	840,00
+
+
+PAGAMENTO: O pagamento será efetuado em até 20 (vinte) dias consecutivos após a efetiva entrega (com descarga) dos materiais, desde que os mesmos estejam em perfeitas condições de uso, sejam aprovados pelo Gestor designado pela CONTRATANTE e sigam acompanhados da respectiva Nota Fiscal Eletrônica (NF-e), através de depósitos bancários (hipótese na qual a NF-e deverá conter os dados bancários da CONTRATADA) ou de boletos bancários (caso no qual tais documentos deverão acompanhar a NF-e).
+PRAZO DE VIGÊNCIA: A presente Ata de Registro de Preços terá a validade de 12 (doze) meses, contados a partir da data de sua assinatura.
+DATA: 16/03/2020

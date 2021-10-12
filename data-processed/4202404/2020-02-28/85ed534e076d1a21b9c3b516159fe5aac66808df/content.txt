@@ -1,0 +1,288 @@
+  
+
+z> W e _]
+BLUMENA U
+
+
+ESTADO DE SANTA CATARINA
+MUNICÍPIO DE BLUMENAU
+
+Gabinete do Prefeito 
+
+DECRETO Nº 12.540, DE 07 DE FEVEREIRO DE 2020.
+
+RECONHECE DESPESAS DE EXERCÍCIO ANTERIOR.
+
+MÁRIO HILDEBRANDT, Prefeito Municipal de Blumenau, no uso das atribuições que lhe confere o artigo 59, XXII, combinado com o artigo 75, I, “c”, da Lei Orgânica do Município, promulgada em 29 de março de 1990, e com fundamento no artigo 37, da Lei Federal nº 4.320, de 17 de março de 1964, e no artigo 2º do Decreto Federal nº 62.115, de 12 de janeiro de 1968,
+
+DECRETA:
+Art. 1º Ficam reconhecidas as despesas constantes no Anexo I a VII deste Decreto, no valor de R$ 3.596.051,00 (três milhões, quinhentos e noventa e seis mil, cinquenta e um reais), realizadas e não processadas em exercício financeiro anterior, no âmbito da Administração Direta e Indireta do Município.
+
+Art. 2º As despesas de que trata o artigo 1º deste Decreto correrão por conta das seguintes dotações orçamentárias:
+
+05 – SECRETARIA MUNICIPAL DE ADMINISTRAÇÃO
+
+
+
+0503 – Diretoria de Pessoal
+
+Atividade
+05.03.04.128.0020.2020 – Man. Ativ. Pessoal
+
+Modalidade
+3.3.90 (66) Aplicações Diretas
+
+
+
+R$ 7.652,70
+
+Modalidade
+4.4.90 (67) Aplicações Diretas
+
+
+
+R$ 3.681,00
+
+Fonte de Recursos 0100.00000
+
+Atividade
+05.03.04.128.0020.2332 – Man. Bolsa de Estudos à Estudantes 
+
+Modalidade
+3.3.90 (72) Aplicações Direta
+
+
+
+
+R$ 3.955,28
+
+Fonte de Recursos 0100.00000
+
+
+
+0504 – Diretoria de Patrimônio
+
+Atividade
+05.04.04.122.0020.2021 – Man. Ativ. Guarda e Cons. Pat.
+
+Modalidade
+3.3.90 (76) Aplicações Diretas
+
+
+
+R$ 13.995,04
+
+Fonte de Recursos 0100.00000
+
+07 – SECRETARIA MUNICIPAL DE GESTÃO GOVERNAMENTAL
+
+0705 – Diretoria de Infraestrutura Tecnológica
+
+Atividade
+07.05.04.126.0022.2315 – Man. Ativ. Infraestrutura Tecnológica
+
+Modalidade
+3.3.90 (124) Aplicações Diretas
+
+
+
+R$ 2.403,97
+
+Fonte de Recursos 0100.00000
+
+10 – 
+SECRETARIA MUNICIPAL DE DEFESA CIVIL
+
+
+
+1001 – Administrativo do Gabinete
+
+Atividade
+10.01.04.122.0027.2067 – Man. Ativ. Corpo de Bombeiros/Conv. Estado
+
+Modalidade
+3.3.90 (290) Aplicações Diretas
+
+
+
+R$ 3.943,68
+
+Fonte de Recursos 0164.00000
+
+
+
+21 – CONTROLADORIA GERAL DO MUNICÍPIO
+
+
+
+2101 – Administrativo do Gabinete
+
+Atividade
+21.01.04.122.0067.2477 – Man. Ativ. Administrativas da CGM
+
+Modalidade
+3.3.90 (758) Aplicações Diretas
+
+
+
+R$ 223,31
+
+Fonte de Recursos 0100.00000
+
+31 – FUNDO MUNICIPAL DE SAÚDE
+
+
+
+3101 – Fundo Municipal de Saúde
+
+Atividade
+31.01.10.122.0041.2490 – Man. Ativ. Administ. e Gestão FMS
+
+Modalidade
+3.3.90 (8) Aplicações Diretas
+
+
+
+
+R$ 33.081,48
+
+Fonte d Recursos 0102.00000
+
+Fonte de Recursos 0267.00064
+
+Atividade
+31.01.10.301.0060.2389 – Pab Fixo – Piso de Atenção Básica
+
+Modalidade
+3.3.90 (54) Aplicações Diretas
+
+
+
+R$ 38.117,99
+
+Fonte de Recursos 0238.00064
+
+Atividade
+31.01.10.302.0059.2183 – CAPS – Centro de Atenção Psicossocial
+
+Modalidade
+3.3.90 (73) Aplicações Diretas
+
+
+
+R$ 2.674,95
+
+Fonte de Recursos 0238.00065
+
+Atividade
+31.01.10.302.0059.2184 – Cerest – Centro Ref. Saúde Trabalhar
+
+Modalidade
+3.3.90 (77) Aplicações Diretas
+
+
+
+R$ 668,74
+
+Fonte de Recursos 0238.00065
+
+Atividade
+31.01.10.302.0059.2232 – Manutenção do Laboratório Municipal
+
+Modalidade
+3.3.90 (81) Aplicações Diretas
+
+
+
+R$ 668,74
+
+Fonte de Recursos 0238.00065
+
+Atividade
+31.01.10.302.0059.2385 – Mac – Média e Alta Complexidade – Produção
+
+Modalidade
+3.3.90 (87) Aplicações Diretas
+
+
+
+R$ 1.337,48
+
+Fonte de Recursos 0102.00000
+
+Modalidade
+3.3.90 (88) Aplicações Diretas
+
+
+
+R$ 3.478.553,00
+
+Fonte de Recursos 0238.00065
+
+Atividade
+31.01.10.304.0062.2390 – Vigilância Sanitária e Ambiental
+
+Modalidade
+3.3.90 (114) Aplicações Diretas
+
+
+
+R$ 668,74
+
+Fonte de Recursos 0206.00000
+
+Atividade
+31.01.10.305.0062.2391 – Vigilância Epidemiológica
+
+Modalidade
+3.3.90 (121) Aplicações Diretas
+
+
+
+R$ 1.337,48
+
+Fonte de Recursos 0238.00066
+
+37 – SECRETARIA MUNICIPAL DO MEIO AMBIENTE E SUSTENTABILIDADE
+
+
+
+3704 – Diretoria de Gestão Administrativa e Financeira
+
+Atividade
+37.04.18.122.0039.2513 – Manut. Ativ. Gestão Adm. Fin. Meio Ambiente
+
+Modalidade
+3.3.90 (875) Aplicações Diretas
+
+
+
+R$ 1.022,42
+
+Fonte de Recursos 0100.00000
+
+38 – SECRETARIA MUNICIPAL DE TRÂNSITO E TRANSPORTES
+
+
+
+3801 – Diretoria Administrativa
+
+Atividade
+38.01.04.122.0043.2517 – Man. Ativ. Diretoria Adm. da SMTT
+
+Modalidade
+3.3.90 (934) Aplicações Diretas
+
+
+
+R$ 2.065,00
+
+Fonte de Recursos 0100.00079
+
+Art. 3º Este Decreto entra em vigor na data de sua publicação.
+
+PREFEITURA MUNICIPAL DE BLUMENAU, em 07 de fevereiro de 2020.
+
+MÁRIO HILDEBRANDT
+
+Prefeito Municipal

@@ -1,0 +1,117 @@
+
+FUNDAÇÃO UNIVERSIDADE REGIONAL DE BLUMENAU
+
+Extrato nº. 284/2020
+PARTES:  FUNDAÇÃO UNIVERSIDADE REGIONAL DE BLUMENAU
+
+e
+KHRONOS INDÚSTRIA COMÉRCIO E SERVIÇOS EM ELETRÔNICA LTDA.
+OBJETO: Contratação de empresa especializada para fornecimento de equipamentos e serviços de instalação de Sistema de Geração Fotovoltaico, em atendimento do Termo de Convênio nº. 013 PEE Celesc 2017, firmado entre a referida entidade e a Universidade, com garantia de energia gerada.
+FUNDAMENTO LEGAL: Pregão Presencial nº 008/2020 e Contrato nº 058/2020, firmado em 22 de julho de 2020.  
+PREÇO: Pelo objeto contratado, a CONTRATANTE pagará o preço de R$ 139.500,00 (cento e trinta e nove mil e quinhentos reais), constante na tabela abaixo, de acordo com a proposta apresentada pela CONTRATADA:
+
+	Item
+	Código FURB
+	Sub-Item
+	Qtde.
+	Und.
+	Descrição do Item
+	Marca/Modelo (obrigatório para os subitens 1 e 2 do item 1, e opcional para os demais)
+
+	Garantia
+
+
+	Preço Unitário
+
+do Item
+
+(em R$)
+	Preço Total do Item 
+
+(em R$)
+
+	1
+	39882
+	
+	Despesa com aquisição de equipamentos componentes do Sistema de Geração Fotovoltaica com capacidade mínima de 49,5 kWp, para o Campus II da FURB, conforme projeto e memorial descritivo, sendo composto por:
+
+	
+	
+	1
+	150
+	Um
+	Módulo Fotovoltaico, conforme memorial descritivo.
+	CanadianSolar / C56U-330P
+	10 anos de garantia do fabricante contra defeitos de fabricação e 25 anos de garantia, 80% da potência nominal
+	527,64
+	79.146,00
+
+	
+	
+	2
+	2
+	Um
+	Inversor Fotovoltaico, conforme memorial descritivo.
+	Kstar / KSG-30K-TM
+	5 anos
+	12.661,20
+	25.322,40
+
+	
+	
+	3
+	1
+	Cj
+	Proteções CC (integrado ao inversor) e CA, conforme memorial descritivo
+	-
+	2 anos
+	4.378,20
+	4.378,20
+
+	
+	
+	4
+	1
+	Cj
+	Estrutura de fixação em inox e alumínio p/ telha cerâmica, conforme memorial descritivo
+	-
+	2 anos
+	13.225,32
+	13.225,32
+
+	
+	
+	5
+	1
+	Cj
+	Materiais Elétricos diversos (cabos e conectores), conforme memorial descritivo
+	-
+	2 anos
+	2.040,20
+	2.040,20
+
+	2
+	39883
+	1
+	1
+	Cj
+	Despesa com pagamento de serviço de instalação de Sistema de Geração Fotovoltaica com capacidade mínima de 49,5 kWp, para o Campus II da FURB, conforme projeto e memorial descritivo.
+	-
+	24 meses
+	15.387,88
+	15.387,88
+
+	Preço Global 
+
+(em reais)
+	139.500,00
+
+	Preço Global 
+
+(em reais, por extenso)
+	Cento e trinta e nove mil e quinhentos reais. 
+
+
+PAGAMENTO: O pagamento será efetuado no prazo de até 30 (trinta) dias consecutivos, após o atendimento de cada fase do cronograma contido no Item 2.2. e devidamente aprovado pelo Gestor designado pela CONTRATANTE, através de crédito em conta bancária da CONTRATADA.
+PRAZO DE VIGÊNCIA: Este Contrato a ser celebrado em decorrência deste certame terá prazo de vigência de 24 (vinte e quatro) meses, contados a partir da data de sua assinatura.
+DATA: 22/07/2020.

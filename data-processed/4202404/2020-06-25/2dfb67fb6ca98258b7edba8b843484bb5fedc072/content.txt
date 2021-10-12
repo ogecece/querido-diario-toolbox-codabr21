@@ -1,0 +1,53 @@
+
+FUNDAÇÃO UNIVERSIDADE REGIONAL DE BLUMENAU
+
+Retificação do Extrato nº. 178/2020
+PARTES:  FUNDAÇÃO UNIVERSIDADE REGIONAL DE BLUMENAU
+
+E
+
+                 FT PETTIRINI LTDA. ME
+OBJETO: Registro de Preços para aquisições futuras de equipamentos e produtos de informática para diversos setores da Universidade.
+FUNDAMENTO LEGAL: Pregão Presencial (SRP) nº 473/2019 e Ata de Registro de Preços nº 075/2020, firmado em 22 de junho de 2020.  
+	Item
+	Código FURB
+	Qtde.
+	Und.
+	Descrição do Item
+	Marca/
+
+Modelo
+	Garantia (se houver, em meses)
+	Preço Unitário (em R$)
+	Preço Total do Item (em R$)
+
+	26
+
+
+	34174
+	10
+	Peça
+	Placa de rede Gigabit PCI-E 1x, com as seguintes características:
+
+Tipo: interna para instalação em gabinete tipo torre ATX Taxa de transferência mínima: 10/10/1000 Mbps Conectores mínimos:
+· • 1 conector PCI Express x1
+
+· • 1 conector para cabo de rede padrão RJ-45
+
+Compatibilidade: Windows 10 ou superior
+
+Garantia mínima: 12 (doze) meses
+	TP Link – TJ 3468
+	12 meses
+	44,65
+	446,50
+
+	Preço Total 
+
+(em R$ e por extenso)
+	446,50 (quatrocentos e quarenta e seis reais e cinquenta centavos)
+
+
+PAGAMENTO: O pagamento será realizado em até 30 (trinta) dias consecutivos após a efetiva entrega (com descarga) dos equipamento(s)/produto(s), desde que estes sejam aprovados pela Gestão Contratual e acompanhados da respectiva Nota Fiscal Eletrônica (NF-e), através de depósito bancário (hipótese na qual a NF-e deverá conter os dados bancários da CONTRATADA) ou de boleto bancário (caso no qual tal documento deverá acompanhar a NF-e).
+PRAZO DE VIGÊNCIA: A presente Ata de Registro de Preços terá a validade de 12 (doze) meses, contados a partir da data de sua assinatura.
+DATA: 22/06/2020.

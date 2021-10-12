@@ -1,0 +1,110 @@
+
+FUNDAÇÃO UNIVERSIDADE REGIONAL DE BLUMENAU
+
+Extrato nº. 164/2020
+PARTES:  FUNDAÇÃO UNIVERSIDADE REGIONAL DE BLUMENAU
+
+E
+
+                  MOTORMAC RENTAL – LOCAÇÃO DE EQUIPAMENTOS S.A.
+OBJETO: Registro de Preços para contratações futuras de serviços de locação de plataformas articulada e tipo tesoura, para uso em manutenções, obras e reformas da Universidade.
+FUNDAMENTO LEGAL: Pregão Presencial nº 060/2020 e Contrato nº 084/2020, a ser firmado em 1º de junho de 2020.  
+PREÇO: O preço ofertado pela empresa signatária do presente Contrato é o abaixo informado, de acordo com a respectiva classificação:
+
+	Lote 01
+
+	Item
+	Código FURB
+	Qtde.
+	Und.
+	Descrição do Item
+	Preço Unitário (em R$)
+	Preço Total do Item (em R$)
+
+	1
+	37145
+	90
+	Diária
+	Plataforma articulada, com as seguintes características:
+
+- Altura mínima: 13m (treze metros);
+
+- Alcance horizontal mínimo: 7,5m (sete metros e meio);
+
+- Altura mínima para cima: 7m (sete metros);
+
+- Capacidade mínima de carga: 200kg (duzentos quilogramas);
+
+- Com motor elétrico;
+
+- Com capacidade de realizar giro 360º (trezentos e sessenta graus) não contínuos;
+
+- Com pneus anti marcas;
+
+Obs: pedido mínimo para locação dos equipamentos de 05 (cinco) dias úteis.
+	570,00
+	51.300,00
+
+	2
+	32382
+	10
+	Serviço
+	Despesas com transporte (composto pela entrega e devolução) de plataforma articulada.
+	300,00
+	6.700,00
+
+	Preço Total do Lote (em reais, R$)
+	58.000,00
+
+	Preço Total do Lote (em reais, por extenso)
+	Cinquenta e oito mil reais.
+
+
+	Lote 02
+
+	Item
+	Código FURB
+	Qtde.
+	Und.
+	Descrição do Item
+	Preço Unitário (em R$)
+	Preço Total do Item (em R$)
+
+	1
+	37416
+	10
+	Diária
+	Plataforma tipo tesoura, com as seguintes características:
+
+- Altura mínima: 9,5m (nove metros e meio);
+
+- Capacidade mínima de carga: 350kg (trezentos e cinquenta quilogramas);
+
+- Capacidade mínima de extensão: 100kg (cem quilogramas);
+
+- Com motor elétrico;
+
+- Com pneus anti marcas;
+
+Obs: pedido mínimo para locação dos equipamentos de 05 (cinco) dias úteis.
+	300,00
+	3.000,00
+
+	2
+	32382
+	02
+	Serviço
+	Despesas com transporte (composto pela entrega e devolução) de plataforma tipo tesoura.
+	375,00
+	750,00
+
+	Preço Total do Lote (em reais, R$)
+	3.750,00
+
+	Preço Total do Lote (em reais, por extenso)
+	Três mil, setecentos e cinquenta reais.
+
+
+PAGAMENTO: O pagamento será efetuado em até 15 (quinze) dias consecutivos, após a efetiva locação dos equipamentos com sua posterior devolução, desde que os mesmos sejam aprovados pelo Gestor designado pela CONTRATANTE e sigam acompanhados da respectiva Nota Fiscal Eletrônica (NF-e), através de depósitos bancários (hipótese na qual a NF-e deverá conter os dados bancários da CONTRATADA) ou de boletos bancários (caso no qual tais documentos deverão acompanhar a NF-e).
+PRAZO DE VIGÊNCIA: A presente Ata de Registro de Preços terá a validade até de 12 (doze) meses, contados a partir da data de sua assinatura.
+DATA: 19/05/2020.

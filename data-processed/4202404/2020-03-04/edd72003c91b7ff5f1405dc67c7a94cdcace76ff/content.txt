@@ -1,0 +1,305 @@
+
+FUNDAÇÃO UNIVERSIDADE REGIONAL DE BLUMENAU
+
+Extrato nº. 065/2020
+PARTES:
+FUNDAÇÃO UNIVERSIDADE REGIONAL DE BLUMENAU
+E
+
+CRISTÁLIA PRODUTOS QUÍMICOS E FARMACÊUTICOS LTDA
+OBJETO: Registro de Preços para aquisições futuras de materiais farmacológicos para diversos setores da Universidade.
+FUNDAMENTO LEGAL: Concorrência (SRP) nº 424/2019 e Ata (SRP) nº 008/2020, firmada em 12 de fevereiro de 2020. 
+PREÇO: O preço ofertado pela empresa signatária da presente Ata de Registro de Preços é o abaixo informado, de acordo com a respectiva classificação:
+	Item
+	Código FURB
+	Qtde.
+	Und.
+	Descrição do Item
+	Marca
+	Preço Unitário 
+
+(em R$)
+	Preço Total do Item 
+
+(em R$)
+
+	21
+	36257
+	25
+	frasco
+	Bupivacaína sem vasoconstritor 0.5%  / frasco de 20 ml.
+	Neocaína - Cristália
+	10,15
+	253,75
+
+	30
+	29381
+	5
+	caixa
+	Cloridrato de dextrocetamina solução injetável 50 mg/mL / caixa com 5  frasco-ampola de 10 ml (MEDICAMENTO CONTROLADO) .
+	Ketamina - Cristália
+	321,95
+	1.609,75
+
+	32
+	8456
+	100
+	ampola
+	Cloridrato de lidocaína 2,0% + hemitartarato de norepinefrina (1:50.000 em norepinefrina) / Controlado pela POLICIA FEDERAL
+	Xylestesin - Cristália
+	1,41
+	141,00
+
+	35
+	8307
+	50
+	ampola
+	Clorpromazina 25mg / ampola de 5ml. 
+	Longactil - Cristália
+	1,96
+	98,00
+
+	36
+	16087
+	30
+	caixa 
+	Creme dermatológico anestésico a base de lidocaína (25 mg/g) e prilocaína (25 mg/g); embalagem contendo 1 bisnaga de 5g e 2 bandagens oclusivas.
+	Medicaína - Cristália
+	12,65
+	379,50
+
+	43
+	8345
+	100
+	ampola
+	Diazepam 5mg/ml, ampola de 2ml (MEDICAMENTO CONTROLADO) 
+	Compaz - Cristália
+	1,25
+	125,00
+
+	48
+	26965
+	50
+	caixa 
+	Dopamina (Cloridrato) 5mg/ml ; caixa com 10 ampolas de 10 ml cada
+	Dopacris - Cristália
+	22,80
+	1.140,00
+
+	49
+	37136
+	100
+	ampola
+	Dipropionato de betametasona 5mg+fosfato dissódico de betametasona 2mg / ampola de 1ml.
+	Duoflam - Cristália
+	3,77
+	377,00
+
+	50
+	37985
+	100
+	ampola
+	Efedrina 50 mg/ml; injetável; ampola de 1ml.
+	Efedrin - Cristália
+	2,14
+	214,00
+
+	56
+	35975
+	100
+	caixa
+	Fenitoina sódica 50 mg/ml / ampola de 5 ml / caixa com 5 ampolas. (MEDICAMENTO CONTROLADO)
+	Fenital - Cristália
+	10,50
+	1.050,00
+
+	57
+	8308
+	50
+	ampola
+	Fenobarbital injetável / 100mg/ml / ampolas com 2ml. (MEDICAMENTO CONTROLADO)
+	Fenocris - Cristália
+	1,65
+	82,50
+
+	58
+	38618
+	100
+	ampola
+	Fentanila 0,05 mg/ml / ampola 10 ml .
+	Fentanest - Cristália
+	4,75
+	475,00
+
+	59
+	8289
+	100
+	ampola
+	Fentanila 0,05 mg/ml / ampola de 5ml .
+	Fentanest - Cristália
+	2,65
+	265,00
+
+	69
+	24789
+	3
+	caixa
+	Heparina sódica 5000 UI/ml; frasco de 0,25 ml; caixa com 25 frascos.
+	Hemofol - Cristália
+	107,00
+	321,00
+
+	70
+	39921
+	10
+	caixa
+	Heparina sódica 25000 UI/5 ml / soluçao injetável / ampola de 5 ml / caixa com 25 ampolas.
+	Hemofol - Cristália
+	412,50
+	4.125,00
+
+	72
+	37780
+	60
+	frasco
+	Isoflurano 1ml/ml / frasco de 100 ml (MEDICAMENTO CONTROLADO)
+	Isoforine - Cristália
+	69,56
+	4.173,60
+
+	76
+	8435
+	200
+	frasco-ampola
+	Lidocaína 2% sem vasoconstritor / frasco-ampola de 20 ml
+	Xylestesin - Cristália
+	5,99
+	1.198,00
+
+	77
+	8376
+	50
+	bisnaga
+	Lidocaína geléia 2% / bisnaga de 30g  .
+	Xylestesin - Cristália
+	4,03
+	201,50
+
+	80
+	36972
+	30
+	caixa
+	Metadona 10mg ampola de 1 ml / caixa com 10 ampolas. (MEDICAMENTO CONTROLADO)
+	Metadon - Cristália
+	27,90
+	837,00
+
+	84
+	35798
+	200
+	ampola
+	Midazolan 15mg / ampola de 3ml. (MEDICAMENTO CONTROLADO)
+	Dormire - Cristália
+	2,16
+	432,00
+
+	85
+	37031
+	50
+	ampola
+	Midazolan 50mg / ampolas de 10 ml (MEDICAMENTO CONTROLADO)
+	Dormire - Cristália
+	5,11
+	255,50
+
+	86
+	8373
+	150
+	ampola
+	Morfina (sulfato) 10mg/ml / ampola de 1ml. (MEDICAMENTO CONTROLADO)
+	Dimorf - Cristália
+	2,23
+	334,50
+
+	91
+	37939
+	5
+	caixa
+	Ondansetrona 4mg injetável; caixa com 1 ampola de 2ml.
+	Nausedron - Cristália
+	1,43
+	7,15
+
+	99
+	8496
+	50
+	ampola
+	Prometazina (Cloridrato) 25mg/ml /  ampola de 2 ml. 
+	Pamergan - Cristália
+	2,25
+	112,50
+
+	102
+	29401
+	300
+	ampola
+	Propofol 10mg/ml / ampola de 20 ml .
+	Propovan - Cristália
+	13,69
+	4.107,00
+
+	104
+	37007
+	10
+	caixa
+	Remifentanila (Cloridrato) 2mg / frasco-ampola / cx. com 05 frascos-ampolas (MEDICAMENTO CONTROLADO)
+	Remifas - Cristália
+	149,25
+	1.492,50
+
+	105
+	37010
+	10
+	ampola
+	Ropivacaína (cloridrato) 7,5 mg/ml (0,75%) / ampola de 20 ml.
+	Ropi - Cristália
+	16,05
+	160,50
+
+	122
+	8292
+	2
+	caixa
+	Tiopental 500mg / frasco-ampola de 10ml caixa com 25 unidades (MEDICAMENTO CONTROLADO)
+	Thiopentax - Cristália
+	555,75
+	1.111,50
+
+	123
+	29380
+	3
+	caixa
+	Tiopental sódico 1.0 g / caixa com 25 frascos-ampola de 1 g (MEDICAMENTO CONTROLADO)
+	Thiopentax - Cristália
+	729,75
+	2.189,25
+
+	126
+	29152
+	300
+	ampola
+	Tramadol (Cloridrato) 50 mg/ml / ampola de 2 ml. (MEDICAMENTO CONTROLADO)
+	Tramadon - Cristália
+	2,05
+	615,00
+
+	Preço Total (em R$)
+	27.884,60
+
+	Preço Total (em reais, por extenso)
+	Vinte e sete mil, oitocentos e oitenta e quatro reais e sessenta centavos.
+
+
+PAGAMENTO: O pagamento será efetuado em até 30 (trinta) dias consecutivos após a efetiva entrega (com descarga) dos materiais, desde que os mesmos estejam em perfeitas condições de uso, sejam aprovados pelo Gestor designado pela CONTRATANTE e sigam acompanhados da respectiva Nota Fiscal Eletrônica (NF-e), através de depósitos bancários (hipótese na qual a NF-e deverá conter os dados bancários da CONTRATADA) ou de boletos bancários (caso no qual tais documentos deverão acompanhar a NF-e).
+PRAZO DE VIGÊNCIA: A presente Ata de Registro de Preços terá a validade de 12 (doze) meses, contados a partir da data de sua assinatura.
+DATA: 03/03/2019

@@ -1,0 +1,116 @@
+
+FUNDAÇÃO UNIVERSIDADE REGIONAL DE BLUMENAU
+
+Extrato nº. 142/2020
+PARTES:
+FUNDAÇÃO UNIVERSIDADE REGIONAL DE BLUMENAU
+e
+WORKCONNECT COMÉRCIO DE TELECOMUNICAÇÕES E INFORMÁTICA LTDA.
+ADITIVO DE ALTERAÇÃO CONTRATUAL QUALITATIVA.
+TERMO ADITIVO Nº 004 AO CONTRATO Nº 268/2019
+OBJETO: Contratação de empresa especializada para o fornecimento, instalação e manutenção de Data Center para a Universidade.
+
+FUNDAMENTO LEGAL: Pregão Presencial nº 151/2019 e Contrato nº. 268/2019, de 14 de novembro de 2019. 
+CLÁUSULA PRIMEIRA – DA ALTERAÇÃO: 
+
+Altera-se parcialmente a Cláusula Primeira, Lote 01, itens 03 e 04, que passam a ter a seguinte descrição:
+
+CLÁUSULA PRIMEIRA – DO OBJETO, DO PRAZO, DO PREÇO E DO REAJUSTE:
+
+1.1.
+Constitui o objeto da presente a Contratação de empresa especializada para o fornecimento, instalação e manutenção de Data Center para a Universidade, conforme abaixo descrito e nos termos e condições do Edital e seus anexos, que passam a fazer parte integrante deste instrumento, independentemente de transcrição.
+
+1.2. 
+
+Pelo objeto contratado, a CONTRATANTE pagará o preço constante na tabela abaixo, de acordo com a proposta apresentada pela CONTRATADA:
+
+	Lote 01
+
+	Item
+	Código FURB
+	Quant.
+	Und.
+	Descrição do Item
+	Marca dos principais componentes
+	Modelo dos principais componentes
+	Preço Unitário (R$)
+	Preço Total Unitário (R$)
+
+	3
+	38983
+	4
+	kit
+	Kit de Racks fechados contendo um rack fechado de 42Ux800x1200, 04 réguas de tomadas, 1 Switch de Transferência de energia, 06 painéis de fechamento, 06 organizadores de 01 U.
+	· Veriv
+
+Vertiv
+
+IP Metal
+	· Rack fechado 42U X 800mm x 1200mm
+
+PT - VR3350
+
+· organizador vertical 42U para cabos VRA 1016
+
+· Calha vertical com 16 tomadas de 10A e plugue de 32A – Modelo EMAC008161643.
+
+· Guia de cabos (organizador) fechada
+
+1U x 87mm ABS preta - 5070100001
+
+Painel de fechamento (frente falsa) 1U
+
+ABS preto - 5030100000
+
+· Porca gaiola metálica M5 9010500009
+
+· Parafuso philips niquelado M5 9020500009
+
+Chave de transferência estática LTS 16A -  02312188
+	15.000,00
+	60.000,00
+
+	4
+	38984
+	4
+	kit
+	Kit de racks abertos contendo 01 rack aberto, 04 réguas de tomadas e 1 Switch de Transferência de energia.
+	· GP-Rack's
+
+· Vertiv
+
+· IP Metal
+
+· Vertv
+	· Estrutura para rack aberto Top solution G5 45Us 2 postes – GP 96180
+
+· Guia vertcal 200mm para rack aberto Top Solution G5 45Us - GP96183
+
+· Guia vertical 300mm para rack aberto
+
+Top Solution G5 
+- GP96186
+
+· Calha vertical com 16 tomadas de 10A e plugue de 32A – Modelo EMAC008161643.
+
+· Guia de cabos (organizador) fechada
+
+1 U x 87mm
+ABS preta - 5070100001
+
+· Porca gaiola metálica M5 9010500009
+
+· Parafuso philips niquelado M5 9020500009
+
+Chave de transferência estática LTS
+
+16A - 02312188
+	12.000,00
+	48.000,00
+
+
+CLÁUSULA SEGUNDA – DA MANUNTEÇÃO DAS DEMAIS CLÁUSULAS: 
+Permanecem inalteradas as demais cláusulas e condições previstas no Contrato de nº. 268/2019 e aditivos nºS 001 a 003, que não conflitarem com o presente documento.
+
+Blumenau/SC, 24 de abril de 2020.
+

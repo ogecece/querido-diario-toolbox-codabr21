@@ -1,0 +1,86 @@
+FUNDAÇÃO UNIVERSIDADE REGIONAL DE BLUMENAU
+
+Extrato nº. 483/2020
+PARTES:
+FUNDAÇÃO UNIVERSIDADE REGIONAL DE BLUMENAU
+
+e a empresa
+
+MICRO FOCUS BRASIL SERVIÇOS DE TECNOLOGIA LTDA. 
+ADITIVO DE PRORROGAÇÃO
+TERMO ADITIVO Nº 003 AO CONTRATO Nº. 316/2018
+OBJETO: Prestação de Serviços de suporte técnico do software Data Protector, instalados na FURB”.
+FUNDAMENTO LEGAL: Inexigibilidade de Licitação nº. 541/2018 e Contrato nº. 316/2018, firmado em 1º de dezembro de 2018.
+CLÁUSULA PRIMEIRA – DA PRORROGAÇÃO:
+O prazo de vigência previsto na Cláusula Primeira do Contrato nº 316/2018, fica prorrogado por mais 12 (doze) meses, a contar de 1º de dezembro de 2020 até 30 de novembro de 2021, totalizando 36 (trinta e seis) meses contratados. 
+
+CLÁUSULA SEGUNDA – DO PREÇO:
+
+Altera parcialmente a Cláusula Primeira do Contrato nº. 316/2018, que passa a ter a seguinte redação a partir de 1º de dezembro de 2020: 
+
+[...]Pelo objeto contratado, a CONTRATANTE pagará o preço total de R$ 10.028,79 (dez mil, vinte e oito reais e setenta e nove centavos), de acordo com a Proposta Técnica/Comercial, apresentada pela CONTRATADA, para a vigência do presente aditivo. 
+
+	Código
+
+Do
+
+Produto
+	Qtde
+	Descrição do Produto
+	Inicio
+	Término
+	Identificador
+
+De Contrato
+
+(SAID)
+
+	B6963AAE
+	6
+	DP drive extn WIN/Netware/Linux E-LTU
+	01/12/2020
+	30/11/2021
+	2153063441-A
+
+	B6963AAE
+	1
+	DP drive WIN/Netware/Linux E-LTU
+	01/12/2020
+	30/11/2021
+	2153063441-A
+
+	B6965BAE
+	1
+	DP on-line Backup for windows E-LTU
+	01/12/2020
+	30/11/2021
+	2153063441-A
+
+	B6965BAE
+	2
+	DP on-line Backup for windows E-LTU
+	01/12/2020
+	30/11/2021
+	2153063441-A
+
+	B6961BAE
+	1
+	Data Prot Stater Pack Windows E-LTU
+	01/12/2020
+	30/11/2021
+	2153063441-A
+
+	B6965BAE
+	3
+	DP on-line Backup for windows E-LTU
+	20/08/2020
+	30/11/2020
+	2153063441-A
+
+
+CLÁUSULA TERCEIRA – DA MANUTENÇÃO DAS DEMAIS CLÁUSULAS:
+
+Permanecem inalteradas as demais cláusulas e condições previstas no Contrato de nº 316/2018 e Termos Aditivo nº 001 e 002, que não colidirem com o presente documento.  
+
+Blumenau (SC), 10 de novembro de 2020.
+

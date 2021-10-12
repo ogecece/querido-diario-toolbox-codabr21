@@ -1,0 +1,199 @@
+
+FUNDAÇÃO UNIVERSIDADE REGIONAL DE BLUMENAU
+
+Extrato nº. 550/2020
+PARTES:  FUNDAÇÃO UNIVERSIDADE REGIONAL DE BLUMENAU
+
+E
+
+                  CREMER S/A
+OBJETO: Registro de preços para aquisições futuras de materiais médico hospitalar e de higiene e beleza para a Universidade.
+FUNDAMENTO LEGAL: Concorrência (SRP) nº 200/2020 e Ata de Registro de Preços nº 244/2020, válida a partir de 18 de dezembro de 2020.  
+PREÇO: O preço ofertado pela empresa signatária da presente Ata de Registro de Preços é o abaixo informado, de acordo com a respectiva classificação:
+
+	Item
+	Código FURB
+	Qtde. Estimada
+	Und.
+	Descrição dos Produtos
+	Marca e Modelo
+	Preço
+
+Unitário
+	Preço Total do Item
+
+	8
+	8256
+	200
+	Rolo
+	Algodão Hidrófilo, 100% algodão alvejado, inodoro, isento de amido, fibras longas, em camadas sobrepostas e uniformes, macio, cor branca, com boa absorvência. Enrolado em papel apropriado em toda a sua extensão. Rolo com 500 gramas. Registro no Ministério da Saúde.
+	Delicato Cremer
+	8,50
+	1.700,00
+
+	14
+	8417
+	300
+	Rolo      
+	Atadura de crepom / em 100%  algodão / densidade 13 fios/cm² / medida 12cm x 450cm.
+	Cysne Cremer
+	0,96
+	288,00
+
+	15
+	8322
+	240
+	Rolo
+	Atadura de crepom / em 100% algodão / densidade 13 fios/cm² / medida  10cm x 450cm.
+	Cysne Cremer
+	0,80
+	192,00
+
+	16
+	8336
+	600
+	Rolo
+	Atadura de crepom / em 100% algodão / densidade 13 fios/cm² / medida  15cm x 450cm.
+	Cysne Cremer
+	1,16
+	696,00
+
+	17
+	8349
+	300
+	Rolo      
+	Atadura de crepom / em 100% algodão / densidade 13 fios/cm² / medida  20cm x 450cm.
+	Cysne Cremer
+	1,55
+	465,00
+
+	18
+	20581
+	120
+	Rolo
+	Atadura de crepom / em 100% algodão / densidade 13 fios/cm² / medida  30cm x 450cm.
+	Cysne Cremer
+	2,28
+	273,60
+
+	20
+	8405
+	300
+	Rolo      
+	Atadura de crepom / em 100% algodão / densidade 13 fios/cm² / medida 8cm x 450cm.
+	Cysne Cremer
+	0,65
+	195,00
+
+	35
+	10238
+	300
+	Pacote
+	Compressa Cirúrgica (campo operatório) não estéril, confeccionada em 100% algodão, em tecido quádruplo sem fio radiopaco; 04 camadas entrelaçadas, 9g por unidade; tamanho 45x50cm, pacotes com 50 unidades.
+	Delicato Cremer
+	55,59
+	16.667,00
+
+	36
+	19235
+	80
+	Pacote
+	Compressa de gaze hidrófila / 100% algodão / 5 dobras / 8 camadas / gramatura 13 fios/cm² / tamanho 10cm x 10cm fechada / pacote com 500 unidades.
+	Estrela Cremer
+	42,71
+	3.416,80
+
+	47
+	31357
+	300
+	Peça
+	Dispositivo para irrigação (adaptador para frasco de soro) / para uso em frascos de solução em sistema fechado / ponta perfurante padrão ISO com protetor / cone luer para oclusão do sistema após o uso / embalagem individual / uso único / com registro na ANVISA.
+	Embramed Cremer
+	0,62
+	186,00
+
+	51
+	14448
+	100
+	Pacote
+	Eletrodo cardiológico para monitoração / espuma com gel sólido / hipoalergênico / adulto / pacote com 50 unidades
+	Covidien
+	14,00
+	1.400,00
+
+	100
+	24569
+	5.000
+	peça
+	Gazes hidrófila esterilizada a raio gama ou óxido de etileno / 100% algodão / 5 dobras / 8 camadas 11 fios/cm² / tamanho 7,5cm x 7,5cm fechada / embaladas em papel cirúrgico associado a filme plástico. Pacote com 5 unidades.
+	Cremer
+	0,36
+	1.800,00
+
+	112
+	28884
+	700
+	Par
+	Luva cirúrgica descartável / número 6 / estéril / em látex natural / alta sensibilidade tátil / anatômica / punho alto / lubrificada internamente / par embalado individualmente / dobrada com abertura em pétala.
+	Sanro
+	1,55
+	1.085,00
+
+	113
+	17894
+	1.700
+	Par
+	Luva cirúrgica descartável / número 6,5 / estéril / em látex natural / alta sensibilidade tátil / anatômica / punho alto / lubrificada internamente / par embalado individualmente / dobrada com abertura em pétala.
+	Sanro
+	1,55
+	2.635,00
+
+	114
+	8853
+	1.500
+	Par
+	Luva cirúrgica descartável / número 7,0 / em látex natural / alta sensibilidade tátil / anatômica / punho alto / lubrificada internamente / par embalado individualmente / dobrada com abertura em pétala.
+	Sanro
+	1,55
+	2.325,00
+
+	115
+	8854
+	1.200
+	Par
+	Luva cirúrgica descartável / número 7,5 / em látex natural / alta sensibilidade tátil / anatômica / punho alto / lubrificada internamente / par embalado individualmente / dobrada com abertura em pétala.
+	Sanro
+	1,55
+	1.860,00
+
+	116
+	8852
+	700
+	Par
+	Luva cirúrgica descartável / número 8,0 / em látex natural / alta sensibilidade tátil / anatômica / punho alto / lubrificada internamente / par embalado individualmente / dobrada com abertura em pétala. 
+	Sanro
+	1,55
+	1.085,00
+
+	195
+	8782
+	70
+	Peça   
+	Sonda uretral em PVC/ número 8 / descartável, esterilizada, siliconizada, atóxica e apirogênica.
+	Embramed Cremer
+	0,38
+	26,60
+
+	214
+	29026
+	250
+	Peça
+	Torneira descartável de 3 vias para infusão venosa / estéril.
+	Embramed Cremer
+	0,70
+	175,00
+
+
+PAGAMENTO: O pagamento será realizado em até 30 (trinta) dias consecutivos após a efetiva entrega (com descarga) do(s) material(is), desde que estes sejam aprovados pela Gestão Contratual e acompanhados da respectiva Nota Fiscal Eletrônica (NF-e), através de depósito bancário (hipótese na qual a NF-e deverá conter os dados bancários da CONTRATADA) ou de boleto bancário (caso no qual tal documento deverá acompanhar a NF-e).
+PRAZO DE VIGÊNCIA: A presente Ata de Registro de Preços terá a validade de 12 (doze) meses, contados a partir da data de sua assinatura.
+DATA: 18/12/2020.

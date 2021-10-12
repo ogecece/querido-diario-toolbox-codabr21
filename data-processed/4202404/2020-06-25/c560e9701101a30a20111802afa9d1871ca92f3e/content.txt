@@ -1,0 +1,157 @@
+
+FUNDAÇÃO UNIVERSIDADE REGIONAL DE BLUMENAU
+
+Retificação do Extrato nº. 175/2020
+PARTES:  FUNDAÇÃO UNIVERSIDADE REGIONAL DE BLUMENAU
+
+E
+
+                 FRANCIELE CRISTINE LAMIM ME
+OBJETO: Registro de Preços para aquisições futuras de equipamentos e produtos de informática para diversos setores da Universidade.
+
+FUNDAMENTO LEGAL: Pregão Presencial (SRP) nº 473/2019 e Ata de Registro de Preços nº 078/2020, firmado em 22 de junho de 2020.  
+	Item
+	Código FURB
+	Qtde.
+	Und.
+	Descrição do Item
+	Marca/
+
+Modelo
+	Garantia (se houver, em meses)
+	Preço Unitário (em R$)
+	Preço Total do Item (em R$)
+
+	7
+	30742
+	10
+	Peça
+	Leitora óptica de mão (tipo pistola) para código de barras, com as seguintes características:
+
+Tipo de leitura: Bidirecional
+
+Fonte de luz: Diodo a laser visível de 650 nm
+
+Taxa de leitura: 100 leituras por segundo
+
+Distância de trabalho nominal: Do ponto de contato a 43 cm em 100% de símbolos U.P.C./EAN
+Cores aceitas: Preta ou branca
+Conexão: USB
+
+Comprimento mínimo do fio/cabo: 1,5 metros
+Suporte a leitura dos tipos de códigos: UPC/EAN, UPC/EAN com complementos, UCC/EAN 128, Código 39, Código 39 Full ASCII, Código 39 TriOptic,Código 128, Código 128 Full ASCII, Codabar, Intercalado 2 de 5, Discreto 2 de 5, Código 93, MSI, Código 11, IATA, variantes RSS, Chinês 2 de 5
+Características:
+
+· Marca, modelo e número de série impressos no produto.
+
+· Indicador de leitura sonoro e luminoso
+
+· Botão para acionamento de leitura.
+
+Embalagem: Original do fabricante, lacrada e com todos os acessórios e manuais inclusos.
+Documentação: Manual de programação da leitora incluso na embalagem
+
+Garantia mínima: 60 (sessenta) meses
+
+
+	Zebra / LS2208 ID
+	60 meses
+	348,80
+	3.488,00
+
+	32
+	39968
+	30
+	Peça
+	Placa de Vídeo 4GB GDDR5, 128 bits, com as seguintes características:
+Interface: PCI Express 3.0
+Clock mínimo do processador (core clock): 1176 MHz
+Clock de memória efetivo mínimo: 6000 MHz (6.0 Gbps)
+Memória mínima dedicada: 4 GB dedicados GDDR5 ou superior
+
+Interface mínima de memória: 128 bits
+
+Conexões mínimas:
+
+· 1 x DVI
+
+· 1 x HDMI
+Suporte às tecnologias:
+
+· DirectX 12 ou superior
+
+· Open GL 4.5 ou superior
+
+Refrigeração: Cooler original do fabricante devidamente fixado e alimentado na própria placa de vídeo
+
+Autenticidade: Deverá conter impresso ou em selo do fabricante, marca e modelo.
+
+Embalagem: Original, lacrada e com os acessórios originais do fabricante.
+Garantia mínima: 12 (doze) meses
+
+	PCYES / PJ550RX12804GG5DF
+	12 meses
+	677,50
+	20.325,00
+
+	34
+	35048
+	10
+	Peça
+	Câmera webcam Full-HD / conexão USB, com as seguintes características:
+Conectividade: USB 2.0 ou superior
+Cabo: Deverá ser integrado a webcam e ter no mínimo 1,5 metros de comprimento
+
+Microfone: Interno duplo estéreo
+
+Lente:
+
+· Construída em vidro
+
+· Campo de visão diagonal de 78º
+
+Funcionalidades:
+
+· Permitir montagem em tripé através de rosca universal
+
+· Foco automático para fotos e vídeos
+
+· Correção automática de luminosidade
+
+· Compactação de vídeo H.264
+
+Resoluções mínimas:
+
+· 1920x1080 pixels para fotografia
+
+· 1920x1080 pixels para gravação de vídeos
+
+Características do software incluso no equipamento:
+
+· Controles de zoom e direcional
+
+· Captura de vídeo e foto
+
+· Detecção de movimento
+
+· Rastreamento facial
+
+Compatibilidade: Windows 10 ou superior
+Embalagem: Original do fabricante, lacrada e intacta.
+Garantia: Mínima de 12 (doze) meses.
+
+
+	Logitech / C920S
+	12 meses
+	289,50
+	2.895,00
+
+	Preço Total 
+
+(em R$ e por extenso)
+	26.708,00 (vinte e seis mil, setecentos e oito reais)
+
+
+PAGAMENTO: O pagamento será realizado em até 30 (trinta) dias consecutivos após a efetiva entrega (com descarga) dos equipamento(s)/produto(s), desde que estes sejam aprovados pela Gestão Contratual e acompanhados da respectiva Nota Fiscal Eletrônica (NF-e), através de depósito bancário (hipótese na qual a NF-e deverá conter os dados bancários da CONTRATADA) ou de boleto bancário (caso no qual tal documento deverá acompanhar a NF-e).
+PRAZO DE VIGÊNCIA: A presente Ata de Registro de Preços terá a validade de 12 (doze) meses, contados a partir da data de sua assinatura.
+DATA: 22/06/2020.

@@ -1,0 +1,1133 @@
+
+FUNDAÇÃO UNIVERSIDADE REGIONAL DE BLUMENAU
+
+Extrato nº. 442/2020
+PARTES:  FUNDAÇÃO UNIVERSIDADE REGIONAL DE BLUMENAU
+
+E
+
+                  JOCLAMAR LTDA
+OBJETO: Registro de Preços para aquisições futuras de materiais elétricos destinados à manutenção e ampliação dos ambientes da Universidade.
+FUNDAMENTO LEGAL: Pregão Presencial (SRP) nº 242/2020 e Ata de Registro de Preços nº 206/2020, firmado em 28 de outubro de 2020.  
+PREÇO: O preço ofertado pela empresa signatária da presente Ata de Registro de Preços é o abaixo informado, de acordo com a respectiva classificação:
+
+	Lote: 1
+
+	Item
+	Código FURB
+	Qtde.
+	Und.
+	Descrição do Item
+	Marca
+	Preço Unitário (em R$)
+	Preço Total do Item
+
+ (em R$)
+
+	1
+	22838
+	200
+	Metro
+	Cabo flexível de 2,5mm² - 750V / para alta temperatura 200°C, conforme norma ABNT NBR 9374 / revestido com borracha de silicone vulcanizada / cor branca. Fio de cobre eletrolítico NU, tempera mole, encordoamento classe 4
+	Tramar
+	4,77
+	954,00
+
+	Preço Total do Lote 
+
+(em reais, por extenso)
+	Novecentos e cinquenta e quatro reais
+
+
+	Lote: 2
+
+	Item
+	Código FURB
+	Qtde.
+	Und.
+	Descrição do Item
+	Marca
+	Preço Unitário (em R$)
+	Preço Total do Item
+
+ (em R$)
+
+	1
+	2317
+	500
+	Metro
+	Cabo unipolar de alta flexibilidade   1,5 mm2, 750V, 70 ºC, amarelo. com as seguintes características:
+- Certificado pelo INMETRO conforme a norma NBR 13248.
+
+- Condutor formado por fios sólidos de cobre nú de tempera mole, seção circular.
+
+- Isolação para 750 Volts, em PVC ou XLPE ou EPR.
+- NÃO HALOGENADO.
+
+- Alta flexibilidade, encordoamento no mínimo em classe 4,
+- Suportar temperatura no condutor de até 70ºC
+- Auto-extinção do fogo.
+
+- Acomodados em caixa de fácil retirada ou em rolo com 100 metros cada.
+	RCM
+	1,39
+	695,00
+
+	2
+	2235
+	1000
+	Metro
+	Cabo unipolar de alta flexibilidade   1,5 mm2, 750V, 70 ºC, azul. com as seguintes características:
+- Certificado pelo INMETRO conforme a norma NBR 13248.
+
+- Condutor formado por fios sólidos de cobre nú de tempera mole, seção circular.
+
+- Isolação para 750 Volts, em PVC ou XLPE ou EPR.
+- NÃO HALOGENADO.
+
+- Alta flexibilidade, encordoamento no mínimo em classe 4,
+
+- Suportar temperatura no condutor de até 70ºC
+- Auto-extinção do fogo.
+
+- Acomodados em caixa de fácil retirada ou em rolo com 100 metros cada.
+	RCM
+	1,39
+	1.390,00
+
+	3
+	2238
+	500
+	Metro
+	Cabo unipolar de alta flexibilidade   1,5 mm2, 750V, 70 ºC, branco. com as seguintes características:
+- Certificado pelo INMETRO conforme a norma NBR 13248.
+
+- Condutor formado por fios sólidos de cobre nú de tempera mole, seção circular.
+
+- Isolação para 750 Volts, em PVC ou XLPE ou EPR.
+- NÃO HALOGENADO.
+
+- Alta flexibilidade, encordoamento no mínimo em classe 4,
+- Suportar temperatura no condutor de até 70ºC
+- Auto-extinção do fogo.
+
+- Acomodados em caixa de fácil retirada ou em rolo com 100 metros cada.
+	RCM
+	1,39
+	695,00
+
+	4
+	2234
+	1000
+	Metro
+	Cabo unipolar de alta flexibilidade   1,5 mm2, 750V, 70 ºC, preto. com as seguintes características:
+- Certificado pelo INMETRO conforme a norma NBR 13248.
+
+- Condutor formado por fios sólidos de cobre nú de tempera mole, seção circular.
+
+- Isolação para 750 Volts, em PVC ou XLPE ou EPR.
+- NÃO HALOGENADO.
+
+- Alta flexibilidade, encordoamento no mínimo em classe 4,
+
+- Suportar temperatura no condutor de até 70ºC
+- Auto-extinção do fogo.
+
+- Acomodados em caixa de fácil retirada ou em rolo com 100 metros cada.
+	RCM
+	1,39
+	1.390,00
+
+	5
+	2236
+	300
+	Metro
+	Cabo unipolar de alta flexibilidade   1,5 mm2, 750V, 70 ºC, vermelho. com as seguintes características:
+- Certificado pelo INMETRO conforme a norma NBR 13248.
+
+- Condutor formado por fios sólidos de cobre nú de tempera mole, seção circular.
+
+- Isolação para 750 Volts, em PVC ou XLPE ou EPR.
+- NÃO HALOGENADO.
+
+- Alta flexibilidade, encordoamento no mínimo em classe 4,
+
+- Suportar temperatura no condutor de até 70ºC
+- Auto-extinção do fogo.
+
+- Acomodados em caixa de fácil retirada ou em rolo com 100 metros cada.
+	RCM
+	1,39
+	417,00
+
+
+Cabo unipolar de alta flexibilidade   1,5 mm2, 750V, 70 ºC, verde. com as seguintes características:
+
+- Certificado pelo INMETRO conforme a norma NBR 13248.
+
+- Condutor formado por fios sólidos de cobre nú de tempera mole, seção circular.
+
+- Isolação para 750 Volts, em PVC ou  XLPE ou EPR.
+
+- NÃO HALOGENADO.
+
+- Alta flexibilidade, encordoamento no mínimo em classe 4,
+
+- Suportar temperatura no condutor de até 70ºC
+
+- Auto-extinção do fogo.
+
+	- Acomodados em caixa de fácil retirada ou em rolo com 100 metros cada.
+	RCM
+	1,39
+	1.390,00
+
+
+Cabo unipolar de alta flexibilidade   2,5 mm2, 750V, 70 ºC, azul. com as seguintes características: 
+
+- Certificado pelo INMETRO conforme a norma NBR 13248.
+
+- Condutor formado por fios sólidos de cobre nú de tempera mole, seção circular.
+
+- Isolação para 750 Volts, em PVC ou  XLPE ou EPR.
+
+- NÃO HALOGENADO.
+
+- Alta flexibilidade, encordoamento no mínimo em classe 4,
+
+- Suportar temperatura no condutor de até 70ºC
+
+- Auto-extinção do fogo.
+
+	- Acomodados em caixa de fácil retirada ou em rolo com 100 metros cada.
+	RCM
+	2,20
+	13.200,00
+
+	8
+	2246
+	500
+	Metro
+	Cabo unipolar de alta flexibilidade   2,5 mm2, 750V, 70 ºC, branco. com as seguintes características: 
+- Certificado pelo INMETRO conforme a norma NBR 13248.
+
+- Condutor formado por fios sólidos de cobre nú de tempera mole, seção circular.
+
+- Isolação para 750 Volts, em PVC ou XLPE ou EPR.
+- NÃO HALOGENADO.
+
+- Alta flexibilidade, encordoamento no mínimo em classe 4,
+
+- Suportar temperatura no condutor de até 70ºC
+- Auto-extinção do fogo.
+
+- Acomodados em caixa de fácil retirada ou em rolo com 100 metros cada.
+	RCM
+	2,20
+	1.100,00
+
+	9
+	2242
+	6000
+	Metro
+	Cabo unipolar de alta flexibilidade   2,5 mm2, 750V, 70 ºC, preto. com as seguintes características: 
+- Certificado pelo INMETRO conforme a norma NBR 13248.
+
+- Condutor formado por fios sólidos de cobre nú de tempera mole, seção circular.
+
+- Isolação para 750 Volts, em PVC ou XLPE ou EPR.
+- NÃO HALOGENADO.
+
+- Alta flexibilidade, encordoamento no mínimo em classe 4,
+
+- Suportar temperatura no condutor de até 70ºC
+- Auto-extinção do fogo.
+
+- Acomodados em caixa de fácil retirada ou em rolo com 100 metros cada.
+	RCM
+	2,20
+	13.200,00
+
+	10
+	2244
+	500
+	Metro
+	Cabo unipolar de alta flexibilidade   2,5 mm2, 750V, 70 ºC, vermelho. com as seguintes características: 
+- Certificado pelo INMETRO conforme a norma NBR 13248.
+
+- Condutor formado por fios sólidos de cobre nú de tempera mole, seção circular.
+
+- Isolação para 750 Volts, em PVC ou XLPE ou EPR.
+- NÃO HALOGENADO.
+
+- Alta flexibilidade, encordoamento no mínimo em classe 4,
+
+- Suportar temperatura no condutor de até 70ºC
+- Auto-extinção do fogo.
+
+- Acomodados em caixa de fácil retirada ou em rolo com 100 metros cada.
+	RCM
+	2,20
+	1.100,00
+
+	11
+	2245
+	3000
+	Metro
+	Cabo unipolar de alta flexibilidade   2,5 mm2, 750V, 70 ºC, verde. com as seguintes características: 
+- Certificado pelo INMETRO conforme a norma NBR 13248.
+
+- Condutor formado por fios sólidos de cobre nú de tempera mole, seção circular.
+
+- Isolação para 750 Volts, em PVC ou XLPE ou EPR.
+- NÃO HALOGENADO.
+
+- Alta flexibilidade, encordoamento no mínimo em classe 4,
+
+- Suportar temperatura no condutor de até 70ºC
+- Auto-extinção do fogo.
+
+- Acomodados em caixa de fácil retirada ou em rolo com 100 metros cada.
+	RCM
+	2,20
+	6.600,00
+
+	12
+	2350
+	300
+	Metro
+	Cabo unipolar de alta flexibilidade   4,0 mm2, 750V, 70 ºC, vermelho. com as seguintes características: 
+- Certificado pelo INMETRO conforme a norma NBR 13248.
+
+- Condutor formado por fios sólidos de cobre nú de tempera mole, seção circular.
+
+- Isolação para 750 Volts, em PVC ou XLPE ou EPR.
+- NÃO HALOGENADO.
+
+- Alta flexibilidade, encordoamento no mínimo em classe 4,
+
+- Suportar temperatura no condutor de até 70ºC
+- Auto-extinção do fogo.
+
+- Acomodados em caixa de fácil retirada ou em rolo com 100 metros cada.
+	RCM
+	3,56
+	1.068,00
+
+	13
+	2348
+	3000
+	Metro
+	Cabo unipolar de alta flexibilidade   4,0 mm2, 750V, 70 ºC, azul. com as seguintes características: 
+- Certificado pelo INMETRO conforme a norma NBR 13248.
+
+- Condutor formado por fios sólidos de cobre nú de tempera mole, seção circular.
+
+- Isolação para 750 Volts, em PVC ou XLPE ou EPR.
+- NÃO HALOGENADO.
+
+- Alta flexibilidade, encordoamento no mínimo em classe 4,
+
+- Suportar temperatura no condutor de até 70ºC
+- Auto-extinção do fogo.
+
+- Acomodados em caixa de fácil retirada ou em rolo com 100 metros cada.
+	RCM
+	3,56
+	10.680,00
+
+
+Cabo unipolar de alta flexibilidade   4,0 mm2, 750V, 70 ºC, preto . com as seguintes características: 
+
+- Certificado pelo INMETRO conforme a norma NBR 13248.
+
+- Condutor formado por fios sólidos de cobre nú de tempera mole, seção circular.
+
+- Isolação para 750 Volts, em PVC ou  XLPE ou EPR.
+
+- NÃO HALOGENADO.
+
+- Alta flexibilidade, encordoamento no mínimo em classe 4,
+
+- Suportar temperatura no condutor de até 70ºC
+
+- Auto-extinção do fogo.
+
+	- Acomodados em caixa de fácil retirada ou em rolo com 100 metros cada.
+	RCM
+	3,56
+	17.800,00
+
+	15
+	2365
+	3000
+	Metro
+	Cabo unipolar de alta flexibilidade   4,0 mm2, 750V, 70 ºC, verde. com as seguintes características: 
+- Certificado pelo INMETRO conforme a norma NBR 13248.
+
+- Condutor formado por fios sólidos de cobre nú de tempera mole, seção circular.
+
+- Isolação para 750 Volts, em PVC ou XLPE ou EPR.
+- NÃO HALOGENADO.
+
+- Alta flexibilidade, encordoamento no mínimo em classe 4,
+
+- Suportar temperatura no condutor de até 70ºC
+- Auto-extinção do fogo.
+
+- Acomodados em caixa de fácil retirada ou em rolo com 100 metros cada.
+	RCM
+	3,56
+	10.680,00
+
+	16
+	2331
+	200
+	Metro
+	Cabo unipolar de alta flexibilidade   6,0 mm2, 750V, 70 ºC, vermelho. com as seguintes características: 
+- Certificado pelo INMETRO conforme a norma NBR 13248.
+
+- Condutor formado por fios sólidos de cobre nú de tempera mole, seção circular.
+
+- Isolação para 750 Volts, em PVC ou XLPE ou EPR.
+- NÃO HALOGENADO.
+
+- Alta flexibilidade, encordoamento no mínimo em classe 4,
+
+- Suportar temperatura no condutor de até 70ºC
+- Auto-extinção do fogo.
+
+- Acomodados em caixa de fácil retirada ou em rolo com 100 metros cada.
+	RCM
+	5,26
+	1.052,00
+
+	17
+	2332
+	300
+	Metro
+	Cabo unipolar de alta flexibilidade   6,0 mm2, 750V, 70 ºC, azul. com as seguintes características: 
+- Certificado pelo INMETRO conforme a norma NBR 13248.
+
+- Condutor formado por fios sólidos de cobre nú de tempera mole, seção circular.
+
+- Isolação para 750 Volts, em PVC ou XLPE ou EPR.
+- NÃO HALOGENADO.
+
+- Alta flexibilidade, encordoamento no mínimo em classe 4,
+
+- Suportar temperatura no condutor de até 70ºC
+- Auto-extinção do fogo.
+
+- Acomodados em caixa de fácil retirada ou em rolo com 100 metros cada.
+	RCM
+	5,25
+	1.575,00
+
+	18
+	2329
+	600
+	Metro
+	Cabo unipolar de alta flexibilidade   6,0 mm2, 750V, 70 ºC, preto. com as seguintes características: 
+- Certificado pelo INMETRO conforme a norma NBR 13248.
+
+- Condutor formado por fios sólidos de cobre nú de tempera mole, seção circular.
+
+- Isolação para 750 Volts, em PVC ou XLPE ou EPR.
+- NÃO HALOGENADO.
+
+- Alta flexibilidade, encordoamento no mínimo em classe 4,
+
+- Suportar temperatura no condutor de até 70ºC
+- Auto-extinção do fogo.
+
+- Acomodados em caixa de fácil retirada ou em rolo com 100 metros cada.
+	RCM
+	5,25
+	3.150,00
+
+	19
+	2333
+	300
+	Metro
+	Cabo unipolar de alta flexibilidade   6,0 mm2, 750V, 70 ºC, verde. com as seguintes características: 
+- Certificado pelo INMETRO conforme a norma NBR 13248.
+
+- Condutor formado por fios sólidos de cobre nú de tempera mole, seção circular.
+
+- Isolação para 750 Volts, em PVC ou XLPE ou EPR.
+- NÃO HALOGENADO.
+
+- Alta flexibilidade, encordoamento no mínimo em classe 4,
+
+- Suportar temperatura no condutor de até 70ºC
+- Auto-extinção do fogo.
+
+- Acomodados em caixa de fácil retirada ou em rolo com 100 metros cada.
+	RCM
+	5,26
+	1.578,00
+
+	20
+	2408
+	200
+	Metro
+	Cabo unipolar de alta flexibilidade   10,0 mm2, 750V, 70 ºC, azul com as seguintes características: 
+- Certificado pelo INMETRO conforme a norma NBR 13248.
+
+- Condutor formado por fios sólidos de cobre nú de tempera mole, seção circular.
+
+- Isolação para 750 Volts, em PVC ou XLPE ou EPR.
+- NÃO HALOGENADO.
+
+- Alta flexibilidade, encordoamento no mínimo em classe 5,
+
+- Suportar temperatura no condutor de até 70ºC
+- Auto-extinção do fogo.
+
+- Acomodados em caixa de fácil retirada ou em rolo com 100 metros cada.
+	RCM
+	9,14
+	1.828,00
+
+
+Cabo unipolar de alta flexibilidade   10,0 mm2, 750V, 70 ºC, preto com as seguintes características: 
+
+- Certificado pelo INMETRO conforme a norma NBR 13248.
+
+- Condutor formado por fios sólidos de cobre nú de tempera mole, seção circular.
+
+- Isolação para 750 Volts, em PVC ou  XLPE ou EPR.
+
+- NÃO HALOGENADO.
+
+- Alta flexibilidade, encordoamento no mínimo em classe 5,
+
+- Suportar temperatura no condutor de até 70ºC
+
+- Auto-extinção do fogo.
+
+	- Acomodados em caixa de fácil retirada ou em rolo com 100 metros cada.
+	RCM
+	9,14
+	4.570,00
+
+	22
+	2388
+	200
+	Metro
+	Cabo unipolar de alta flexibilidade   10,0 mm2, 750V, 70 ºC, verde com as seguintes características: 
+- Certificado pelo INMETRO conforme a norma NBR 13248.
+
+- Condutor formado por fios sólidos de cobre nú de tempera mole, seção circular.
+
+- Isolação para 750 Volts, em PVC ou XLPE ou EPR.
+- NÃO HALOGENADO.
+
+- Alta flexibilidade, encordoamento no mínimo em classe 5,
+
+- Suportar temperatura no condutor de até 70ºC
+- Auto-extinção do fogo.
+
+- Acomodados em caixa de fácil retirada ou em rolo com 100 metros cada.
+	RCM
+	9,14
+	1.828,00
+
+	23
+	20787
+	100
+	Metro
+	Cabo unipolar de alta flexibilidade   10,0 mm2, 750V, 70 ºC, vermelho com as seguintes características: 
+- Certificado pelo INMETRO conforme a norma NBR 13248.
+
+- Condutor formado por fios sólidos de cobre nú de tempera mole, seção circular.
+
+- Isolação para 750 Volts, em PVC ou XLPE ou EPR.
+- NÃO HALOGENADO.
+
+- Alta flexibilidade, encordoamento no mínimo em classe 5,
+
+- Suportar temperatura no condutor de até 70ºC
+- Auto-extinção do fogo.
+
+- Acomodados em caixa de fácil retirada ou em rolo com 100 metros cada.
+	RCM
+	9,14
+	914,00
+
+	Preço Total do Lote 
+
+(em R$)
+	97.900,00
+
+	Preço Total do Lote 
+
+(em reais, por extenso)
+	Noventa e sete mil e novecentos reais
+
+
+	Lote: 3
+
+	Item
+	Código FURB
+	Qtde.
+	Und.
+	Descrição do Item
+	Marca
+	Preço Unitário (em R$)
+	Preço Total do Item
+
+ (em R$)
+
+	1
+	23957
+	400
+	Metro
+	Cabo unipolar de alta flexibilidade   2,5 mm2, 1KV, 90 ºC, azul com as seguintes características: 
+- Certificado pelo INMETRO conforme a norma NBR 13248.
+
+- Condutor formado por fios sólidos de cobre nú de tempera mole, seção circular.
+
+- Isolação para 750 Volts, em PVC ou XLPE ou EPR.
+- NÃO HALOGENADO.
+
+- Alta flexibilidade, encordoamento no mínimo em classe 4,
+
+- Suportar temperatura no condutor de até 90ºC
+- Auto-extinção do fogo.
+
+- Acomodados em bobinas de lance único por pedido
+	Corfio
+	3,11
+	1.244,00
+
+	2
+	23958
+	1000
+	Metro
+	Cabo unipolar de alta flexibilidade   2,5 mm2, 1KV, 90 ºC, - preto. com as seguintes características: 
+- Certificado pelo INMETRO conforme a norma NBR 13248.
+
+- Condutor formado por fios sólidos de cobre nú de tempera mole, seção circular.
+
+- Isolação para 1000 Volts, em PVC ou XLPE ou EPR.
+- NÃO HALOGENADO.
+
+- Alta flexibilidade, encordoamento no mínimo em classe 4,
+
+- Suportar temperatura no condutor de até 90ºC
+- Auto-extinção do fogo.
+
+- Acomodados em bobinas de lance único por pedido
+	Corfio
+	3,11
+	3.110,00
+
+	3
+	24360
+	100
+	Metro
+	Cabo unipolar de alta flexibilidade   4,0 mm2, 1KV, 90 ºC, azul com as seguintes características: 
+- Certificado pelo INMETRO conforme a norma NBR 13248.
+
+- Condutor formado por fios sólidos de cobre nú de tempera mole, seção circular.
+
+- Isolação para 1000 Volts, em PVC ou XLPE ou EPR.
+- NÃO HALOGENADO.
+
+- Alta flexibilidade, encordoamento no mínimo em classe 4,
+
+- Suportar temperatura no condutor de até 90ºC
+- Auto-extinção do fogo.
+
+- Acomodados em bobinas de lance único por pedido
+	Corfio
+	4,40
+	440,00
+
+	4
+	24361
+	300
+	Metro
+	Cabo unipolar de alta flexibilidade   4,0 mm2, 1KV, 90 ºC, preto com as seguintes características: 
+- Certificado pelo INMETRO conforme a norma NBR 13248.
+
+- Condutor formado por fios sólidos de cobre nú de tempera mole, seção circular.
+
+- Isolação para 1000 Volts, em PVC ou XLPE ou EPR.
+- NÃO HALOGENADO.
+
+- Alta flexibilidade, encordoamento no mínimo em classe 4,
+
+- Suportar temperatura no condutor de até 90ºC
+- Auto-extinção do fogo.
+
+- Acomodados em bobinas de lance único por pedido
+	Corfio
+	4,40
+	1.320,00
+
+	5
+	24544
+	200
+	Metro
+	Cabo unipolar de alta flexibilidade   6,0 mm2, 1KV, 90 ºC, azul com as seguintes características: 
+- Certificado pelo INMETRO conforme a norma NBR 13248.
+
+- Condutor formado por fios sólidos de cobre nú de tempera mole, seção circular.
+
+- Isolação para 1000 Volts, em PVC ou XLPE ou EPR.
+- NÃO HALOGENADO.
+
+- Alta flexibilidade, encordoamento no mínimo em classe 4,
+
+- Suportar temperatura no condutor de até 90ºC
+- Auto-extinção do fogo.
+
+- Acomodados em bobinas de lance único por pedido
+	Corfio
+	6,39
+	1.278,00
+
+	6
+	24545
+	600
+	Metro
+	Cabo unipolar de alta flexibilidade   6,0 mm2, 1KV, 90 ºC, preto com as seguintes características: 
+- Certificado pelo INMETRO conforme a norma NBR 13248.
+
+- Condutor formado por fios sólidos de cobre nú de tempera mole, seção circular.
+
+- Isolação para 1000 Volts, em PVC ou XLPE ou EPR.
+- NÃO HALOGENADO.
+
+- Alta flexibilidade, encordoamento no mínimo em classe 4,
+
+- Suportar temperatura no condutor de até 90ºC
+- Auto-extinção do fogo.
+
+- Acomodados em bobinas de lance único por pedido
+	Corfio
+	6,38
+	3.828,00
+
+	7
+	2383
+	300
+	Metro
+	Cabo unipolar de alta flexibilidade 10,0 mm2, 1KV, 90 ºC, azul com as seguintes características: 
+- Certificado pelo INMETRO conforme a norma NBR 13248.
+
+- Condutor formado por fios sólidos de cobre nú de tempera mole, seção circular.
+
+- Isolação para 1000 Volts, em PVC ou XLPE ou EPR.
+- NÃO HALOGENADO.
+
+- Alta flexibilidade, encordoamento no mínimo em classe 5,
+
+- Suportar temperatura no condutor de até 90ºC
+- Auto-extinção do fogo.
+
+- Acomodados em bobinas de lance único por pedido
+	Corfio
+	10,35
+	3.105,00
+
+	8
+	2382
+	500
+	Metro
+	Cabo unipolar de alta flexibilidade 10,0 mm2, 1KV, 90 ºC, preto com as seguintes características: 
+- Certificado pelo INMETRO conforme a norma NBR 13248.
+
+- Condutor formado por fios sólidos de cobre nú de tempera mole, seção circular.
+
+- Isolação para 1000 Volts, em PVC ou XLPE ou EPR.
+- NÃO HALOGENADO.
+
+- Alta flexibilidade, encordoamento no mínimo em classe 5,
+
+- Suportar temperatura no condutor de até 90ºC
+- Auto-extinção do fogo.
+
+- Acomodados em bobinas de lance único por pedido
+	Corfio
+	10,35
+	5.175,00
+
+	Preço Total do Lote 
+
+(em R$)
+	19.500,00
+
+	Preço Total do Lote 
+
+(em reais, por extenso)
+	Dezenove mil e quinhentos reais
+
+
+	Lote: 4
+
+	Item
+	Código FURB
+	Qtde.
+	Und.
+	Descrição do Item
+	Marca
+	Preço Unitário (em R$)
+	Preço Total do Item
+
+ (em R$)
+
+	1
+	2368
+	200
+	Metro
+	Cabo unipolar de alta flexibilidade   16,0 mm2, 750V, 70 ºC, azul com as seguintes características: 
+- Certificado pelo INMETRO conforme a norma NBR 13248.
+
+- Condutor formado por fios sólidos de cobre nú de tempera mole, seção circular.
+
+- Isolação para 750 Volts, em PVC ou XLPE ou EPR.
+- NÃO HALOGENADO.
+
+- Alta flexibilidade, encordoamento no mínimo em classe 5,
+
+- Suportar temperatura no condutor de até 70ºC
+- Auto-extinção do fogo.
+
+- Acomodados em caixa de fácil retirada ou em rolo com 100 metros cada.
+	Corfio
+	14,37
+	2.874,00
+
+	2
+	2366
+	400
+	Metro
+	Cabo unipolar de alta flexibilidade   16,0 mm2, 750V, 70 ºC, preto com as seguintes características: 
+- Certificado pelo INMETRO conforme a norma NBR 13248.
+
+- Condutor formado por fios sólidos de cobre nú de tempera mole, seção circular.
+
+- Isolação para 750 Volts, em PVC ou XLPE ou EPR.
+- NÃO HALOGENADO.
+
+- Alta flexibilidade, encordoamento no mínimo em classe 5,
+
+- Suportar temperatura no condutor de até 70ºC
+- Auto-extinção do fogo.
+
+- Acomodados em caixa de fácil retirada ou em rolo com 100 metros cada.
+	Corfio
+	14,37
+	5.748,00
+
+	3
+	2367
+	200
+	Metro
+	Cabo unipolar de alta flexibilidade   16,0 mm2, 750V, 70 ºC, verde com as seguintes características: 
+- Certificado pelo INMETRO conforme a norma NBR 13248.
+
+- Condutor formado por fios sólidos de cobre nú de tempera mole, seção circular.
+
+- Isolação para 750 Volts, em PVC ou XLPE ou EPR.
+- NÃO HALOGENADO.
+
+- Alta flexibilidade, encordoamento no mínimo em classe 5,
+
+- Suportar temperatura no condutor de até 70ºC
+- Auto-extinção do fogo.
+
+- Acomodados em caixa de fácil retirada ou em rolo com 100 metros cada.
+	Corfio
+	14,37
+	2.874,00
+
+	4
+	2390
+	100
+	Metro
+	Cabo unipolar de alta flexibilidade 16,0 mm2, 1KV, 90 ºC, azul com as seguintes características: 
+- Certificado pelo INMETRO conforme a norma NBR 13248.
+
+- Condutor formado por fios sólidos de cobre nú de tempera mole, seção circular.
+
+- Isolação para 1000 Volts, em PVC ou XLPE ou EPR.
+- NÃO HALOGENADO.
+
+- Alta flexibilidade, encordoamento no mínimo em classe 5,
+
+- Suportar temperatura no condutor de até 90ºC
+- Auto-extinção do fogo.
+
+- Acomodados em bobinas de lance único por pedido
+	Corfio
+	14,98
+	1.498,00
+
+	5
+	2389
+	300
+	Metro
+	Cabo unipolar de alta flexibilidade 16,0 mm2, 1KV, 90 ºC, preto com as seguintes características: 
+- Certificado pelo INMETRO conforme a norma NBR 13248.
+
+- Condutor formado por fios sólidos de cobre nú de tempera mole, seção circular.
+
+- Isolação para 1000 Volts, em PVC ou XLPE ou EPR.
+- NÃO HALOGENADO.
+
+- Alta flexibilidade, encordoamento no mínimo em classe 5,
+
+- Suportar temperatura no condutor de até 90ºC
+- Auto-extinção do fogo.
+
+- Acomodados em bobinas de lance único por pedido
+	Corfio
+	14,98
+	4.494,00
+
+	6
+	2403
+	600
+	Metro
+	Cabo unipolar de alta flexibilidade 25 mm2, 1KV, 90 ºC, preto com as seguintes características: 
+- Certificado pelo INMETRO conforme a norma NBR 13248.
+
+- Condutor formado por fios sólidos de cobre nú de tempera mole, seção circular.
+
+- Isolação para 1000 Volts, em PVC ou XLPE ou EPR.
+- NÃO HALOGENADO.
+
+- Alta flexibilidade, encordoamento no mínimo em classe 5,
+
+- Suportar temperatura no condutor de até 90ºC
+- Auto-extinção do fogo.
+
+- Acomodados em bobinas de lance único por pedido
+	Corfio
+	23,13
+	13.878,00
+
+	7
+	2404
+	200
+	Metro
+	Cabo unipolar de alta flexibilidade 25 mm2, 1KV, 90 ºC, azul com as seguintes características: 
+- Certificado pelo INMETRO conforme a norma NBR 13248.
+
+- Condutor formado por fios sólidos de cobre nú de tempera mole, seção circular.
+
+- Isolação para 1000 Volts, em PVC ou XLPE ou EPR.
+- NÃO HALOGENADO.
+
+- Alta flexibilidade, encordoamento no mínimo em classe 5,
+
+- Suportar temperatura no condutor de até 90ºC
+- Auto-extinção do fogo.
+
+- Acomodados em bobinas de lance único por pedido
+	Corfio
+	23,13
+	4.626,00
+
+	8
+	25844
+	200
+	Metro
+	Cabo unipolar de alta flexibilidade 25 mm2, 750V, 70 ºC, verde com as seguintes características: 
+- Certificado pelo INMETRO conforme a norma NBR 13248.
+
+- Condutor formado por fios sólidos de cobre nú de tempera mole, seção circular.
+
+- Isolação para 750 Volts, em PVC ou XLPE ou EPR.
+- NÃO HALOGENADO.
+
+- Alta flexibilidade, encordoamento no mínimo em classe 5,
+
+- Suportar temperatura no condutor de até 70ºC
+- Auto-extinção do fogo.
+
+- Acomodados em bobina em lance único para toda a quantidade solicitada.
+	Corfio
+	23,13
+	4.626,00
+
+	9
+	2395
+	300
+	Metro
+	Cabo unipolar de alta flexibilidade 35 mm2, 1KV, 90 ºC, azul com as seguintes características: 
+- Certificado pelo INMETRO conforme a norma NBR 13248.
+
+- Condutor formado por fios sólidos de cobre nú de tempera mole, seção circular.
+
+- Isolação para 1000 Volts, em PVC ou XLPE ou EPR.
+- NÃO HALOGENADO.
+
+- Alta flexibilidade, encordoamento no mínimo em classe 5,
+
+- Suportar temperatura no condutor de até 90ºC
+- Auto-extinção do fogo.
+
+- Acomodados em bobina em lance único para toda a quantidade solicitada.
+	Corfio
+	31,57
+	9.471,00
+
+	10
+	2370
+	900
+	Metro
+	Cabo unipolar de alta flexibilidade 35 mm2, 1KV, 90 ºC, preto com as seguintes características: 
+- Certificado pelo INMETRO conforme a norma NBR 13248.
+
+- Condutor formado por fios sólidos de cobre nú de tempera mole, seção circular.
+
+- Isolação para 1000 Volts, em PVC ou XLPE ou EPR.
+- NÃO HALOGENADO.
+
+- Alta flexibilidade, encordoamento no mínimo em classe 5,
+
+- Suportar temperatura no condutor de até 90ºC
+- Auto-extinção do fogo.
+
+- Acomodados em bobina em lance único para toda a quantidade solicitada.
+	Corfio
+	31,57
+	28.413,00
+
+	11
+	25845
+	300
+	Metro
+	Cabo unipolar de alta flexibilidade 35 mm2, 750V, 70 ºC, verde com as seguintes Características: 
+- Certificado pelo INMETRO conforme a norma NBR 13248.
+
+- Condutor formado por fios sólidos de cobre nú de tempera mole, seção circular.
+
+- Isolação para 750 Volts, em PVC ou XLPE ou EPR.
+- NÃO HALOGENADO.
+
+- Alta flexibilidade, encordoamento no mínimo em classe 5,
+
+- Suportar temperatura no condutor de até 70ºC
+- Auto-extinção do fogo.
+
+- Acomodados em bobina em lance único para toda a quantidade solicitada.  
+	Corfio
+	31,57
+	9.471,00
+
+	12
+	2424
+	300
+	Metro
+	Cabo unipolar de alta flexibilidade 50 mm2, 1KV, 90 ºC, preto com as seguintes características: 
+- Certificado pelo INMETRO conforme a norma NBR 13248.
+
+- Condutor formado por fios sólidos de cobre nú de tempera mole, seção circular.
+
+- Isolação para 1000 Volts, em PVC ou XLPE ou EPR.
+- NÃO HALOGENADO.
+
+- Alta flexibilidade, encordoamento no mínimo em classe 5,
+
+- Suportar temperatura no condutor de até 90ºC
+- Auto-extinção do fogo.
+
+- Acomodados em bobina em lance único para toda a quantidade solicitada.
+	Corfio
+	46,32
+	13.896,00
+
+	13
+	2425
+	100
+	Metro
+	Cabo unipolar de alta flexibilidade 50 mm2, 1KV, 90 ºC, azul com as seguintes características: 
+- Certificado pelo INMETRO conforme a norma NBR 13248.
+
+- Condutor formado por fios sólidos de cobre nú de tempera mole, seção circular.
+
+- Isolação para 1000 Volts, em PVC ou XLPE ou EPR.
+- NÃO HALOGENADO.
+
+- Alta flexibilidade, encordoamento no mínimo em classe 5,
+
+- Suportar temperatura no condutor de até 90ºC
+- Auto-extinção do fogo.
+
+- Acomodados em bobina em lance único para toda a quantidade solicitada.
+	
+	46,31
+	4.631,00
+
+	Preço Total do Lote 
+
+(em R$)
+	106.500,00
+
+	Preço Total do Lote 
+
+(em reais, por extenso)
+	Cento e seis mil e quinhentos reais
+
+
+	Lote: 6
+
+	Item
+	Código FURB
+	Qtde.
+	Und.
+	Descrição do Item
+	Marca
+	Preço Unitário (em R$)
+	Preço Total do Item
+
+ (em R$)
+
+	1
+	2302
+	600
+	Metro
+	Cabo de cobre nú 50mm2, normatizado NBR 6524
+	Industrial Guarulhos
+	32,45
+	19.470,00
+
+	2
+	13920
+	100
+	Metro
+	Cabo de cobre nú 35mm2, normatizado NBR 6524
+	Industrial Guarulhos
+	24,49
+	2.449,00
+
+	3
+	33542
+	100
+	Metro
+	Cabo de cobre nú 16mm2, normatizado NBR 6524
+	Industrial Guarulhos
+	11,29
+	1.129,00
+
+	Preço Total do Lote 
+
+(em R$)
+	23.048,00
+
+	Preço Total do Lote 
+
+(em reais, por extenso)
+	Vinte e três mil e quarenta e oito reais
+
+
+PAGAMENTO: O pagamento será efetuado em até 30 (trinta) dias consecutivos após a efetiva entrega (com descarga) dos materiais, desde que os mesmos estejam em perfeitas condições de uso, sejam aprovados pelo Gestor designado pela CONTRATANTE e sigam acompanhados da respectiva Nota Fiscal Eletrônica (NF-e), através de depósitos bancários (hipótese na qual a NF-e deverá conter os dados bancários da CONTRATADA) ou de boletos bancários (caso no qual tais documentos deverão acompanhar a NF-e).
+PRAZO DE VIGÊNCIA: Esta Ata de Registro de Preços terá vigência de 12 (doze) meses, a partir de sua assinatura.
+DATA: 28/10/2020.

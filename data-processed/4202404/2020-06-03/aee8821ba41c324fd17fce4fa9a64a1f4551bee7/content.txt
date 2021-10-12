@@ -1,0 +1,173 @@
+
+FUNDAÇÃO UNIVERSIDADE REGIONAL DE BLUMENAU
+
+Extrato nº. 193/2020
+PARTES:  FUNDAÇÃO UNIVERSIDADE REGIONAL DE BLUMENAU
+
+E
+
+                  AIR LIQUIDE BRASIL LTDA
+OBJETO: Registro de Preços para aquisições futuras de gases especiais, com cilindros cedidos em regime de comodato, e outros materiais, para os laboratórios e centrais de gás da Universidade.
+FUNDAMENTO LEGAL: Pregão Presencial (SRP) nº 084/2020 e Ata de Registro de Preços nº 100/2020, firmado em 08 de junho de 2020.  
+PREÇO: O preço ofertado pela empresa signatária da presente Ata de Registro de Preços é o abaixo informado, de acordo com a respectiva classificação:
+	Item
+	Código FURB
+	Qtde.
+	Und.
+	Descrição do Item
+	Preço Unitário (em R$)
+	Preço Total do Item 
+
+(em R$)
+
+	3
+	974
+	8
+	Metro Cúbico
+	Argônio para solda.
+
+Capacidade do cilindro: 1 (um) metro cúbico.
+	21,64
+	173,12
+
+	6
+	36981
+	30
+	Metro Cúbico
+	Oxigênio medicinal
+
+- Incolor, inodoro, gasoso, não inflamável;
+
+- Índice de pureza 99,5 %; 
+
+- Peso molecular 31,99881; 
+
+- Fórmula química O2; 
+
+- Produto sem efeito toxicológico;
+
+Capacidade do cilindro: “torpedo" de 1 (um) metro cúbico.
+	22,10
+	663,00
+
+	8
+	7538
+	15
+	Metro Cúbico
+	Oxigênio
+
+- Para solda 
+
+- Incolor, Inodoro e Comprimido 
+
+- Peso molecular 31,9988 
+
+- Fórmula O2
+
+Capacidade do cilindro: 1 (um) metro cúbico.
+	20,38
+	305,70
+
+	14
+	19759
+	210
+	Metro Cúbico
+	Hélio
+
+- 5.0 analítico 
+
+- Índice de Pureza 99,999 % 
+
+- Formula molecular He 
+
+- Peso Molecular(u) 4,003 
+
+- Cromatografia
+
+Capacidade do cilindro: Entre 7 (sete) e 10 (dez) metros cúbicos.
+	134,00
+	28.140,00
+
+	18
+	19758
+	150
+	Metro Cúbico
+	Nitrogênio
+
+- 5.0 analítico 
+
+- Índice de pureza 99,999 % 
+
+- Fórmula Molecular N2 
+
+- Peso Molecular(u) 28,01 
+
+- Cromatografia
+
+Capacidade do cilindro: Entre 9 (nove) e 10 (dez) metros cúbicos.
+	18,00
+	2.700,00
+
+	19
+	37643
+	5
+	Metro Cúbico
+	Recarga de gás nitrogênio 5.0 ECD para cilindros de 1 metro cúbico (tipo “G”) 
+- Gás com pureza mínima de 99,999% e Teor de halogênios  controlado
+
+- ONU 1066 – FISPQ P-4631
+	85,00
+	425,50
+
+	21
+	33756
+	10
+	Metro Cúbico
+	Nitrogênio comprimido
+
+- Para solda 
+
+- Incolor, Comprimido e Inodoro 
+
+- Peso molecular 28,01 
+
+- Fórmula N2
+
+Capacidade do cilindro: 1 (um) metro cúbico.
+	28,67
+	286,70
+
+	22
+	37635
+	4
+	Peça
+	Regulador de pressão para uso em cilindro de Acetileno comprimido; fabricado em latão com manômetros de entrada e saída conforme norma ABNT NBR 13196/94; conexão de entrada 225-2; pressão máxima: 25 bar de entrada e 1,5 bar de saída; vazão máxima 5 m3/h.
+	280,00
+	1.120,00
+
+	23
+	37633
+	4
+	Peça
+	Regulador de pressão para uso em cilindro de Argônio comprimido; fabricado em latão com manômetros de entrada e saída conforme norma ABNT NBR 13196/94; conexão de entrada 245-1; pressão máxima: 220 bar de entrada e 7,5 bar de saída; vazão máxima 2,4 m3/h.
+	285,00
+	1.140,00
+
+	24
+	37634
+	4
+	Peça
+	Regulador de pressão para uso em cilindro de Oxigênio comprimido; fabricado em latão com manômetros de entrada e saída conforme norma ABNT NBR 13196/94; conexão de entrada 218-1; pressão máxima: 220 bar de entrada e 10 bar de saída; vazão máxima 30 m3/h.
+	285,00
+	1.140,00
+
+	Preço Total (em R$)
+	36.093,52
+
+	Preço Total (em reais, por extenso)
+	Trinta e seis mil, noventa e três reais e cinquenta e dois centavos
+
+
+PAGAMENTO: O pagamento será efetuado em até 30 (trinta) dias consecutivos, após a efetiva entrega (com descarga e instalação) dos cilindros de gases/cargas, desde que os mesmos estejam em perfeitas condições de uso, sejam aprovados pelo Gestor designado pela CONTRATANTE e sigam acompanhados da respectiva Nota Fiscal Eletrônica (NF-e), através de depósitos bancários (hipótese na qual a NF-e deverá conter os dados bancários da CONTRATADA) ou de boletos bancários (caso no qual tais documentos deverão acompanhar a NF-e).
+PRAZO DE VIGÊNCIA: A presente Ata de Registro de Preços terá a validade de 12 (doze) meses, a partir da data de sua assinatura.
+DATA: 02/06/2020.

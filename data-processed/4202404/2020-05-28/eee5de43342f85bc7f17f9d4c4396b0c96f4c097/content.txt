@@ -1,0 +1,288 @@
+
+FUNDAÇÃO UNIVERSIDADE REGIONAL DE BLUMENAU
+
+Extrato nº. 181/2020
+PARTES:  FUNDAÇÃO UNIVERSIDADE REGIONAL DE BLUMENAU
+
+E
+
+                 3D PROJETOS E ASSESSORIA EM INFORMÁTICA LTDA
+OBJETO: Aquisição de materiais laboratoriais para uso em diversos setores da Universidade.
+FUNDAMENTO LEGAL: Pregão Presencial nº 473/2019 e Ata de Registro de Preços nº 081/2020, firmado em 20 de maio de 2020.  
+	Item
+	Código FURB
+	Qtde.
+	Und.
+	Descrição do Item
+	Marca/
+
+Modelo
+	Garantia (se houver, em meses)
+	Preço Unitário (em R$)
+	Preço Total do Item (em R$)
+
+	43
+	31352
+	100
+	Peça
+	Microcomputador administrativo básico sem monitor, com as seguintes características:
+
+Processador:
+· Plataforma: 32 e 64 bits
+· Frequência mínima: 3.5 GHz
+· Cache mínimo: 4 MB
+· Núcleos: mínimo de 4 cores e 4 threads.
+
+· Especificações da GPU:
+· Nominal mínima: 1100 MHz ou superior
+
+· Núcleos: 8 ou superior
+Memória:
+
+· Tipo: DDR4 de no mínimo 2133 MHz
+
+· Capacidade: 8 GB (1 x 8 GB) ou superior
+
+· Deverá ter etiqueta com número de série, logotipo e dados do fabricante impressos.
+
+Unidade de estado sólido (SSD):
+
+· Capacidade mínima: 120 GB
+
+· Interface: SATA III de 6Gb/s
+
+· Fixação: para discos de 2,5 polegadas, a fixação ao gabinete deverá ser feita por meio de adaptador de plástico ou metal, com 04 parafusos para fixação no disco e 04 parafusos para fixação no gabinete.
+
+· Garantia:
+
+· Mínima de 24 (vinte e quatro) meses no Brasil.
+
+· A garantia deverá ser atendida no Brasil, sem a necessidade de envio do disco para outros países.
+
+Placa mãe:
+
+· Deverá conter a marca e o modelo gravados na placa, não serão aceitas placas com etiquetas coladas contendo marca e modelo.
+
+· Dimensões mínimas: comprimento 21cm e largura 17,4 cm
+
+Chipset: Do mesmo fabricante do processador
+
+Interfaces mínimas:
+· 04 SATA III de 6 GB/s
+
+· 02 USB 2.0
+
+· 02 USB 3.0
+
+· 02 USB frontais, sendo pelo menos 1 x USB 3.0
+
+· 01 Slot PCI Express x16 2.0 ou superior
+
+· 01 Slot PCI Express x1
+
+· 2 Slots de memória DDR4, compatível com o modelo de memória ofertado para o equipamento
+
+· 1 x VGA
+
+· 1 x DVI ou HDMI
+
+Som: Integrado com suporte a High Definition
+
+Rede:
+
+· Gigabit (100/1000 MBPS) com conector RJ45
+
+· Porta RJ-45 para cabo UTP categoria 5 ou superior.
+
+· Deve possuir LED de indicação de link e de atividade.
+
+Alimentação:
+· Com chaveamento manual (115/220 V) ou automático entre 100 e 240 V.
+
+· Potência mínima: 200 Watts reais.
+
+· Frequência: 60Hz.
+
+· Ventilação: deve possuir ventilador com dimensão mínima de 80x80mm.
+
+· Acessórios inclusos: Cabo de energia padrão NBR14136
+
+Gabinete:
+
+· Tipo: torre
+
+· Refrigeração
+· Cooler de dimensão mínima de 80x80mm fixado na parte traseira do gabinete e alimentado diretamente na placa mãe.
+
+· O gabinete deverá ser feito com aço galvanizado, com espessura mínima de 0,50mm.
+
+· As tampas laterais deverão ser afixadas por meio de parafusos, permitindo o acesso interno pelas duas laterais.
+
+· Acabamento interno composto por superfícies não cortantes.
+
+· Acesso frontal a pelo menos 02 portas USB, sendo pelo menos uma porta USB 3.0.
+
+· Acesso frontal para microfone e fone de ouvido, ambos no padrão de conector P2.
+
+· A parte frontal do gabinete não deve possuir peças móveis (portinholas) para encobrir qualquer dispositivo (Portas USB, drives, etc.).
+
+Teclado e Mouse:
+
+· Sem teclado e mouse
+
+Sistema operacional:
+· Windows 10 ou superior
+
+· Obrigatoriamente deverá estar descrito na nota fiscal ou em declaração anexa a nota fiscal do equipamento.
+
+Acessórios: mídia de drivers com suporte a Windows 10 ou superior
+
+Compatibilidade: Windows 10 ou superior
+
+Garantia mínima: 02 anos no local para todo o equipamento
+
+Assistência Técnica durante a garantia:
+
+· Atendimento presencial em até 3 dias úteis a partir da abertura do chamado com o Callcenter da empresa/fabricante, via e-mail ou telefone.
+
+· Resolução do defeito em até 5 dias úteis, a contar do atendimento presencial.
+
+· O equipamento que apresentar 3 defeitos que requeiram intervenção de assistência técnica em um período de 90 dias consecutivos, deverá ser substituído por outro novo, de modelo idêntico ou superior, dentro das características do produto.
+
+· Expediente: Segunda a Sexta-feira das 8h às 12hs e das 14h às 18hs
+
+Condições adicionais:
+O fabricante do equipamento deverá permitir a abertura do equipamento por parte da equipe técnica da FURB para conferência, identificação de problemas e instalação de sistemas da contratante, sem perda da garantia.
+
+Aceite:
+O aceite do equipamento só será emitido após conferência das características em confronto com a proposta e testes de funcionamento realizados pela equipe técnica da FURB. A comissão de recebimento fará a análise técnica do equipamento verificando todas as características informadas na documentação e conferindo com o equipamento entregue.
+
+Em caso de desacordo das configurações do equipamento entregue, a empresa contratada deverá substituir as peças ou equipamentos em desacordo, no prazo de 10 dias úteis a contar a partir da data de notificação enviada pela contratante.
+	DTM12A310
+
+Part Number: DTM 12A310
+	24 meses
+	1.927,00
+	192.700,00
+
+	44
+	39419
+	20
+	peça
+	Tablet com tela entre 10" e 10,5"; 32 GB de armazenamento; conexão Wi-fi e 4G, com as seguintes características:
+Processador
+
+· Clock de no mínimo 1.6 GHz
+
+· Mínimo de 8 núcleos
+
+Armazenamento
+
+· Armazenamento interno de no mínimo 32 GB, sem uso de cartão SD adicional.
+
+· Suporte a cartões de memória SD ou MicroSD de até 512GB
+
+Memória RAM mínima: 2 GB
+
+Tela
+
+· Tela para múltiplos toques capacitiva com área mínima de 10,1 polegadas.
+
+· Sensor de posição de tela para horizontal e vertical.
+
+· Resolução mínima de 1920 x 1200 pixels (WUXGA)
+
+Conectividade
+
+· Suporte à rede Wi-Fi padrão IEEE 802.11 a/b/g/n/ac 2.4G+5GHz
+
+· Suporte à conexão 4G.
+
+· Suporte à Bluetooth v5.0 ou superior.
+
+Câmeras
+
+· Câmera traseira de no mínimo 8 Megapixels.
+
+· Câmera frontal de no mínimo 5 Megapixels.
+
+Recursos de entrada e saída
+
+· Conector de áudio estéreo para fone de ouvido
+
+· Alto-falante e microfone integrados
+
+· Slot para cartão SIM, Micro SIM ou nano SIM.
+
+· Botões para ajuste de volume.
+
+Idiomas
+
+· Idiomas: português do Brasil e inglês dos Estados Unidos
+
+· Teclado nos idiomas português do Brasil e inglês dos Estados Unidos
+
+Alimentação
+
+· Deverá ser fornecido carregador original do equipamento, com tensão de entrada 110/220 VAC e seleção automática de tensão de entrada.
+
+· Bateria interna recarregável de no mínimo 6150 mAh
+
+· Carga via adaptador de energia ou USB para o computador
+
+Conteúdo da caixa
+
+· Tablet
+
+· Carregador e cabo de dados
+
+· Documentação
+
+· Fone de ouvido (se houver)
+
+Cor: Preto, Prata ou Branco.
+
+Garantia mínima: 01 (um) ano para o tablet, bateria e acessórios do tablete, exceto capa/case de proteção
+
+Sistema Operacional
+
+· Obrigatoriamente com um dos sistemas operacionais listados abaixo instalados e homologados pelo fabricante do equipamento
+
+· Android 5 ou superior
+· IOS 9 ou superior
+· Windows 10 ou superior
+Capa / Case de proteção
+Material: Couro sintético, nylon, poliéster ou poliuretano.
+
+Tipo: estilo livreto e dobrável
+
+Proteção: Deverá proteger a parte frontal e traseira do tablete, quando fechada.
+
+Tamanho da capa: 10,1”
+
+Cor: Preto ou cinza
+Recursos:
+· Aberta, fechada, suporte e base.
+
+· Possuir base para apoio do tablet para leitura, quando dobrada
+
+Compatibilidade: Compatível com o modelo de tablet ofertado
+
+Embalagem: Original do fabricante, lacrada e intacta, contendo todos os acessórios originais da capa;
+
+Garantia mínima para a capa/case: 03 (três) meses.
+
+
+	Samsung – SM-T515
+	12 meses
+	1.430,00
+	28.600,00
+
+	Preço Total 
+(em R$ e por extenso)
+	221.300,00 (duzentos e vinte e um mil e trezentos reais)
+
+
+PAGAMENTO: O pagamento será realizado em até 30 (trinta) dias consecutivos após a efetiva entrega (com descarga) dos equipamento(s)/produto(s), desde que estes sejam aprovados pela Gestão Contratual e acompanhados da respectiva Nota Fiscal Eletrônica (NF-e), através de depósito bancário (hipótese na qual a NF-e deverá conter os dados bancários da CONTRATADA) ou de boleto bancário (caso no qual tal documento deverá acompanhar a NF-e).
+PRAZO DE VIGÊNCIA: A presente Ata de Registro de Preços terá a validade de 12 (doze) meses, contados a partir da data de sua assinatura.
+DATA: 27/05/2020.

@@ -1,0 +1,765 @@
+
+FUNDAÇÃO UNIVERSIDADE REGIONAL DE BLUMENAU
+
+Extrato nº. 038/2020
+PARTES:
+FUNDAÇÃO UNIVERSIDADE REGIONAL DE BLUMENAU
+E
+
+METROMED COMÉRCIO DE MATERIAL MÉDICO HOSPITALAR LTDA
+OBJETO: Registro de preços para aquisições futuras de materiais médico hospitalar e de higiene e beleza para a Universidade.
+FUNDAMENTO LEGAL: Concorrência (SRP) nº 455/2019 e Ata (SRP) nº 012/2020 firmado em 05 de março de 2020. 
+PREÇO: O preço ofertado pela empresa signatária da presente Ata de Registro de Preços é o abaixo informado, de acordo com a respectiva classificação:
+	Item
+	Código FURB
+	Qtde. Estimada
+	Und.
+	Descrição dos Produtos
+	Marca 
+	Preço
+
+Unitário
+	Preço Total do Item
+
+	06
+	20574
+	10
+	Caixa     
+	Agulha hipodérmica estéril / em aço inoxidável / descartável / tamanho 25mm x 8mm / caixa com 100 unidades / embalado em papel grau cirúrgico / Acondicionado em embalagem original do fabricante com dados de identificação do produto, data de fabricação, prazo de validade e com registro do Ministério da Saúde.
+	Labor Import
+	6,30
+	63,00
+
+	08
+	20576
+	10
+	Caixa     
+	Agulha hipodérmica estéril / em aço inoxidável / descartável / tamanho 40mm x 12mm / caixa com 100 unidades / embalado em papel grau cirúrgico / Acondicionado em embalagem original do fabricante com dados de identificação do produto, data de fabricação, prazo de validade e com registro do Ministério da Saúde.
+	Labor Import
+	7,90
+	79,00
+
+	09
+	20573
+	40
+	Caixa
+	Agulha hipodérmica estéril/ em aço inoxidável / descartável / tamanho 25mm x 7mm / caixa com 100 unidades / embalado em papel grau cirúrgico. Acondicionado em embalagem original do fabricante com dados de identificação do produto, data de fabricação, prazo de validade e com registro do Ministério da Saúde.
+	Labor Import
+	6,40
+	256,00
+
+	16
+	8255
+	100
+	Rolo
+	Algodão puro hidrófilo / rolo de 250g
+	Nathy
+	5,38
+	538,00
+
+	20
+	10211
+	200
+	Peça
+	Anuscópio fenestrado descartável
+	Kolplast
+	1,73
+	346,00
+
+	21
+	10286
+	300
+	Peça      
+	Anuscópio não fenestrado descartável
+	Kolplast
+	1,73
+	519,00
+
+	25
+	8461
+	100
+	Peça
+	Atadura de gesso / largura 15cm
+	Polar Fix
+	2,66
+	266,00
+
+	26
+	8462
+	100
+	Peça
+	Atadura de gesso / largura 20cm
+	Polar Fix
+	3,99
+	399,00
+
+	27
+	8460
+	100
+	Peça
+	Atadura em gesso / medida mínima 10cm x 300cm
+	Polar Fix
+	1,54
+	154,00
+
+	43
+	39409
+	20
+	Caixa     
+	Caixa para acondicionamento de material perfurocortante / em papelão / cor amarela / capacidade total 7L / caixa com 20 unidades
+	Descarbox
+	50,55
+	1.011,00
+
+	45
+	24642
+	20
+	Peça      
+	Cânula de Guedell / em PVC / número 0
+	MD
+	2,85
+	57,00
+
+	46
+	28829
+	20
+	Peça      
+	Cânula de Guedell / em PVC / número 00.
+	MD
+	2,85
+	57,00
+
+	47
+	24643
+	20
+	Peça      
+	Cânula de Guedell / em PVC / número 1
+	MD
+	2,85
+	57,00
+
+	48
+	24644
+	20
+	Peça      
+	Cânula de Guedell / em PVC / número 2
+	MD
+	2,85
+	57,00
+
+	49
+	28830
+	20
+	Peça      
+	Cânula de Guedell / em PVC / número 3.
+	MD
+	2,85
+	57,00
+
+	50
+	28831
+	20
+	Peça      
+	Cânula de Guedell / em PVC / número 4.
+	MD
+	2,85
+	57,00
+
+	51
+	18448
+	20
+	Peça      
+	Cânula de Guedell / em PVC / número 5
+	MD
+	2,85
+	57,00
+
+	52
+	26042
+	200
+	Peça
+	Cateter endovenoso / radiopaco / atóxico / estéril / apirogênico / insyte / 14G / esterilizado por óxido de etileno / Acondicionado em embalagem original do fabricante com dados de identificação do produto, data de fabricação, prazo de validade e com registro do Ministério da Saúde.
+	Labor Import
+	0,83
+	166,00
+
+	53
+	28832
+	200
+	Peça
+	Cateter endovenoso / radiopaco / atóxico / estéril / apirogênico / insyte / 16G /  esterilizado por óxido de etileno / Acondicionado em embalagem original do fabricante com dados de identificação do produto, data de fabricação, prazo de validade e com registro do Ministério da Saúde.
+	Labor Import
+	0,68
+	136,00
+
+	54
+	28833
+	100
+	Peça
+	Cateter endovenoso / radiopaco / atóxico / estéril / apirogênico / insyte / 18G / esterilizado por óxido de etileno / Acondicionado em embalagem original do fabricante com dados de identificação do produto, data de fabricação, prazo de validade e com registro do Ministério da Saúde.
+	Labor Import
+	0,68
+	68,00
+
+	55
+	24747
+	800
+	Peça      
+	Cateter endovenoso / radiopaco / atóxico / estéril / apirogênico / insyte / 24G  / esterilizado por óxido de etileno /  Acondicionado em embalagem original do fabricante com dados de identificação do produto, data de fabricação, prazo de validade e com registro do Ministério da Saúde.
+	Labor Import
+	0,77
+	616,00
+
+	56
+	20070
+	100
+	Peça      
+	Cateter nasal de oxigênio / tipo óculos
+	Biosani
+	0,63
+	63,00
+
+	62
+	35384
+	300
+	Peça
+	Compressa de gaze algodonada estéril, contendo uma camada de papel absorvente recoberta por duas mantas de algodão medicinal hidrófilo com envoltório de tecido de gaze também hidrófila / tamanho 10x15cm.
+	Melhormed
+	0,82
+	246,00
+
+	63
+	10379
+	2.000
+	Peça      
+	Copo de coleta de urina estéril / volume 80 ml / embalagem individual.
+	Cral
+	0,37
+	740,00
+
+	64
+	9483
+	10
+	Peça
+	Cuba redonda / diâmetro 9cm
+	Famita
+	11,20
+	112,00
+
+	70
+	28526
+	3
+	Peça      
+	Diapasão para uso clínico / 128 cps(Hz); com fixador; em alumínio de baixa densidade.
+	MD
+	82,15
+	246,45
+
+	71
+	28851
+	5
+	Conjunto
+	Eletrodo cardiológico de membros / tipo cardioclip / adulto / universal / pacote com 4 unidades
+	Fbras
+	107,79
+	538,95
+
+	72
+	31569
+	12
+	Conjunto
+	Eletrodo cardiológico de membros / tipo cardioclip / infantil / universal / pacote com 4 unidades
+	Fbras
+	75,99
+	911,88
+
+	90
+	15586
+	2
+	Peça
+	Estadiômetro vertical.
+	Balmak
+	93,15
+	186,30
+
+	97
+	35206
+	30
+	Caixa
+	Fio de sutura nylon 2-0 / com agulha de aço inoxidável / caixa com 24 envelopes.
+	Donati
+	26,50
+	795,00
+
+	108
+	28843
+	100
+	Pacote  
+	Gaze hidrófila esterilizada a raio gama ou óxido de etileno / 100% algodão / 5 dobras / 8 camadas / gramatura 11 fios/cm² / tamanho 10cm x 10cm fechada / embaladas em papel grau cirúrgico / pacote com 10 unidades
+	Melhormed
+	1,51
+	151,00
+
+	110
+	28920
+	2
+	Peça
+	Goiva simples para osso / reta / tamanho 17cm
+	ABC
+	195,83
+	391,66
+
+	115
+	21743
+	20
+	Caixa
+	Lâmina para bisturi número 15 / caixa com 100 lâminas
+	Maxicor
+	28,50
+	570,00
+
+	116
+	21745
+	20
+	Caixa
+	Lâmina para bisturi número 21 / caixa com 100 lâminas.
+	Maxicor
+	28,50
+	570,00
+
+	117
+	21747
+	20
+	Caixa     
+	Lâmina para bisturi número 24 / caixa com 100 lâminas
+	Maxicor
+	28,50
+	570,00
+
+	118
+	28882
+	20
+	Peça     
+	Lâmpada para lâmina de laringoscópio / universal
+	MD
+	21,20
+	424,00
+
+	126
+	23033
+	100
+	Pacote   
+	Máscara cirúrgica / descartável / com elástico / pacote com 100 unidades
+	Descarpack
+	7,90
+	790,00
+
+	128
+	7733
+	20
+	Peça     
+	Óculos plásticos para cirurgia
+	Supermedy
+	2,63
+	52,60
+
+	129
+	13729
+	10
+	Frasco  
+	Óleo cicatrizante componente  protetor da derme, composto de ácidos graxos essenciais (ácido linoleico), triglicerídios de cadeia média (ácido caprílico, ácido cáprico, ácido linoleico), vitamina A e vitamina E, com isenção de componentes de origem animal; frasco de 250ml.
+	Nutriex
+	3,86
+	38,60
+
+	140
+	28889
+	5
+	Peça
+	Pêra de látex com válvula para esfigmomanômetro aneróide e coluna de mercúrio.
+	Accumed
+	9,40
+	47,00
+
+	161
+	36693
+	300
+	Peça
+	Pote plástico (coletor), transparente, sem pá, capacidade 50ml, não estéril.
+	Cral
+	0,21
+	63,00
+
+	162
+	19323
+	5
+	Peça     
+	Punch em aço inox / número 3 / esterilizável
+	Mughal
+	46,95
+	234,75
+
+	164
+	34084
+	5
+	Peça
+	Reanimador (ressuscitador) manual infantil (ambu) / balão auto-inflável de silicone / válvula unidirecional / com reservatório para oxigênio fechado / volume 2600ml / máscara infantil de PVC transparente, atóxica.
+	Foyomed
+	157,80
+	789,00
+
+	165
+	34085
+	3
+	Pacote
+	Reanimador (ressuscitador) manual recém nato (ambu) / balão auto-inflável de silicone / válvula unidirecional / com reservatório para oxigênio fechado / volume 600ml / máscara recém nato de PVC transparente, atóxica.
+	Foyomed
+	157,80
+	473,40
+
+	169
+	14949
+	20
+	Pacote 
+	Saco de lixo hospitalar / capacidade 15 litros / pacote com 100 peças.
+	Rava
+	6,56
+	131,20
+
+	170
+	26327
+	50
+	Pacote 
+	Saco de lixo hospitalar / capacidade 30 litros / pacote com 100 peças.
+	Rava
+	8,18
+	409,00
+
+	171
+	27444
+	30
+	Pacote 
+	Saco de lixo hospitalar / capacidade 50 litros / pacote com 100 peças.
+	Rava
+	11,63
+	348,90
+
+	172
+	31587
+	30
+	Pacote 
+	Saco de lixo hospitalar / capacidade 90 litros / pacote com 100 peças.
+	Rava
+	23,10
+	693,00
+
+	173
+	24342
+	100
+	Peça   
+	Scalpe número 19
+	Ciruvein
+	0,19
+	19,00
+
+	174
+	10245
+	100
+	Peça   
+	Scalpe número 21
+	Solidor
+	0,20
+	20,00
+
+	175
+	9675
+	100
+	Peça
+	Scalpe número 23
+	Lamedid
+	0,20
+	20,00
+
+	176
+	10246
+	100
+	Peça     
+	Scalpe número 25
+	Solidor
+	0,19
+	19,00
+
+	177
+	17654
+	100
+	Peça     
+	Scalpe número 27
+	Solidor
+	0,20
+	20,00
+
+	182
+	13562
+	20
+	Caixa    
+	Seringa descartável / capacidade 1ml / fabricada em polipropileno / esterilizada a óxido de etileno / atóxica / apirogênica / acompanhada de agulha insulina 8mm x 0,03mm / caixa com 100 unidades
+	Cral
+	25,40
+	508,00
+
+	188
+	32098
+	3
+	Caixa     
+	Solução de glicose a 5% / sistema de infusão fechado com frasco de 500 ml / caixa com 20 frascos.
+	Equiplex
+	66,56
+	199,68
+
+	190
+	20376
+	60
+	Peça   
+	Sonda de aspiração traqueal / número 10
+	Biosani
+	0,39
+	23,40
+
+	191
+	8828
+	60
+	Peça   
+	Sonda de aspiração traqueal / número 12
+	Biosani
+	0,40
+	24,00
+
+	192
+	16215
+	60
+	Peça
+	Sonda de aspiração traqueal / número 14
+	Biosani
+	0,42
+	25,20
+
+	193
+	20374
+	60
+	Peça   
+	Sonda de aspiração traqueal / número 8
+	Biosani
+	0,38
+	22,80
+
+	194
+	24508
+	60
+	Peça
+	Sonda de aspiração traqueal / número 06.
+	Biosani
+	0,37
+	22,20
+
+	196
+	33250
+	20
+	Peça
+	Sonda endotraqueal em PVC / com balão (cuff) / número 3,5.
+	Solidor
+	3,86
+	77,20
+
+	204
+	37196
+	30
+	Peça
+	Sonda endotraqueal em PVC / sem balão (cuff) / número 2,0.
+	Solidor
+	2,85
+	85,50
+
+	205
+	28522
+	30
+	Peça
+	Sonda endotraqueal em PVC / sem balão (cuff) / número 3,0
+	Solidor
+	2,70
+	81,00
+
+	212
+	8738
+	30
+	Peça 
+	Sonda gástrica Levine; número 20.
+	Biosani
+	1,17
+	35,10
+
+	213
+	24509
+	30
+	Peça
+	Sonda nasogástrica longa / número 04, em PVC, apirogênica, esteril, atóxica.
+	Biosani
+	0,50
+	15,00
+
+	215
+	14227
+	30
+	Peça   
+	Sonda nasogástrica longa / número 16, em PVC, apirogênica, estéril, atóxica.
+	Biosani
+	0,85
+	25,50
+
+	216
+	22295
+	30
+	Peça   
+	Sonda nasogástrica longa / número 18, em PVC, apirogênica, estéril, atóxica.
+	Biosani
+	0,86
+	25,80
+
+	217
+	8778
+	20
+	Peça   
+	Sonda nasogástrica longa / número 20, em PVC, apirogênica, estéril, atóxica.
+	Biosani
+	0,99
+	19,80
+
+	218
+	8780
+	30
+	Peça
+	Sonda nasogástrica longa/ número 06, em PVC, apirogênica, estéril, atóxica.
+	Biosani
+	0,53
+	15,90
+
+	219
+	24511
+	30
+	Peça
+	Sonda nasogástrica longa/ número 10, em PVC. apirogênica, estéril, atóxica.
+	Biosani
+	0,64
+	19,20
+
+	220
+	8831
+	30
+	Peça   
+	Sonda uretral em PVC / descartável / siliconizada / atóxica / apirogênica / esterilizada / tamanho 12.
+	Biosani
+	0,40
+	12,00
+
+	222
+	8783
+	50
+	Peça
+	Sonda uretral em PVC / descartável /siliconizada / atóxica / apirogênica /atóxica / apirogênica /tamanho 10.
+	Biosani
+	0,40
+	20,00
+
+	223
+	24849
+	5
+	Caixa    
+	Soro fisiológico / ampola de 10 ml / caixa com 100 ampolas.
+	Equiplex
+	16,60
+	83,00
+
+	224
+	33240
+	1.000
+	Frasco
+	Soro fisiológico 0,9% / sistema fechado / frasco de 250ml - acondicionado em embalagem original do fabricante, com nome do responsável técnico, o lote, data de fabricação, validade e registro do Ministério da Saúde.
+	Equiplex
+	2,27
+	2.270,00
+
+	230
+	33509
+	80
+	Peça
+	Tala de papelão para imobilização / tamanho M - 50x20cm / confeccionada em papelão tipo polionda.
+	Fibra
+	1,22
+	97,60
+
+	232
+	9478
+	2
+	Peça
+	Tambor de inox para gaze / tamanho 18cm x 14cm
+	Famita
+	124,68
+	249,36
+
+	254
+	35942
+	10
+	Peça
+	Travesseiro de espuma revestido em courvin / tamanho 40x60cm.
+	Arktus
+	30,19
+	301,90
+
+	255
+	9848
+	30
+	Metro    
+	Tubo de silicone 202 / para uso hospitalar
+	Brasil
+	7,15
+	214,50
+
+	259
+	36061
+	20
+	Peça
+	Faixa elástica para exercícios físicos de reabilitação e fortalecimento / resistência forte (cor verde) / largura aproximada de 15 cm / comprimento aproximado de 100 cm.
+	Arktus
+	36,56
+	731,20
+
+	260
+	36063
+	20
+	Peça
+	Faixa elástica para exercícios físicos de reabilitação e fortalecimento / resistência super forte (cor cinza) / largura aproximada de 15 cm / comprimento aproximado de 100 cm.
+	Arktus
+	52,90
+	1.058,00
+
+	264
+	30560
+	3
+	Peça
+	Umidificador de oxigênio / frasco plástico com nível máximo e mínimo / capacidade aproximada 250 ml / tampa de nylon injetada / porca adaptada ao fluxômetro.
+	Unitec
+	17,74
+	53,22
+
+	284
+	697
+	20
+	Frasco 
+	Repelente de insetos em loção.
+	Nutriex
+	7,46
+	149,20
+
+
+PAGAMENTO: O pagamento será realizado em até 30 (trinta) dias consecutivos após a efetiva entrega (com descarga) do(s) material(is), desde que estes sejam aprovados pela Gestão Contratual e acompanhados da respectiva Nota Fiscal Eletrônica (NF-e), através de depósito bancário (hipótese na qual a NF-e deverá conter os dados bancários da CONTRATADA) ou de boleto bancário (caso no qual tal documento deverá acompanhar a NF-e)
+PRAZO DE VIGÊNCIA: A presente Ata de Registro de Preços terá a validade de 12 (doze) meses, contados a partir da data de sua assinatura.
+DATA: 05/03/2019

@@ -1,0 +1,42 @@
+
+FUNDAÇÃO UNIVERSIDADE REGIONAL DE BLUMENAU
+
+Extrato nº. 397/2020
+PARTES:
+FUNDAÇÃO UNIVERSIDADE REGIONAL DE BLUMENAU
+e
+YOUNGARTS SISTEMAS LTDA- EPP
+ADITIVO DE PRORROGAÇÃO
+TERMO ADITIVO Nº 003 AO CONTRATO Nº. 265/2017.
+OBJETO: contratação de Serviço de Manutenção e Atualização do Software Exibidor Youngarts em uso Pela Rádio e Televisão Educativa – FURBTV.
+FUNDAMENTO LEGAL: Inexigibilidade de Licitação nº. 475/2017 e Contrato nº. 265/2017 firmado em 16 de outubro de 2017.
+
+CLÁUSULA PRIMEIRA – DA PRORROGAÇÃO:
+O prazo de vigência previsto na Cláusula Primeira do Contrato nº. 265/2017 fica prorrogado por mais 12 (doze) meses, a contar de 16 de outubro de 2020 até 15 de outubro de 2021, o que totalizará 48 (quarenta e oito) meses contratados.  
+
+CLÁUSULA SEGUNDA – DO PREÇO:
+
+De acordo com o item 1.2, mantem-se o preço inicialmente contratado, correspondente a R$ 3.600,00 (três mil e seiscentos reais), para fins da formalização deste aditivo. 
+
+	Item
+	Código FURB
+	Qtde.
+	Und.
+	Descrição do Item
+	Preço Unitário (em R$)
+	Preço Total (em R$)
+
+	1
+	38458
+	1
+	Licença
+	Software de automação profissional de vídeo/áudio Video Works YoungArts (licença anual)/ integração com switches via protocolo de comunicação, reprodução em SD, HD, Full HD, 4K, Edição de entrada e saída de vídeos, Gerador de caracteres por arquivo, Sistema “espelho”, Controle de playout e reprodução independente Canal de URL (Streaming). 
+	3.600,00
+	3.600,00
+
+
+CLÁUSULA TERCEIRA – DA MANUTENÇÃO DAS DEMAIS CLÁUSULAS:
+
+Permanecem inalteradas as demais cláusulas e condições previstas no Contrato de nº 265/2017 e Termos Aditivo nº001 e 002, que não colidirem com o presente documento.  
+
+Blumenau (SC), 02 de outubro de 2020.

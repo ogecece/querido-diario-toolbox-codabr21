@@ -1,0 +1,352 @@
+
+FUNDAÇÃO UNIVERSIDADE REGIONAL DE BLUMENAU
+
+Extrato nº. 287/2020
+PARTES:  FUNDAÇÃO UNIVERSIDADE REGIONAL DE BLUMENAU
+
+E
+
+                  STOP FIRE – EXTINTORES E EQUIPAMENTOS DE SEGURANÇA EIRELI - EPP
+OBJETO: Registro de Preços para contratações futuras de serviços de inspeção técnica e manutenção de primeiro, segundo e terceiro níveis, com fornecimento de peças, em extintores de incêndio, bem como a realização de testes hidrostáticos em mangueiras de combate a incêndio, para a Universidade.
+FUNDAMENTO LEGAL: Pregão Presencial (SRP) nº 416/2019 e Ata de Registro de Preços nº 143/2020, firmado em 31 de julho de 2020.  
+PREÇO: O preço ofertado pela empresa signatária da presente Ata de Registro de Preços é o abaixo informado, de acordo com a respectiva classificação:
+	Lote 01 – Extintores e Peças
+
+	Item
+	Código FURB
+	Qtde.
+	Und.
+	Descrição do Item
+	Marca/
+
+Modelo
+	Preço Unitário (em R$)
+	Preço Total do Item (em R$)
+
+	1
+	32574
+	2
+	Serviço
+	Serviço de manutenção em primeiro nível para extintores de incêndio de gás carbônico (CO2) / extintor de 2 kg / conforme normas ABNT - INMETRO.
+	Stop Fire
+	9,96
+	19,92
+
+	2
+	32575
+	800
+	Serviço
+	Serviço de manutenção em primeiro nível para extintores de incêndio de gás carbônico (CO2) / extintor de 4 kg / conforme normas ABNT - INMETRO.
+	Stop Fire
+	8,81
+	7.048,00
+
+	3
+	32576
+	160
+	Serviço
+	Serviço de manutenção em primeiro nível para extintores de incêndio de gás carbônico (CO2) / extintor de 6 kg / conforme normas ABNT - INMETRO.
+	Stop Fire
+	10,28
+	1.644,80
+
+	4
+	32577
+	2
+	Serviço
+	Serviço de manutenção em primeiro nível para extintores de incêndio de gás carbônico (CO2) / extintor de 10 kg / conforme normas ABNT - INMETRO.
+	Stop Fire
+	26,09
+	52,18
+
+	5
+	35435
+	10
+	Serviço
+	Serviço de manutenção em segundo nível para extintores de incêndio de gás carbônico (CO2) / extintor de 2 kg / conforme normas ABNT - INMETRO.
+	Stop Fire
+	16,12
+	161,20
+
+	6
+	6092
+	500
+	Serviço
+	Serviço de manutenção em segundo nível para extintores de incêndio de gás carbônico (CO2) / extintor de 4 kg / conforme normas ABNT - INMETRO.
+	Stop Fire
+	20,51
+	10.255,00
+
+	7
+	35514
+	180
+	Serviço
+	Serviço de manutenção em segundo nível para extintores de incêndio de gás carbônico (CO2) / extintor de 6 kg / conforme normas ABNT - INMETRO.
+	Stop Fire
+	24,61
+	4.429,80
+
+	8
+	37652
+	4
+	Serviço
+	Serviço de manutenção em segundo nível para extintores de incêndio de gás carbônico (CO2) / extintor de 10 kg / conforme normas ABNT - INMETRO.
+	Stop Fire
+	56,87
+	227,48
+
+	9
+	32583
+	1
+	Serviço
+	Serviço de manutenção em terceiro nível para extintores de incêndio de gás carbônico (CO2) / extintor de 2 kg / conforme normas ABNT - INMETRO.
+	Stop Fire
+	22,57
+	22,57
+
+	10
+	32584
+	400
+	Serviço
+	Serviço de manutenção em terceiro nível para extintores de incêndio de gás carbônico (CO2) / extintor de 4 kg / conforme normas ABNT - INMETRO.
+	Stop Fire
+	24,93
+	9.972,00
+
+	11
+	32585
+	80
+	Serviço
+	Serviço de manutenção em terceiro nível para extintores de incêndio de gás carbônico (CO2) / extintor de 6 kg / conforme normas ABNT - INMETRO.
+	Stop Fire
+	41,35
+	3.308,00
+
+	12
+	32586
+	1
+	Serviço
+	Serviço de manutenção em terceiro nível para extintores de incêndio de gás carbônico (CO2) / extintor de 10 kg / conforme normas ABNT - INMETRO.
+	Stop Fire
+	69,48
+	69,48
+
+	13
+	32578
+	60
+	Serviço
+	Serviço de manutenção em segundo nível para extintores de incêndio de pó químico seco (PQSP) / extintor de 4 kg / conforme normas ABNT - INMETRO.
+	Stop Fire
+	10,55
+	633,00
+
+	14
+	32579
+	100
+	Serviço
+	Serviço de manutenção em segundo nível para extintores de incêndio de pó químico seco (PQSP) / extintor de 6 kg / conforme normas ABNT - INMETRO.
+	Stop Fire
+	12,90
+	1.290,00
+
+	15
+	32580
+	12
+	Serviço
+	Serviço de manutenção em segundo nível para extintores de incêndio de pó químico seco (PQSP) / extintor de 8 kg / conforme normas ABNT - INMETRO.
+	Stop Fire
+	15,24
+	182,88
+
+	16
+	32587
+	35
+	Serviço
+	Serviço de manutenção em terceiro nível para extintores de incêndio de pó químico seco (PQPS) / extintor de 4 kg / conforme normas ABNT - INMETRO.
+	Stop Fire
+	13,48
+	471,80
+
+	17
+	32588
+	80
+	Serviço
+	Serviço de manutenção em terceiro nível para extintores de incêndio de pó químico seco (PQPS) / extintor de 6 kg / conforme normas ABNT - INMETRO.
+	Stop Fire
+	16,41
+	1.312,80
+
+	18
+	32589
+	8
+	Serviço
+	Serviço de manutenção em terceiro nível para extintores de incêndio de pó químico seco (PQSP) / extintor de 8 kg / conforme normas ABNT - INMETRO.
+	Stop Fire
+	18,76
+	150,08
+
+	19
+	32582
+	43
+	Serviço
+	Serviço de manutenção em segundo nível para extintores de incêndio de água pressurizada (AGP) / extintor de 10 litros / conforme normas ABNT - INMETRO.
+	Stop Fire
+	13,19
+	567,17
+
+	20
+	32591
+	36
+	Serviço
+	Serviço de manutenção em terceiro nível para extintores de incêndio de água pressurizada (AGP) / extintor de 10 litros / conforme normas ABNT - INMETRO.
+	Stop Fire
+	19,05
+	685,80
+
+	21
+	31537
+	100
+	Serviço
+	Válvula para Extintor de Incêndio de CO2
+	Mangflex
+	28,14
+	2.814,00
+
+	22
+	30257
+	30
+	Serviço
+	Válvula para Extintor de Incêndio de PQSP e AP
+	Mangflex
+	16,72
+	501,60
+
+	23
+	31534
+	150
+	Serviço
+	Mangueira para Extintor de Incêndio de CO2
+	Mangflex
+	14,65
+	2.197,50
+
+	24
+	31535
+	50
+	Serviço
+	Mangueira para Extintor de Incêndio de PQSP
+	Mangflex
+	6,74
+	337,00
+
+	25
+	39428
+	20
+	Serviço
+	Mangueira para Extintor de Incêndio de AP
+	Mangflex
+	6,74
+	134,80
+
+	26
+	39429
+	4
+	Serviço
+	Difusor vermelho com Rosca de Metal para Extintor de Incêndio de CO2 - 2kg
+	Mangflex
+	3,81
+	15,24
+
+	27
+	30255
+	150
+	Serviço
+	Difusor vermelho com Rosca de Metal para Extintor de Incêndio de CO2 - 4 e 6 kg
+	Mangflex
+	4,10
+	615,00
+
+	28
+	39430
+	200
+	Serviço
+	Miolo de Válvula para Extintor de Incêndio de CO2
+	Mangflex
+	4,98
+	996,00
+
+	29
+	31702
+	150
+	Serviço
+	Tubo Sifão de Alumínio
+	Mangflex
+	3,22
+	483,00
+
+	30
+	31536
+	50
+	Serviço
+	Manômetro Espiral
+	Mangflex
+	3,22
+	161,00
+
+	31
+	31425
+	200
+	Serviço
+	Trava de segurança para Extintor de Incêndio
+	Mangflex
+	0,33
+	66,00
+
+	32
+	34142
+	20
+	Serviço
+	Conjunto (kit) APAG completo
+	Mangflex
+	0,87
+	17,40
+
+	33
+	30256
+	30
+	Serviço
+	Punho de PVC para Extintor de Incêndio CO2
+	Mangflex
+	1,75
+	52,50
+
+	34
+	24365
+	30
+	Serviço
+	Suporte Universal de Parede para Extintor de Incêndio
+	Met. Garra
+	2,05
+	61,50
+
+	35
+	39431
+	75
+	Serviço
+	Pêra borracha - para Extintor de Incêndio
+	Mangflex
+	0,58
+	43,50
+
+	Preço Total do Lote (em R$)
+	51.000,00
+
+	Preço Total do Lote
+
+ (em reais, por extenso)
+	Cinquenta e um mil reais.
+
+
+PAGAMENTO: O pagamento será efetuado em até 30 (trinta) dias consecutivos após a efetiva prestação dos serviços e fornecimento de peças, desde que os mesmos sejam aprovados pelo Gestor designado pela CONTRATANTE e sigam acompanhados da(s) respectiva(s) Nota(s) Fiscal(is) Eletrônica(s) (NF-e), através de depósitos bancários (hipótese na qual a NF-e deverá conter os dados bancários da CONTRATADA) ou de boletos bancários (caso no qual tais documentos deverão acompanhar a NF-e).
+PRAZO DE VIGÊNCIA: A presente Ata de Registro de Preços terá a validade de 12 (doze) meses, a partir da data de sua assinatura.
+DATA: 31/07/2020.

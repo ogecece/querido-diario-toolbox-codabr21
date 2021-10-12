@@ -1,0 +1,71 @@
+
+Prefeitura Municipal da Serra 
+Espirito Santo 
+
+DECRETO Nº 6589/2020 
+O PREFEITO MUNICIPAL DA SERRA, ESPÍRITO SANTO, usando de suas atribuições legais, e com base no artigo 9º inciso 
+I da Lei nº 5.155/2020 de 10/01/2020; 
+
+D E C R E T A: 
+Art. 1º. Ficam suplementadas no orçamento vigente as dotações orçamentárias constantes do Anexo I. 
+Art. 2º. Para efeito das suplementações constante no Artigo anterior, ficam anuladas as dotações orçamentárias, indicada 
+no anexo II. 
+Art. 3º. Este Decreto entra em vigor na data de sua publicação, revogadas as disposições em contrário 
+
+Palácio Municipal, em Serra, em 01 de setembro de 2020 
+AUDIFAX CHARLES PIMENTEL BARCELOS 
+
+Prefeito Municipal 
+LAURIETE CANEVA 
+
+Secretária de Planejamento Estratégico 
+CRÉDITO ADICIONAL SUPLEMENTAR - ANEXO I - SUPLEMENTAÇÃO 
+
+R$ 1,00 
+
+CÓDIGO ESPECIFICAÇÃO NATUREZA FR VALOR 
+
+06.00.00 SEC. DE PLANEJAMENTO ESTRATÉGICO    
+
+06.01.00 Sec. de Planejamento Estratégico    
+
+19.126.0080.1150 Reestruturar e manter o Datacenter 4.4.90.39.00 1.920.0010.0000 17.000 
+
+19.126.0080.1150 Reestruturar e manter o Datacenter 4.4.90.52.00 1.920.0010.0000 358.000 
+
+19.126.0080.2145 Aquisição e Manutenção de Equipamentos de Informát 4.4.90.39.00 1.920.0010.0000 164.000 
+
+19.126.0080.2145 Aquisição e Manutenção de Equipamentos de Informát 4.4.90.52.00 1.920.0010.0000 897.000 
+
+07.00.00 SECRETARIA DA FAZENDA    
+
+07.01.00 Secretaria da Fazenda    
+
+04.123.0090.1090 Capacitar os Técnicos Servidores da SEFA 4.4.90.39.00 1.920.0010.0000 17.600 
+
+04.123.0090.1092 Gestão do Sistema de TI da Fazenda Municipal 4.4.90.52.00 1.920.0010.0000 99.700 
+  TOTAL  1.553.300 
+
+ 
+CRÉDITO ADICIONAL SUPLEMENTAR - ANEXO II - ANULAÇÃO 
+
+R$ 1,00 
+
+CÓDIGO ESPECIFICAÇÃO NATUREZA FR VALOR 
+
+07.00.00 SECRETARIA DA FAZENDA    
+
+07.01.00 Secretaria da Fazenda    
+
+04.123.0090.1089 Atualizar a Planta Genérica de Valores e Realizar 4.4.90.39.00 1.920.0010.0000 117.300 
+
+08.00.00 SECRETARIA DE OBRAS    
+
+08.01.00 Secretaria de Obras    
+
+15.451.0100.2130 Urbanizar, Ampliar, Revitalizar e Melhorar as Vias 4.4.90.51.00 1.920.0010.0000 1.436.000 
+  TOTAL  1.553.300 
+
+ 
+
+

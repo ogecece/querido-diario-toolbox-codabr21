@@ -1,0 +1,222 @@
+  
+
+z> W e _]
+BLUMENA U
+
+
+ESTADO DE SANTA CATARINA
+MUNICÍPIO DE BLUMENAU
+
+Gabinete do Prefeito 
+
+                     DECRETO Nº 12.575, DE 05 DE MARÇO DE 2020.  
+
+ABRE CRÉDITOS ADICIONAIS SUPLEMENTARES NO ORÇAMENTO DO FUNDO MUNICIPAL DE SAÚDE.
+
+MÁRIO HILDEBRANDT, Prefeito Municipal de Blumenau, no uso das atribuições que lhe confere o art. 59, V, da Lei Orgânica do Município, promulgada em 29 de março de 1990, de acordo com o art. 43, I, §1º, da Lei Federal nº 4.320, de 17 de março de 1964, e com fundamento no art. 5º, IV, “c”, da Lei Municipal nº 8.818, de 12 de dezembro de 2019,
+
+DECRETA:
+
+Art. 1º Ficam abertos os créditos adicionais suplementares por conta do superávit financeiro do exercício anterior, no valor de R$ 13.398.784,12 (treze milhões, trezentos e noventa e oito mil, setecentos e oitenta e quatro reais e doze centavos), nas seguintes dotações orçamentárias:
+
+31 – FUNDO MUNICIPAL DE SAÚDE
+3101 – Fundo Municipal de Saúde
+Atividade
+31.01.10.122.0041.2490 – Manut. Ativ. Administ. e Gestão FMS
+
+Modalidade
+4.4.90 (131) Aplicações Diretas
+
+R$               53.997,66
+
+Fonte d Recursos 0688.00000
+
+Projeto
+31.01.10.301.0060.1196 – Constr/Ampl.Estrut. Rede Serv. Atenção Básica em Saúde
+
+Modalidade
+4.4.90 (132) Aplicações Diretas
+
+R$              290.025,55
+
+Fonte de Recursos 0638.00078
+
+Projeto
+31.01.10.301.0060.1199 – constr./Ampl. Estrut. Da Rede de Serviços de Gestão do SUS
+
+Modalidade
+4.4.90 (133) Aplicações Diretas
+
+R$              105.071,83
+
+Fonte de Recursos 0638.00078
+
+Atividade
+31.01.10.301.0060.2169 – Pab – Saúde Bucal
+
+Modalidade
+3.3.90 (134) Aplicações Diretas
+
+R$               18.865,62
+
+Fonte de Recursos 0667.00064
+
+Atividade
+31.01.10.301.0060.2170 – Pab – Estrat. Saúde da Família/Conf.
+
+Modalidade
+3.3.90 (135) Aplicações Diretas
+
+R$              160.794,09
+
+Modalidade
+4.4.90 (136) Aplicações Diretas
+
+R$            2.000.000,00
+
+Fonte de Recursos 0667.00064
+Atividade
+31.01.10.301.0060.2389 – Pab Fixo – Piso de Atenção Básica
+
+Modalidade
+3.3.90 (137) Aplicações Diretas
+
+R$            6.664.341,97
+Modalidade
+4.4.90 (138) Aplicações Diretas
+
+R$            1.000.000,00
+
+Fonte de Recursos 0638.00064
+Atividade
+31.01.10.301.0060.2485 – Gestão do SUS
+
+Modalidade
+3.3.90 (140) Aplicações Diretas
+
+R$                  947,52
+
+Fonte de Recursos 0667.00066
+Modalidade
+3.3.90 (139) Aplicações Diretas
+
+R$                7.384,29
+Fonte de Recursos 0667.00070
+Modalidade 3.3.90 (141) Aplicações Diretas
+
+R$              388.222,54
+
+Modalidade 4.4.90 (142) Aplicações Diretas
+
+R$               30.000,00
+
+Fonte de Recursos 0638.00070
+
+Projeto
+31.01.10.302.0059.1197 – Constr/Ampl. Estrut. Rede Serv. Atenção Especial em Saúde
+
+Modalidade
+4.4.90 (143) Aplicações Diretas
+
+R$             88.346,61
+Fonte de Recursos 0638.00078
+Atividade
+31.01.10.302.0059.2181 – Samu - Serv. Atend. Móvel de Urgência
+
+Modalidade
+3.3.90 (144) Aplicações Diretas
+
+R$             76.159,27
+Fonte de Recursos 0638.00057
+
+Atividade
+31.01.10.302.0059.2184 – Cerest – Centro Refer. Saúde Trabalhar
+
+Modalidade
+4.4.90 (145) Aplicações Diretas
+
+R$            133.448,57
+Fonte de Recursos 0606.00000
+
+Atividade
+31.01.10.302.0059.2384 – Faec – Fundos de Ações Estratégicas e Compensação
+
+Modalidade
+3.3.90 (146) Aplicações Diretas
+
+R$            369.109,78
+Fonte de Recursos 0667.00077
+
+Atividade
+31.01.10.302.0059.2385 – Mac – Média e Alta Complexidade – Produção
+
+Modalidade
+3.3.90 (147) Aplicações Diretas
+
+R$              4.637,37
+Fonte de Recursos 0606.00000
+
+Atividade
+31.01.10.303.0060.2173 – Assistência Farmacêutica Básica
+
+Modalidade
+3.3.90 (149) Aplicações Diretas
+
+R$              8.648,88
+
+Fonte de Recursos 0638.00067
+
+Modalidade
+3.3.90 (148) Aplicações Diretas
+
+R$            137.983,71
+Fonte de Recursos 0667.00067
+
+Projeto
+31.01.10.304.0062.1198 – Constr/Ampl. Estrut. Rede Serv. De Vigilância em Saúde
+
+Modalidade
+4.4.90 (150) Aplicações Diretas
+
+R$            121.747,51
+Fonte de Recursos 0638.00078
+
+Atividade
+31.01.10.304.0062.2390 – Vigilância Sanitária e Ambiental
+
+Modalidade
+3.3.90 (151) Aplicações Diretas
+
+R$            800.000,00
+
+Modalidade
+4.4.90 (152) Aplicações Diretas
+
+R$            269.451,07
+Fonte de Recursos 0606.00000
+
+Atividade
+31.01.10.305.0062.2391 – Vigilância Epidemiológica
+
+Modalidade
+3.3.90 (154) Aplicações Diretas
+
+R$            542.523,28
+Modalidade
+4.4.90 (155) Aplicações Diretas
+
+R$            100.000,00
+
+Fonte de Recursos 0638.00066
+
+Modalidade
+3.3.90 (153) Aplicações Diretas
+
+R$             27.077,00
+
+Fonte de Recursos 0667.00066
+
+Art. 2º Este Decreto entra em vigor na data de sua publicação.
+PREFEITURA MUNICIPAL DE BLUMENAU, em 05 de março de 2020.
+MÁRIO HILDEBRANDT
+Prefeito Municipal 

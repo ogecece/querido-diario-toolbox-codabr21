@@ -1,0 +1,109 @@
+
+Prefeitura Municipal da Serra 
+Espirito Santo 
+
+DECRETO Nº 6570/2020 
+O PREFEITO MUNICIPAL DA SERRA, ESPÍRITO SANTO, usando de suas atribuições legais, e com base no artigo 9º inciso 
+I da Lei nº 5.155/2020 de 10/01/2020; 
+
+D E C R E T A: 
+Art. 1º. Ficam suplementadas no orçamento vigente as dotações orçamentárias constantes do Anexo I. 
+Art. 2º. Para efeito das suplementações constante no Artigo anterior, ficam anuladas as dotações orçamentárias, indicada 
+no anexo II. 
+Art. 3º. Este Decreto entra em vigor na data de sua publicação, revogadas as disposições em contrário 
+
+Palácio Municipal, em Serra, em 27 de agosto de 2020 
+AUDIFAX CHARLES PIMENTEL BARCELOS 
+
+Prefeito Municipal 
+LAURIETE CANEVA 
+
+Secretária de Planejamento Estratégico 
+CRÉDITO ADICIONAL SUPLEMENTAR - ANEXO I - SUPLEMENTAÇÃO 
+
+R$ 1,00 
+
+CÓDIGO ESPECIFICAÇÃO NATUREZA FR VALOR 
+
+06.00.00 SEC. DE PLANEJAMENTO ESTRATÉGICO    
+
+06.01.00 Sec. de Planejamento Estratégico    
+
+19.126.0080.1150 Reestruturar e manter o Datacenter 4.4.90.39.00 1.920.0010.0000 40.000 
+
+08.00.00 SECRETARIA DE OBRAS    
+
+08.01.00 Secretaria de Obras    
+
+15.451.0100.2122 Construir, Reformar e Ampliar os Equipamentos Espo 4.4.90.51.00 1.001.0000.0000 190.000 
+
+10.00.00 SEC. TURISMO, CULTURA, ESPORTE E LAZER    
+
+10.01.00 Sec. Turismo, Cultura, Esporte e Lazer    
+
+13.392.0150.2232 Valorizar e Preservar o Patrimônio Histórico Mater 3.3.90.39.00 1.001.0000.0000 105.000 
+
+27.813.0140.2222 Fomentar, Promover e Apoiar o Esporte e Lazer nas 3.3.50.43.00 1.001.0000.0000 1.442.000 
+
+12.00.00 SECRETARIA DE SAUDE    
+
+12.01.00 Fundo Municipal de Saúde    
+
+10.122.0530.2002 Manutenção dos Serviços Administrativos Gerais 3.3.90.30.00 1.211.0000.0000 30.000 
+
+10.302.0230.2135 Ampliar e Melhorar os Serviços de Urgência e Emerg 4.4.90.92.00 2.220.0034.0000 3.211 
+
+10.305.0530.2001 Pagamento de Pessoal e Encargos 3.1.90.11.00 1.214.0000.0000 110.000 
+
+13.00.00 SECRETARIA DE ASSISTÊNCIA SOCIAL    
+
+13.02.00 Fundo Munic. Assistência Social    
+
+08.244.0250.1179 Construir, implantar, reformar e manter equipament 4.4.90.93.00 1.390.0090.0000 2.000 
+  TOTAL  1.922.211 
+
+ 
+CRÉDITO ADICIONAL SUPLEMENTAR - ANEXO II - ANULAÇÃO 
+
+R$ 1,00 
+
+CÓDIGO ESPECIFICAÇÃO NATUREZA FR VALOR 
+
+06.00.00 SEC. DE PLANEJAMENTO ESTRATÉGICO    
+
+06.01.00 Sec. de Planejamento Estratégico    
+
+04.122.0070.1284 Serra Mais Você 3.3.90.39.00 1.001.0000.0000 190.000 
+
+08.00.00 SECRETARIA DE OBRAS    
+
+08.01.00 Secretaria de Obras    
+
+15.451.0100.2130 Urbanizar, Ampliar, Revitalizar e Melhorar as Vias 4.4.90.51.00 1.920.0010.0000 40.000 
+
+10.00.00 SEC. TURISMO, CULTURA, ESPORTE E LAZER    
+
+10.01.00 Sec. Turismo, Cultura, Esporte e Lazer    
+
+27.813.0140.2218 Construir, Manter e Conservar Equipamentos Esporti 3.3.90.39.00 1.001.0000.0000 1.547.000 
+
+12.00.00 SECRETARIA DE SAUDE    
+
+12.01.00 Fundo Municipal de Saúde    
+
+10.301.0240.2205 Ampliar e Melhorar a Qualidade do Acesso na Atençã 3.3.90.30.00 1.211.0000.0000 30.000 
+
+10.301.0530.2001 Pagamento de Pessoal e Encargos 3.1.90.04.00 1.214.0000.0000 110.000 
+
+10.302.0230.2135 Ampliar e Melhorar os Serviços de Urgência e Emerg 4.4.90.52.00 2.220.0034.0000 3.211 
+
+13.00.00 SECRETARIA DE ASSISTÊNCIA SOCIAL    
+
+13.02.00 Fundo Munic. Assistência Social    
+
+08.244.0250.1179 Construir, implantar, reformar e manter equipament 4.4.90.52.00 1.390.0090.0000 2.000 
+  TOTAL  1.922.211 
+
+ 
+
+

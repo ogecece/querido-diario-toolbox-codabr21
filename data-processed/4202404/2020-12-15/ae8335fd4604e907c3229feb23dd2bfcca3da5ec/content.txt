@@ -1,0 +1,63 @@
+
+FUNDAÇÃO UNIVERSIDADE REGIONAL DE BLUMENAU
+
+Extrato nº. 546/2020
+PARTES:
+FUNDAÇÃO UNIVERSIDADE REGIONAL DE BLUMENAU
+E
+
+NovoCliente Tecnologia Ltda - ME.
+OBJETO: aquisição de licença de uso de ferramenta de BI denominada Mercadoedu para uso em diversos setores da FURB.
+FUNDAMENTO LEGAL: Dispensa de Licitação nº 310/2020 e Contrato nº 251/2020, firmado em 17 de dezembro de 2020. 
+PREÇO: Pelo objeto contratado, a CONTRATANTE pagará o preço de R$ 8.463,24 (oito mil, quatrocentos e sessenta e três reais e vinte e quatro centavos), conforme constante dos autos do processo de Inexigibilidade de Licitação nº. 310/2020, especialmente quanto a Proposta de folhas 0_ dos autos, que passa a fazer parte integrante deste instrumento contratual, independente de transcrição, sendo estes os preços unitários e as descrições básicas dos itens:
+
+	Item
+	Código FURB
+	Qtde.
+	Und.
+	Descrição do Item
+	Preço Unitário (em R$)
+	Preço Total (em R$)
+
+	1
+	38100
+	12
+	Licença
+	Aquisição de Concessão de uso do Software MercadoEdu (Armazem de dados, Pricing Graduação 1º semestre com licença de acesso a 1 usuário e 3 usuários adicionais) - COPLAN
+	250,00
+	3.000,00
+
+	2
+	38100
+	12
+	Licença
+	Aquisição de Concessão de uso do Software MercadoEdu (Armazem de dados, Pricing Graduação 1º semestre com licença de acesso a 1 usuário e 3 usuários adicionais) - CCM
+	151,76
+	1.821,12
+
+	3
+	38100
+	12
+	Licença
+	Aquisição de Concessão de uso do Software MercadoEdu (Armazem de dados, Pricing Graduação 1º semestre com licença de acesso a 1 usuário e 3 usuários adicionais) – PROEN-DRA
+	151,75
+	1.821,00
+
+	4
+	38100
+	12
+	Licença
+	Aquisição de Concessão de uso do Software MercadoEdu (Armazem de dados, Pricing Graduação 1º semestre com licença de acesso a 1 usuário e 3 usuários adicionais) – PROEN-DPE
+	151,76
+	1.821,12
+
+	Preço Total (em reais, por extenso)
+	oito mil, quatrocentos e sessenta e três reais e vinte e quatro centavos
+
+
+PAGAMENTO: Os pagamentos das parcelas acordados na Proposta Comercial referente ao objeto deste instrumento serão realizadas mensalmente e sempre dentro do mês de uso do serviço, após devidamente aprovado pelo Gestor designado pela CONTRATANTE e siga acompanhado da respectiva Nota Fiscal Eletrônica (NF-e), através de depósitos bancários (hipótese na qual a NF-e deverá conter os dados bancários da CONTRATADA) ou de boletos bancários (caso no qual tais documentos deverão acompanhar a NF-e).
+
+.
+
+PRAZO DE VIGÊNCIA: A vigência do presente contrato será de 12 (doze) meses, contados a partir de sua assinatura, com possibilidade de extensão da referida duração até o limite de 48 (quarenta e oito) meses, de acordo com o expresso no artigo 57, IV da Lei Federal nº. 8.666/93.
+DATA: 14/12/2020

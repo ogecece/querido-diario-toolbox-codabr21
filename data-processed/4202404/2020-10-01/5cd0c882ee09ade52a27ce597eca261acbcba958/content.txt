@@ -1,0 +1,384 @@
+
+FUNDAÇÃO UNIVERSIDADE REGIONAL DE BLUMENAU
+
+Extrato nº. 387/2020
+PARTES:  FUNDAÇÃO UNIVERSIDADE REGIONAL DE BLUMENAU
+
+E
+
+                  VISOMES COMERCIAL METROLÓGICA LTDA EPP
+OBJETO: Registro de Preços para o serviço de calibração de diversos equipamentos, utensílios e vidrarias da Universidade.
+FUNDAMENTO LEGAL: Pregão Presencial (SRP) nº 186/2020 e Ata de Registro de Preços nº 170/2020, firmado em 30 de setembro de 2020.  
+PREÇO: O preço ofertado pela empresa signatária da presente Ata de Registro de Preços é o abaixo informado, de acordo com a respectiva classificação: 
+
+	Lote 1
+
+	Item
+	Código FURB
+	Qtde.
+	Und.
+	Descrição do Item
+	Preço Unitário (em R$)
+	Preço Total do Item (em R$)
+
+	1
+	39278
+	13
+	SV
+	Despesa com serviço de calibração RBC em balão volumétrico de 1mL A 3000mL, com certificado de calibração acreditado RBC, atendendo a ABNT ISO/IEC 17025. CMC: 0,02 a 0,05% da leitura.
+	50,00
+	650,00
+
+	2
+	39281
+	15
+	SV
+	Despesa com serviço de calibração RBC em pipeta volumétrica de 1mL, 2mL, 5mL, 10mL, 20 ml, 25 ml e 50 ml, com certificado de calibração acreditado RBC, atendendo a ABNT ISO/IEC 17025. CMC: 0,02 a 0,1% da leitura.
+	50,00
+	750,00
+
+	3
+	39711
+	8
+	SV
+	Despesa com serviço de calibração RBC de proveta graduada de 5mL a 50mL, de 1 a 5 pontos, com certificado de calibração acreditado RBC, atendendo a ABNT ISO/IEC 17025. CMC: 0,01 a 0,1% da leitura.
+	65,00
+	520,00
+
+	4
+	39286
+	20
+	SV
+	Despesa com serviço de calibração RBC de proveta graduada de 100mL em 7 pontos, com certificado de calibração acreditado RBC, atendendo a ABNT ISO/IEC 17025 e a Portaria INMETRO 528.
+	66,50
+	1.330,00
+
+	Preço Total do Lote (em R$)
+
+	3.250,00
+
+	Preço Total do Lote
+
+ (em reais, por extenso)
+	Três mil, duzentos e cinquenta reais
+
+
+	Lote 2
+
+	Item
+	Código FURB
+	Qtde.
+	Und.
+	Descrição do Item
+	Preço Unitário (em R$)
+	Preço Total do Item (em R$)
+
+	1
+	33692
+	2
+	SV
+	Despesa com serviço de calibração em Termo-higrômetro (15-70 ºC / 30-95%) canal in e out 0, 5, 10, 15, 20 e 26 ºC e UR 30, 50 e 70% temperatura de referência 25ºC, com certificado de calibração acreditado RBC, atendendo a ABNT ISO/IEC 17025. CMC: 0,07 a 0,14 ºC e 1,3 a 2,5 %UR.
+	400,00
+	800,00
+
+	2
+	33686
+	2
+	SV
+	Despesa com serviço de calibração de termômetro de resistência -40 a 420 ºC (PT100) nos pontos: -30, -15, -7, 0 e 10°C, emitindo certificado de calibração acreditado à RBC, atendendo a ABNT ISO/IEC 17025. Calibração realizada de acordo com as normas ABNT NBR 13772 e ABNT NBR 13773. Escala Internacional de Temperatura de 1990 (EIT-90). Termopar - CMC: 0,23 ºC.
+	235,00
+	470,00
+
+	3
+	33591
+	11
+	SV
+	Despesa com serviço de calibração de Termômetro de resistência -40 a 420ºC (PT100) em 9 pontos a serem definidos, emitindo certificado de calibração acreditado à RBC, atendendo a ABNT ISO/IEC 17025. Calibração realizada de acordo com as normas ABNT NBR 13772 e ABNT NBR 13773. Escala Internacional de Temperatura de 1990 (EIT-90). Termopar - CMC: 0,23 ºC.
+	400,00
+	4.400,00
+
+	4
+	33469
+	7
+	SV
+	Despesa com serviço de calibração de Termômetro Analógico/Digital -25ºC a 400 ºC em 7 pontos a serem definidos, emitindo certificado de calibração acreditado à RBC, atendendo a ABNT ISO/IEC 17025. CMC: 0,3 a 0,9 ºC.
+	300,00
+	2.100,00
+
+	5
+	33589
+	8
+	SV
+	Despesa com serviço de calibração de termômetro líquido em vidro com escala de medição de -40ºC a 420ºC, em 3 pontos a serem definidos, emitindo certificado de calibração acreditado à RBC, atendendo a ABNT ISO/IEC 17025. CMC: 0,13 a 0,37 ºC.
+	150,00
+	1.200,00
+
+	6
+	33587
+	8
+	SV
+	Despesa com serviço de calibração de termômetro líquido em vidro com escala de medição de -40 a 420ºC, em 5 pontos a serem definidos, emitindo certificado de calibração acreditado à RBC, atendendo a ABNT ISO/IEC 17025. CMC: 0,13 a 0,37 ºC.
+	220,00
+	1.760,00
+
+	7
+	33588
+	5
+	SV
+	Despesa com serviço de calibração de termômetro líquido em vidro com escala de medição de -40 a 420ºC, em 7 pontos a serem definidos, emitindo certificado de calibração acreditado à RBC, atendendo a ABNT ISO/IEC 17025. CMC: 0,13 a 0,37 ºC.
+	254,00
+	1.270,00
+
+	Preço Total do Lote (em R$)
+
+	12.000,00
+
+	Preço Total do Lote
+
+ (em reais, por extenso)
+	Doze mil reais.
+
+
+	Lote 3
+
+	Item
+	Código FURB
+	Qtde.
+	Und.
+	Descrição do Item
+	Preço Unitário (em R$)
+	Preço Total do Item (em R$)
+
+	1
+	33695
+	3
+	SV
+	Despesa com serviço de calibração em Barômetros de 934 a 1030 mBar em 10 pontos a serem definidos, com certificado de calibração acreditado RBC, atendendo a ABNT ISO/IEC 17025. CMC: 0,05%.
+	550,00
+	1.650,00
+
+	Preço Total do Lote (em R$)
+
+	1.650,00
+
+	Preço Total do Lote
+
+ (em reais, por extenso)
+	Um mil, seiscentos e cinquenta reais.
+
+
+	Lote 4
+
+	Item
+	Código FURB
+	Qtde.
+	Und.
+	Descrição do Item
+	Preço Unitário (em R$)
+	Preço Total do Item (em R$)
+
+	1
+	33396
+	2
+	SV
+	Serviço de calibração de Condutivímetro, com emissão de certificado de calibração RBC, atendendo a ABNT ISO/IEC 17025. Calibração nos pontos 5, 25 e 50 uS/cm e o sensor de temperatura a 25ºC.
+	470,00
+	940,00
+
+	Preço Total do Lote (em R$)
+
+	940,00
+
+	Preço Total do Lote
+
+ (em reais, por extenso)
+	Novecentos e quarenta reais.
+
+
+	Lote 5
+
+	Item
+	Código FURB
+	Qtde.
+	Und.
+	Descrição do Item
+	Preço Unitário (em R$)
+	Preço Total do Item (em R$)
+
+	1
+	33397
+	2
+	SV
+	Serviço de calibração de pHmetros, com emissão de certificado de calibração RBC, atendendo a ABNT ISO/IEC 17025; calibração elétrica (escala em mV de -500 a + 500 mV; calibração elétrica (escala em pH 0 a 14); calibração com MRC (25ºC) nas faixas de 4,0; 6,8 e 10,0.
+	410,00
+	820,00
+
+	Preço Total do Lote (em R$)
+
+	820,00
+
+	Preço Total do Lote
+
+ (em reais, por extenso)
+	Oitocentos e vinte reais.
+
+
+	Lote 6
+
+	Item
+	Código FURB
+	Qtde.
+	Und.
+	Descrição do Item
+	Preço Unitário (em R$)
+	Preço Total do Item (em R$)
+
+	1
+	34128
+	11
+	SV
+	Despesa com serviço de calibração de densímetro de vidro em 3 pontos a serem definidos, emitindo certificado de calibração acreditado à RBC, atendendo a ABNT ISO/IEC 17025.
+	205,00
+	2.255,00
+
+	Preço Total do Lote (em R$)
+
+	2.255,00
+
+	Preço Total do Lote
+
+ (em reais, por extenso)
+	Dois mil, duzentos e cinquenta e cinco reais.
+
+
+	Lote 7
+
+	Item
+	Código FURB
+	Qtde.
+	Und.
+	Descrição do Item
+	Preço Unitário (em R$)
+	Preço Total do Item (em R$)
+
+	1
+	40151
+	1
+	SV
+	Despesa com serviço de calibração de Gabarito usado na checagem de nível de destiladores em 2 pontos (5 e 100 ml), emitindo certificado de calibração acreditado à RBC, atendendo a ABNT ISO/IEC 17025.
+	140,00
+	140,00
+
+	Preço Total do Lote (em R$)
+
+	140,00
+
+	Preço Total do Lote
+
+ (em reais, por extenso)
+	Cento e quarenta reais.
+
+
+	Lote 8
+
+	Item
+	Código FURB
+	Qtde.
+	Und.
+	Descrição do Item
+	Preço Unitário (em R$)
+	Preço Total do Item (em R$)
+
+	1
+	36810
+	1
+	SV
+	Despesa com pagamento de serviço de calibração acreditado à RBC, da balança LEQ 015 (marca CHYIO, modelo JL-180, faixa de medição de 0-180g, resolução 0,0001g).
+	245,00
+	245,00
+
+	2
+	36811
+	1
+	SV
+	Despesa com pagamento de serviço de calibração acreditado à RBC, da balança LEQ 167 (marca SARTORIUS, modelo TE214S, faixa de medição de 0-210g, resolução 0,0001g).
+	245,00
+	245,00
+
+	3
+	36812
+	1
+	SV
+	Despesa com pagamento de serviço de calibração acreditado à RBC, da balança LEQ 026 (marca MARTE, modelo A1000, faixa de medição de 0-1000g, resolução 0,01g).
+	180,00
+	180,00
+
+	4
+	36813
+	1
+	SV
+	Despesa com pagamento de serviço de calibração acreditado à RBC, da balança LCR 032 (marca SARTORIUS, modelo CP2P-F, faixa de medição de 0-2,1g, resolução 0,000001g).
+	245,00
+	245,00
+
+	5
+	36814
+	1
+	SV
+	Despesa com pagamento de serviço de calibração acreditado à RBC, da balança LCR 033 (marca SHIMADZU, modelo AUX-320, faixa de medição de 0-320g, resolução 0,0001g).
+	245,00
+	245,00
+
+	6
+	36815
+	1
+	SV
+	Despesa com pagamento de serviço de calibração acreditado à RBC, da balança LAC 076 (marca MARTE, modelo AS1000, faixa de medição de 0-1000g, resolução 0,01g).
+	180,00
+	180,00
+
+	7
+	36816
+	1
+	SV
+	Despesa com pagamento de serviço de calibração acreditado à RBC, da balança LAC 095 (marca SARTORIUS, modelo TE214S, faixa de medição de 0-210g, resolução 0,0001g).
+	245,00
+	245,00
+
+	8
+	36817
+	1
+	SV
+	Despesa com pagamento de serviço de calibração acreditado à RBC, da balança LMM (marca GEHAKA, modelo BG-2000, faixa de medição de 0-2000g, resolução 0,01g).
+	180,00
+	180,00
+
+	9
+	36818
+	1
+	SV
+	Despesa com pagamento de serviço de calibração acreditado à RBC, da balança LMM (marca MICRONAL, modelo B-1600, faixa de medição de 0-1600g, resolução 0,01g).
+	180,00
+	180,00
+
+	10
+	33181
+	1
+	SV
+	Valor da despesa com pagamento de custo operacional por serviço de calibração de balanças "in loco" com emissão de certificado acreditado RBC e/ou INMETRO.
+	755,00
+	755,00
+
+	Preço Total do Lote (em R$)
+
+	2.700,00
+
+	Preço Total do Lote
+
+ (em reais, por extenso)
+	Dois mil e setecentos reais.
+
+
+PAGAMENTO: O pagamento será realizado em até 28 (vinte e oito) dias consecutivos após a efetiva prestação dos serviços e entrega dos certificados, desde que os mesmos sejam aprovados pelo Gestor designado pela CONTRATANTE e sigam acompanhados da(s) respectiva(s) Nota(s) Fiscal(is) Eletrônica(s) (NF-e), através de depósitos bancários (hipótese na qual a NF-e deverá conter os dados bancários da CONTRATADA) ou de boletos bancários (caso no qual tais documentos deverão acompanhar a NF-e).
+PRAZO DE VIGÊNCIA: Esta Ata de Registro de Preços terá vigência de 12 (doze) meses, a partir de sua assinatura.
+DATA: 30/09/2020.

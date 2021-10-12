@@ -1,0 +1,526 @@
+Rede Municipal de Atenção Materno Infantil
+
+
+MUNICÍPIO DE GUARAPARI
+ESTADO DO ESPÍRITO SANTO
+Secretaria Municipal da Saúde
+PROTOCOLO DE ACOLHIMENTO, CLASSIFICAÇÃO DE RISCO E ATENDIMENTO DA GESTANTE E DA CRIANÇA ATÉ OS SEUS DOIS PRIMEIROS ANOS DE VIDA
+Guarapari – ES
+2020
+Rede Municipal de Atenção Materno Infantil
+PROTOCOLO DE ACOLHIMENTO, CLASSIFICAÇÃO DE RISCO E ATENDIMENTO DA GESTANTE E DA CRIANÇA ATÉ OS SEUS DOIS PRIMEIROS ANOS DE VIDA
+ O presente “Protocolo” é um documento de análise objetiva para a implantação e implemen-tação da Rede de Atenção a Saúde Materno Infantil no município de Guarapari, escrito com o propósito de subsidiar a sua organização e funcionamento na rede de atenção básica.
+Guarapari – ES
+2020
+SECRETARIA MUNICIPAL DE SAÚDE
+PREFEITO MUNICIPAL DE GUARAPARI
+Edson Figueiredo Magalhães
+SECRETÁRIA MUNICIPAL DE SAÚDE
+Alessandra Santos Albani 
+SECRETÁRIO MUNICIPAL DE SAÚDE ADJUNTO
+Murilo Tardim Alves
+SUPERVISORA AMBULATORIAL
+Isáquea Brambati
+SUPERVISORA TÉCNICA DE ATENÇÃO À SAÚDE
+Gabriela V. Mezadri
+
+GERENTE DE ATENÇÃO PRIMÁRIA EM SAÚDE
+Lasimara da Costa Silva
+GERÊNCIA DE SAÚDE BUCAL
+Lenice Gomes
+SUBGERÊNCIA DE PROGRAMAS EM SAÚDE
+Yasmim Rosa de Oliveira
+REFERÊNCIA TÉCNICA DE ENFERMAGEM
+Mariana Endlich do Amor Divino
+REFERÊNCIA TÉCNICA EM SAÚDE BUCAL
+Mara Lúcia Perini Dillem
+SUMÁRIO
+	1. APRESENTAÇÃO…………………………………………………………….
+	05
+
+	2. O PRÉ-NATAL E A CAPACITAÇÃO PRECOCE DA GESTANTE……..
+	06
+
+	3. ESTRATIFICAÇÃO DE RISCO DA GESTANTE…………………………
+	07
+
+	4. PARAMETRIZAÇÃO DA ASSISTÊNCIA………………………………….
+	10
+
+	5. MATERNIDADES DE REFERÊNCIA E TIPOS DE RISCO……………….
+	10
+
+	6. FLUXO DE ATENDIMENTO NA REDE DE ATENÇÃO…………………
+	11
+
+	7. COMPETÊNCIAS
+E ATRIBUIÇÕES DE SERVIÇOS PROFISSIONAIS E UNIDADE BÁSICA……………………………………
+	11
+
+	8. FLUXOGRAMA DA GESTANTE…………………………………………...
+	12
+
+	9. CENTRO DE ATENÇÃO À SAÚDE DA MULHER……………………….
+	15
+
+	10. MATERNIDADE DE RISCO HABITUAL………………………………….
+	16
+
+	11. MATERNIDADE DE ALTO RISCO………………………………………..
+	17
+
+	12. RESUMO DO MAPEAMENTO DO CUIDADO NO PRÉ-NATAL……...
+	19
+
+	13. ATRIBUIÇÕES DOS PROFISSIONAIS…………………………………….
+	25
+
+	14. REFERENCIAS………………………………………………………………..
+	32
+
+	15. AGENTE VINCULADOR MUNICIPAL E AGENTES VINCULADORES DAS U.S. …………………………………………..
+	33
+
+	      15.1 – FICHA DE ENCAMINHAMENTO DA GESTANTE PARA O AGENTE VINCULADOR MUNICIPAL…………………………………………….
+	35
+
+	      15.2 – FICHA DE ENCAMINHAMENTO DAS GESTANTES PARA A MATERNIDADE DE REFERENCIA………………………………………………..
+	36
+
+	      15.3 – TERMO DE ADESÃO……………………………………………………..
+	37
+
+	       15.4 – MAPA DE VINCULAÇÃO SEMANAL DA GESTANTE DE ALTO RISCO…………………………………………………………………………………..
+	38
+
+	      15.5 – MAPA DE VINCULAÇÃO DA GESTANTE DE RISCO HABITUAL..
+	38
+
+	       15.6 – NOTIFICAÇÃO DE OCORRÊNCIA……………………………………
+	39
+
+	       15.7 – CLASSIFICAÇÃO DA HIPERTENSÃO ARTERIAL NA GRAVIDEZ…………………………………………………………………………….
+	40
+
+	       15.8 – DIABETES MELLITUS GESTACIONAL………………………………
+	46
+
+
+APRESENTAÇÃO
+O enfrentamento das mortalidades infantil e materna coloca-se como uma das prioridades da política pública de saúde em todas as instâncias de gestão e assistência. Com esse escopo, a Secretaria Municipal de Saúde de Guarapari vem desenvolvendo ações referentes à Rede Materno Infantil, planejando soluções adequadas em tempo oportuno para gestantes, parturientes, puérperas, neonatos e crianças do Município.
+Para isso, o Município conta com diferentes estratégias, setores e grupos de atuação, entre eles: o Comitê Municipal de Mortalidade Materna e Infantil, Comitê de Investigação de Transmissão Vertical da Sífilis, o Grupo Condutor da Rede Cegonha, Grupo Vinculador da Rede Cegonha, Grupo Gestor de Planejamento Familiar Municipal, Núcleo de Vigilância em Saúde, Rede Saúde Bucal, Agentes Vinculadores Municipais e Agentes Vinculadores Institucionais (das maternidades de referência), entre outros, oferecem ferramentas para o planejamento de ações estratégicas para a atuação em rede. E que em conjunto são responsáveis pelo matriciamento, monitoramento e regulação do atendimento a gestante além do pronto reconhecimento dos óbitos materno e infantil potencialmente evitáveis e definição das ações de melhoria da qualidade da assistência ambulatorial e hospitalar prestada às gestantes, prevenindo outros óbitos e garantindo um atendimento de qualidade.
+Um dos fundamentos para implantação de uma rede de atenção à saúde são as diretrizes clínicas baseadas em evidências que normalizam a condição de saúde ao longo dos diferentes pontos de atenção e serviços da rede. As recomendações visam ao manejo clínico, diagnóstico e o tratamento, e à organização da assistência baseando-se na estratificação de risco, parametrização da assistência, competências e atribuições de serviços e profissionais dentro da linha de cuidados.
+ O PRÉ NATAL E A CAPTAÇÃO PRECOCE DA GESTANTE
+O pré-natal é o acompanhamento realizado pela equipe médica de uma Unidade de Saúde que tem como objetivo acompanhar as condições de saúde da gestante e do feto. Durante a gestação são realizados exames laboratoriais para identificar e tratar doenças que podem trazer prejuízos à saúde da mãe ou do feto. É importante que as gestantes iniciem seu pré-natal assim que tiverem a gravidez confirmada, ou antes, de completarem três meses de gestação, como é preconizado dentre os 10 passos para um pré-natal de qualidade na Atenção Básica, ou seja, captação precoce (BRASIL, 2012).
+É extremamente importante que as gestantes cumpram o calendário traçado pela equipe de saúde e participem das práticas educativas desenvolvidas nas Unidades de Saúde. Tais práticas visam discutir assuntos relacionados à gestação (transformações físicas e emocionais que determinam também o acompanhamento do pré-natal), cuidados com a saúde durante a gestação, preparação para o parto, sinais de trabalho de parto, puerpério imediato, cuidados com o bebê, dentre outros.
+Os profissionais devem garantir um acompanhamento pré-natal acolhedor e humanizado, garantindo o acompanhamento da gestante o mais precocemente possível até o final da gestação.
+O acolhimento durante o pré-natal pode ser realizado de várias formas, dentre elas, pode-se citar a atenção voltada para escutar as queixas da gestante, seus anseios, suas preocupações esclarecendo os mitos ela cria em torno da fase que vive. Outro fator relevante é estimular a participação do (a) acompanhante durante as consultas do pré-natal, no trabalho de parto, no parto e pós-parto, o diálogo presente em um pré-natal humanizado possibilita a criação de um elo entre profissionais de saúde e gestantes.
+ESTRATIFICAÇÃO DE RISCO DA GESTANTE
+A estratificação da população perinatal por estratos de riscos é um elemento central da organização da rede de atenção à saúde da mulher e criança, possibilitando uma atenção diferenciada segundo as necessidades de saúde, ou seja, a atenção certa, no lugar certo, com o custo certo e com a qualidade certa.
+Os critérios normalmente utilizados para a estratificação de risco gestacional referem-se às características individuais da gestante, como idade, estatura, peso; às condições socioeconômicas, como escolaridade, ocupação e uso de substâncias psicoativas; à história reprodutiva anterior, como intervalo interpartal, prematuridade e abortamento; e às intercorrências clínicas e obstétricas na gravidez atual, como gestação múltipla, ganho ponderal, patologias controladas ou não e fatores de risco fetais.
+A estratificação de risco da gestante em dois níveis – Risco Habitual e Alto Risco – permitiu, nos últimos anos, assistência adequada em várias situações. A implantação da rede de atenção à saúde materno-infantil evidenciou a necessidade de uma revisão dos critérios e dos estratos de risco com vistas a uma segurança ainda maior para determinadas situações de risco para a gestante ou para o neonato.
+Assim, foram propostos dois outros estratos de risco: o Médio Risco, para caracterizar a presença de alguns fatores de risco que implicam maior vigilância e cuidado da gestante, mesmo que o fluxo para o pré-natal e o parto seja o mesmo do risco habitual; e o Muito Alto Risco, para caracterizar um risco maior para a gestante (doenças não controladas) e/ou para o neonato (pela presença de malformações ou intercorrências que levam à prematuridade extrema), riscos estes que podem ser identificados durante o pré-natal, definindo, previamente ao parto, fluxos assistenciais diferenciados, que muitas vezes serão realizados fora do território das regiões de saúde, concentrando o serviço na região metropolitana.
+É importante salientar que a estratificação de risco se refere a uma condição crônica, visando a uma intervenção clínica individual ou do grupo de gestantes diferenciada, segundo o estrato de risco.
+O quadro a seguir apresenta os estratos de risco, os fatores analisados e os critérios utilizados:
+ 
+
+
+
+
+A assistência pré-natal pressupõe avaliação dinâmica das situações de risco e prontidão para identificar problemas de forma a poder atuar, a depender do problema encontrado, de maneira a impedir um resultado desfavorável. A ausência de controle pré-natal, por si mesma, pode incrementar o risco para a gestante ou o recém-nascido.
+É importante alertar que uma gestação
+que está transcorrendo bem pode se tornar de risco a qualquer momento, durante a evolução da gestação ou durante o trabalho de parto. Portanto, há necessidade de reclassificar o risco a cada consulta pré-natal e durante o trabalho de parto. A intervenção precisa e precoce evita os retardos assistenciais capazes de gerar morbidade grave, morte materna ou perinatal.
+PARAMETRIZAÇÃO DA ASSISTÊNCIA
+Parâmetros para estimativa do Número de gestantes de um território sanitário:
+1. Cálculo da estimativa das gestantes em determinado território no ano: número de nascidos vivos no ano anterior + 10%
+2. Cálculo de Gestantes de Risco Habitual: 85% das gestantes estimadas 03 – Cálculo de Gestantes de Alto Risco: 15% das gestantes estimadas.
+MATERNIDADES DE REFERÊNCIA E TIPOS DE RISCO
+	TIPO DE RISCO
+	REFERÊNCIA
+
+	Risco Habitual/ Médio Risco
+	Hospital Materno Infantil Francisco de Assis HIFA
+
+	Alto Risco/Muito Alto Risco
+	Hospital Estadual Dr. Jayme Santos Neves 
+
+
+FLUXO DE ATENDIMENTO NA REDE DE ATENÇÃO
+Um dos componentes das redes de atenção à saúde são os pontos de atenção à saúde, serviços que se distribuem nos níveis de atenção primária, secundária e terciária à saúde, organizados nos territórios do município, da região de saúde e do estado.
+Os pontos de atenção são definidos considerando os princípios de escala, qualidade e acesso, mas obedecendo, antes de tudo, à necessidade de saúde.
+Assim, a estratificação de risco, identificando diferentes situações de gravidade, indica níveis também diferentes de necessidade de saúde, o que, por sua vez, define o tipo de cuidado que deve ser ofertado nos vários serviços.
+O quadro a seguir apresenta os pontos de atenção ambulatoriais e hospitalares que devem ser referência para o pré-natal e o parto nos diversos estratos de risco da gestação.
+	ESTRATO DE RISCO GESTACIONAL
+	PRÉ-NATAL
+	PARTO
+
+	Risco habitual e Médio Risco
+	Unidade Básica de Saúde
+	Hospital Materno Infantil Francisco de Assis
+
+	Alto e Muito Alto Risco
+	Unidade Básica de Saúde
+	Hospital Materno Infantil Francisco de Assis ou  Hospital Estadual Dr. Jayme Santos Neves
+
+	
+	+
+	
+
+	
+	Centro de Atenção à Saúde da Mulher
+	
+
+	
+	+
+	
+
+	
+	Hospital Estadual Dr. Jayme Santos Neves (Quando houver necessidade)
+	
+
+
+
+COMPETÊNCIAS E ATRIBUIÇÕES DE SERVIÇOS E PROFISSIONAIS
+Considerando que todas as etapas do Programa de Planejamento Familiar do Município foram realizadas e a gravidez foi confirmada, cabe aos profissionais da Unidade Básica de Saúde:
+1. Estabelecer o fluxograma da gestante:
+
+· Garantir a consulta de pré-natal e melhoria da qualidade da assistência prestada;
+· Garantir os exames de pré-natal, com acesso e tempo oportuno dos resultados;
+· Garantir contínua do acesso aos medicamentos no pré-natal;
+· Estabelecer agentes vinculadores nas UBS e ESF (Anexo I);
+· Instituir a ferramenta de referência e contra referencia;
+· Preencher o Mapa de Vinculação da Gestante;
+· Estabelecer vínculo da gestante com o serviço referencia ambulatorial e a maternidade no início do pré-natal, com organização de fluxos de referência e contra referência;
+2. Já na primeira consulta, se for possível, a gestante deverá passar pela primeira consulta odontológica programática ou ter sua consulta agendada para posterior Tratamento Odontológico e monitoramento de sua Saúde Bucal alcançada;
+3. A equipe da UBS/ESF deve manter uma vigilância sobre a gestante, realizando visitas domiciliares, atividades educativas e assegurando que ela compareça a todas as consultas agendadas;
+4. Os profissionais da UBS/ESF devem estar atentos a todos os cuidados da anamnese, exame físico geral, exame gineco-obstétrico e ao preenchimento da Caderneta da Gestante;
+5. A gestante deve ser continuamente orientada quanto ao andamento da sua gravidez;
+6. Já na primeira consulta a gestante deve ser preparada para a vinculação a maternidade e/ou ao ambulatório especializado de referência, e receber informações sobre seus direitos e deveres durante o pré-natal e além da importância da participação do seu parceiro/futuro pai em todo o processo;
+7. A gestante deve ser vinculada à maternidade de referência no início do pré-natal, sendo orientada a procurar este serviço quando apresentar intercorrências clínicas ou quando estiver em trabalho de parto, obedecendo ao fluxo municipal traçado e pactuado. 
+8. Para vincular a gestante a UBS/ESF enviará ao Agente Vinculador Municipal todas as informações necessárias sobre a gestante, conforme documento constante no Anexo II, assim que a gestante for cadastrada na unidade;
+9. O Agente Vinculador Municipal por sua vez, fará um compilado com as novas gestantes do município e enviará para a Maternidade de Referência o mais breve possível, garantindo que a Maternidade tenha conhecimento da existência das novas gestantes, conforme o Anexo III;
+10. Os profissionais da UBS/ESF devem realizar atividades Educativas, orientando sobre a importância do pré-natal e os cuidados necessários, preparando a gestante para o parto, o aleitamento materno e além dos cuidados com o bebê;
+11. Ainda nas primeiras consultas, de preferência no primeiro trimestre da gestação, a gestante deve assinar o documento que informa sobre o direito a visita à maternidade após a 30ª semana de gestação (Anexo IV), para que a partir dessa idade gestacional a mesma agende com a Maternidade. Ressaltamos que as visitas ao Hospital Infantil Francisco de Assis são realizadas no turno vespertino às quartas-feiras;
+12. A guia de referência deve ser adequadamente preenchida quando a gestante atingir a 36ª semana de gestação, pelo médico (a) responsável por todo o pré-natal e/ou conforme avaliação clínica da paciente antes mesmo desta idade gestacional. A referida guia deve ser entregue a gestante com o cartão da gestante e a discrição do escore de risco, atentando para a importância do preenchimento correto, uma vez que é o meio de comunicação entre a gestante, equipe da UBS e profissionais da maternidade; 
+13. O Agente Vinculador Municipal deve enviar à Maternidade de Referência semanalmente o Mapa de vinculação (Anexo IV), onde entraram todas as gestantes com idade gestacional acima de 36 semanas. O Mapa deve ser atualizado semanalmente retirando as gestantes que já realizaram o parto e acrescentando as gestantes que atingiram a idade gestacional mínima para sua inclusão no mapa.
+14. Orientar as gestantes sobre o direito da remoção no trabalho de parto e outras intercorrências, caso a mesma necessite, identificar no mapa de vinculação, para que a mesma seja listada no setor de transporte havendo assim o planejamento para remoção da mesma, ou através do SAMU no número 192.
+Centro de Atenção à Saúde da Mulher
+1. Estabelecer um agente vinculador e ou referência para contato junto à unidade básica onde a gestante realiza o pré-natal e ou a maternidade de referência para a gestação de risco;
+2. O profissional agente vinculador e/ou referência responsável pelo Centro de Atenção à Saúde da Mulher, caso a gestante não tenha registro, deve registrar o nome da maternidade de referência no Cartão da gestante e encaminhar a unidade básica de origem para que seja realizado o agendamento de visita à maternidade a partir do sexto mês de gestação e ou de 30 semanas de gestação; 
+3. Uma vez recebida a gestante para acompanhamento em um serviço de referência especializado em pré-natal de alto risco, é importante que a gestante não perca o vínculo com sua equipe de atenção básica onde iniciou o seu acompanhamento de pré-natal;
+4. O profissional agente vinculador e ou referência responsável pelo Centro de Atenção à Saúde da Mulher deverá manter a equipe sempre informada a respeito da evolução da gravidez e dos tratamentos administrados à gestante por meio da contra referência e/ou plano de cuidado;
+5. O formulário de encaminhamento da gestante a maternidade de referência a gestação de alto risco (Referência) deverá ser adequadamente preenchido após a 36 semanas de gravidez e/ou conforme a avaliação clínica da paciente no cartão da gestante e preenchido o mapa de vinculação, atentando para o preenchimento correto, uma vez que é o meio de comunicação entre a gestante, equipe ESF, os profissionais da unidade especializada e os profissionais da maternidade;
+6. O Agente Vinculador Municipal deve enviar à Maternidade de Referência semanalmente o Mapa de vinculação (Anexo V e VI), onde entraram todas as gestantes com idade gestacional acima de 36 semanas.
+7. A gestante ao ser vinculada a maternidade de referência deve ser orientada a procurar este serviço quando apresentar intercorrências clínicas ou quando estiver em trabalho de parto, obedecendo ao fluxo municipal traçado;
+Maternidade de Risco Habitual
+1. Vigilância e cuidado a todas as gestantes admitidas, segundo os protocolos clínicos implantados na instituição;
+2. Realização de acolhimento e classificação de risco da gestante;
+3. Identificação das gestantes com maior nível de gravidade, estabilização e transferência para maternidade de maior complexidade, quando for necessário;
+4.  Utilização do “partograma” para monitoramento do trabalho de parto;
+5. Prestação de assistência à parturiente com problemas não previsíveis que ocorrem durante o parto e o nascimento;
+6. Capacidade para realização de cesárea após 30 minutos da indicação médica;
+7. Disponibilidade de anestesia, radiologia, ultrassonografia, laboratório e serviço de banco de sangue;
+8. Assistência às condições pós-parto;
+9. Assistência neonatal ao nascimento com um profissional capaz dos procedimentos de reanimação e um profissional facilmente alcançável, competente para todos os procedimentos de reanimação;
+10. Ressuscitação e estabilização de todos os recém-nascidos;
+11. Alojamento conjunto para todas as mães e os recém-nascidos clinicamente estáveis;
+12. Disponibilização de leitos neonatais de apoio para assistir e estabilizar recém-nascidos prematuros ou doentes antes da transferência para uma Unidade Neonatal;
+13. Registro de dados e monitoramento da assistência;
+14. Programas de melhoria da qualidade incluindo medidas de segurança do paciente.
+15. Recebimento da relação das gestantes dos municípios a ela referenciados  e dos mapas de vinculação para melhor organização e gerenciamento de leitos;
+16. Manter um Agente Vinculador Institucional que responda junto aos Agentes Vinculadores Municipais pelo agendamento da visita da gestante e outras necessidades;
+17. Manter informados todos os profissionais envolvidos no atendimento as gestantes e neonatos (médicos obstetras, pediatras, anestesiologistas, enfermeiros, técnicos de enfermagem, etc.) sobre as decisões e avaliações do Grupo Condutor da Rede de Atenção Materno Infantil, bem como das legislações vigentes.
+Maternidade de Alto Risco
+Todas as competências da Maternidade de Risco Habitual, acrescidas de:
+1. Assistência às gestantes de alto risco admitidas e transferidas de outras maternidades;
+2. Estabilização de parturientes/puérperas e recém-nascidos malformados severamente doentes e assistência até transferência para unidades de maior complexidade;
+3. Assistência às gestantes e aos recém-nascidos de risco resultado de complicações clínicas anteriores à gestação atual e complicações obstétricas da gestação atual.
+Obs.: a) Essas maternidades deverão ser as habilitadas para assistência às gestantes e ao RN de risco, segundo portarias ministeriais com garantia de estrutura física, recursos humanos e equipamentos, incluindo unidade neonatal de cuidados progressivos.
+b) Não cabe ao médico plantonista questionar o encaminhamento do médico que acompanhou o pré-natal para a maternidade de alto risco. A gestante precisa ter seus direitos assegurados no momento do parto. Qualquer dúvida em relação a estratificação do risco deverá ser notificada (Anexo VII) ao Grupo Condutor da RAMI para posterior tratativa, sem que haja prejuízos para a gestante.
+Maternidade/Hospitais para fluxos especiais
+Todas as competências da Maternidade de Alto Risco, acrescidas de:
+1. Assistência perinatal abrangente para todas as parturientes e os recém-nascidos, de todos os níveis de risco: gestantes com doenças clínicas e obstétricas não controladas e severamente doentes que demandam cuidado especializado: cardiopatias graves, nefropatias graves, doenças sistêmicas – lúpus eritematoso, câncer e outras especificadas em protocolo; RN prematuros extremos e alguns tipos de malformação congênita.
+Obs.: Maternidades habilitadas para assistência de risco (portarias ministeriais) com características gerenciais e assistenciais que possam garantir a demanda clínica acima especificada além de estarem habilitadas para assistência à população de risco e identificadas para responderem aos fluxos especiais.
+IMPORTANTE
+Os profissionais de saúde convivem hoje com uma nova realidade nos serviços de assistência, surge a cada dia um processo contra um médico ou um serviço, no que é denominada medicina defensiva. Nesse enfrentamento o profissional precisa ter os seus direitos também assegurados, e para tanto é necessário o cumprimento das normas e procedimentos estabelecidos na legislação vigente. É preciso que todos se conscientizem da importância do REGISTRO MÉDICO, principalmente naqueles casos onde acontece alguma intercorrência, onde as anotações serão consideradas ferramentas fundamentais na elucidação dos casos nos fóruns, tanto administrativos como legais. O registro realizado nos serviços de saúde é um direito que deve ser assegurado a todos e, mais que isso, é uma atitude de cidadania.
+O profissional de saúde deve estar em completa sintonia com os direitos assegurados à gestante; eles devem ser respeitados para que se garanta uma gravidez saudável e um parto seguro. É importante que os direitos trabalhistas também sejam respeitados e é direito da gestante a declaração de comparecimento quando for às consultas do pré-natal ou fizer algum exame necessário ao acompanhamento de sua gravidez.
+Finalmente, é importante reiterar a necessidade do adequado preenchimento de todos os instrumentos de registro disponíveis, para que a assistência prestada à gestação seja de qualidade; com isso se asseguram os direitos da gestante, lembrando que o prontuário não pertence ao serviço e deve estar disponível para qualquer tipo de esclarecimento solicitado pela gestante ou por uma autoridade judiciária, prevê as legislações vigentes, entre elas a RDC Nº. 63 de 25 de novembro de 2011.
+A estruturação da rede, além da disponibilidade de serviços, também implica na humanização do atendimento por meio da sensibilização e da atualização profissional das equipes do sistema como um todo.
+Embora essas ações já venham sendo preconizadas pelo Ministério da Saúde desde 2000 no Programa Nacional de Humanização do Pré-Natal e Nascimento (PHPN) – Portarias nº 569, nº 570, nº 571 e nº 572 –, ainda encontram-se deficiências e estrangulamentos, principalmente para partos de alto risco. Por isso, foi definida nesta Nota Técnica as responsabilidades de cada unidade de saúde na linha de produção do cuidado à gestante com sua devida estratificação de risco, incluindo a especificidade da gestação de alto risco, as competências da unidade de saúde e as competências da maternidade na assistência à gestante de alto risco.
+RESUMO DO MAPEAMENTO DO CUIDADO NO PRÉ-NATAL
+O próximo quadro representa a organização do cuidado que deve ser oferecido à gestante durante o pré-natal, de acordo com a estratificação de risco:
+
+
+
+
+· Avaliação permanente da assistência pré-natal: procedimento com foco na identificação dos problemas de saúde da população-alvo, bem como no desempenho do serviço. Deve subsidiar, quando necessário, a mudança da estratégia de ação e da organização dos serviços com a finalidade de melhorar a qualidade da assistência. A avaliação será feita segundo os indicadores construídos a partir dos dados registrados na ficha perinatal, no Cartão da Gestante, nos Mapas de Registro Diário da unidade de saúde, nos relatórios obtidos por intermédio do SisPreNatal e no processo de referência e contra referência.
+A avaliação deve utilizar, no mínimo, os seguintes indicadores:
+· Distribuição das gestantes por trimestre de início do pré-natal (1º, 2º e 3º);
+· Porcentagem de mulheres que realizaram pré-natal em relação à população-alvo (número de gestantes na área ou número previsto);
+· Porcentagem de abandono do pré-natal em relação ao total de mulheres Inscritas;
+· Porcentagem de óbitos de mulheres por causas associadas à gestação, ao parto ou ao puerpério em relação ao total de gestantes atendidas;
+· Porcentagem de óbitos por causas perinatais em relação ao total de recém-nascidos vivos;
+· Porcentagem de crianças com tétano neonatal em relação ao total de recém-nascidos vivos;
+· Porcentagem de recém-nascidos vivos de baixo peso (com menos de 2.500g) em relação ao total de recém-nascidos vivos;
+· Porcentagem de VDRL positivos em gestantes e recém-nascidos em relação ao total de exames realizados;
+· Porcentagem de mulheres atendidas nos locais para onde foram referenciadas em relação ao total de mulheres que retornaram à unidade de origem após o encaminhamento.
+ATRIBUIÇÕES DOS PROFISSIONAIS
+Agente comunitário de saúde:
+· Orientar as mulheres e suas famílias sobre a importância do pré-natal, da amamentação e da vacinação;
+· Realizar visitas domiciliares para a identificação das gestantes e para desenvolver atividades de educação em saúde tanto para as gestantes como para seus familiares, orientando-os sobre os cuidados básicos de saúde e nutrição, cuidados de higiene e sanitários;
+· Encaminhar toda gestante ao serviço de saúde, buscando promover sua captação precoce para a primeira consulta, e monitorar as consultas subsequentes;
+· Conferir as informações preenchidas no Cartão da Gestante;
+· Acompanhar as gestantes que não estão realizando o pré-natal na unidade básica de saúde local, mantendo a equipe informada sobre o andamento do pré-natal realizado em outro serviço;
+· Orientar as gestantes sobre a periodicidade das consultas e realizar a busca ativa das gestantes faltosas;
+· Informar o(a) enfermeiro(a) ou o(a) médico(a) de sua equipe, caso a gestante apresente algum dos sinais de alarme: febre, calafrios, corrimento com mau cheiro, perda de sangue, palidez, contrações uterinas frequentes, ausência de movimentos fetais, mamas endurecidas, vermelhas e quentes e dor ao urinar.
+· Identificar situações de risco e vulnerabilidade e encaminhar a gestante para consulta de enfermagem ou médica, quando necessário;
+· Realizar visitas domiciliares durante o período gestacional e puerperal, acompanhar o processo de aleitamento, orientar a mulher e seu companheiro sobre o planejamento familiar.
+Auxiliar/técnico (a) de enfermagem:
+· Orientar as mulheres e suas famílias sobre a importância do pré-natal, da amamentação e da vacinação;
+· Conferir as informações preenchidas no Cartão da Gestante;
+· Verificar o peso e a pressão arterial e anotar os dados no Cartão da gestante;
+· Realizar testes rápidos;
+· Aplicar vacinas antitetânica e contra hepatite;
+· Realizar atividades educativas, individuais e em grupos (deve-se utilizar a sala de espera;
+· Informar o (a) enfermeiro (a) ou o(a) médico(a) de sua equipe, caso a gestante apresente algum sinal de alarme, como os citados anteriormente;
+· Identificar situações de risco e vulnerabilidade e encaminhar a gestante para consulta de enfermagem ou médica, quando necessário;
+· Orientar a gestante sobre a periodicidade das consultas e realizar busca ativa das gestantes faltosas;
+· Realizar visitas domiciliares durante o período gestacional e puerperal, acompanhar o processo de aleitamento, orientar a mulher e seu companheiro sobre o planejamento familiar.
+Enfermeiro (a):
+· Orientar as mulheres e suas famílias sobre a importância do pré-natal, da amamentação e da vacinação;
+· Realizar o cadastramento da gestante e fornecer o Cartão da Gestante devidamente preenchido (o cartão deve ser verificado e atualizado a cada consulta);
+· Realizar a consulta de pré-natal de gestação de baixo risco intercalada com a presença do (a) médico (a);
+· Solicitar exames complementares de acordo com o protocolo local de pré-natal;
+· Realizar testes rápidos;
+· Prescrever medicamentos padronizados para o programa de pré-natal (sulfato ferroso e ácido fólico, além de medicamentos padronizados para tratamento das DST, conforme protocolo da abordagem sindrômica);
+· Orientar a vacinação das gestantes (contra tétano e hepatite B);
+· Identificar as gestantes com algum sinal de alarme e/ou identificadas como de alto risco e encaminhá-las para consulta médica;
+· Realizar exame clínico das mamas e
+coleta
+para exame citopatológico do colo do útero;
+· Desenvolver atividades educativas, individuais e em grupos (grupos ou atividades de sala de espera);
+· Orientar as gestantes e a equipe quanto aos fatores de risco e à vulnerabilidade;
+· Orientar as gestantes sobre a periodicidade das consultas e realizar busca ativa das gestantes faltosas;
+· Realizar visitas domiciliares durante o período gestacional e puerperal, acompanhar o processo de aleitamento e orientar a mulher e seu companheiro sobre o planejamento familiar.
+Médico (a):
+· Orientar as mulheres e suas famílias sobre a importância do pré-natal, da amamentação e da vacinação;
+· Fornecer o Cartão da Gestante devidamente preenchido (o cartão deve ser verificado e atualizado a cada consulta);
+· Realizar a consulta de pré-natal de gestação de baixo risco intercalada com a presença do(a) enfermeiro(a);
+· Solicitar exames complementares e orientar o tratamento, caso necessário;
+· Prescrever medicamentos padronizados para o programa de pré-natal (sulfato ferroso e ácido fólico);
+· Orientar a vacinação das gestantes (contra tétano e hepatite B);
+· Avaliar e tratar as gestantes que apresentam sinais de alarme;
+· Atender as intercorrências e encaminhar as gestantes para os serviços de urgência/ emergência obstétrica, quando necessário;
+· Orientar as gestantes e a equipe quanto aos fatores de risco e à vulnerabilidade;
+· Identificar as gestantes de alto risco e encaminhá-las ao serviço de referência;
+· Realizar exame clínico das mamas e coleta para exame citopatológico do colo do útero;
+· Realizar testes rápidos;
+· Desenvolver atividades educativas, individuais e em grupos (grupos ou atividades de sala de espera);
+· Orientar as gestantes sobre a periodicidade das consultas e realizar busca ativa das gestantes faltosas;
+· Realizar visitas domiciliares durante o período gestacional e puerperal, acompanhar o processo de aleitamento e orientar a mulher e seu companheiro sobre o planejamento familiar.
+Cirurgião(ã)-dentista:
+· Verificar o fornecimento do Cartão da Gestante e ver se o documento está devidamente preenchido (o cartão deve ser verificado e atualizado a cada consulta de pré-natal);
+· Realizar a consulta odontológica de
+pré-natal de gestação de baixo risco, médio e alto risco;
+· Orientar a gestante sobre a realização do teste rápido;
+· Orientar a vacinação das gestantes (contra tétano e hepatite B);
+· Orientar a gestante quanto a importância da redução de ingestão de alimentos açucarados na dieta;
+· Avaliar a saúde bucal da gestante, a necessidade e a possibilidade de tratamento, observando os cuidados indicados em cada período da gravidez, sendo o período mais apropriado para isso, o segundo trimestre da gravidez;
+· Adequar o meio bucal e realizar o controle de placa, cujas práticas constituem boas condutas odontológicas preventivas e podem ser indicadas em qualquer período gestacional, garantindo conforto à gestante e a continuidade do tratamento após a gravidez;
+· Identificar os fatores de risco que possam impedir o curso normal da gravidez como sangramento gengival e/ou inflamação gengival;
+· Atender as intercorrências/urgências odontológicas observando os cuidados indicados em cada período da gravidez;
+· Favorecer a compreensão e a adaptação às novas vivências da gestante, do companheiro e dos familiares, além de instrumentalizá-los em relação aos cuidados neste período;
+· Orientar as gestantes e a sua equipe quanto aos fatores de risco e à vulnerabilidade em relação à saúde bucal;
+· Desenvolver atividades educativas e de apoio à gestante e aos seus familiares;
+· Orientar as gestantes sobre a periodicidade das consultas odontológicas e os trimestres de gestação indicados para a realização de tratamento odontológico;
+· Solicitar a busca ativa das gestantes faltosas de sua área de abrangência;
+· Acompanhar o processo de aleitamento materno e os cuidados com o futuro bebê, enfatizando a importância do papel da amamentação no desenvolvimento da musculatura e no crescimento ósseo para a dentição e no desenvolvimento do aparelho fonador, respiratório e digestivo da criança;
+· Orientar a mulher e seu companheiro sobre hábitos alimentares saudáveis e de higiene bucal para toda a família;
+· Orientar a mãe sobre a higiene bucal do bebê após cada mamada.
+Consulta de enfermagem/enfermeira (o) na atenção à gestante
+A consulta de
+ enfermagem é uma atividade independente, realizada privativamente pelo enfermeiro, e tem como objetivo propiciar condições para a promoção da saúde da gestante e a melhoria na sua qualidade
+de vida, mediante uma abordagem contextualizada
+e participativa.
+O profissional enfermeiro pode acompanhar inteiramente o pré-natal de baixo risco na rede básica de saúde, de acordo com o Ministério de Saúde e conforme garantido pela Lei do Exercício Profissional, regulamentada pelo Decreto nº 94.406/87.
+Durante a consulta de enfermagem, além da competência técnica, o enfermeiro deve demonstrar interesse pela gestante e pelo seu modo de vida, ouvindo suas queixas e considerando suas preocupações e angústias. Para isso, o enfermeiro deve fazer uso de uma escuta qualificada, a fim de proporcionar a criação de vínculo. Assim, ele poderá contribuir para a produção de mudanças concretas e saudáveis nas atitudes da gestante, de sua família e comunidade, exercendo assim papel educativo.
+Os enfermeiros e os enfermeiros obstetras (estes últimos com titulação de especialistas em obstetrícia) estão habilitados para atender ao pré-natal, aos partos normais sem distócia e ao puerpério em hospitais, centros de parto normal, unidades de saúde ou em domicílio.
+Caso haja alguma intercorrência durante a gestação, os referidos profissionais devem encaminhar a gestante para o médico continuar a assistência.
+Prestar assistência humanizada à mulher desde o início de sua gravidez – período quando ocorrem mudanças físicas e emocionais, época que cada gestante vivencia de forma diferente: é uma das atribuições da enfermagem nas equipes de AB. Outras atribuições são também a solicitação de exames complementares, a realização de testes rápidos e a prescrição de medicamentos previamente estabelecidos em programas de saúde pública (como o pré-natal) e em rotina aprovada pela instituição de saúde.
+As atividades da (o) parteira (o) são exercidas sob supervisão de enfermeiro obstetra quando realizadas em instituições de saúde e, sempre que possível, sob controle e supervisão de unidade de saúde quando realizadas em domicílio ou onde se fizerem necessárias.
+Referências
+BRASIL. Ministério da Saúde. Política nacional de atenção integral à saúde da mulher. Brasília, 2004c.
+Brasil. Ministério da Saúde. Secretaria de Atenção à Saúde. Departamento de Atenção Básica. Atenção ao pré-natal de baixo risco / Ministério da Saúde. Secretaria de Atenção à Saúde. Departamento de Atenção Básica. – Brasília: Editora do Ministério da Saúde, 2012. 318 p.: il. – (Série A. Normas e Manuais Técnicos) (Cadernos de Atenção Básica, n° 32)
+Brasil. Ministério da Saúde. Secretaria de Atenção à Saúde. Departamento de Ações Programáticas Estratégicas. Gestação de alto risco: manual técnico / Ministério da Saúde, Secretaria de Atenção à Saúde, Departamento de Ações Programáticas Estratégicas. – 5. ed. – Brasília: Editora do Ministério da Saúde, 2012. 302 p. – (Série A. Normas e Manuais Técnicos)
+BRASIL. Ministério da Saúde. Secretaria de Atenção à Saúde. Departamento de Ações Programáticas e Estratégicas. Área Técnica de Saúde da Mulher. Pré-natal e puerpério: atenção qualificada e humanizada – manual técnico. Brasília, 2005e.
+BRASIL. Ministério da Saúde. Secretaria de Atenção à Saúde. Departamento de Ações Programáticas e Estratégicas. Política nacional de atenção integral à saúde da mulher: princípios e diretrizes. Brasília, 2007.
+BRASIL. Lei nº 11.634, de 27 de setembro de 2007. Dispõe sobre o direito da gestante ao conhecimento e a vinculação à maternidade onde receberá assistência no âmbito do Sistema único de Saúde. Brasília, Diário Oficial [da] União, 28 dez. 2007, Seção 1.
+BRASIL. Lei nº 11.108, de 7 de abril de 2005. Altera a Lei no 8.080, de 19 de setembro de 1990, para garantir às parturientes o direito à presença de acompanhante durante o trabalho de parto, parto e pós-parto imediato, no âmbito do Sistema Único de Saúde – SUS. Brasília, Diário Oficial [da] União, 8 abr. 2005, Seção 1.
+BRASIL. Ministério da Saúde. Secretaria de Vigilância em Saúde. Departamento de Análise de Situação em Saúde. Nota técnica mortalidade materna no Brasil. In: BRASIL. Presidência da República. Objetivos de desenvolvimento do milênio: relatório nacional de acompanhamento Brasília, 2010.
+BRASIL. Ministério da Saúde. Portaria nº 1.067/GM, de 4 de julho de 2006. Institui a Política Nacional de Atenção Obstétrica e Neonatal e dá outras providências. Brasília, 2006e.
+Anexo I
+
+
+Obs.: As informações deste anexo (páginas 33 e 34) dizem respeito a data de 30/06/2020 e devem ser revistas e atualizadas bimestralmente.
+Anexo II
+
+Anexo III
+
+Anexo IV
+ricwa oe ecaminiamento oas Gestantes rara matenniabe oe reserdhica
+
+Muneino: aceire vinevsoor: Terone oe
+contaro: Em
+
+rerono oe rerentvn
+
+pameotiommemento:
+
+ 
+
+Assinatura e carimbo do Responsivel
+
+
+
+Anexo V
+
+Anexo VI
+Anexo VII
+
+Anexo VIII
+CLASSIFICAÇÃO DA HIPERTENSÃO ARTERIAL NA GRAVIDEZ (Werther Clay Mônico Rosa)
+Diante de uma grávida hipertensa podemos encontrar quatro entidades clínicas:
+1. Pré-eclâmpsia leve e grave/eclâmpsia;
+2. Hipertensão crônica de qualquer etiologia;
+3. Pré-eclâmpsia/eclâmpsia superposta à hipertensão crônica;
+4. Hipertensão gestacional:
+· Hipertensão transitória – desaparece até 12 semanas pós-parto;
+· Hipertensão crônica – continua após 12 semanas pós-parto.
+1. Pré-eclâmpsia leve e grave/eclâmpsia
+A pré-eclâmpsia é definida como:
+· Aparecimento do quadro de hipertensão arterial (pressão sistólica ≥ 140 mmHg e/ou pressão arterial diastólica ≥ 90 mmHg) após a 20ª semana de gestação;
+· Aparecimento de proteinúria, cujos valores variam com a gravidade, como veremos adiante;
+· Deve aparecer com a gestação e desaparecer após o parto;
+· Oligúria (diurese menor que 500 ml por dia, afastada a ingesta inadequada de líquidos e hemoconcentração).
+Pré-eclâmpsia leve:
+Até o momento não há evidências de que a medicação anti-hipertensiva diminua os riscos fetais ou maternos nessa condição; ao contrário, alguns mostram resultados perinatais piores com a prescrição.
+O único tratamento que vai conduzir à cura da pré-eclâmpsia é o parto.
+Recomenda-se:
+· Repouso em decúbito lateral esquerdo (DLE), para evitar a compressão da veia cava, facilitando o retorno venoso;
+· Aumento da ingesta de líquido;
+· Anotar diariamente os níveis pressóricos;
+· Verificação dos níveis da proteinúria, que nesse caso são abaixo de 2g nas 24 horas.
+· A pré-eclâmpsia grave é assim classificada quando:
+· A proteinúria tem níveis de 2g ou mais nas 24 horas, ou 3+ em testes semiquantitativos;
+· Pressão arterial igual ou maior que 160/110 mmHg, confirmada por duas medidas com intervalo de 4 horas, estando a gestante em repouso;
+· Oligúria menor que 500ml por dia.
+· Quando o diagnóstico de pré-eclâmpsia grave é feito em maternidade de risco habitual, a gestante deve ser encaminhada para uma maternidade de alto risco, utilizando-se o esquema de sulfatação de Pritchard, cuja descrição encontra-se adiante.
+· Sinais de Eclâmpsia Iminente:
+· Cefaléia;
+· Transtornos visuais;
+· Agitação psicomotora;
+· Dor epigástrica;
+· Cianose e edema pulmonar (podem estar relacionados à insuficiência cardíaca congestiva);
+· Creatinina maior que 1,2 mg/dl;
+· Atentar para os sinais que indicam a Síndrome HELLP como agravamento do quadro:
+· . H- HEMOLYSIS
+· . EL- ELEVATED LIVER FUNCTIONS TESTS
+· . LP- LOW PLATELETS COUNT
+· Dor no hipocôndrio direito (sinal de hematoma hepático);
+· Trombocitopenia grave (plaquetas abaixo de 100.000/mm³);
+· Anemia hemolítica microangiopática;
+· Icterícia e/ou elevação das provas de função hepática;
+· Presença de esquizócitos ao exame de lâmina de sangue periférico;
+· Desidrogenase lática aumentada (LDH);
+· Hemorragias, papiledema e exsudatos.
+· Informações Gerais:
+· A interrupção da gestação é o tratamento definitivo na pré-eclâmpsia e deve ser considerado em todos os casos com maturidade pulmonar fetal assegurada. Se não houver maturidade pulmonar fetal, pode-se tentar prolongar a gravidez, mas a interrupção deve ser indicada se houver deterioração das condições materna  ou fetal.
+· Na pré-eclâmpsia grave utiliza-se hipotensor se os parâmetros de gravidade permanecerem após internação.
+· É frequentemente tratada com hidralazina endovenosa (5/mg).
+· A nifedipina tem sido também utilizada; entretanto, sua associação com o sulfato de magnésio, droga de escolha no tratamento e, possivelmente, na prevenção da convulsão eclâmptica, pode provocar queda súbita e intensa da pressão arterial. Em raras circunstâncias, o nitroprussiato de sódio pode ser utilizado se a hidralazina e a nifedipina não forem efetivas.
+· Aspirina em baixas doses têm pequeno efeito na prevenção da pré-eclâmpsia, enquanto a suplementação oral de cálcio em pacientes de alto risco e com baixa ingesta de cálcio parece reduzir a incidência de pré-eclâmpsia.
+· Como encaminhar a gestante:
+· Ao referenciar a gestante com pré-eclâmpsia para o hospital de alto risco, deve- se fazer o uso do sulfato de magnésio, no método de Pritchard:
+· Dose de ataque com sulfato de magnésio (MgSO4) 4g, IV, lentamente(15-20 min.), mais 10g intraglúteo profundo, em leque, associado à lidocaína, para reduzir a dor, com volume máximo de 5ml em cada glúteo, a cada aplicação, de 4 em 4 horas.
+· A administração do sulfato de magnésio deve ser suspensa no caso de:
+· . Frequência respiratória menor que 16 incursões por minuto;
+· . Reflexo patelar abolido;
+· . Diurese inferior a 100 ml, nas últimas 4 horas;
+· . O antídoto para os efeitos tóxicos do sulfato de magnésio é o gluconato de cálcio que deve ser mantido à cabeceira da gestante, endovenoso, lentamente, 1g (10 ml-1ampola), sempre que for preciso.
+· Eclâmpsia:
+· A eclâmpsia é definida como a pré-eclâmpsia que evoluiu com quadros convulsivos, podendo aparecer, durante o parto ou puerpério imediato.
+· Aproximadamente 20% das gestantes com pré-eclâmpsia grave evoluem para eclâmpsia, que caracteriza o comprometimento cerebral, a convulsão ou o coma, podendo levar ao óbito materno e/ou fetal.
+· Manter a conduta para pré-eclâmpsia grave.
+2. Hipertensão crônica de qualquer etiologia
+A hipertensão arterial crônica é definida pelo aparecimento do quadro de hipertensão arterial (pressão arterial sistólica ≥ 140 mmHg e/ou diastólica ≥ 90 mmHg) antes da gravidez, durante a gravidez antes da 20ª semana, ou retrospectivamente, pela persistência dos níveis pressóricos elevados após a 12ª semana do parto.
+3. Pré-eclâmpsia/eclâmpsia superposta à hipertensão crônica
+A pré-eclâmpsia associada à hipertensão crônica é definida diante de uma paciente que apresenta os critérios diagnósticos descritos anteriormente para hipertensão arterial crônica, e na qual se associam os critérios diagnósticos da pré-eclâmpsia.
+4. Hipertensão Gestacional
+· Hipertensão transitória – desaparece até 12 semanas pós-parto;
+· Hipertensão crônica – continua após 12 semanas pós-parto.
+A Hipertensão Transitória (HT) é definida como:
+· Aparecimento do quadro de hipertensão arterial (pressão sistólica ≥ 140 mmHg e/ou pressão diastólica ≥ 90 mmHg), na gravidez, em mulheres previamente normotensas;
+· Não tem o aparecimento de proteinúria;
+· Desaparece até 12 semanas após parto.
+A HT pode corresponder à fase não-proteinúrica da pré-eclâmpsia ou representa a recorrência de hipertensão arterial que esteve abrandada no segundo trimestre gestacional. Normalmente, corresponde à manifestação de hipertensão arterial sistêmica latente, desencadeada pela gravidez.
+A hipertensão gestacional tem altos índices de recorrência em gestações posteriores (88%), sendo a maior fonte de diagnósticos equivocados de pré- eclâmpsia em multíparas (Manual de Orientação Diabetes e Hipertensão na Gravidez-Febrasgo-2004).
+Informações gerais:
+Diante de uma paciente grávida, que tenha níveis pressóricos elevados, é muito importante a detecção do período da gravidez em que seus níveis pressóricos se elevaram e a presença ou não de proteinúria, quantificando-a e determinando o período da gravidez em que apareceu.
+Deve-se respeitar o período de organogênese para as drogas conhecidas, e nunca usar os inibidores da enzima de conversão da angiotensina (inibidores da ECA-captopril, enalapril, lisinopril etc) e os bloqueadores do receptor AT1 por seus efeitos deletérios sobre a saúde fetal (má formação, crescimento intrauterino restrito – CIUR, depressão respiratória, falência renal e hipoplasia craniana).
+Reconhecer o comportamento da pressão arterial de acordo com os trimestres Gestacionais:
+· No segundo trimestre há uma queda fisiológica;
+· No terceiro trimestre há retorno aos valores do primeiro trimestre.
+Reconhecer o comportamento circadiano da pressão arterial, com a queda. Fisiológica da pressão arterial durante o período do sono.
+Valorizar sempre a pressão arterial de repouso da gestante.
+Sempre atuar sobre a crise hipertensiva, evitando desse modo, o acidente Vascular cerebral. Níveis acima de 170/110 mmHg são extremamente danosos Para a circulação cerebral materna.
+Usar a medicação que conheça bem, do ponto de vista de seu mecanismo de ação, efeitos esperados e de seus efeitos adversos.
+Utilizar somente em situações de risco materno o nitroprussiato de sódio, pela potencial intoxicação cianídrica do feto.
+Usar diurético somente na gestante com hipertensão crônica ou em caso de edema pulmonar, não devendo ser utilizado na pré-eclâmpsia, por já haver diminuição de volume.
+A crise hipertensiva deve ser tratada com:
+· Um agente que tenha ação rápida;
+· Seja de fácil manuseio;
+· Que leve a um decréscimo lento e progressivo dos níveis pressóricos;
+· Que reduza o trabalho cardíaco;
+· Possua a capacidade de reverter a vasoconstricção útero-placentária, diminuindo ao mínimo os efeitos adversos para a mãe e o feto.
+Não existe até o momento um consenso sobre o benefício do tratamento farmacológico da hipertensão estágio 1 na gravidez. As IV Diretrizes Brasileiras de Hipertensão preconizam que, diante de valores pressóricos ≥160/100mmHg, devemos iniciar o tratamento farmacológico.
+As Diretrizes Européias estabeleceram valores não só para o início do tratamento, que são a partir de 150/95 mmHg, como também valores diante dos quais caracterize emergência hipertensiva, que são ≥170/110 mmHg, recomendando nestes casos a internação da paciente
+Tratamento medicamentoso por via oral:
+Em relação ao fármaco a ser utilizado, a metildopa é o preferencial em monoterapia, não por ser mais eficaz, mas pelo fato de ser mais seguro, já que
+é a única classe de fármaco que esteve envolvida em um estudo clínico para verificação da evolução fetal há 25 anos.
+Outras classes podem ser utilizadas, como os betabloqueadores, os antagonistas dos canais de cálcio e diuréticos, sendo os inibidores da ECA e os bloqueadores dos receptores da angiotensina II, como foi relatado, contraindicados.Apesar da existência de poucos estudos clínicos sobre o manuseio da hipertensão arterial na gravidez, a clínica nos mostra que é possível atingir as metas pressóricas preconizadas atualmente de <140/90 mmHg, mesmo diante de pacientes estágio III, com os fármacos disponíveis, desde que haja adesão por parte do paciente, levando o parto a termo, proporcionando o nascimento de um feto saudável.
+Anexo IIX
+DIABETES MELLITUS GESTACIONAL (DMG) (Werther Clay Monico Rosa) 
+1. Conceito e definições
+O diabetes mellitus gestacional define-se por uma intolerância à glicose que aparece na gestação mas não preenche os critérios diagnósticos de diabetes mellitus franco, e portanto tem critérios diagnósticos diferentes daquele. É o problema metabólico mais comum na gestação, ocorrendo entre 3% e 25% das gestantes. O aumento da sua incidência se correlaciona com o aumento do diabetes mellitus tipo II e da obesidade feminina.
+Entre os fatores de risco para diabetes gestacional podemos listar: Idade materna avançada, sobrepeso, obesidade ou ganho excessivo de peso na gravidez atual, deposição central excessiva de gordura corporal, história familiar de diabetes em parentes de primeiro grau, crescimento fetal excessivo, polidrâmnio, hipertensão ou pré-eclâmpsia na gravidez atual, antecedentes obstétricos de abortamentos de repetição, malformações, morte fetal ou neonatal, macrossomia ou DMG, síndrome de ovários policísticos e baixa estatura (menos de 1,5 m).
+2. Critérios Diagnósticos
+São adotados os critérios da Organização Mundial de Saúde (OMS) aceitos em 2013.
+Todas as gestantes sem diagnóstico prévio de diabetes franco devem ser investigadas para DMG
+Início da gestação: solicitar glicemia de jejum na primeira consulta de pré-natal.
+· Glicemia plasmática de jejum  ≥92 e ≤126
+-> Diabetes mellitus gestacional (DMG).
+· Glicemia plasmática de jejum ≥126 -> Diabetes mellitus franco.
+· Glicemia plasmática de jejum <92 -> normal, reavaliar a gestante  no segundo trimestre de gestação.
+24° semana até 28° semana: executar o teste oral de tolerância à glicose  (TOTG). Para tanto, a gestante não deve estar em restritiva de carboidratos, e se estiver, providenciar a ingesta de pelo menos 150 g de carboidratos ao dia nos 3 dias anteriores ao teste. No dia do teste deve estar em jejum de 8 horas. È colhida a glicemia plasmática em jejum, após isto administra-se 75 gramas de glicose e colhe-se nova glicemias plasmáticas em 1hora e 2 horas após a carga glicêmica. Abaixo estão os pontos de corte cima dos quais o teste é considerado alterado e os critérios diagnósticos para DMG:
+
+Jejum: ≥92 mg/dL
+entre 92 e 125  -> DMG
+≥126 -> diabetes mellitus franco
+
+1 Hora: ≥180 mg/dL
+entre 181 e 200   -> DMG
+≥200 -> diabetes mellitus franco
+
+2Horas: ≥153 mg/dL
+entre 154 e 200  -> DMG
+≥200 -> diabetes mellitus franco
+Basta alteração em apenas u dos pontos de corte para firmar o diagnóstico de diabetes mellitus gestacional. Nota-se ainda que qualquer alteração glicêmica acima de 200 pós carga de glicose (75 G) é diagnóstico de diabetes mellitus franco.
+3. Tratamento
+a) Antes do parto:
+· Orientação alimentar. Deve ser calculada a oferta de calorias para a gestante de acordo com o índice de massa corpórea (IMC) visando ganho adequado de peso, em torno de 300-400 gramas por semana. Distribuição do valor calórico deve ser aproximadamente 40-45% carbohidratos, 15- 20% de proteínas e 30-40% de gorduras. Adoçantes artificiais são permitidos, desde que em quantidades moderadas.
+· Exercícios físicos. São permitidos e podem ser até estimulados, desde que não contrariem eventuais contraindicações obstétricas ao exercício, como hipertensão induzida pela gravidez, ruptura prematura de membranas, parto prematuro, sangramento uterino persistente após o segundo trimestre e restrição de crescimento intrauterino.
+· Tratamento medicamentoso. Deve ser instituído se após semanas de dieta os níveis glicêmicos permanecerem elevados - -(jejum ≥ 95 mg/ dl e 1 h pós-prandial ≥ 140 mg/dl, ou 2 h pós-prandiais ≥ 120 mg/dl. Podem  ser usados a metformina e a glibenclamida. Ambas atravessam a barreira placentária mas não há definição sobre os efeitos de longo prazo na mãe e no feto expostos a eles. Não há evidências de que a metformina tenha efeitos deletérios na gravidez. A glibenclamida (Daonil®), por sua vez, pode provocar ganho de peso materno e neonatal, bem como macrossomia, portanto deve ser utilizada com precauções e com o apoio do especialista. Outros agentes orais são contraindicados.
+· Insulinoterapia. Recomenda-se o critério de crescimento fetal para início da insulinoterapia. Realiza-se ultrassonografia entre a 29° e a 33° semana, na qual se mede a circunferência abdominal fetal. Circunferência abdominal fetal igual ou superior ao percentil 75 é critério para início de insulina. Dose inicial deve ser de 0,5 mg/kg, com ajustes posteriores individualizados. Em geral associa-se insulinas de ação intermediária e rápida para melhor controle das glicemias pós-prandiais
+Secretaria Municipal de Saúde 
+Página 4
+

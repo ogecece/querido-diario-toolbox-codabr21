@@ -1,0 +1,139 @@
+
+FUNDAÇÃO UNIVERSIDADE REGIONAL DE BLUMENAU
+
+Extrato nº. 518/2020
+PARTES:  FUNDAÇÃO UNIVERSIDADE REGIONAL DE BLUMENAU
+
+E
+
+                  PARTNER TECNOLOGIA EIRELI
+OBJETO: Aquisição de notebooks para uso nas aulas da Universidade.
+FUNDAMENTO LEGAL: Pregão Presencial nº 285/2020 e Contrato nº 237/2020, firmado em 1º de dezembro de 2020.  
+PREÇO: O preço ofertado pela empresa signatária do presente Contrato é o abaixo informado, de acordo com a respectiva classificação:
+
+	Item
+	Código FURB
+	Qtde.
+	Und.
+	Descrição do Item
+	Marca e Modelo
+	Preço Unitário (em R$)
+	Preço Total do Item
+
+ (em R$)
+
+	1
+	34073
+	15
+	Peça
+	Notebook widescreen tipo I, com as seguintes características:
+Processador: 
+· Plataforma: 32 e 64 bits
+· Frequência nominal mínima: 1,6 GHz
+
+· Suporte à Frequência Dinâmica
+
+· Núcleos: mínimo de 4 cores e 8 threads.
+
+· Cache mínimo: 4 MB
+
+· Suporte a virtualização ativada
+
+· Controladora gráfica integrada (GPU)
+
+Memória: 
+
+· Tipo: DDR4 de no mínimo 2133 MHz
+
+· Capacidade: 8 GB ou superior
+
+· Deverá possuir no mínimo um slot para expansão. 
+
+Unidade óptica: Obrigatoriamente sem unidade ótica
+
+Unidade de estado sólido (SSD):
+
+· Capacidade mínima: 240 GB ou superior
+
+· Interface mínima: SATA 3 ou superior.
+
+Tela:
+
+· Tecnologia: LED ou superior
+
+· Resolução mínima: 1366x768 pixels
+
+· Tamanho máximo: de 15,6’’ widescreen
+
+Rede:  Ethernet 100/1000 MBPS padrão RJ45
+
+Rede sem fio: Padrões 802.11b/g/n
+
+Som: 
+
+· Integrado com suporte a High Definition
+
+· Dois alto falantes estéreos integrados ao design do equipamento
+
+· Microfone integrado ao design do equipamento
+
+Webcam: Integrada com resolução mínima de 480p
+
+Conexões mínimas: 
+
+· 3 x USB
+
+· 1 VGA
+· Caso o equipamento não possuir conexão VGA deve ser entregue com adaptador HDMI para VGA.
+· 1 HDMI
+· Saída de fone de ouvido
+· Trava Kensington
+
+Cor: Preto, cinza ou prateado.
+Touchpad: com 2 botões e tecnologia multi-touch
+
+Bateria: mínimo de 2 células ou 30Wh
+Sistema Operacional: 
+
+· Windows 10 home ou superior.
+
+· Obrigatoriamente deverá estar escrito na nota fiscal
+
+Compatibilidade: Windows 10 ou superior
+
+Acessórios: 
+
+· Carregador bivolt automático entre 100 e 220V
+
+· Cabo de alimentação padrão NBR14136
+
+Peso Máximo: 2,2 Kg
+
+Garantia:
+
+· Mínima de 01 (um) ano com atendimento no local para o equipamento e todos os acessórios.
+
+Assistência Técnica durante a garantia: 
+
+· Atendimento em 02 dias úteis a partir da abertura do chamado.
+
+· O equipamento que apresentar 03 defeitos que requeiram intervenção de assistência técnica em um período de 90 dias consecutivos, deverá ser substituído por outro novo, de modelo idêntico ou superior, dentro das características do produto ofertado.
+
+· Expediente: Segunda a Sexta-feira das 8h às 12h e das 14h às 18h
+
+Aceite: 
+
+O aceite do equipamento só será emitido após conferência das características em confronto com a proposta e testes de funcionamento realizados pela equipe técnica da FURB. A comissão de recebimento fará a análise técnica do equipamento verificando todas as características informadas na documentação e conferindo com o equipamento entregue.
+	Samsung Intel Core i5 – 10210u – Book X30 – NP550XCJ-KF2BR
+	3.500,00
+	52.500,00
+
+	Preço Total do Item
+
+ (em R$, por extenso)
+	Cinquenta e dois mil e quinhentos reais.
+
+
+PAGAMENTO: O pagamento será realizado em até 30 (trinta) dias consecutivos após a efetiva entrega (com descarga) do(s) equipamento(s) desde que estas sejam aprovados pela Gestão Contratual e sigam acompanhados da respectiva Nota Fiscal Eletrônica (NF-e), através de depósito bancário (hipótese na qual a NF-e deverá conter os dados bancários da CONTRATADA) ou de boleto bancário (caso no qual tal documento deverá acompanhar a NF-e).
+PRAZO DE VIGÊNCIA: Por se tratar de contratação imediata, este contrato terá início a partir da data de sua assinatura e encerramento vinculado ao término do respectivo exercício financeiro, em conformidade com o descrito no caput do artigo 57 da Lei Federal nº. 8.666/93.
+DATA: 02/12/2020.

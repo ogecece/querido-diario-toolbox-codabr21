@@ -1,0 +1,572 @@
+
+FUNDAÇÃO UNIVERSIDADE REGIONAL DE BLUMENAU
+
+Extrato nº. 253/2020
+PARTES:  FUNDAÇÃO UNIVERSIDADE REGIONAL DE BLUMENAU
+
+E
+
+                  ZERO5 DISTRIBUIDORA EIRELI
+OBJETO: Registro de Preços para aquisições futuras de material de expediente para Universidade.
+FUNDAMENTO LEGAL: Concorrência (SRP) nº 471/2019 e Ata de Registro de Preços nº 088/2020, firmado em 02 de junho de 2020.  
+PREÇO: O preço ofertado pela empresa signatária da presente Ata de Registro de Preços é o abaixo informado, de acordo com a respectiva classificação:
+
+	Item
+	Código FURB
+	Qtde.
+	Und.
+	Descrição do Item
+	Marca
+	Preço Unitário (em R$)
+	Preço Total do Item (em R$)
+
+	2
+	27417
+	100
+	Peça
+	Agarrador Binder Clips 19mm
+	BRW
+	0,16
+	16,00
+
+	5
+	24930
+	50
+	Peça
+	Agarrador Binder Clips 51mm
+	BRW
+	1,20
+	60,00
+
+	7
+	1767
+	10
+	Peça
+	Agenda para telefone/endereço/e-mail / dimensão aproximada de 15cm x 21cm
+	SD
+	14,99
+	149,90
+
+	16
+	3596
+	275
+	Peça
+	Bateria 9V alcalina (6LR61) / Blíster com uma unidade / validade mínima de 07 anos após a entrega.
+	Elgin
+	6,90
+	1.897,50
+
+	19
+	22803
+	125
+	Peças
+	Bateria CR2032 (Lithium Cell ); tipo disco/moeda; voltagem 3,6V.
+	Elgin
+	1,44
+	180,00
+
+	20
+	28598
+	30
+	Peças
+	Bateria Lithium CR-2016 / 3V.
+	Elgin
+	1,44
+	43,20
+
+	26
+	31735
+	30
+	Bobina
+	Bobina de senhas / senhas de 3 dígitos / 2.000 senhas (2x999) / para uso em dispensador de senhas tipo bico de pato.
+	VBN
+	13,69
+	410,70
+
+	27
+	1428
+	15
+	Rolo
+	Bobina para calculadora / tamanho 57mm x 30m
+	Aloform
+	1,49
+	22,35
+
+	30
+	1197
+	100
+	Peça
+	Borracha para lápis / comum / macia / número 40 / cor branca
+	Redbor
+	0,16
+	16,00
+
+	32
+	1782
+	10
+	Peça
+	Caderno universitário de 96 folhas / com espiral e capa dura
+	Max
+	4,90
+	49,00
+
+	33
+	12119
+	700
+	Peça
+	Caixa de arquivo morto de papelão / tamanho 13cm x 25cm x 36cm
+	Siedlag
+	1,49
+	1.043,00
+
+	69
+	24935
+	25
+	Peça
+	Chapa de isopor / espessura 5mm / tamanho 100cm x 50cm
+	Styroville
+	1,29
+	32,25
+
+	74
+	1332
+	400
+	Peças
+	Cola em bastão / composta de glicerina, resinas e água / forte adesividade / embalagem 10g
+	Gatte
+	0,64
+	256,00
+
+	77
+	1321
+	150
+	Peças
+	Cola líquida branca de boa qualidade / embalagem de plástico resistente com 40g / à base de PVA / atóxica / lavável / forte adesividade / áreas de aplicação: papel; cartão; tecidos; feltro; fotos; cortiça; vidro; madeira; couro; metal; plástico e material de espuma.
+	Palhacinho
+	0,66
+	99,00
+
+	79
+	13855
+	150
+	Tubos
+	Cola para EVA e isopor / tubo com aproximadamente 40g.
+	Frama
+	1,18
+	177,00
+
+	86
+	32150
+	5
+	Peça
+	Dispensador de senhas manual / tipo bico de pato / para uso com bobinas numeradas pré-impressas.
+	VBN
+	110,40
+	552,00
+
+	94
+	30249
+	50
+	Bobina
+	Etiqueta 100% poliéster / tamanho 101x25 mm / resistente a altas temperaturas / bobina com 1400 etiquetas.
+	DNA
+	109,00
+	5.450,00
+
+	106
+	14394
+	30
+	Rolo
+	Fita adesiva "silver tape" / rolo de 48mm x 5 metros.
+	KAZ
+	7,31
+	219,30
+
+	107
+	1370
+	80
+	Rolo
+	Fita adesiva incolor / permite escrita sobre a fita / tipo mágica / tamanho 25mm x 65m
+	3M
+	79,00
+	6.320,00
+
+	115
+	38293
+	10000
+	Folhas
+	Folha de cartolina triplex branca; gramatura 300g/m²; tamanho A3 (297x420mm)
+	Bignardi
+	0,98
+	9.800,00
+
+	126
+	27840
+	45
+	Caixas
+	Grampo para grampeador / material metal / tratamento galvanizado / tamanho 23/10 / caixa com 1.000 grampos
+	Jocar
+	3,90
+	175,50
+
+	127
+	28430
+	10
+	Caixa
+	Grampo para grampeador / material metal / tratamento galvanizado / tamanho 23/13 / caixa com 1.000 grampos
+	Jocar
+	3,98
+	39,80
+
+	131
+	1236
+	10
+	Caixa
+	Grampo para grampeador tipo Rapid / tamanho 9/14mm / caixa com 5000 grampos.
+	Rafa
+	14,00
+	140,00
+
+	133
+	6528
+	15.000
+	Peça
+	Lacre para malote / tamanho mínimo de 21cm
+	LC
+	0,17
+	2.550,00
+
+	135
+	1390
+	300
+	Peça
+	Lâmina para estilete grande/largo / largura 18mm
+	Concept
+	0,30
+	90,00
+
+	136
+	1389
+	50
+	Peça
+	Lâmina para estilete pequeno/estreito / largura 9mm
+	Fosca
+	0,21
+	10,50
+
+	139
+	167
+	200
+	Peça
+	Lápis 2B / corpo em madeira
+	Leo
+	0,50
+	100,00
+
+	150
+	1765
+	40
+	Peça
+	Livro protocolo pequeno com 100 folhas / capa dura / tamanho aproximado 148mm x 202mm
+	AGS
+	6,89
+	275,60
+
+	160
+	1634
+	400
+	Metro
+	Papel auto-adesivo (papel contact) / material plástico / incolor
+	Leotac
+	1,79
+	716,00
+
+	164
+	1513
+	50
+	Folhas
+	Papel carbono para escrita manual / tamanho A4 / cor preta
+	Radex
+	0,29
+	14,50
+
+	166
+	1372
+	40
+	Metro
+	Papel contact colorido (descrever cor)
+	Plavitec
+	3,99
+	159,60
+
+	168
+	1594
+	400
+	Folha
+	Papel couché L2 (revestimento dos dois lados) / gramatura 180g/m²
+	Usapel
+	0,34
+	136,00
+
+	173
+	1795
+	40
+	Bloco
+	Papel milimetrado tamanho A4 / Bloco com 50 folhas
+	Filiperson
+	4,90
+	196,00
+
+	188
+	13577
+	180
+	Peça
+	Pasta "L" / material plástico / tamanho ofício
+	Lyke
+	0,49
+	88,20
+
+	194
+	1251
+	250
+	Peça
+	Pasta de papelão com abas, elásticos e ilhós (pasta Brasil)
+	Thur
+	0,98
+	245,00
+
+	195
+	1252
+	50
+	Peça
+	Pasta de papelão com grampo trilho plástico
+	Thur
+	0,94
+	47,00
+
+	196
+	23900
+	150
+	Peças
+	Pasta plástica com abas e com elástico / lombo de 20 a 30mm / cores diversas
+	ACP
+	1,49
+	223,50
+
+	197
+	29563
+	30
+	Peça
+	Pasta plástica com abas e elástico / tamanho ofício
+	ACP
+	1,28
+	38,40
+
+	198
+	28615
+	100
+	Peça
+	Pasta plástica com grampo e sem elástico.
+	ACP
+	1,19
+	119,00
+
+	199
+	1284
+	75
+	Peça
+	Pasta plástica sanfonada / com elástico e 12 divisórias / transparente
+	ACP
+	13,09
+	981,75
+
+	200
+	1268
+	100
+	Peça
+	Pasta plástico polionda 55mm / com abas e elástico
+	Alaplast
+	1,89
+	189,00
+
+	202
+	1213
+	15
+	Caixa
+	Percevejos latonados / caixa com 100 percevejos
+	BRW
+	1,22
+	18,30
+
+	208
+	27673
+	75
+	Peças
+	Pilha alcalina (bateria) / 23A / 12V / Garantia/validade: manter-se carregadas por no mínimo 04 (quatro) anos em condições ambientais de armazenamento.
+	Powercell
+	2,64
+	198,00
+
+	214
+	221
+	100
+	Peça
+	Pincel atômico marcador multiuso / cor azul / espessuras de escrita: 8.0mm, 4.5 mm e 2.0mm / tinta de secagem rápida / para uso em: papel, vidro, metal, papelão, madeira e plástico / resistente à água, luz e umidade.
+	BRW
+	1,39
+	139,00
+
+	215
+	222
+	125
+	Peça
+	Pincel atômico marcador multiuso / cor preto / espessuras de escrita: 8.0mm, 4.5 mm e 2.0mm / tinta de secagem rápida / para uso em: papel, vidro, metal, papelão, madeira e plástico / resistente à água, luz e umidade.
+	BRW
+	1,39
+	173,75
+
+	216
+	223
+	75
+	Peça
+	Pincel atômico marcador multiuso / cor verde / espessuras de escrita: 8.0mm, 4.5 mm e 2.0mm / tinta de secagem rápida / para uso em: papel, vidro, metal, papelão, madeira e plástico / resistente à água, luz e umidade.
+	BRW
+	1,39
+	104,25
+
+	217
+	224
+	75
+	Peça
+	Pincel atômico marcador multiuso / cor vermelho / espessuras de escrita: 8.0mm, 4.5 mm e 2.0mm / tinta de secagem rápida / para uso em: papel, vidro, metal, papelão, madeira e plástico / resistente à água, luz e umidade.
+	BRW
+	1,39
+	104,25
+
+	222
+	17768
+	15
+	Peça
+	Pincel redondo número 00 / para uso artístico e escolar (guache, aquarela)
+	Leo & Leo
+	0,99
+	14,85
+
+	224
+	255
+	75
+	Peça
+	Pincel redondo número 10 / para uso artístico e escolar (guache, aquarela)
+	
+	0,29
+	21,75
+
+	229
+	1402
+	10
+	Peça
+	Porta fita adesiva / tamanho pequeno
+	Jocar
+	6,89
+	68,90
+
+	233
+	34004
+	250
+	Peça
+	Protetor plástico flexível para crachá / tamanho 11cm x 15cm / com cordão de nylon / vertical.
+	ACP
+	1,79
+	21,75
+
+	238
+	33208
+	20
+	Peças
+	Refil vermelho para marcador recarregável de quadro branco / contendo 5,5ml.
+	Jocar
+	1,36
+	27,20
+
+	241
+	340
+	20
+	Peça
+	Régua de madeira / tamanho 30cm
+	Cagema
+	1,80
+	36,00
+
+	242
+	1314
+	15
+	Peça
+	Régua em acrílico transparente / tamanho 30cm
+	DNA
+	1,19
+	17,85
+
+	246
+	36695
+	10
+	Pacotes
+	Rolo de etiquetas para etiquetadora manual; etiqueta no tamanho 21x12mm branca; pacote com 10 rolos (mil etiquetas por rolo).
+	Copan
+	13,90
+	139,00
+
+	252
+	21037
+	200
+	Metros
+	Tecido TNT (COLORIDO) / largura 1,40m / gramatura 40g/m² [DEFINIR COR]
+	SB
+	0,90
+	180,00
+
+	253
+	1385
+	80
+	Peça
+	Tesoura bolso/escolar em aço inox / sem ponta / com cabo plástico e rebite reforçado em aço inox / tamanho aproximado 13cm
+	Nox
+	1,29
+	103,20
+
+	255
+	116
+	25
+	Jogo
+	Tinta guache / cores diversas / caixa com 6 cores
+	Pira
+	1,98
+	49,50
+
+	258
+	39427
+	15
+	Caixa
+	Visor para pasta suspensa / conjunto com etiqueta de papel e capa plástica / caixa com 50 unidades.
+	Timpel
+	4,19
+	62,85
+
+	259
+	12819
+	10
+	Peça
+	Grampeador profissional / tratamento superficial pintado / material metal e plástico / para grampos 23/6 até 23/24 / capacidade 240 folhas
+	Jocar
+	59,00
+	590,00
+
+	Preço total em R$ (algarismos)
+	35.906,45
+
+	Preço total em R$ (por extenso)
+	Trinta e cinco mil, novecentos e seis reais e quarenta e cinco centavos
+
+
+PAGAMENTO: O pagamento será efetuado em até 30 (trinta) dias consecutivos após a efetiva entrega (com descarga) dos materiais, desde que os mesmos estejam em perfeitas condições de uso, sejam aprovados pelo Gestor designado pela CONTRATANTE e sigam acompanhados da respectiva Nota Fiscal Eletrônica (NF-e), através de depósitos bancários (hipótese na qual a NF-e deverá conter os dados bancários da CONTRATADA) ou de boletos bancários (caso no qual tais documentos deverão acompanhar a NF-e).
+PRAZO DE VIGÊNCIA: A presente Ata de Registro de Preços terá a validade de 12 (doze) meses, contados a partir da data de sua assinatura..
+DATA: 20/07/2020.

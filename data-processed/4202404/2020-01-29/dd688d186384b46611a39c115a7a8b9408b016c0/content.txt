@@ -1,0 +1,146 @@
+
+FUNDAÇÃO UNIVERSIDADE REGIONAL DE BLUMENAU
+
+Extrato nº. 003/2020
+PARTES:
+FUNDAÇÃO UNIVERSIDADE REGIONAL DE BLUMENAU
+E
+
+SÜD LAB INSTRUMENTOS E PRODUTOS CIENTÍFICOS EIRELI
+OBJETO: Registro de Preços para aquisições futuras de materiais químicos para utilização em diversos setores da Universidade.
+FUNDAMENTO LEGAL: Concorrência (SRP) nº 435/2019 e Ata (SRP) nº 003/2019 firmado em 29 de janeiro de 2020. 
+PREÇO: O preço ofertado pela empresa signatária da presente Ata de Registro de Preços é o abaixo informado, de acordo com a respectiva classificação:
+	Item
+	Código FURB
+	Qtde.
+	Und.
+	Descrição do Item
+	Marca
+	Preço Unitário 
+
+(em R$)
+	Preço Total do Item 
+
+(em R$)
+
+	4
+	39662
+	2
+	frasco
+	4-N-Nonilfenol pestanal 100mg / Código Sigma Aldrich 46405-100MG 
+	Dr Ehrenstorfer
+	485,00
+	970,00
+
+	127
+	33637
+	10
+	Frasco
+	Material de Referência Certificado (DM - MRC) - P1: pH 6; frasco de 250ml; fornecer certificado de acreditação RBC, atendendo a ISO 17025 e ISO GUIA 34; validade mínima de 1 ano após entrega.
+	Inorganic Ventures
+	114,00
+	1.140,00
+
+	129
+	33638
+	10
+	Frasco
+	Material de Referência Certificado (DM - MRC); P2: pH 4; frasco de 250ml; fornecer certificado de acreditação RBC, atendendo a ISO 17025 e ISO GUIA 34; validade mínima de 1 ano após entrega.
+	Inorganic Ventures
+	114,00
+	1.140,00
+
+	147
+	38432
+	5
+	Ampola
+	Padrão de metanol; pureza mínima 99,8% (MRC), com certificação ISO Guide 34 e DIN EN ISO/IEC 17025; ampola de 1ml.
+	Accustandard
+	190,00
+	950,00
+
+	192
+	38113
+	15
+	Frasco
+	Padrão de densidade a 20°C; referência: DEN 20-06; fabricante: PARAGON SCIENTIFIC; certificações: ISO 17025| ISO Guide 34; valor nominal: 0.8723g/mL; frasco com 60mL. Validade mínima de 2 (dois) anos.
+	Paragon Scientific
+	507,00
+	7.605,00
+
+	193
+	38111
+	3
+	Frasco
+	Padrão de ponto de fluidez; referência: CRMUPPLU1; frasco com 250mL; fabricante: PARAGON SCIENTIFIC; certificações: ISO 17025| ISO Guide 34; método de teste: ASTM D 97 IP 15; valor de certificado: -30,3°C.
+	Paragon Scientific
+	1.436,00
+	4.308,00
+
+	194
+	36930
+	5
+	Frasco
+	Padrão enxofre em isooctano marca Accustandard; 10ppm; frasco 100 mL; referência STP-1X-100ML. Validade mínima de 2 anos. Certificações ISO 17025 e ISO GUIA 34.
+	Accustandard
+	570
+	2.850,00
+
+	195
+	36931
+	5
+	Frasco
+	Padrão enxofre em isooctano marca Accustandard; 30ppm; frasco 100 mL; referência STP-3X-100ML.
+	Accustandard
+	570,00
+	2.850,00
+
+	196
+	36918
+	5
+	Frasco
+	Padrão para filtro frio de ponto de entupimento (Cold Filter Plugging Point Standard - CFPP); certificações: ISO Guide 34; método de teste: ASTM D6371, IP309; natureza do produto: diesel; valor de certificado: -17,4ºC; frasco contendo 250mL; fabricante: Paragon Scientific; referência: CRMU-CFGO1.
+	Paragon Scientific
+	1.436,00
+	7.180,00
+
+	197
+	36919
+	5
+	Pacote
+	Padrão ponto de fulgor; referrência: FP-PMCC-1; fabricante: Paragon Scientific; certificações: ISO 17025, ISO Guide 34, pacote com 3 frascos de 80mL; método de teste: ASTM D93 Proc A.
+	Paragon Scientific
+	1.212,00
+	6.060,00
+
+	198
+	36920
+	5
+	Pacote
+	Padrão ponto de fulgor; referrência: FP-PMCC-3; fabricante: Paragon Scientific; certificações: ISO 17025, ISO Guide 34, pacote com 3 frascos de 80mL; método de teste: ASTM D93 Proc A.
+	Paragon Scientific
+	1.212,00
+	6.060,00
+
+	199
+	36921
+	5
+	Pacote
+	Padrão ponto de fulgor; referência: FP-PMCC-4; fabricante: Paragon Scientific; certificações: ISO 17025, ISO Guide 34, pacote com 3 frascos de 80mL; método de teste: ASTM D93 Proc A.
+	Paragon Scientific
+	1.212,00
+	6.060,00
+
+	200
+	39851
+	7
+	Frasco
+	Padrão enxofre em isooctano; Concentração 1000ppm; frasco 60 mL. Validade mínima de 1 ano. Certificações ISO 17025 e ISO GUIDE 34.
+	Conostan
+	519,00
+	3.633,00
+
+
+PAGAMENTO: O pagamento será realizado em até 30 (trinta) dias consecutivos após a efetiva entrega (com descarga) do(s) material(is), desde que estes sejam aprovados pela Gestão Contratual e acompanhados da respectiva Nota Fiscal Eletrônica (NF-e), através de depósito bancário (hipótese na qual a NF-e deverá conter os dados bancários da CONTRATADA) ou de boleto bancário (caso no qual tal documento deverá acompanhar a NF-e).
+PRAZO DE VIGÊNCIA: A presente Ata de Registro de Preços terá a validade de 12 (doze) meses, contados a partir da data de sua assinatura.
+DATA: 29/01/2019

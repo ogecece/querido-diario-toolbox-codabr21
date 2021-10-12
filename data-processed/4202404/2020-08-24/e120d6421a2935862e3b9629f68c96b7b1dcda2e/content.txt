@@ -1,0 +1,58 @@
+
+FUNDAÇÃO UNIVERSIDADE REGIONAL DE BLUMENAU
+
+Extrato nº. 331/2020
+PARTES:
+FUNDAÇÃO UNIVERSIDADE REGIONAL DE BLUMENAU
+E
+
+VERSATUS – SOLUÇÕES E SUPORTE EM REDES E COMPUTAÇÃO DE ALTA PERFORMANCE EIRELLI
+OBJETO: Aquisição de equipamento, Cluster Computacional, para expansão da capacidade de processamento paralelo dos Laboratórios de Fluidodinâmica Computacional (LFC) e de Verificação e Validação (LVV) da FURB - Termo de Cooperação 5900.0112067.19.98.
+FUNDAMENTO LEGAL: Dispensa nº 176/2020 e Contrato nº 150/2020, firmado em 26 de agosto de 2020. 
+PREÇO: Pelo objeto contratado, a CONTRATANTE pagará o preço de R$ 752.000,00 (setecentos e cinquenta e dois mil reais), hoje equivalente a US$ 128.137,17 (cento e vinte e oito mil, cento e trinta e sete dólares e dezessete centavos), preço FCA fabricante para importação direta convertidos em moeda brasileira, à taxa de câmbio vigente no dia do efetivo pagamento, de acordo com a proposta apresentada pela CONTRATADA, constante de folhas 33 à 40 e 106 (proforma invoice) do processo de Dispensa n° 176/2020, anteriormente mencionado, sendo este(s) o(s) preço(s) unitário(s): 
+
+Equipamento Cluster HPC
+
+	Item
+	Sub-item
+	Qtde
+	Descrição
+	Valor
+
+Unitário
+
+(USD)
+
+	1
+	1
+	1
+	Compute Node DellPower Edge R7525 Server
+	11,762.05
+
+	1
+	2
+	8
+	Compute Nodes Dell Power Edge 6525 Server
+	12,073.40
+
+	1
+	3
+	1
+	1 Switch Dell EMC Switch N1124T-ON Ethernet
+	1,107.02
+
+	1
+	4
+	1
+	1 Switch Dell Mellanox SB7890 InfiniBand EDR
+	18,680,90
+
+	Total
+	128,137,17
+
+
+PAGAMENTO: A CONTRATANTE efetuará o pagamento à vista, de R$ 752.000,00 (setecentos e cinquenta e dois mil reais), hoje equivalente a US$ 128.137,17 (cento e vinte e oito mil, cento e trinta e sete dólares e dezessete centavos), preço FCA (free carrier) para importação direta convertidos em moeda brasileira, à taxa de câmbio vigente no dia do efetivo pagamento, de acordo com a proposta apresentada pela CONTRATADA, constante de folhas 33 à 40 e 106 (proforma invoice) do Processo de Dispensa de Licitação n° 176/2020, à empresa Versatus HPC Inc., em parcela única, através de Cobrança Documentária (Cad-Cash Against Documents) contra documentos consignados ao banco indicado pela CONTRATANTE que serão enviados ao mesmo, sendo que as despesas bancárias nacionais e internacionais serão de responsabilidade da CONTRATANTE. 
+
+PRAZO DE VIGÊNCIA: O prazo do presente Contrato ficará vinculado a vigência da garantia do(s) equipamento(s), constante da Cláusula Quinta deste instrumento contratual, ou seja, de 12 (doze) meses a contar da data de recebimento do(s) equipamento (s).
+
+DATA: 21/08/2020

@@ -1,0 +1,320 @@
+
+FUNDAÇÃO UNIVERSIDADE REGIONAL DE BLUMENAU
+
+Extrato nº. 445/2020
+PARTES:  FUNDAÇÃO UNIVERSIDADE REGIONAL DE BLUMENAU
+
+E
+
+                  BLUMENAU DISTRIBUIDORA DE ROLAMENTOS EIRELI
+OBJETO: Registro de Preços para aquisições futuras de materiais de refrigeração destinados à manutenção de equipamentos da Universidade.
+FUNDAMENTO LEGAL: Pregão Presencial (SRP) nº 225/2020 e Ata de Registro de Preços nº 205/2020, firmado em 30 de outubro de 2020.  
+PREÇO: O preço ofertado pela empresa signatária da presente Ata de Registro de Preços é o abaixo informado, de acordo com a respectiva classificação:
+
+	Lote 16
+
+	Item
+	Código FURB
+	Qtde.
+	Und.
+	Descrição do Item
+	Marca/
+
+Modelo
+
+	Preço Unitário (em R$)
+	Preço Total do Item (em R$)
+
+	1
+	32942
+	15
+	Peça
+	Correia lisa em "V", perfil B - 26, confeccionada com borracha natural, fios de poliéster e construção tipo envelope, corresponde a largura 17mm e altura 11mm. Produto de primeira linha. Padronizada conforme Normas DIN 2215 e/ou ISO 4184. Identificação no costado: nome do fabricante ou marca, país de origem da correia e código de comprimento ou sua referência; sem sinais de raspagem no costado. Fabricantes de referências: Contitech/Goodyear e Schneider.
+	CONTITECH
+	30,35
+	455,25
+
+	2
+	39175
+	5
+	Peça
+	Correia lisa em "V", perfil B - 36, confeccionada com borracha natural, fios de poliéster e construção tipo envelope, corresponde a largura 17mm e altura 11mm. Produto de primeira linha. Padronizada conforme Normas DIN 2215 e/ou ISO 4184. Identificação no costado: nome do fabricante ou marca, país de origem da correia e código de comprimento ou sua referência; sem sinais de raspagem no costado. Fabricantes de referências: Contitech/Goodyear e Schneider.
+	CONTITECH
+	33,31
+	166,55
+
+	3
+	39176
+	5
+	Peça
+	Correia lisa em "V", perfil B - 43, confeccionada com borracha natural, fios de poliéster e construção tipo envelope, corresponde a largura 17mm e altura 11mm. Produto de primeira linha. Padronizada conforme Normas DIN 2215 e/ou ISO 4184. Identificação no costado: nome do fabricante ou marca, país de origem da correia e código de comprimento ou sua referência; sem sinais de raspagem no costado. Fabricantes de referências: Contitech/Goodyear e Schneider.
+	CONTITECH
+	33,30
+	166,50
+
+	4
+	35532
+	5
+	Peça
+	Correia lisa em "V", perfil B - 44, confeccionada com borracha natural, fios de poliéster e construção tipo envelope, corresponde a largura 17mm e altura 11mm. Produto de primeira linha. Padronizada conforme Normas DIN 2215 e/ou ISO 4184. Identificação no costado: nome do fabricante ou marca, país de origem da correia e código de comprimento ou sua referência; sem sinais de raspagem no costado. Fabricantes de referências: Contitech/Goodyear e Schneider.
+	CONTITECH
+	33,31
+	166,55
+
+	5
+	35533
+	5
+	Peça
+	Correia lisa em "V", perfil B - 48, confeccionada com borracha natural, fios de poliéster e construção tipo envelope, corresponde a largura 17mm e altura 11mm. Produto de primeira linha. Padronizada conforme Normas DIN 2215 e/ou ISO 4184. Identificação no costado: nome do fabricante ou marca, país de origem da correia e código de comprimento ou sua referência; sem sinais de raspagem no costado. Fabricantes de referências: Contitech/Goodyear e Schneider.
+	CONTITECH
+	38,30
+	191,50
+
+	6
+	39199
+	5
+	Peça
+	Correia lisa em "V", perfil B - 53, confeccionada com borracha natural, fios de poliéster e construção tipo envelope, corresponde a largura 17mm e altura 11mm. Produto de primeira linha. Padronizada conforme Normas DIN 2215 e/ou ISO 4184. Identificação no costado: nome do fabricante ou marca, país de origem da correia e código de comprimento ou sua referência; sem sinais de raspagem no costado. Fabricantes de referências: Contitech/Goodyear e Schneider.
+	CONTITECH
+	38,30
+	191,50
+
+	7
+	39177
+	5
+	Peça
+	Correia lisa em "V", perfil B - 54, confeccionada com borracha natural, fios de poliéster e construção tipo envelope, corresponde a largura 17mm e altura 11mm. Produto de primeira linha. Padronizada conforme Normas DIN 2215 e/ou ISO 4184. Identificação no costado: nome do fabricante ou marca, país de origem da correia e código de comprimento ou sua referência; sem sinais de raspagem no costado. Fabricantes de referências: Contitech/Goodyear e Schneider.
+	CONTITECH
+	40,31
+	201,55
+
+	8
+	35534
+	5
+	Peça
+	Correia lisa em "V", perfil B - 57, confeccionada com borracha natural, fios de poliéster e construção tipo envelope, corresponde a largura 17mm e altura 11mm. Produto de primeira linha. Padronizada conforme Normas DIN 2215 e/ou ISO 4184. Identificação no costado: nome do fabricante ou marca, país de origem da correia e código de comprimento ou sua referência; sem sinais de raspagem no costado. Fabricantes de referências: Contitech/Goodyear e Schneider
+	CONTITECH
+	41,30
+	206,50
+
+	9
+	39178
+	5
+	Peça
+	Correia lisa em "V", perfil B - 58, confeccionada com borracha natural, fios de poliéster e construção tipo envelope, corresponde a largura 17mm e altura 11mm. Produto de primeira linha. Padronizada conforme Normas DIN 2215 e/ou ISO 4184. Identificação no costado: nome do fabricante ou marca, país de origem da correia e código de comprimento ou sua referência; sem sinais de raspagem no costado. Fabricantes de referências: Contitech/Goodyear e Schneider
+	CONTITECH
+	43,30
+	216,50
+
+	10
+	39179
+	5
+	Peça
+	Correia lisa em "V", perfil B - 72, confeccionada com borracha natural, fios de poliéster e construção tipo envelope, corresponde a largura 17mm e altura 11mm. Produto de primeira linha. Padronizada conforme Normas DIN 2215 e/ou ISO 4184. Identificação no costado: nome do fabricante ou marca, país de origem da correia e código de comprimento ou sua referência; sem sinais de raspagem no costado. Fabricantes de referências: Contitech/Goodyear e Schneider
+	CONTITECH
+	50,30
+	251,50
+
+	11
+	35535
+	5
+	Peça
+	Correia lisa em "V", perfil B - 80, confeccionada com borracha natural, fios de poliéster e construção tipo envelope, corresponde a largura 17mm e altura 11mm. Produto de primeira linha. Padronizada conforme Normas DIN 2215 e/ou ISO 4184. Identificação no costado: nome do fabricante ou marca, país de origem da correia e código de comprimento ou sua referência; sem sinais de raspagem no costado. Fabricantes de referências: Contitech/Goodyear e Schneider.
+	CONTITECH
+	53,31
+	266,55
+
+	12
+	39180
+	5
+	Peça
+	Correia lisa em "V", perfil A - 22, confeccionada com borracha natural, fios de poliéster e construção tipo envelope, corresponde a largura 13mm e altura 8mm. Produto de primeira linha. Padronizada conforme Normas DIN 2215 e/ou ISO 4184. Identificação no costado: nome do fabricante ou marca, país de origem da correia e código de comprimento ou sua referência; sem sinais de raspagem no costado. Fabricantes de referências: Goodyear e Schneider.
+	CONTITECH
+	21,30
+	106,50
+
+	13
+	39181
+	5
+	Peça
+	Correia lisa em "V", perfil A - 26, confeccionada com borracha natural, fios de poliéster e construção tipo envelope, corresponde a largura 13mm e altura 8mm. Produto de primeira linha. Padronizada conforme Normas DIN 2215 e/ou ISO 4184. Identificação no costado: nome do fabricante ou marca, país de origem da correia e código de comprimento ou sua referência; sem sinais de raspagem no costado. Fabricantes de referências: Goodyear e Schneider.
+	CONTITECH
+	23,30
+	116,50
+
+	14
+	35536
+	5
+	Peça
+	Correia lisa em "V", perfil A - 28, confeccionada com borracha natural, fios de poliéster e construção tipo envelope, corresponde a largura 13mm e altura 8mm. Produto de primeira linha. Padronizada conforme Normas DIN 2215 e/ou ISO 4184. Identificação no costado: nome do fabricante ou marca, país de origem da correia e código de comprimento ou sua referência; sem sinais de raspagem no costado. Fabricantes de referências: Goodyear e Schneider.
+	CONTITECH
+	24,31
+	121,55
+
+	15
+	35537
+	5
+	Peça
+	Correia lisa em "V", perfil A - 31, confeccionada com borracha natural, fios de poliéster e construção tipo envelope, corresponde a largura 13mm e altura 8mm. Produto de primeira linha. Padronizada conforme Normas DIN 2215 e/ou ISO 4184. Identificação no costado: nome do fabricante ou marca, país de origem da correia e código de comprimento ou sua referência; sem sinais de raspagem no costado. Fabricantes de referências: Goodyear e Schneider.
+	CONTITECH
+	25,30
+	126,50
+
+	16
+	35538
+	5
+	Peça
+	Correia lisa em "V", perfil A - 32, confeccionada com borracha natural, fios de poliéster e construção tipo envelope, corresponde a largura 13mm e altura 8mm. Produto de primeira linha. Padronizada conforme Normas DIN 2215 e/ou ISO 4184. Identificação no costado: nome do fabricante ou marca, país de origem da correia e código de comprimento ou sua referência; sem sinais de raspagem no costado. Fabricantes de referências: Contitech/Goodyear e Schneider.
+	CONTITECH
+	25,31
+	126,55
+
+	17
+	35539
+	15
+	Peça
+	Correia lisa em "V", perfil A - 34, confeccionada com borracha natural, fios de poliéster e construção tipo envelope, corresponde a largura 13mm e altura 8mm. Produto de primeira linha. Padronizada conforme Normas DIN 2215 e/ou ISO 4184. Identificação no costado: nome do fabricante ou marca, país de origem da correia e código de comprimento ou sua referência; sem sinais de raspagem no costado. Fabricantes de referências: Contitech/Goodyear e Schneider.
+	CONTITECH
+	23,36
+	350,40
+
+	18
+	39182
+	5
+	Peça
+	Correia lisa em "V", perfil A - 42, confeccionada com borracha natural, fios de poliéster e construção tipo envelope, corresponde a largura 13mm e altura 8mm. Produto de primeira linha. Padronizada conforme Normas DIN 2215 e/ou ISO 4184. Identificação no costado: nome do fabricante ou marca, país de origem da correia e código de comprimento ou sua referência; sem sinais de raspagem no costado. Fabricantes de referências: Contitech/Goodyear e Schneider.
+	CONTITECH
+	28,30
+	141,50
+
+	19
+	39183
+	5
+	Peça
+	Correia lisa em "V", perfil A - 44, confeccionada com borracha natural, fios de poliéster e construção tipo envelope, corresponde a largura 13mm e altura 8mm. Produto de primeira linha. Padronizada conforme Normas DIN 2215 e/ou ISO 4184. Identificação no costado: nome do fabricante ou marca, país de origem da correia e código de comprimento ou sua referência; sem sinais de raspagem no costado. Fabricantes de referências: Contitech/Goodyear e Schneider.
+	CONTITECH
+	29,30
+	146,50
+
+	20
+	35540
+	5
+	Peça
+	Correia lisa em "V", perfil A - 45, confeccionada com borracha natural, fios de poliéster e construção tipo envelope, corresponde a largura 13mm e altura 8mm. Produto de primeira linha. Padronizada conforme Normas DIN 2215 e/ou ISO 4184. Identificação no costado: nome do fabricante ou marca, país de origem da correia e código de comprimento ou sua referência; sem sinais de raspagem no costado. Fabricantes de referências: Contitech/Goodyear e Schneider.
+	CONTITECH
+	28,30
+	141,50
+
+	21
+	39766
+	15
+	Peça
+	Correia lisa em "V", perfil A - 48, confeccionada com borracha natural, fios de poliéster e construção tipo envelope, corresponde a largura 13mm e altura 8mm. Produto de primeira linha. Padronizada conforme Normas DIN 2215 e/ou ISO 4184. Identificação no costado: nome do fabricante ou marca, país de origem da correia e código de comprimento ou sua referência; sem sinais de raspagem no costado. Fabricantes de referências: Contitech/Goodyear e Schneider.
+	CONTITECH
+	36,31
+	544,65
+
+	22
+	39184
+	5
+	Peça
+	Correia lisa em "V", perfil A - 49, confeccionada com borracha natural, fios de poliéster e construção tipo envelope, corresponde a largura 13mm e altura 8mm. Produto de primeira linha. Padronizada conforme Normas DIN 2215 e/ou ISO 4184. Identificação no costado: nome do fabricante ou marca, país de origem da correia e código de comprimento ou sua referência; sem sinais de raspagem no costado. Fabricantes de referências: Contitech/Goodyear e Schneider.
+	CONTITECH
+	30,30
+	151,50
+
+	23
+	39767
+	5
+	Peça
+	Correia lisa em "V", perfil A - 52, confeccionada com borracha natural, fios de poliéster e construção tipo envelope, corresponde a largura 13mm e altura 8mm. Produto de primeira linha. Padronizada conforme Normas DIN 2215 e/ou ISO 4184. Identificação no costado: nome do fabricante ou marca, país de origem da correia e código de comprimento ou sua referência; sem sinais de raspagem no costado. Fabricantes de referências: Contitech/Goodyear e Schneider.
+	CONTITECH
+	32,30
+	161,50
+
+	24
+	39768
+	5
+	Peça
+	Correia lisa em "V", perfil A - 68, confeccionada com borracha natural, fios de poliéster e construção tipo envelope, corresponde a largura 13mm e altura 8mm. Produto de primeira linha. Padronizada conforme Normas DIN 2215 e/ou ISO 4184. Identificação no costado: nome do fabricante ou marca, país de origem da correia e código de comprimento ou sua referência; sem sinais de raspagem no costado. Fabricantes de referências: Contitech/Goodyear e Schneider.
+	CONTITECH
+	36,30
+	181,50
+
+	25
+	39769
+	5
+	Peça
+	Correia lisa em "V", perfil A - 76, confeccionada com borracha natural, fios de poliéster e construção tipo envelope, corresponde a largura 13mm e altura 8mm. Produto de primeira linha. Padronizada conforme Normas DIN 2215 e/ou ISO 4184. Identificação no costado: nome do fabricante ou marca, país de origem da correia e código de comprimento ou sua referência; sem sinais de raspagem no costado. Fabricantes de referências: Contitech/Goodyear e Schneider.
+	CONTITECH
+	40,30
+	201,50
+
+	26
+	39770
+	5
+	Peça
+	Correia lisa em "V", perfil A - 79, confeccionada com borracha natural, fios de poliéster e construção tipo envelope, corresponde a largura 13mm e altura 8mm. Produto de primeira linha. Padronizada conforme Normas DIN 2215 e/ou ISO 4184. Identificação no costado: nome do fabricante ou marca, país de origem da correia e código de comprimento ou sua referência; sem sinais de raspagem no costado. Fabricantes de referências: Contitech/Goodyear e Schneider.
+	CONTITECH
+	40,30
+	201,50
+
+	27
+	39185
+	5
+	Peça
+	Correia lisa em "V", perfil 3L - 290, confeccionada com borracha natural, fios de poliéster e construção tipo envelope, corresponde a largura (10mm e altura 6mm). Produto de primeira linha. Padronizada conforme Normas DIN 2215 e/ou ISO 4184. Identificação no costado: nome do fabricante ou marca, país de origem da correia e código de comprimento ou sua referência; sem sinais de raspagem no costado. Fabricantes de referências: BALFLEX
+	POWER SPAN
+	12,30
+	61,50
+
+	28
+	39771
+	5
+	Peça
+	Correia Lisa em "V", perfil 3L - 310, confeccionada com borracha natural, fios de poliéster e construção tipo envelope, corresponde a largura (10mm e altura 6mm). Produto de primeira linha. Padronizada conforme Normas DIN 2215 e/ou ISO 4184. Identificação no costado: nome do fabricante ou marca, país de origem da correia e código de comprimento ou sua referência; sem sinais de raspagem no costado. Fabricantes de referências: BALFLEX
+	BALFLEX
+	13,35
+	66,75
+
+	29
+	39772
+	5
+	Peça
+	Correia em "V", perfil AXS - 45, dentada, confeccionada com borracha natural, fios de poliéster e construção tipo envelope, corresponde a largura 13mm e altura 8mm. Produto de primeira linha. Padronizada conforme Normas DIN 2215 e/ou ISO 4184. Identificação no costado: nome do fabricante ou marca, país de origem da correia e código de comprimento ou sua referência; sem sinais de raspagem no costado. Fabricantes de referências: GATES
+	CONTITECH
+	29,35
+	146,75
+
+	30
+	39773
+	5
+	Peça
+	Correia em "V", perfil AXS - 80, dentada, confeccionada com borracha natural, fios de poliéster e construção tipo envelope, corresponde a largura 13mm e altura 8mm. Produto de primeira linha. Padronizada conforme Normas DIN 2215 e/ou ISO 4184. Identificação no costado: nome do fabricante ou marca, país de origem da correia e código de comprimento ou sua referência; sem sinais de raspagem no costado. Fabricantes de referências: GATES
+	CONTITECH
+	41,35
+	206,75
+
+	31
+	39774
+	5
+	Peça
+	Correia em "V", perfil BXS - 23, dentada, confeccionada com borracha natural, fios de poliéster e construção tipo envelope, corresponde a largura 17mm e altura 11mm. Produto de primeira linha. Padronizada conforme Normas DIN 2215 e/ou ISO 4184. Identificação no costado: nome do fabricante ou marca, país de origem da correia e código de comprimento ou sua referência; sem sinais de raspagem no costado. Fabricantes de referências: GATES
+	CONTITECH
+	23,35
+	116,75
+
+	Preço Total do Lote
+
+ (em reais, R$)
+	5.898,61
+
+	Preço Total do Lote
+
+ (em reais, por extenso)
+	Cinco mil, oitocentos e noventa e oito e sessenta e um centavos.
+
+
+PAGAMENTO: O pagamento será efetuado em até 30 (trinta) dias consecutivos após a efetiva entrega (com descarga) dos materiais/produtos, desde que os mesmos estejam em perfeitas condições de uso, sejam aprovados pelo Gestor designado pela CONTRATANTE e sigam acompanhados da respectiva Nota Fiscal Eletrônica (NF-e), através de depósitos bancários (hipótese na qual a NF-e deverá conter os dados bancários da CONTRATADA) ou de boletos bancários (caso no qual tais documentos deverão acompanhar a NF-e).
+PRAZO DE VIGÊNCIA: A presente Ata de Registro de Preços terá a validade de 12 (doze) meses, contados a partir da data de sua assinatura.
+DATA: 30/10/2020.

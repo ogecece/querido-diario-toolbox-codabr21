@@ -1,0 +1,270 @@
+
+FUNDAÇÃO UNIVERSIDADE REGIONAL DE BLUMENAU
+
+Extrato nº. 041/2020
+PARTES:
+FUNDAÇÃO UNIVERSIDADE REGIONAL DE BLUMENAU
+E
+
+DENTAL SHOW – COMÉRCIO DE PRODUTOS ODONTOLÓGICOS E HOSPITALARES EIRELI EPP
+OBJETO: Registro de preços para aquisições futuras de materiais médico hospitalar e de higiene e beleza para a Universidade.
+FUNDAMENTO LEGAL: Concorrência (SRP) nº 455/2019 e Ata (SRP) nº 016/2020 firmado em 05 de março de 2020. 
+PREÇO: O preço ofertado pela empresa signatária da presente Ata de Registro de Preços é o abaixo informado, de acordo com a respectiva classificação:
+	Item
+	Código FURB
+	Qtde. Estimada
+	Und.
+	Descrição dos Produtos
+	Marca e Modelo
+	Preço
+
+Unitário
+	Preço Total do Item
+
+	17
+	21679
+	20
+	Peça
+	Almotolia plástica âmbar, capacidade 250ml, com bico reto e longo; confeccionada em plástico ou similar apropriado, opaco resistente e flexível; composta de 3 partes (bisnaga, bico rosqueador e tampa); tampa acoplada ao frasco; bisnaga inteiriça, com paredes uniformes em sua espessura e diâmetro regular em toda a extensão; bico confeccionado em plástico flexível, provido de encaixe adequado para fechamento perfeito; resistente às desinfecções.
+	J Prolab
+	2,20
+	44,00
+
+	66
+	39401
+	50
+	Caixa
+	Curativo redondo antisséptico / caixa com 100 unidades.
+	Ciex
+	2,20
+	110,00
+
+	67
+	24504
+	10
+	Peça   
+	Dânula de 3 vias (torneirinha)
+	Solidor
+	0,69
+	6,90
+
+	79
+	10297
+	800
+	Peça     
+	Escova para coleta de material endocervical / fabricada em polietileno / esterilizada
+	Cral
+	0,27
+	216,00
+
+	81
+	16004
+	100
+	Peça
+	Escovas embebidas em PVPI - Acondicionado em embalagem original do fabricante, com nome do responsável técnico, o lote, data de abricação, validade e registro do Ministério da Saúde.
+	Septmax
+	1,75
+	175,00
+
+	83
+	8251
+	50
+	Rolo    
+	Esparadrapo branco impermeável / com capa / tamanho 2,5cm x 450cm / 100% algodão / com tratamento acrílico / adesivo à base de óxido de zinco, borracha natural e resina
+	Missner
+	1,98
+	99,00
+
+	101
+	31583
+	10
+	Rolo      
+	Fita adesiva hipoalergênica 25mm x 10m (Bege)
+	Missner
+	2,75
+	27,50
+
+	102
+	31581
+	10
+	Rolo      
+	Fita adesiva hipoalergênica 25mm x 4,5m (Branca)
+	Missner
+	1,75
+	17,50
+
+	103
+	31582
+	5
+	Rolo      
+	Fita adesiva hipoalergênica 50mm x 4,5m (Branca)
+	Missner
+	2,81
+	14,05
+
+	106
+	28876
+	10
+	Peça     
+	Fita micropore branca / carretel / hipoalergênica / tamanho 12,5 mm x 4,5 m.
+	Missner
+	1,24
+	12,40
+
+	132
+	10148
+	5
+	Peça
+	Papagaio em inox.
+	Artinox
+	63,45
+	317,25
+
+	136
+	16011
+	10
+	Bobina  
+	Papel grau cirúrgico / medidas 0,15m x 100m
+	Esterilcare
+	55,78
+	557,80
+
+	187
+	29008
+	10
+	Peça      
+	Solucao antisseptica de Iodo povidine degermante / almotolia de 100 ml.
+	Septmax
+	2,91
+	29,10
+
+	197
+	29014
+	20
+	Peça   
+	Sonda endotraqueal em PVC / com balão (cuff) / número 8,0.
+	Solidor
+	3,91
+	78,20
+
+	198
+	14217
+	30
+	Peça   
+	Sonda endotraqueal em PVC / com balão / número 4,5.
+	Solidor
+	3,91
+	117,30
+
+	199
+	14218
+	50
+	Peça   
+	Sonda endotraqueal em PVC / com balão / número 5,0.
+	Solidor
+	3,91
+	195,50
+
+	200
+	22001
+	30
+	Peça   
+	Sonda endotraqueal em PVC / com balão / número 5,5.
+	Solidor
+	3,91
+	117,30
+
+	201
+	14220
+	50
+	Peça   
+	Sonda endotraqueal em PVC / com balão / número 6,5.
+	Solidor
+	3,91
+	195,50
+
+	202
+	14221
+	20
+	Peça   
+	Sonda endotraqueal em PVC / com balão / número 7,0.
+	Solidor
+	3,91
+	78,20
+
+	203
+	21249
+	30
+	Peça   
+	Sonda endotraqueal em PVC / com balão / número 8,5.
+	Solidor
+	3,91
+	117,30
+
+	210
+	38451
+	10
+	Peça
+	Sonda Foley / duas vias / número 24.
+	Solidor
+	2,99
+	29,90
+
+	214
+	14226
+	20
+	Peça
+	Sonda nasogástrica longa / número 14, em PVC, apirogênica, estéril, atóxica. 
+	Biosani
+	0,83
+	16,60
+
+	225
+	29022
+	10
+	Peça
+	Suporte de parede para coletor de material perfurocortante / tamanho 3L.
+	Descarpack
+	18,18
+	181,80
+
+	226
+	29023
+	10
+	Peça
+	Suporte de parede para coletor de material perfurocortante / tamanho 7L.
+	Descarpack
+	18,18
+	181,80
+
+	258
+	36058
+	20
+	Peça
+	Faixa elástica para exercícios físicos de reabilitação e fortalecimento / resistência suave (cor amarela) / largura aproximada de 15 cm / comprimento aproximado de 100 cm.
+	Carci
+	21,00
+	420,00
+
+	266
+	10147
+	5
+	Peça
+	Comadre em aço inox / tipo pá / tamanho 40x30cm / capacidade 3500 ml.
+	Artinox
+	107,36
+	536,80
+
+	267
+	32159
+	10
+	Peça
+	Cuba rim / em aço inox / tamanho 26x12cm / capacidade 700 ml.
+	Açonox
+	29,28
+	292,80
+
+
+PAGAMENTO: O pagamento será realizado em até 30 (trinta) dias consecutivos após a efetiva entrega (com descarga) do(s) material(is), desde que estes sejam aprovados pela Gestão Contratual e acompanhados da respectiva Nota Fiscal Eletrônica (NF-e), através de depósito bancário (hipótese na qual a NF-e deverá conter os dados bancários da CONTRATADA) ou de boleto bancário (caso no qual tal documento deverá acompanhar a NF-e)
+PRAZO DE VIGÊNCIA: A presente Ata de Registro de Preços terá a validade de 12 (doze) meses, contados a partir da data de sua assinatura.
+DATA: 05/03/2019

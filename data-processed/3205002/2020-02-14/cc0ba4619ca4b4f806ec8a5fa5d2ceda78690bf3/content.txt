@@ -1,0 +1,1531 @@
+
+PREFEITURA MUNICIPAL DE SERRA
+
+ESTADO DO ESPÍRITO SANTO
+
+A N E X O  I I  –  D O S  C O N T E Ú D O S  P R O G R A M Á T I C O S
+E D I T A L  D E  C O N C U R S O  P Ú B L I C O  Nº 00 1 / 2 0 20
+
+CONHECIMENTO COMUM AO CARGO DE NÍVEL FUNDAMENTAL
+
+Língua  Portuguesa: Compreensão  e  interpretação  de  textos.  Tipos  e  gêneros  textuais.  Significação  de  palavras  e
+expressões. Sinônimos e antônimos. Ortografia oficial. Classes de palavras variáveis e invariáveis e suas funções no texto.
+Concordâncias  verbal  e  nominal.  Conjugações  verbais.  Colocação  de  pronomes  nas  frases.  Sintaxe.  Classificação  das
+palavras quanto ao número de sílabas. Dígrafos, encontros vocálicos e consonantais. Divisão silábica. Processos de formação
+de palavras. Usos dos “porquês”. Usos de “mau” e “mal”. Variação linguística.
+
+Informática  Básica: Conceitos  e  fundamentos  básicos.  Conhecimento  e  utilização  dos  principais  softwares  utilitários
+(compactadores de arquivos, chat, clientes de e-mails, reprodutores de vídeo, visualizadores de imagem, antivírus).  Conceitos
+básicos de Hardware (Placa mãe, memórias, processadores (CPU) e disco de armazenamento HDs, CDs e DVDs). Periféricos
+de computadores. Ambientes operacionais: utilização básica dos sistemas operacionais Windows 7 e Windows 10. Utilização
+de ferramentas de texto, planilha e apresentação do pacote Microsoft Office (Word, Excel e PowerPoint) – versões 2010, 2013
+e 2016. Utilização de ferramentas de texto, planilha e apresentação do pacote LibreOffice (Writer, Calc e Impress) - versões 5
+e 6. Conceitos de tecnologias relacionadas à Internet, busca e pesquisa na Web. Navegadores de internet: Internet Explorer,
+Mozilla Firefox, Google Chrome. Conceitos básicos de segurança na Internet e vírus de computadores.
+
+Noções  de  Administração  Pública:  Estrutura  da  Administração  Pública;  Administração  direta  e  indireta,  centralizada  e
+descentralizada.  princípios  da  Administração  Pública,  Controle  da  administração  pública.  Servidor  Público:  investidura  e
+exercício da função pública: direitos e deveres dos servidores públicos, Estatuto do Servidor Público da Serra. Improbidade
+administrativa - Lei Federal 8429/1992. Serviços públicos: conceito, classificação, regulamentação, formas e competência de
+prestação. Leis Orçamentárias: PPA, LDO e LOA. Ética - Código de Ética do Município; Lei da Ficha Limpa (Lei Complementar
+n.º 135, de 04 de junho de 2010); responsabilidade fiscal Lei 101/2000; Licitações: modalidades, tipos, regimes, dispensa,
+dispensabilidade, inexigibilidade. Contratos, convênios, acordos e ajustes. Lei Federal 12527/2011 - acesso à Informação, Lei
+Federal 13046/2017 - do Usuário dos Serviços Públicos.
+
+CONHECIMENTO COMUM AOS CARGOS DE NÍVEL MÉDIO
+
+Língua Portuguesa: Compreensão e interpretação de texto. Tipologia e gêneros textuais. Figuras de linguagem.  Significação
+de palavras e expressões. Relações de sinonímia e de antonímia. Ortografia. Acentuação gráfica. Uso da crase. Fonética e
+Fonologia:  som  e  fonema,  encontros  vocálicos  e  consonantais  e  dígrafos.  Morfologia:  classes  de  palavras  variáveis  e
+invariáveis  e  seus  empregos  no  texto.  Locuções  verbais  (perífrases  verbais).  Funções  do  “que”  e  do  “se”.  Formação  de
+palavras.  Elementos  de  comunicação.  Sintaxe:  relações  sintático-semânticas  estabelecidas  entre  orações,  períodos  ou
+parágrafos (período simples e período composto por coordenação e subordinação). Concordância verbal e nominal. Regência
+verbal e nominal. Colocação pronominal. Emprego dos sinais de pontuação e sua função no texto. Elementos de coesão.
+Função textual dos vocábulos. Variação linguística.
+
+Informática  Básica: Conceitos  e  fundamentos  básicos.  Conhecimento  e  utilização  dos  principais  softwares  utilitários
+(compactadores  de  arquivos,  chat,  clientes  de  e-mails,  reprodutores  de  vídeo,  visualizadores  de  imagem,  antivírus).
+Identificação  e  manipulação  de  arquivos.  Backup  de  arquivos.  Conceitos  básicos  de  Hardware  (Placa  mãe,  memórias,
+processadores (CPU) e disco de armazenamento HDs, CDs e DVDs). Periféricos de computadores. Ambientes operacionais:
+utilização dos sistemas operacionais Windows 7 e Windows 10. Conceitos básicos sobre Linux e Software Livre. Utilização de
+ferramentas de texto, planilha e apresentação do pacote Microsoft Office (Word, Excel e PowerPoint) – versões 2010, 2013 e
+2016. Utilização de ferramentas de texto, planilha e apresentação do pacote LibreOffice (Writer, Calc e Impress) - versões 5 e
+6. Utilização e configuração de e-mail no Microsoft Outlook. Conceitos de tecnologias relacionadas à Internet e Intranet, busca
+e  pesquisa  na  Web,  mecanismos  de  busca  na  Web.  Navegadores  de  internet:  Internet  Explorer,  Mozilla  Firefox,  Google
+Chrome. Segurança na internet; vírus de computadores; Spyware; Malware; Phishing e Spam. Transferência de arquivos pela
+internet.
+
+Noções  de  Administração  Pública: Estrutura  da  Administração  Pública;  Administração  direta  e  indireta,  centralizada  e
+descentralizada.  Princípios  da  Administração  Pública,  Controle  da  administração  pública.  Servidor  Público:  investidura  e
+exercício da função pública: direitos e deveres dos servidores públicos, Estatuto do Servidor Público da Serra. Improbidade
+administrativa - Lei Federal 8429/1992. Serviços públicos: conceito, classificação, regulamentação, formas e competência de
+prestação. Leis Orçamentárias: PPA, LDO e LOA. Ética - Código de Ética do Município; Lei da Ficha Limpa (Lei Complementar
+n.º 135, de 04 de junho de 2010); responsabilidade fiscal Lei 101/2000; Licitações: modalidades, tipos, regimes, dispensa,
+dispensabilidade, inexigibilidade. Contratos, convênios, acordos e ajustes. Lei Federal 12527/2011 - acesso a Informação, Lei
+Federal 13046/2017- do Usuário dos Serviços Públicos.
+
+Conhecimentos Básicos em Saúde Pública: Constituição da República Federativa do Brasil – Saúde. Evolução das políticas
+de saúde no Brasil. Sistema Único de Saúde - SUS: conceitos, fundamentação legal, princípios, diretrizes e articulação com
+serviços de saúde (Lei nº 8080/90 e Lei nº 8142/90). Epidemiologia, história natural e prevenção de doenças. Vigilância em
+Saúde. Indicadores de nível de saúde da população. Doenças de notificação compulsória. Participação popular e controle
+
+ Anexo II – Dos conteúdos programáticos – Edital de Abertura nº 001/2020 – Prefeitura Municipal de Serra Página 1 de 22
+
+
+
+social. A organização social e comunitária. Os Conselhos de Saúde. O Pacto pela Saúde. Sistema de informação em saúde.
+Processo de educação permanente em saúde. 
+
+CONHECIMENTOS COMUNS AOS CARGOS DE ANALISTA DE SISTEMAS (401 AO 405)
+
+Língua Portuguesa: Compreensão e interpretação de texto. Tipologia e gêneros textuais. Figuras de linguagem.  Significação
+de palavras e expressões. Relações de sinonímia e de antonímia. Ortografia. Acentuação gráfica. Uso da crase. Fonética e
+Fonologia:  som  e  fonema,  encontros  vocálicos  e  consonantais  e  dígrafos.  Morfologia:  classes  de  palavras  variáveis  e
+invariáveis  e  seus  empregos  no  texto.  Locuções  verbais  (perífrases  verbais).  Funções  do  “que”  e  do  “se”.  Formação  de
+palavras.  Elementos  de  comunicação.  Sintaxe:  relações  sintático-semânticas  estabelecidas  entre  orações,  períodos  ou
+parágrafos (período simples e período composto por coordenação e subordinação). Concordância verbal e nominal. Regência
+verbal e nominal. Colocação pronominal. Emprego dos sinais de pontuação e sua função no texto. Elementos de coesão.
+Função textual dos vocábulos. Variação linguística.
+
+Raciocínio Lógico e Matemático: resolução de problemas envolvendo frações, conjuntos, porcentagens, sequências (com
+números, com figuras, de palavras). Raciocínio lógico-matemático: proposições, conectivos, equivalência e implicação lógica,
+argumentos válidos.
+
+Noções  de  Administração  Pública:  Estrutura  da  Administração  Pública;  Administração  direta  e  indireta,  centralizada  e
+descentralizada.  princípios  da  Administração  Pública,  Controle  da  administração  pública.  Servidor  Público:  investidura  e
+exercício da função pública: direitos e deveres dos servidores públicos, Estatuto do Servidor Público da Serra. Improbidade
+administrativa - Lei Federal 8429/1992. Serviços públicos: conceito, classificação, regulamentação, formas e competência de
+prestação. Leis Orçamentárias: PPA, LDO e LOA. Ética - Código de Ética do Município; Lei da Ficha Limpa (Lei Complementar
+n.º 135, de 04 de junho de 2010); responsabilidade fiscal Lei 101/2000; Licitações: modalidades, tipos, regimes, dispensa,
+dispensabilidade, inexigibilidade. Contratos, convênios, acordos e ajustes. Lei Federal 12527/2011 - acesso à Informação, Lei
+Federal 13046/2017 - do Usuário dos Serviços Públicos.
+
+CONHECIMENTOS COMUNS AOS CARGOS DE AUDITORES (408 ao 413)
+
+Língua Portuguesa: Compreensão e interpretação de texto. Tipologia e gêneros textuais. Figuras de linguagem.  Significação
+de palavras e expressões. Relações de sinonímia e de antonímia. Ortografia. Acentuação gráfica. Uso da crase. Fonética e
+Fonologia:  som  e  fonema,  encontros  vocálicos  e  consonantais  e  dígrafos.  Morfologia:  classes  de  palavras  variáveis  e
+invariáveis  e  seus  empregos  no  texto.  Locuções  verbais  (perífrases  verbais).  Funções  do  “que”  e  do  “se”.  Formação  de
+palavras.  Elementos  de  comunicação.  Sintaxe:  relações  sintático-semânticas  estabelecidas  entre  orações,  períodos  ou
+parágrafos (período simples e período composto por coordenação e subordinação). Concordância verbal e nominal. Regência
+verbal e nominal. Colocação pronominal. Emprego dos sinais de pontuação e sua função no texto. Elementos de coesão.
+Função textual dos vocábulos. Variação linguística.
+
+Noções  de  Direito  Constitucional:  Constituição:  Conceito.  Classificação.  Aplicabilidade  e  Interpretação  das  Normas
+Constitucionais.  Poder  Constituinte:  Conceito.  Finalidade.  Titularidade  e  Espécies.  Cláusulas  Pétreas.  Autonomia  dos
+Municípios. Supremacia da Constituição. Controle de Constitucionalidade. Constituição da República Federativa do Brasil: Dos
+Princípios Fundamentais. Dos Direitos e Garantias Fundamentais. Da Organização do Estado. Da Organização dos Poderes.
+Lei Orgânica do Município de Serra. Constituição Federal: Art. 74. Lei Federal n.º 4.320/1964: Título VIII – Do Controle da
+Execução Orçamentária. Capítulo I – Disposições Gerais. Capítulo II – Do Controle Interno.
+
+Noções  de  Administração  Pública:  Estrutura  da  Administração  Pública;  Administração  direta  e  indireta,  centralizada  e
+descentralizada.  princípios  da  Administração  Pública,  Controle  da  administração  pública.  Servidor  Público:  investidura  e
+exercício da função pública: direitos e deveres dos servidores públicos, Estatuto do Servidor Público da Serra. Improbidade
+administrativa - Lei Federal 8429/1992. Serviços públicos: conceito, classificação, regulamentação, formas e competência de
+prestação. Leis Orçamentárias: PPA, LDO e LOA. Ética - Código de Ética do Município; Lei da Ficha Limpa (Lei Complementar
+n.º 135, de 04 de junho de 2010); responsabilidade fiscal Lei 101/2000; Licitações: modalidades, tipos, regimes, dispensa,
+dispensabilidade, inexigibilidade. Contratos, convênios, acordos e ajustes. Lei Federal 12527/2011 - acesso à Informação, Lei
+Federal 13046/2017- do Usuário dos Serviços Públicos..
+
+Auditoria Governamental: Normas Técnicas de Auditoria - NBC TA do Conselho Federal de Contabilidade – CFC: 200 -
+Objetivos Gerais do Auditor; 210 – Concordância com os Termos do Trabalho de Auditoria; 220 - Controle de Qualidade; 230 -
+Documentação  de  Auditoria;  240  –  Responsabilidade  do  Auditor  em  Relação  à  Fraude;  250  –  Consideração  de  Leis  e
+Regulamentos na Auditoria; 260 - Comunicação com os Responsáveis pela Governança; 265 - Comunicação de Deficiências
+de Controle Interno; 300 - Planejamento da Auditoria; 320 – Materialidade no Planejamento e na Execução da Auditoria; 500 -
+Evidência de Auditoria; 505 – Confirmações Externas; 520 - Procedimentos Analíticos; 530 - Amostragem em Auditoria; 610 -
+Utilização  do  Trabalho  de  Auditoria  Interna;  620  -  Utilização  do  Trabalho  de  Especialistas;  700  -  Formação  da  Opinião  e
+Emissão do Relatório do Auditor; 705 - Modificações na Opinião; 706 - Parágrafos de Ênfase e Parágrafos de Outros Assuntos
+no Relatório; 720 - Responsabilidade do Auditor em Relação a Outras Informações Incluídas em Documentos que Contenham
+Demonstrações Contábeis Auditadas. 
+Noções  gerais  sobre  auditoria: conceituação  e  objetivos.  Distinção  entre  auditoria  interna,  auditoria  externa  ou
+independente. Norma de Auditoria Interna - NBC TI 01 -; Controle interno: conceito, responsabilidade e supervisão, rotinas
+internas, aspectos fundamentais dos controles internos (relação custo-benefício; definição de responsabilidade e autoridade;
+segregação  de  funções; acesso  aos  ativos; comprovações  e provas  independentes; método  de  processamento  de  dados;
+pessoal). 
+Planejamento de auditoria: determinação de escopo; materialidade; risco e relevância; amostragem; matriz de planejamento.
+
+ Anexo II – Dos conteúdos programáticos – Edital de Abertura nº 001/2020 – Prefeitura Municipal de Serra Página 2 de 22
+
+
+
+Plano de Auditoria baseado no risco. Importância da amostragem estatística em auditoria.
+Execução  da  Auditoria: programas  de  auditoria;  papéis  de  trabalho;  procedimentos  de  auditoria:  exame  documental,
+inspeção  física,  conferência  de  cálculos,  observação,  entrevista,  circularização,  conciliações,  análise  de  contas  contábeis,
+revisão analítica, caracterização de achados de auditoria, matriz de achados de auditoria e de responsabilização. 
+Comunicação dos Resultados de Auditoria: relatórios de auditoria e pareceres. Monitoramento. Supervisão e Controle de
+qualidade. Auditoria Governamental: conceito, finalidade, objetivo, abrangência e atuação. 
+Tipos de Auditoria Governamental: auditoria de conformidade; auditoria operacional; auditoria de demonstrações contábeis;
+auditoria de sistemas contábeis e financeiros informatizados; auditoria de obras públicas.
+ Controle da Administração Pública: Conceito, Tipos e Formas de Controle. Controle Interno, Controle Externo e Controle
+Social. Controle Prévio, Concomitante e Posterior. Lei Municipal Nº 4865/2018 Estrutura controle Interno. Controle Interno.
+Controle  da  Administração  pública:  conceito,  abrangência  e  espécies.  Controle  administrativo,  judicial  e  legislativo.  Lei de
+Responsabilidade Fiscal (Lei Complementar n.º 101, de 4 de maio de 2000 e alterações). 
+Controle Interno: Definição, objetivos, componentes e limitações de efetividade. Funções da controladoria numa organização;
+aplicabilidade do conceito de controladoria à gestão pública. Relação entre objetivos e componentes. Ambiente de Controle:
+integridade e ética, governança corporativa, filosofia gerencial, estrutura organizacional, política e procedimentos de recursos
+humanos e registros. Avaliação de Riscos: estabelecimento de metas e riscos. 
+Atividades de Controle: tipos de atividade de controle, integração com avaliação de riscos e controles sobre sistemas de
+informações. Informação e Comunicação. Monitoramento: monitoramento contínuo, avaliações em separado, abrangência e
+periodicidade, o avaliador, o processo de avaliação, a metodologia, a documentação, o plano de ação e a comunicação das
+deficiências.  O  papel  do  legislativo  e  de  outros  poderes  e  órgãos  no  exercício  da  fiscalização  orçamentária,  financeira  e
+patrimonial. O controle da sociedade civil em geral e de organizações não-governamentais. Tomadas e prestações de contas.
+Tomada  de  contas  especial  IN32/2014  TCEES.  Sanções  e  penalidades.  Relatórios,  pareceres,  certificados  e  outros
+documentos de expressão da opinião e das recomendações dos auditores e dos responsáveis pelo controle. 
+
+CONHECIMENTOS COMUNS AOS CARGOS: 406, 407, 414, 415, 423, 424, 426 ao 430, 432,434 ao 437, 439 e 441
+
+Língua Portuguesa: Compreensão e interpretação de texto. Tipologia e gêneros textuais. Figuras de linguagem.  Significação
+de palavras e expressões. Relações de sinonímia e de antonímia. Ortografia. Acentuação gráfica. Uso da crase. Fonética e
+Fonologia:  som  e  fonema,  encontros  vocálicos  e  consonantais  e  dígrafos.  Morfologia:  classes  de  palavras  variáveis  e
+invariáveis  e  seus  empregos  no  texto.  Locuções  verbais  (perífrases  verbais).  Funções  do  “que”  e  do  “se”.  Formação  de
+palavras.  Elementos  de  comunicação.  Sintaxe:  relações  sintático-semânticas  estabelecidas  entre  orações,  períodos  ou
+parágrafos (período simples e período composto por coordenação e subordinação). Concordância verbal e nominal. Regência
+verbal e nominal. Colocação pronominal. Emprego dos sinais de pontuação e sua função no texto. Elementos de coesão.
+Função textual dos vocábulos. Variação linguística.
+
+Noções  de  Administração  Pública:  Estrutura  da  Administração  Pública;  Administração  direta  e  indireta,  centralizada  e
+descentralizada.  Princípios  da  Administração  Pública,  Controle  da  administração  pública.  Servidor  Público:  investidura  e
+exercício da função pública: direitos e deveres dos servidores públicos, Estatuto do Servidor Público da Serra. Improbidade
+administrativa - Lei Federal 8429/1992. Serviços públicos: conceito, classificação, regulamentação, formas e competência de
+prestação. Leis Orçamentárias: PPA, LDO e LOA. Ética- Código de Ética do Município; Lei da Ficha Limpa (Lei Complementar
+n.º 135, de 04 de junho de 2010); responsabilidade fiscal Lei 101/2000; Licitações: modalidades, tipos, regimes, dispensa,
+dispensabilidade, inexigibilidade. Contratos, convênios, acordos e ajustes.  Lei Federal 12527/2011- acesso à Informação, Lei
+Federal 13046/2017- do Usuario dos Serviços Públicos.
+
+CONHECIMENTOS COMUNS AOS CARGOS: 416 ao 422, 425, 431,433,438,440, 442 ao 452, 462,463 e 465
+
+Língua Portuguesa: Compreensão e interpretação de texto. Tipologia e gêneros textuais. Figuras de linguagem.  Significação
+de palavras e expressões. Relações de sinonímia e de antonímia. Ortografia. Acentuação gráfica. Uso da crase. Fonética e
+Fonologia:  som  e  fonema,  encontros  vocálicos  e  consonantais  e  dígrafos.  Morfologia:  classes  de  palavras  variáveis  e
+invariáveis  e  seus  empregos  no  texto.  Locuções  verbais  (perífrases  verbais).  Funções  do  “que”  e  do  “se”.  Formação  de
+palavras.  Elementos  de  comunicação.  Sintaxe:  relações  sintático-semânticas  estabelecidas  entre  orações,  períodos  ou
+parágrafos (período simples e período composto por coordenação e subordinação). Concordância verbal e nominal. Regência
+verbal e nominal. Colocação pronominal. Emprego dos sinais de pontuação e sua função no texto. Elementos de coesão.
+Função textual dos vocábulos. Variação linguística.
+
+Noções  de  Administração  Pública:  Estrutura  da  Administração  Pública;  Administração  direta  e  indireta,  centralizada  e
+descentralizada.  princípios  da  Administração  Pública,  Controle  da  administração  pública.  Servidor  Público:  investidura  e
+exercício da função pública: direitos e deveres dos servidores públicos, Estatuto do Servidor Público da Serra. Improbidade
+administrativa - Lei Federal 8429/1992. Serviços públicos: conceito, classificação, regulamentação, formas e competência de
+prestação. Leis Orçamentárias: PPA, LDO e LOA. Ética - Código de Ética do Município; Lei da Ficha Limpa (Lei Complementar
+n.º 135, de 04 de junho de 2010); responsabilidade fiscal Lei 101/2000; Licitações: modalidades, tipos, regimes, dispensa,
+dispensabilidade, inexigibilidade. Contratos, convênios, acordos e ajustes. Lei Federal 12527/2011 - acesso à Informação, Lei
+Federal 13046/2017 - do Usuário dos Serviços Públicos.
+
+Conhecimentos Básicos em Saúde Pública: Constituição da República Federativa do Brasil – Saúde. Evolução das políticas
+de saúde no Brasil. Sistema Único de Saúde - SUS: conceitos, fundamentação legal, princípios, diretrizes e articulação com
+serviços de saúde (Lei nº 8080/90 e Lei nº 8142/90). Epidemiologia, história natural e prevenção de doenças. Vigilância em
+Saúde. Indicadores de nível de saúde da população. Doenças de notificação compulsória. Participação popular e controle
+
+ Anexo II – Dos conteúdos programáticos – Edital de Abertura nº 001/2020 – Prefeitura Municipal de Serra Página 3 de 22
+
+
+
+social. A organização social e comunitária. Os Conselhos de Saúde. O Pacto pela Saúde. Sistema de informação em saúde.
+Processo de educação permanente em saúde. 
+
+CONHECIMENTOS COMUNS AOS CARGOS: 453 ao 461 e 464
+
+Língua Portuguesa: Compreensão e interpretação de texto. Tipologia e gêneros textuais. Figuras de linguagem.  Significação
+de palavras e expressões. Relações de sinonímia e de antonímia. Ortografia. Acentuação gráfica. Uso da crase. Fonética e
+Fonologia:  som  e  fonema,  encontros  vocálicos  e  consonantais  e  dígrafos.  Morfologia:  classes  de  palavras  variáveis  e
+invariáveis  e  seus  empregos  no  texto.  Locuções  verbais  (perífrases  verbais).  Funções  do  “que”  e  do  “se”.  Formação  de
+palavras.  Elementos  de  comunicação.  Sintaxe:  relações  sintático-semânticas  estabelecidas  entre  orações,  períodos  ou
+parágrafos (período simples e período composto por coordenação e subordinação). Concordância verbal e nominal. Regência
+verbal e nominal. Colocação pronominal. Emprego dos sinais de pontuação e sua função no texto. Elementos de coesão.
+Função textual dos vocábulos. Variação linguística.
+
+Raciocínio Lógico e Matemático:  resolução de problemas envolvendo frações, conjuntos, porcentagens, sequências (com
+números, com figuras, de palavras). Raciocínio lógico-matemático: proposições, conectivos, equivalência e implicação lógica,
+argumentos válidos.
+
+Conhecimentos Pedagógicos:  Currículo, cultura, subjetividades e processos educativos; Educação, trabalho e sociedade;
+História da Educação; Processo ensino-aprendizagem e gestão pedagógica; Avaliação da aprendizagem escolar; Projeto po -
+lítico-pedagógico e planejamento de ensino; Teorias e tendências e pedagógicas.
+
+CARGO 101 – AUXILIAR ADMINISTRATIVO
+
+Conhecimentos específicos:  Comunicações oficiais: aspectos gerais da redação oficial; a redação dos atos normativos e
+comunicações; aplicação de princípios da ortografia  e de elementos da gramática à redação oficial.  Arquivologia: gestão,
+classificação  e avaliação  de  documentos; organização, planejamento, sistemas e métodos de arquivamento; arquivística  e
+informática;  legislação  arquivística.  Comportamento  organizacional:  as  pessoas,  os  grupos  e  a  dinâmica  organizacional;
+comunicação;  liderança  e  poder;  conflito  e  negociação.  Ética  geral  e  profissional:  conceitos  e  fundamentos;  relações  de
+trabalho; a responsabilidade social das empresas; assédio. Atendimento ao público: excelência e atendimento de qualidade na
+recepção  e  ao  telefone.  Introdução  à  Administração:  conceito  de  administração;  habilidades,  competências  e  papéis  do
+administrador e os processos administrativos. Administração de pessoas: conceito e processos. Redação empresarial: tipos de
+correspondências; estruturas e formas de tratamento.  Lei Nº 2360/2001 (Estatuto dos Servidores Públicos do Município da
+Serra). 
+
+CARGO 201 – AUXILIAR DE CONSULTÓRIO DENTÁRIO
+
+Conhecimentos específicos: Higiene dentária. Técnicas auxiliares de odontologia. Preparação do paciente. Instrumentação.
+Manipulação de materiais e equipamentos. Preparo e isolamento do campo preparatório. Seleção de moldeiras e confecção
+de  modelos.  Revelação  e  montagem  de  radiografias.  Conservação  e  manutenção  dos  equipamentos.  Noções  básicas  de
+controle  de  infecções:  micro-organismos,  infecções  cruzadas,  assepsia  e  antissepsia.  Desinfecção  e  esterilização  de
+materiais. Noções de anatomia oral. 
+
+CARGO 202 – TÉCNICO EM ENFERMAGEM
+
+Conhecimentos  específicos:  Código  de  Ética  em  Enfermagem.  Lei  no  7.498/1986.  Decreto  nº  94.406/1987.  Rede  de
+Atenção às Urgências e Emergências e Política Nacional de Atenção às urgências. Enfermagem no centro cirúrgico. Central
+de  material  e  esterilização,  manuseio  de  equipamentos:  autoclaves,  seladora  térmica  e  lavadora  automática  ultrassônica.
+Atuação do técnico em enfermagem durante os procedimentos anestésico-cirúrgicos. Materiais e equipamentos básicos que
+compõem as  salas  de  cirurgia  e  recuperação  anestésica.  Rotinas  de  limpeza  da  sala  de  cirurgia. Uso  de  material estéril.
+Noções de controle de infecção hospitalar. Procedimentos de enfermagem. Verificação de sinais vitais, peso e mensuração,
+oxigenoterapia, aerossol terapia e curativos. Administração de medicamentos: todas as vias. Coleta de materiais para exames.
+Enfermagem  nas  situações  de  urgência  e  emergência.  Atendimento  pré-hospitalar.  Emergências  Clínicas.  Emergências
+Traumáticas. Emergências Pediátricas. Princípios gerais de segurança no trabalho. Portaria Nº 2.048/2002: Atendimento Pré
+Hospitalar.
+
+CARGO 203 – TÉCNICO EM HIGIENE DENTÁRIA
+
+Conhecimentos específicos: As Funções do Técnico em Higiene Dental na Odontologia. Primeiros Socorros em Urgências
+Odontológicas. Controle e Prevenção de Doenças Bucais (Cárie e Doenças Periodontais). Anatomia Dental e do Periodonto.
+Características  dos  Materiais  Restauradores  Dentais,  Restaurações  Dentais  (amálgama,  ionômero  de  vidro,  resina
+restauradora  e  cimento  de  silicato).  Biossegurança  em  Odontologia,  Dieta  e  Cárie.  A  Cavidade  Bucal  (Anatomia  e
+Funcionamento).  Ergonomia  em Odontologia,  Utilização  do  Flúor  (selantes).  Fundamentos  de  Radiologia.  Oclusão  Dental.
+Relação entre a Restauração e a Periodontia. Manuseio dos Equipamentos. Desinfecção e esterilização de materiais.
+
+ Anexo II – Dos conteúdos programáticos – Edital de Abertura nº 001/2020 – Prefeitura Municipal de Serra Página 4 de 22
+
+
+
+CARGO 401 – ANALISTA DE SISTEMA - DESENVOLVIMENTO DE SISTEMAS
+
+Conhecimentos  específicos:  Linguagens  e  Técnicas  de  Programação:  Lógica  de  Programação.  Algoritmos:  técnicas  e
+desempenho. Aplicação em linguagens de programação (CSS, HTML, Javascript, Jquery, Bootstrap, Rest, Soap, C++, VB,
+Classic  Asp,  C#,  Windows  Forms,  Web  Forms,  API,  asp  net,  net  Core,  Java,  Node  JS,  React  js,  PHP).  Ambientes  com
+utilização Banco de Dados: Conceito de bancos de dados hierárquico e relacional. Modelagem conceitual, lógica e relacional
+de  banco  de  dados.  Linguagem  SQL  padrão  ANSI.  Triggers  e  Stored  procedures.  SGBDs  MS-SQL  Server,  ORACLE  e
+MYSQL.  Desenvolvimento de Sistemas: Engenharia de Software: Ciclos de Vida dos Sistemas. Análise de Ponto de função.
+Conceitos de Gerência de Projetos. Padrões de projetos. Metodologia de Desenvolvimento de Sistemas: Conhecimento das
+Metodologias: Estruturada, Modelagem UML, UI, UX. Adequação Modelo de Objetos x Modelo de Dados Relacional. Noções
+de qualidade de software e planejamento de testes. Estudo de Viabilidade de Projetos: Técnicas de entrevista e levantamento
+de  sistemas.  Segurança  da  informação  no  desenvolvimento  de  software. Integração  de  aplicações  e  Objetos  distribuídos.
+Rede e Internet.
+
+CARGO 402 – ANALISTA DE SISTEMA - INFRAESTRUTURA DE REDE
+
+Conhecimentos específicos:  Redes de computadores: Elementos de interconexão de redes de computadores (gateways,
+hubs, repetidores, bridges, switches e roteadores); tipos e meios de transmissão e de cabeamento; tecnologias de redes locais
+e  de  longa  distância  (LAN,  MAN  e  WAN);  modelo  de  referência  OSI;  redes  Locais  Virtuais  (VLAN);  arquitetura  TCP/IP:
+protocolos, segmentação e endereçamento, serviço DNS e entidades de registros; conceitos do protocolo IPv6 e roteamento
+IP na  Internet; redes  sem fio  (Wireless)  802.11a, 802.11b, 802.11g,  802.11n  e  802.11ac;  conceitos  do  MultiProtocol Label
+Switching (MPLS); conceitos dos protocolos de roteamento OSPF e BGP; voz sobre IP (VoIP); princípios e protocolos dos
+seguintes serviços: e-mail, DNS, DHCP, Web e Proxy; arquitetura cliente/servidor; configuração, gerenciamento e segurança
+de redes de computadores Windows e Linux. 2. Sistemas operacionais: Linux Debian; Linux Suse; Windows Server 2012;
+Sistemas de Arquivos: NTFS, EXT 2/3/4, LVM; conceitos básicos de computação em aglomerados (Cluster) e de computação
+em grades  (Grids);  administração  de  Servidores  Web:  Apache, Internet  Information  Service;  servidores  de  aplicação  JEE:
+visão geral das tecnologias, servidores de aplicação JBoss e Tomcat, instalação e configuração, administração, segurança,
+tunning, clusterização e mensageria; implantação de ambientes de produção e em nuvem: monitoramento, identificação de
+potenciais  problemas  e  determinação  de  causas;  tipologias  de  ambientes  com  Alta  Disponibilidade  e  Escalabilidade:
+clusterização,  balanceamento  de  carga,  fail  Over,  replicação  de  estados;  infraestrutura  de  virtualização:  VMWare,  KVM;
+subsistemas  de  armazenamento  de  dados:  SAN,  NAS,  RAID,  Multipathing,  EMC  PowerPath;  tecnologias  de  backup:
+deduplicação; compartilhamento de arquivos: CIFS, SMB e NFS; Shell Script; LDAP: Microsoft Active Directory, OpenLDAP;
+Shellscript: Script Bash, Groovy, Powershell; OpenSSL; monitoramento e auditoria; técnicas para detecção de problemas e
+otimização  de  desempenho;  information  Lifecycle  Management;  criptografia:  conceitos  básicos  e  aplicações,  protocolos
+criptográficos,  criptografia  simétrica  e  assimétrica,  principais  algoritmos;  assinatura  e  certificação  digital;  noções  sobre
+computação na nuvem (Cloud Computing); noções gerais sobre DevOps. 3. Segurança da Informação: conceitos de backup e
+recuperação de dados; vírus de computador e outros malwares (cavalos de troia, adware, spyware, backdoors, keyloggers,
+worms,  bots,  botnets,  rootkits);  ataques  em  redes  e  aplicações  corporativas:  DDoS,  DoS,  IP spoofing,  port  scan,  session
+hijacking,  buffer  overflow,  SQL Injection,  cross-site  scripting,  spear  phishing,  APT (advanced  persistent  threat);  análise  de
+protocolos/serviços: HTTP, HTTPS, SSL/TLS, SMTP, POP3, IMAP, DNS, DHCP, FTP, LDAP v.3, ICAP, NTP v4, EAP, PEAP,
+SNMP, Voz sobre IP (VOIP); segurança de redes: Firewall, sistemas de detecção e prevenção de intrusão (IDS/IPS), antivírus,
+NAT,  VPN,  Proxy,  monitoramento  e  análise  de  tráfego;  uso  de  sniffers;  traffic  shaping;  tráfego  de  dados  de  serviços  e
+programas  usados  na  Internet;  segurança  contra  ataques  e  ameaças  da  Internet  a  redes  sem  fio;  conceitos  básicos  de
+criptografia; Conceitos da ISO 27000: ISO 27001, ISO 27002, ISSO 27003, ISO 27004 e ISO 27005; políticas de segurança da
+informação; sistema de Gestão de Segurança da Informação; gestão de riscos; gestão de ativos; gestão de continuidade de
+negócio;  gerenciamento  de  incidentes  de  segurança  da  informação;  conceito  de  confidencialidade  integridade  e
+disponibilidade; cartilha de segurança para internet do CERT.BR. 4. Fundamentos de computação: organização e arquitetura
+de  computadores; componentes  de um computador  (hardware  e software); sistemas de  entrada, saída  e armazenamento;
+princípios  de  sistemas  operacionais; características  dos  principais  processadores  do  mercado;  processadores  de  múltiplos
+núcleos;  tecnologias  de  virtualização  de  plataformas:  emuladores,  máquinas  virtuais,  paravirtualização;  RAID:  tipos,
+características e aplicações; sistemas de arquivos NTFS, FAT12, FAT16, FAT32, EXT2, EXT3: características, metadados e
+organização física. 5. Sistemas de Gerenciamento de Banco de Dados: Conceitos, arquitetura, bancos de dados relacionais,
+modelo relacional: visões, gerenciamento de transações, segurança, bancos de dados distribuídos, bancos de dados orientado
+a objetos e bancos de dados relacional/objeto; projeto de bancos de dados; configuração, administração e tunning de banco
+de  dados:  MySql,  SQLServer  e  Postgres.  6.  Engenharia  de  Software:  Software:  importância,  crise,  mitos,  ciclo  de  vida.
+Arquitetura e projeto de sistemas, análise de requisitos, análise e modelagem de dados, aspectos fundamentais do projeto de
+software.  Garantia  de  qualidade,  testes,  manutenção,  gerenciamento  de  configuração.  Gerência  de  projetos:  métricas  de
+produtividade  e  qualidade,  estimativas,  análise  de  risco,  cronograma,  aquisição,  reengenharia,  requisitos  de  segurança,
+documentação,  controle  de  versões,  auditoria  do  código  fonte,  homologação,  implantação,  manutenção  e  evolução.  7.
+Fundamentos da ITIL v.3: conceitos básicos de operação de serviços, desenho de serviços, transição de serviços e melhoria
+contínua  de  serviços.  8.  Governança  de  TI  –  Cobit  4.1:  aspectos  gerais,  estrutura,  conceitos,  finalidade,  modelo  de
+maturidade,  objetivos  de  controle,  objetivos  de  negócios  e  objetivos  de  TI,  domínios  e  processos.  9.  Gerenciamento  de
+projetos de TI - PMBOK V.5: conceitos de gerenciamento de projetos, ciclo de vida de projeto, conceitos básicos e estrutura.
+10. Contratação de Soluções de TI: MPOG/SLTI IN 04/2010 (Instrução Normativa para Contratação de Soluções de Tecnologia
+da Informação).
+
+ Anexo II – Dos conteúdos programáticos – Edital de Abertura nº 001/2020 – Prefeitura Municipal de Serra Página 5 de 22
+
+
+
+CARGO 403 – ANALISTA DE SISTEMA - SEGURANÇA DA INFORMAÇÃO
+
+Conhecimentos específicos: Conceitos Básicos: Confidencialidade, integridade, disponibilidade, autenticidade.  Modelos de
+controle de acesso. Conceitos criptográficos. Segurança Física: Proteções, tecnologias de autenticação, ataques, detecção de
+intrusão.  Segurança  de  Sistemas  Operacionais:  segurança  em  processos,  memória,  sistema  de  arquivos  e  programas  de
+aplicação.  Malwares:  Conceitos  e  funcionamento  de  bombas  lógicas,  vírus,  trojans,  worms,  rootkits,  botnets,  spywares,
+adwares, keyloggers. Contramedidas. Segurança  de Redes: Segurança aplicada nas camadas: ligação, rede, transporte  e
+aplicação. Ataques de negação de serviço. Firewalls. Tunelamento. Detecção de intrusão. Segurança em redes sem fio. 6.
+Criptografia: Criptografia simétrica e assimétrica. Funções hash. Assinaturas digitais. Algoritmos AES, RSA, MD5 e SHA-1.
+Modelos de Segurança: Políticas, modelos de segurança. Padrões de segurança. Administração e auditoria. Armazenamento
+seguro. Perícia Digital: A perícia e o perito digital. Cadeia de custódia. Live forensics. Post mortem forensics. Etapas da perícia
+digital.  Sistemas  de  arquivos.  Recuperação  de  dados.   Recuperação  de  senhas.  Análise  forense  em  telefones  celulares.
+Análise de tráfego de rede. Redação do laudo pericial.  Normas de segurança da informação: ABNT NBR ISO/IEC 27001:2013
+- sistemas  de gestão da segurança  da informação – requisitos. ABNT NBR ISO/IEC  27002:2013  - código de  prática  para
+controles de segurança da informação. ABNT NBR ISO 27003: 2011 versão corrigida: 2015 - diretrizes para implantação de
+um sistema  de gestão  da  segurança  da informação. ABNT NBR  ISO  27004:2010  - gestão  da  segurança  da  informação –
+medição. ABNT NBR ISO/IEC 27005:2011 - gestão de riscos de segurança da informação.
+
+CARGO 404 – ANALISTA DE SISTEMA - NOVAS TECNOLOGIAS
+
+Conhecimentos específicos: Infra-estrutura de TI. Sistemas operacionais Windows, Linux e Unix: conceitos básicos, noções
+de  operação  e  administração.  Administração,  análise  de  performance,  inventário  e  tunning  de  sistemas  aplicativos  nos
+ambientes  de  sistemas  operacionais  com  plataformas  Windows,  Linux  e  Unix.  Infra-estruturas  de  rede  locais  e  remotas,
+protocolos de rede, tecnologias de redes locais e de inter-redes. Arquiteturas e protocolos para redes de transmissão de dados
+(LAN/MAN). Soluções de alta disponibilidade. Sistemas de gerenciamento de rede: conceitos básicos, noções de operação e
+administração.  Software  livre,  especialmente  quanto  a  ferramentas  para  monitoramento  e  diagnóstico  de  ambientes
+computacionais.  Serviços  de  rede  (correio  eletrônico,  SMTP,  DNS,  WINS,  DHCP,  FTP,  HTTP/S,  SSH,  dentre  outros).
+Arquiteturas e protocolos para redes de armazenamento de dados (SAN). Soluções de alta disponibilidade. Backup e restore
+de dados. Servidores Web e Servidores de aplicação J2EE e PHP: conceitos básicos, noções de operação e administração.
+Gerenciamento de serviços – ITIL V2/V3. Gerenciamento de servidor de versionamento de código fonte e documentação -
+SVN. Conceitos básicos, estrutura e objetivos. Implementação do gerenciamento de serviços de TI. Processos e funções de
+suporte de serviços. Processos de entrega de serviços. Processos de gerenciamento de infra-estrutura.
+
+CARGO 405 – ANALISTA DE SISTEMA - SUPORTE
+
+Conhecimentos específicos:  Aspectos Gerais de Tecnologia da Informação: Conceitos de arquitetura de software (cliente‐
+servidor,  três  camadas,  P2P,  SOA);  Tipos  de  dados  elementares  e  estruturados;  Algoritmos;  Programação  estruturada  e
+orientada a objetos; Expressões regulares; Conceito de Metadados, XML; Linguagem e ambiente de desenvolvimento DELPHI
+e JAVA (construção de programas, estrutura da linguagem, acesso a bancos de dados). Modelo de referência OSI; TCP/IP
+(modelo de referência, protocolo, endereçamento, NAT, firewall, DMZ, VPN). Conceitos de sistemas operacionais (processos e
+threads; gerência de memória; gerência e dispositivos de entrada/saída); Sistemas de Arquivos; Storage (RAID, NAS, SAN);
+Virtualização; Windows Server 2008 e Linux (administração do sistema operacional, performance e detecção de problemas).
+Conceitos de segurança da informação; Sistemas criptográficos e suas aplicações; Assinatura e certificação digital. Banco de
+Dados: Fundamentos de SGBDs; ACID; Deadlock; Controle de proteção, integridade e concorrência; Projeto e implantação de
+SGBDs  relacionais;  Modelo  Entidade Relacionamento;  Modelo  lógico  e  representação  física; Ferramentas  de  modelagem;‐
+Data  Warehouse  (conceitos, arquiteturas  e aplicações);  OLAP; Data  Mining;  Técnicas  de  modelagem e  otimização  de  DB
+multidimensionais; Banco de Dados ORACLE 10 (fundamentos, instalação, administração, configuração, tuning, replicação,
+cluster, backup e recovery, organização de arquivos e métodos de acesso, SQL, linguagens de definição (DDL), manipulação
+(DML),  controle  (DCL)  e  transação  (DTL)  de  dados,  triggers,  views,  stored  procedure,  PL/SQL);  Conceitos  de
+geoprocessamento.
+
+CARGO 406 – ARQUITETO
+
+Conhecimentos  específicos:  Urbanismo:  conceitos  gerais.  Equipamentos  e  serviços  urbanos:  necessidades,  adequação,
+tipo,  dimensionamento  e  localização.  Controle  do  uso  e  da  ocupação  do  solo.  Serviços  públicos  e  serviços  concedidos.
+Atribuição dos poderes públicos. Legislação de proteção ao patrimônio ambiental. Preservação do meio ambiente natural e
+construído.  Estrutura  urbana:  caracterização  dos  elementos,  utilização  dos  espaços,  pontos  de  referência  e  de  encontro,
+marcos. Projeto de urbanização. Metodologia e Desenvolvimento de Projetos de Arquitetura: elaboração de programa; estudos
+preliminares; anteprojeto; projeto básico; detalhamento; memorial descritivo; especificação de materiais e serviços. Projeto de
+Reforma  e  suas  convenções.  Projetos  de  Instalações  Prediais:  instalações  elétricas,  hidráulicas,  sanitárias.  Projeto  e
+Adequação dos Espaços Visando a Utilização pelo Deficiente Físico – NBR 9050. Conforto Ambiental: iluminação, ventilação,
+insolação e acústica. Topografia. Materiais e Técnicas de Construção. Noções de Resistência dos Materiais, Mecânica dos
+Solos e Estrutura. Orçamento de Obras: Estimativo e Detalhado (levantamento de quantitativos, planilhas, composições de
+custos),  Cronograma  Físico-financeiro.  Licitações  e  Contratos  Administrativos  (Lei  Federal  8.666/93  e  suas  atualizações).
+Conhecimento  de  Código  de  Obras.  Patologia  das  Edificações. Desenho  em AutoCAD  14:  menus,  comandos, aplicações.
+Vigilância sanitária do meio construído. RDC/ANVISA Nº 50/2002 e Normas Técnicas relacionadas aos ambientes de saúde ou
+de interesse à saúde.
+
+ Anexo II – Dos conteúdos programáticos – Edital de Abertura nº 001/2020 – Prefeitura Municipal de Serra Página 6 de 22
+
+
+
+CARGO 407 – ASSISTENTE SOCIAL
+
+Conhecimentos específicos: Estado e Políticas Sociais: Questões técnicas e históricas. Fundamentos Históricos e Técnicas
+Metodológicas do Assistente Social. Administração e Planejamento em Serviço Social. Ética e Trabalho Social. O Sistema de
+Proteção Social no Brasil: assistência, saúde e previdência. Atuação do Profissional de Serviço Social no Contexto da Saúde,
+na Política Nacional de Assistência Social na perspectiva do SUAS, em equipes multiprofissionais e interdisciplinares e em
+programas de prevenção e cuidado no contexto da saúde. Lei Nº 8.662/1993 – regulamenta a profissão de Assistente Social.
+Código  de  Ética  do  Profissional  Assistente  Social.  Novas  Modalidades  da  Família:  diagnóstico,  abordagem  sistêmica  e
+estratégias  de  atendimento  e  acompanhamento.  Elaboração  de  documentos  técnicos,  projetos  e  pesquisa  social.  Política
+Nacional do Idoso, Criança e do Adolescente.
+
+CARGO 408 – AUDITOR FISCAL DE TRIBUTOS MUNICIPAIS
+
+Conhecimentos específicos: CONTABILIDADE GERAL - A Escrituração Contábil; Os registros das operações típicas de
+uma empresa; A avaliação dos ativos e passivos; A elaboração das demonstrações contábeis. CONTABILIDADE PÚBLICA -
+Contabilidade Pública; Plano de Contas; Orçamento; Receita e Despesa Pública; Demonstrações Contábeis; Balanço Geral;
+Sistemas  de  Controle  Interno  e  Externo;  Gestão  Fiscal.  AUDITORIA CONTÁBIL - Normas  brasileiras  para  o  exercício  da
+auditoria interna: independência; competência profissional; âmbito do trabalho; execução do trabalho e administração do órgão
+de auditoria interna. Auditoria no setor público estadual. Finalidades e objetivos da auditoria. Abrangência de atuação. Formas
+e tipos. Normas relativas à execução dos trabalhos. Normas relativas à opinião do auditor. Relatórios, pareceres e certificados
+de auditoria. Operacionalidade. Objetivos, técnicas e procedimentos de auditoria. Planejamento dos trabalhos. Programas de
+auditoria. Papéis de trabalho. Testes de auditoria. Amostragem estatística em auditoria. Eventos ou transações subsequentes.
+Revisão  analítica.  Entrevista.  Conferência  de  cálculo.  Confirmação.  Interpretação  das  informações.  Observações.
+Procedimentos  de  auditoria  em  áreas  específicas  das  demonstrações  contábeis.  Normas  relativas  ao  Parecer.  Ética
+profissional  e  responsabilidade  legal.  Avaliação  dos  controles  internos.  Materialidade,  relevância  e  risco  em  auditoria.
+Evidência em auditoria. Função da auditoria Interna. Sistemas Página 12 de 34. de controle interno e externo e suas normas
+constitucionais  e  legais.  NOÇÕES  DE  DIREITO  PÚBLICO  E  PRIVADO -  Fontes  e  Hierarquia  da  Norma;  Estado  e
+Constituição;  Poderes  do  Estado;  A Pessoa  e  seus  Atributos;  Tipos  de  Sociedades;  Contratos;  Crimes  contra  a  ordem
+econômica;  Tributos  e  suas  espécies;  Créditos  Tributários;  Contratos  de  trabalho  em  relação  aos  empregos;  Direitos
+Trabalhistas; Conhecimentos de direito financeiro: Lei 4320/64; Conhecimentos de processos de licitação: Lei No 8666/93; Lei
+complementar  101/00  –  finanças  públicas;  Constituição  Federal  de  1988.  Imposto  Territorial  Rural  –  ITR  -  DIREITO
+TRIBUTÁRIO - 1. Sistema Tributário Nacional. Princípios gerais e princípios constitucionais tributários. Limitações ao poder de
+tributar.  Imunidades:  conceito, espécies, aspectos  objetivos  e subjetivos,  alcance,  interpretação. 2. Competência  tributária.
+Competência  tributária  da  União,  dos  Estados  e  do  Distrito  Federal,  dos  Municípios  e  do  Distrito  Federal.  Competência
+tributária  residual.  Conflito  de  competência.  3.  Tributo:  conceito,  espécies:  Impostos,  taxas,  contribuição  de  melhoria,
+empréstimo compulsório, contribuições sociais ou para fiscais. Classificação: vinculados e não vinculados. Funções: fiscal,
+extrafiscal,  para  fiscal.  4.  Da  repartição  de  receitas  tributárias.  5.  Direito  Tributário:  conceito,  natureza,  fontes,  finalidade.
+Normas  gerais  de  Direito  Tributário.  Legislação  tributária,  vigência,  aplicação,  interpretação  e  integração.  Normas
+complementares. 6. Obrigação tributária. Conceito, natureza e espécies: principal e acessória. Hipótese de incidência e seus
+elementos: pessoal, espacial, temporal, material, quantitativo. Fato gerador, alcance, efeitos. Sujeitos da obrigação tributária.
+Substituição tributária. Convenções particulares. Solidariedade. Capacidade tributária. Domicílio tributário. Responsabilidade
+tributária. Responsabilidade dos sucessores, de terceiros, dos sócios. Responsabilidade por infrações. Denúncia espontânea.
+7. Crédito tributário. Conceito e natureza. Constituição do crédito tributário. Lançamento: natureza, modalidades: declaração,
+homologação,  ofício.  Eficácia,  revisão,  arbitramento.  Suspensão  do  crédito  tributário.  Conceito.  Moratória.  Depósito.
+Reclamações e recursos. Liminar e tutela antecipada. Extinção do crédito tributário. Modalidades. Pagamento. Compensação.
+Transação.  Remissão.  Prescrição  e  decadência.  Decisão  administrativa  e  decisão  judicial.  Exclusão  do  crédito  tributário.
+Isenção  e  anistia.  Isenção  e  imunidade.  Isenção  e  não  incidência.  Isenção  e  remissão.  Garantias  e  privilégios  do  crédito
+tributário.  Fraude  à  execução.  Preferências.  8.  Sigilo  fiscal.  9.  Administração  tributária.  Fiscalização.  Certidões  negativas.
+Inscrição em Dívida Ativa: Requisitos. Dívida Ativa: Liquidez, certeza, exigibilidade, exequibilidade e legislação correlata. 10.
+Regime Jurídico dos Impostos de competência dos Municípios: Imposto Predial e Territorial Urbano, Imposto Sobre Serviços;
+Imposto de Transferência de Bens Imóveis. 11. Execução fiscal. Lei no 6.830/80 e alterações posteriores. Medida Cautelar
+Fiscal.  Lei  no  8.397/92  e  alterações  posteriores.  12.  Mandado  de  Segurança,  Ação  Anulatória,  Declaratória,  Cautelares,
+Antecipação de Tutela, Embargos e demais ações cabíveis em matéria tributária e legislações correlatas. Código Tributário do
+Município da Serra/ES - Lei nº 3833/12/2011
+
+CARGO 409 – AUDITOR PÚBLICO INTERNO – CIÊNCIAS CONTÁBEIS
+
+Conhecimentos específicos:  Orçamento Público: características do orçamento tradicional, do orçamento-programa e do
+orçamento de desempenho. Princípios orçamentários. Leis Orçamentárias: PPA, LDO, LOA. Orçamento fiscal e de seguridade
+social. Orçamento na Constituição Federal de 1988. Classificações orçamentárias. Programação e execução orçamentária e
+financeira.  Acompanhamento  da  execução.  Sistemas  de  informações.  Alterações  orçamentárias.  Créditos  ordinários  e
+adicionais Lei 101/2000. Conceituação e classificação da receita e da despesa, Receita pública: categorias, fontes e estágios.
+Dívida ativa. Despesa pública: categorias e estágios. Restos a pagar. Despesas de exercícios anteriores. Dívida flutuante e
+fundada. Suprimento de fundos. Inventários; Material permanente e de consumo. Imóveis. Execução da receita e da despesa
+orçamentária. Contabilidade  pública:  campo  de  aplicação,  objeto  e  objetivos.  Título  IX  da  Lei  n.º  4.320/1964.  Tópicos
+selecionados da Lei Complementar nº 101/2000: conceitos de dívida pública e restos a pagar, escrituração e consolidação das
+contas. NBC TSP Estrutura Conceitual, do Conselho Federal de Contabilidade. Manual de Contabilidade Aplicada ao Setor
+
+ Anexo II – Dos conteúdos programáticos – Edital de Abertura nº 001/2020 – Prefeitura Municipal de Serra Página 7 de 22
+
+
+
+Público – MCASP (8ª edição) Parte I a III – Procedimentos Contábeis Orçamentários, Patrimoniais, Específicos; Parte IV -
+Plano de Contas Aplicado ao Setor Público; Parte V - Demonstrações Contábeis Aplicadas ao Setor Público - DCASP. Análise
+das  DCASP  e  interpretação  dos  Resultados  Orçamentário,  Financeiro  e  Patrimonial.  Relatório  resumido  da  execução
+orçamentária a que se refere à Lei Complementar nº 101/2000: estrutura, composição. Relatório de gestão fiscal de acordo
+com a Lei Complementar nº 101/2000: estrutura, composição. 
+Contabilidade  de  Custos: Terminologia  aplicada  à  Contabilidade  de  Custos.  Terminologia  em  entidades  não  industriais.
+Classificação  de  custos.  Custos  diretos  e  indiretos.  Custos  fixos  e  variáveis.  Distinção  entre  custos  e  despesas.  Custos
+indiretos: alocação e determinação da base para alocação. 
+Contabilidade Geral: Deliberação CVM nº 675, de 13/12/2011: estrutura conceitual básica da Contabilidade. Diferença entre
+regime  de  competência  e  regime  de  caixa.  Informações  sobre  origem  e  aplicação  de  recursos.  Patrimônio.  Componentes
+patrimoniais: Ativo, Passivo e Situação Líquida (ou Patrimônio Líquido). Equação fundamental do Patrimônio. Fatos contábeis
+e  respectivas  variações  patrimoniais.  Conta:  conceito.  Débito,  crédito  e  saldo.  Função  e  estrutura  das  contas.  Contas
+patrimoniais e de resultado. Balancete de verificação. Apuração de resultados. Controle de estoques e do custo das vendas.
+Balanço patrimonial: obrigatoriedade e apresentação. Conteúdo dos grupos e subgrupos. Classificação das contas. Critérios
+de avaliação do Ativo e do Passivo. Avaliação de investimentos. Levantamento do Balanço de acordo com a Lei nº 6.404/1976
+(Lei  das  Sociedades  por  Ações  e  suas  alterações.  Demonstração  do  resultado  do  exercício:  estrutura,  características  e
+elaboração de acordo com a Lei nº 6.404/1976 e suas alterações. Demonstração de lucros ou prejuízos acumulados: forma de
+apresentação de acordo com a Lei nº 6.404/1976 e suas alterações. Demonstração de Mutações do Patrimônio Líquido: forma
+de apresentação de acordo com a Lei nº 6.404/1976 e suas alterações. Relatório Anual da Administração. Notas explicativas
+às demonstrações contábeis. Conselho fiscal: competência, deveres e responsabilidades, de acordo com a Lei nº 6.404/1976
+e suas alterações. Demonstração de Fluxos de Caixa: métodos direto e indireto. O orçamento público no Brasil. 
+
+CARGO 410 – AUDITOR PÚBLICO INTERNO – DIREITO
+
+Conhecimentos específicos: Direito Civil: Lei de Introdução ao Código Civil. Vigência e Eficácia da Lei. Conflitos de Leis no
+Tempo e no Espaço. Hermenêutica e Aplicação da Lei. Analogia, princípios gerais do Direito e equidade. Da Pessoa Natural:
+Da Personalidade e da Capacidade; Dos Direitos da Personalidade; Da Ausência. Da Pessoa Jurídica: Disposições Gerais;
+Classificação; Pessoa Jurídica de Direito Público e de Direito Privado; Representação e Responsabilidade. Do Domicílio. Dos
+Bens.  Das  diferentes  classes  de  bens.  Fatos  jurídicos. Negócios  Jurídicos.  Condição, Termo  e  Encargo.  Dos  Defeitos  do
+Negócio Jurídico. Da invalidade do negócio jurídico. Da Prescrição e Decadência. 
+Direito Processual Civil: Princípios Constitucionais do Processo Civil: princípio do devido processo legal e seus consectários
+lógicos:  princípios  do  contraditório,  da  ampla  defesa  e  do  juiz  natural.  Jurisdição,  ação,  pretensão  e  processo.  Noções:
+Espécies de processo e tutela jurisdicional. Atos processuais: espécies, formas, prazos e comunicações processuais. Teoria
+geral da prova. 
+Direito  Tributário: Competência  tributária.  Limitações  Constitucionais  do  poder  de  tributar.  Imunidades.  Princípios
+constitucionais  tributários.  Conceito  e  classificação  dos  Tributos.  Espécies  tributárias.  Tributos  de  competência  da  União.
+Tributos de competência dos Estados. Tributos de competência dos Municípios. Legislação tributária. Responsabilidade dos
+sucessores. Responsabilidade de terceiros; responsabilidade por infrações. Suspensão da exigibilidade do crédito tributário.
+Modalidades. Extinção do crédito tributário. Modalidades. Pagamento indevido. Exclusão do crédito tributário. Modalidades.
+Garantias e privilégios do crédito tributário. Administração tributária. Fiscalização. Dívida ativa. 
+Direito  Penal: Crimes  contra  a  Administração  Pública.  Crimes  de  responsabilidade  dos  funcionários  públicos.  Crimes  de
+Abuso de Autoridade. Enriquecimento Ilícito. Lei de Improbidade. Crimes contra a Ordem Tributária. Crimes contra o Sistema
+Financeiro.
+Direito  Constitucional:  Constituição: conceito,  conteúdo,  estrutura  e  classificação;  interpretação  e  aplicação  das  normas
+constitucionais.  Poder  constituinte;  Emenda  à  Constituição.  Hierarquia  das  normas  jurídicas.  Princípio  da  supremacia  da
+Constituição. Controle de constitucionalidade: difuso e concentrado. Conceitos do Estado e de Nação. Elementos constitutivos
+do  Estado. Formas  de Estado, Formas de Governo. Organização do  Estado  Brasileiro: divisão  espacial do  poder. Estado
+Federal. União. Estados Federados. Municípios: criação, competência e autonomia. Repartição de competências. Sistema
+Tributário Nacional. Princípios gerais da administração pública. Servidores públicos. Poder Legislativo. Estrutura e funções.
+Organização,  funcionamento  atribuições.  Processo  legislativo.  Fiscalização  contábil,  financeira  e  orçamentária.  Poder
+Executivo:  atribuições  e  responsabilidades.  Estrutura  e  funções.  Crimes  de  responsabilidade.  Poder  Judiciário:  jurisdição,
+organização,  competência  e  funções. Súmulas  Vinculantes. Tribunal de  Contas: Natureza  jurídica, funções  e  eficácia  das
+decisões. Revisão das decisões do Tribunal de Contas pelo Poder Judiciário. Competência do Tribunal de Contas: apreciação
+da  constitucionalidade  de  leis,  revisão  dos  próprios  atos,  autogoverno  e  normativa.  Finanças  Públicas.  Normas  gerais.
+Orçamento Público. Direitos e garantias fundamentais. Habeas corpus, habeas data, mandado de segurança, mandado de
+injunção, Ação Civil Pública e Ação Popular. Ordem econômica e financeira. Lei Orgânica Municipal.
+Direito Administrativo: Princípios da Administração. Administração direta e indireta, centralizada e descentralizada. Poderes
+da Administração. Terceiro Setor. Organizações Sociais, Organizações da Sociedade Civil de Interesse Público. Consórcios
+Públicos.  Ato  administrativo:  conceito;  requisitos;  atributos;  classificação;  espécies;  discricionariedade  e  vinculação;
+invalidação;  anulação;  revogação;  prescrição;  cassação  e  revalidação.  Servidores  Públicos:  Normas  constitucionais
+concernentes aos servidores públicos. Regimes jurídicos funcionais: único, estatutário, e de emprego público. Cargo público.
+Concurso público. Processo administrativo: conceito, princípios, fases e modalidades. Serviços públicos: conceito; elementos
+de definição; regime jurídico; titularidade e competência; classificação; regulamentação; formas; delegação da exploração a
+particulares;  permissão  e  concessão  de  serviço  público.  Parcerias  Público  Privadas.  Controle  da  Administração  Pública:
+controle administrativo; controle legislativo e controle judiciário. Responsabilidade extracontratual da Administração pública.
+Estatuto  dos  Servidores  Públicos  do  Município  da  Serra.  Licitações  e  Contratos.  Convênios.  Tratamento  diferenciado  e
+favorecido às microempresas e empresas de pequeno porte. Pregão: presencial e eletrônico. Sistema de Registro de Preços.
+Lei n.º 13.019/ 2014 – Estabelece regime jurídico de parcerias entre a administração pública e as organizações da sociedade
+civil. Lei n.º  12.527/2011  –  Lei de  Acesso  à  Informação. Lei n.º  13.460/2017  –  Código  de  Defesa  do  Usuário  do  Serviço
+
+ Anexo II – Dos conteúdos programáticos – Edital de Abertura nº 001/2020 – Prefeitura Municipal de Serra Página 8 de 22
+
+
+
+Público. Lei n.º 12.846/2013 – Lei Anticorrupção.
+
+CARGO 411 – AUDITOR PÚBLICO INTERNO – ECONOMIA
+
+Conhecimentos  específicos:  Análise  Microeconômica:  determinação  das  curvas  de  procura;  curvas  de  indiferença;
+equilíbrio  do  consumidor;  efeitos  preço,  renda  e  substituição;  elasticidade  da  procura;  fatores  de  produção;  produtividade
+média e marginal; lei dos rendimentos decrescentes e Rendimentos de Escala; custos de produção no curto e longo prazo;
+custos  totais, médios  e  marginais,  fixos  e  variáveis.  Estrutura  de  Mercado: concorrência  perfeita, concorrência  imperfeita,
+monopólio,  oligopólio;  dinâmica  de  determinação  de  preços  e  margem  de  lucro;  padrão  de  concorrência;  análise  de
+competitividade;  2.  Análise  Macroeconômica:  Identidades  macroeconômicas  básicas.  Contas  Nacionais  no  Brasil.
+Agregados Monetários. A teoria Keynesiana.. Políticas Fiscais e Monetárias anticíclicas. Conceito de Déficit e Dívida Pública.
+Financiamento do déficit público no Brasil. A oferta e demanda agregada Relação entre taxas de juros e inflação. Relação
+entre  salários,  inflação  e  desemprego.  Papel  do  Governo  na  economia:  estabilização  econômica,  promoção  do
+desenvolvimento e redistribuição de renda. O Balanço de Pagamentos. Organismos Internacionais: FMI, BIRD, BID
+ Economia do Setor Público: conceito de bem público; funções governamentais; princípios gerais de tributação; tendências
+gerais  da  evolução  do  gasto  público  no  mundo.  Conceitos  básicos  da  contabilidade  fiscal:  NFSP,  conceitos  nominais  e
+operacionais e resultado primário. Noção de sustentabilidade do endividamento público.
+Economia Brasileira:  Economia Brasileira contemporânea: os planos de estabilização – Cruzado; Bresser, Verão, Collor e
+Real.  Reformas  estruturais  da  década  de  90.  Economia  brasileira  no  pós-Plano  Real:  concepções,  principais  problemas,
+conquistas e desafios. O ajuste de 1999. O regime de metas de inflação. Evolução do déficit e da dívida pública no Brasil a
+partir dos anos 80. Instrumentos de financiamento do setor público e Parcerias Público-Privadas (PPP).
+Desenvolvimento Econômico e Social: Transformações do papel do Estado nas sociedades contemporâneas e no Brasil,
+Indicadores Sociais. O Índice de Desenvolvimento Humano e o IDHM. O papel das principais agências de fomento no Brasil
+(BNDES, Banco do Brasil, Caixa Econômica Federal).. 6. Lei Complementar n.° 101/2000 (Lei de responsabilidade na gestão
+fiscal).  7.  Lei  Federal  n.°  4.320/64  e  suas  alterações  (estabelece  normas  gerais  de  Direito  Financeiro  para  elaboração  e
+controle dos orçamentos e balanço da União, dos Estados, dos Municípios e do Distrito Federal).
+Estatística descritiva e análise  exploratória de dados:  Conceitos fundamentais, tipos de variáveis, tabelas estatísticas,
+representação gráfica (gráfico de setores, barras, colunas, linhas; barras, colunas e linhas múltiplas; colunas e barras 100%
+empilhadas), distribuições de frequências, medidas de tendência central e de dispersão: média, mediana, moda, variância,
+desvio padrão, coeficiente de variação, valores atípicos, histogramas, boxplot e ramo e folhas. 
+Cálculo de Probabilidades:  definições básicas e axiomas, probabilidade condicional e independência, variáveis aleatórias
+discretas e contínuas, função de distribuição, função de probabilidade, função de densidade de probabilidade
+Técnicas  de  Amostragem:  Conceitos  fundamentais,  cálculo  do  tamanho  amostral,  amostragem  aleatória  simples,
+amostragem estratificada, amostragem sistemática, amostragem por conglomerados, principais instrumentos de captação de
+dados (com ênfase ao questionário) e os cuidados quando da sua elaboração. 
+Indicadores:  Conceito  e construção os indicadores; Números índices de preço e quantidade, nas modalidades simples e
+agregados.
+
+CARGO 412 – AUDITOR PÚBLICO INTERNO – ENGENHARIA CIVIL
+
+Conhecimentos específicos: Engenharia Civil: Construção civil. Planialtimetria. Infraestrutura territorial. Sistemas, métodos
+e  processos  de  construção  civil.  Edificações.  Terraplenagem.  Rodovias.  Tecnologia  dos  materiais  de  construção  civil.
+Patologia das construções. Recuperação das construções. Equipamentos, dispositivos e componentes (hidrossanitários, de
+gás, de prevenção e combate a incêndio). Instalações. Barragens de terra. Controles tecnológicos. Geotecnia. Transportes:
+Infraestrutura  viária  (rodovias,  ferrovias,  metrovias,  aerovias,  hidrovias).  Sistemas  e  métodos  viários.  Operação.  Tráfego.
+Serviço de transporte. Técnica e economia dos transportes. Trânsito. Sinalização. Logística. Saneamento Básico: Hidráulica
+e  hidrologia  aplicadas  ao  saneamento.  Sistemas,  métodos  e  processos  de  abastecimento,  tratamento,  preservação  e
+distribuição  de  águas.  Sistemas,  métodos  e  processos  de  saneamento  urbano  e  rural.  Avaliação  de  imóveis  urbanos.
+Licitações  e  contratos:  Legislação  específica  para  obras  de  engenharia  civil.  Lei  nº  8.666/1993  e  alterações.  Perícia  e
+elaboração  de  relatórios  técnicos,  pareceres  e  laudos  periciais.  Princípios  de  planejamento  e  de  orçamento  público.
+Elaboração de orçamentos. Engenharia de segurança do trabalho. Proteção ao meio ambiente, proteção contra incêndio e
+explosões,  legislação  e  normas  regulamentadoras  (NR)  do  Ministério  do  Trabalho.  Informática  e  programas
+computacionais de engenharia:  CAD, Excel e programas computacionais usuais para projetos de engenharia. Legislação
+profissional  pertinente  (sistema  CONFEA-CREA).  Noções  de  Fiscalização  de  Obras  Civis,  Rodoviárias  e  Hídricas:
+Especificação de materiais: características físicas.  Especificação de serviços: terraplanagem (corte, aterros, bota-fora etc.);
+pavimentação  (reforço  do  subleito,  sub-base,  base  e  revestimento  asfáltico);  drenagem;  fundações  (incluindo  análise  de
+sondagens);  obras  estruturais  (concreto  armado,  estruturas  metálicas  etc.,  incluindo  coberturas);  obras  de  arte  especiais;
+barragens;  soleiras;  órgãos  extravasores;  tomadas  de  água;  canais;  condutos  sob  pressão;  túneis;  bueiros;  principais
+equipamentos  utilizados.  Sistema  de  custos  rodoviários  29  do  DNIT  (SICRO):  metodologia  e  conceitos,  produtividade  e
+equipamentos.  Sistema  de  custos  SINAPI:  metodologia  e  conceitos,  produtividade  e  equipamentos.  Fiscalização:
+acompanhamento  da  aplicação  de  recursos  (medições,  cálculos  de  reajustamento,  emissão  de  fatura  etc.),  análise  e
+interpretação  de  documentação  técnica  (editais,  contratos,  aditivos  contratuais,  cadernos  de  encargos,  projetos,  diário  de
+obras etc.). Análise orçamentária: orçamento sintético e analítico, composição de custos unitários, quantificação de materiais
+e  serviços, cronogramas  físico  e  físico-financeiro,  benefícios  e  despesas  indiretas  (BDI), encargos  sociais,  curva  ABC  de
+serviços e de insumos.
+
+ Anexo II – Dos conteúdos programáticos – Edital de Abertura nº 001/2020 – Prefeitura Municipal de Serra Página 9 de 22
+
+
+
+CARGO 413 – AUDITOR PÚBLICO INTERNO – TECNOLOGIA DA INFORMAÇÃO
+
+Conhecimentos específicos: Segurança da informação: 1 Gestão de segurança da informação. 1.1 Normas NBR ISO/IEC
+27001 e 27002. 2 Gestão de riscos e continuidade de negócio. 2.1 Normas NBR ISO/IEC 15999 e 27005. 3 Gerenciamento
+de projetos. 3.1 Projetos e a organização. 3.2 Escritórios de projetos: modelos e características. 3.3 Processos, grupos de
+processos e áreas de conhecimento. 4 Gerenciamento de serviços – ITIL v3. 4.1 Conceitos básicos e objetivos. 4.2 Processos
+e funções de estratégia, desenho, transição e operação de serviços. 5 Governança de TI – COBIT 4.1. 5.1 Conceitos básicos
+e objetivos. 5.2 Requisitos da informação. 5.3 Recursos de tecnologia da informação. 5.4 Domínios, processos e objetivos de
+controle. 6 Qualidade de software – CMMI 1.2. 6.1 Conceitos básicos e objetivos. 6.2 Disciplinas e formas de representação.
+6.3 Níveis de capacidade e maturidade. 6.4 Processos e categorias de processos.  Gestão e governança de ti: 1 Gestão
+estratégica. 1.1 Planejamento estratégico de negócio. 1.2 planejamento estratégico de TI. 1.3 Alinhamento estratégico entre TI
+e  negócio.  2  Gerenciamento  de  projetos  (PMBOK  4).  2.1Conceitos  básicos,  estrutura  e  objetivos.  2.2  Projetos  e  a
+organização.  2.3  Ciclo  de  vida  de  projeto  e  ciclo  de  vida  do  produto.  2.4  Processos,  grupos  de  processos  e  áreas  de
+conhecimento.  3  30  Gerenciamento  de  serviços  (ITIL  v3).  3.1  Conceitos  básicos,  estrutura  e  objetivos.  3.2Processos  e
+funções  de  estratégia,  desenho,  transição  e  operação  de  serviços.  4  Governança  de  TI  (COBIT).  4.1Conceitos  básicos,
+estrutura  e  objetivos.  4.2Requisitos  da  informação.  4.3Recursos  de  tecnologia  da  informação.  4.4Domínios,  processos  e
+objetivos de controle. 5 Qualidade de software (CMMI). 5.1Conceitos básicos, estrutura e objetivos. 5.2Disciplinas e formas de
+representação. 5.3Níveis de capacidade e maturidade. 5.4Processos e categorias de processos. 
+Engenharia de software: 1 Gerenciamento de processos de negócio. 1.1 Modelagem de processos. 1.2 Técnicas de análise
+de processo. 1.3 Desenho e melhoria de processos. 1.4 Integração de processos. 2 Engenharia de requisitos. 2.1 Conceitos
+básicos.  2.2  Técnicas  de  elicitação  de  requisitos.  2.3  Gerenciamento  de  requisitos.  2.4  Especificação  de  requisitos.  2.5
+Técnicas de validação de requisitos. 2.6 Prototipação. 3 Engenharia de usabilidade. 3.1 Conceitos básicos e aplicações. 3.2
+Critérios,  recomendações  e  guias  de  estilo.  3.3  Análise  de  requisitos  de  usabilidade.  3.4  Métodos  para  avaliação  de
+usabilidade. 4 Engenharia de software. 4.1 Ciclo de vida do software. 4.2 Metodologias de desenvolvimento de software. 4.3
+Processo unificado: disciplinas, fases, papéis e atividades. 4.4 Metodologias ágeis. 4.5 Métricas e estimativas de software. 4.6
+Qualidade de software. 5 Análise e projeto orientados a objetos. 5.1 UML 2.2: visão geral, modelos e diagramas. 5.2 Padrões
+de  projeto.  5.3  Arquitetura  em  três  camadas.  5.4  Arquitetura  orientada  a  serviços.  6  Análise  por  pontos  de  função.  6.1
+Conceitos básicos e aplicações. 6.2 Contagem em projetos de desenvolvimento: IFPUG e Nesma. 6.3 Contagem em projetos
+de manutenção: IFPUG, Nesma e uso de deflatores. 
+Desenvolvimento  de  sistemas: 1  Orientação  a  objetos:  conceitos.  2  Desenvolvimento  de  sistemas  utilizando  o  .NET
+Framework 4.0, na linguagem C#, .NET Framework: Classes, Interfaces, Structures, Enums, Collections; Garbage Collection;
+Exception Handling. 2.1 Aplicações Web: Angular, PHP, ASP.NET; controles de validação, web.config, Forms Authentication,
+Acesso a dados (ADO.NET, LINQ), ORM – Object-Relational Mapping, Padrão MVC. 3 Interoperabilidade de sistemas. 3.1
+SOA e Web Services. 3.2 Padrões XML, XSLT, UDDI, WSDL e Soap. 4 HTML5, Java cript, CSS, AJAX e Jquery. 5 Segurança
+no desenvolvimento. 5.1 Práticas de programação segura e revisão de código, Design Patterns. 5.2 Controles e testes de
+segurança para aplicações web. 5.3 Controles e testes de segurança para Web Services. 6 Bancos de dados (foco em SQL
+Server 2005/2008). 6.1 Técnicas de análise de desempenho e otimização de consultas SQL. 7 Sistemas de suporte a decisão
+e  gestão  de  conteúdo.  7.1  Arquitetura  e  aplicações  de  data  warehousing,  ETL  e  Olap.  7.2  Técnicas  de  modelagem  e
+otimização de bases de dados multidimensionais. 7.3 Portais corporativos: arquitetura da informação, RSS. 
+Infraestrutura de ti: 1 Redes de computadores. 1.1 Endereçamento e protocolos da família TCP/IP. 1.2 Gerenciamento de
+redes TCP/IP: Arquitetura de gerenciamento, SMI, SNMP e MIB. 1.3 Redes de longa distância: MPLS. 1.4 Redes sem fio:
+padrões 802.11, protocolos 802.1x, EAP, WEP, WPA e WPA2. 2 Segurança em redes de computadores. 2.1 Prevenção e
+tratamento  de  incidentes.  2.2  Dispositivos  de  segurança: firewalls,  IDS,  IPS,  proxies,  NAT e  VPN.  2.3  Tipos  de  ataques:
+spoofing,  flood,  DoS,  DDoS,  phishing.  2.4  Malwares:  vírus  de  computador,  cavalo  de  tróia,  adware,  spyware,  backdoors,
+keylogger, worms. 3 Criptografia. 3.1 Conceitos básicos e aplicações. 3.2 Protocolos criptográficos. 3.3 Criptografia simétrica
+e assimétrica. 3.4 Principais algoritmos. 3.5 Assinatura e certificação digital. 4 Sistemas operacionais Windows e Linux. 4.1
+Conceitos básicos. 4.2 Noções de administração. 4.3 Serviços de diretório: Active Directory e LDAP. 4.4 Interoperabilidade.
+4.5 Cloud Computing. 4.6 Virtualização. 5 Sistemas gerenciadores de bancos de dados (foco em SQL Server 2005/2008). 5.1
+Conceitos básicos. 5.2 Noções de administração. 5.3 Topologia típica de ambientes com alta disponibilidade e escalabilidade,
+espelhamento  e  replicação  de  banco  de  dados,  interoperabilidade  do  SGBD  SQL  Server  com  outros  SGDB.  5.4
+Balanceamento de  carga, fail-over e  replicação de estado. 5.5  Técnicas para detecção de problemas e 31 otimização  de
+desempenho. 6 Tecnologias e arquitetura de Datacenter. 6.1 Conceitos básicos. 6.2 Serviços de armazenamento, padrões de
+disco  e  de  interfaces.  6.3  RAID.  6.4  Tecnologias  de  armazenamento  DAS,  NAS  e  SAN.  6.5  Tecnologias  de  backup.  6.6
+Deduplicação. 6.7 ILM – Information Lifecycle Management. 7 Administração de Web Servers. 
+
+CARGO 414 – BIBLIOTECÁRIO
+
+Conhecimentos específicos:  Documentação e informação: conceito, desenvolvimento e estrutura da documentação geral.
+Fontes institucionais: centros, serviços e sistemas de documentação. Catalogação. Registros catalográficos: terminologia e
+campos. Instrumentos e aplicação de normas vigentes de catalogação descritiva e de escolha e formas de entrada. O Código
+de Catalogação Anglo-Americano, 2.ª ed. revista (CCAA/AACR2); cabeçalhos de assunto; tesauros; classificação: conceitos
+fundamentais.  A CDU  (Classificação  decimal  universal).  Indexação:  conceituação,  fundamentos  teóricos,  características  e
+funções da indexação. Tipologia da indexação e dos índices. Instrumentos e métodos de controle terminológico. As linguagens
+documentárias  utilizadas  na  indexação.  Serviço  de  referência;  técnicas  de  busca,  intercâmbio;  utilização  de  fontes
+convencionais e não-convencionais de apoio à referência. Serviços de alerta e disseminação da informação. Marketing dos
+serviços de informação. Estudo de comunidade e de usuário. Marketing em bibliotecas públicas. As Leis de Ranganathan.
+Redes de informação e transferência de dados. Sistemas de informação cooperativos. Redes de bibliotecas. Automação de
+sistemas de informação. Bases de dados bibliográficas. Interfaces e formatos de intercâmbio de informação; Formato MARC;
+
+ Anexo II – Dos conteúdos programáticos – Edital de Abertura nº 001/2020 – Prefeitura Municipal de Serra Página 10 de 22
+
+
+
+Protocolo Z39.50 (ISO 23950).  Organização e administração de bibliotecas: princípios básicos. Planejamento: instrumentos,
+metodologias e indicadores de resultados. Bibliografia: conceituação, teorias, classificação, histórico e objetivos. Organismos
+internacionais de documentação. Identificação e conhecimento das principais fontes gerais de informação nos diversos tipos
+de suporte. Formação e desenvolvimento de coleções: tipologia, fatores e critérios que afetam o desenvolvimento de coleções.
+Uso e avaliação de acervos. Acessibilidade.
+
+CARGO 415 – BIÓLOGO
+
+Conhecimentos específicos:  Taxonomia: caracterização geral dos seres vivos. Classificação: reinos da natureza. Ecologia:
+ecossistemas, biociclo, talassociclo, limnociclo, epinociclo; dinâmica de populações; ciclos biogeoquímicos; poluição e seus
+efeitos:  tipos  de  poluição,  Bioindicadores  de  poluição;  fluxo  de  energia;  relações  ecológicas;  eutrofização  e  seus  efeitos;
+sucessão  ecológica;  biomas  brasileiros;  fatores  bióticos  e  abióticos.  Endemias;  endemias  importantes  do  Brasil;  principais
+verminoses; protozooses  e  bacterioses  brasileiras. Genética;  genética  de  melhoramentos;  trangênicos; clonagem; genoma
+humano;  geneterapia  humana.  Evolução;  fatores  evolutivos.  Biologia  celular;  proteínas;  ácidos  nucleicos;.bioenergética
+[fotossíntese  -  respiração  celular  -  fermentação].  Botânica;  diversidade  e  reprodução;  sistemática  vegetal;  DSTs:  doenças
+sexualmente  transmissíveis.  Saúde  pública;  mortalidade  infantil  e  suas  causas;  lixo;  ambiente;  sociedade  e  educação.
+Experiências  laboratoriais  com  o  emprego  de  técnicas  diversas.  Cultivo  de  plantas  e  animais  em  laboratório  com  fins
+experimentais. 
+
+CARGO 416 – CIRURGIÃO DENTISTA/BUCOMAXILO
+
+Conhecimentos  específicos:  Atendimento  de  pacientes  na  clínica.  História  da  doença:  história  médica  e  odontológica,
+exames gerais e específicos, imunologia. Regulamentação das normas de Biossegurança em odontologia. Ética odontológica
+e  legislação. Anatomia  buco-maxilo-facial.  Imaginologia  facial.  Estomatologia.  Farmacologia.  Emergências  médicas  em
+odontologia. Anestesiologia em odontologia. Princípios de cirurgia e técnica operatória. Plano Cirúrgico. Cirurgia oral menor.
+Cirurgia e traumatologia buco-maxilo-facial. Complicações Cirúrgicas. 
+
+CARGO 417 – CIRURGIÃO DENTISTA/CLÍNICO GERAL
+
+Conhecimentos  específicos:  Atendimento  de  pacientes  na  clínica.  História  da  doença:  história  médica  e  odontológica,
+exames gerais e específicos, imunologia. Regulamentação das normas de Biossegurança em odontologia. Ética odontológica
+e  legislação.  Odontologia  social:  caracterização,  métodos  de  prevenção,  tratamentos  dos  principais  problemas,  índices.
+Farmacologia e terapêutica: mecanismos básicos de ação das drogas, efeitos sobre o sistema nervoso, psicofarmacologia.
+Anestesiologia:  dor,  sedação,  anestesia  local  e  geral.  Complicações  Anestésicas.  Procedimentos  odontológicos:  preparos
+cavitários,  cirurgia  e  traumatologia  buco-maxilo-facial,  periodontia,  radiologia.  Endodontia,  prótese,  oclusão.  Prevenção  da
+cárie  dentária  e  das  periodontopatias.  Afecções.  Anestásicos.  Exames  laboratoriais  e  radiológicos.  Restaurações.  Noções
+Básicas  em  Odontopediatria.  Microbiologia  e  patologia  oral:  principais  manifestações.  Dentística.  Halitose.  Controle  de
+infecções e a prática odontológica (infecções cruzadas, controle e biosegurança). Interações medicamentosas. Uso na clínica
+odontológica. A psicologia da dor, aspectos de interesse do cirurgião dentista. Aplicação dos fluoretos na clínica restauradora.
+Importância de anamnese para diagnóstico, prognóstico e tratamento das enfermidades da cavidade bucal. Odontologia legal
+e deodontologia. Perícia odonto administrativa. Conhecer, aplicar e manter-se atualizado em relação a legislação sanitária.
+
+CARGO 418 – CIRURGIÃO DENTISTA/ENDODONTISTA
+
+Conhecimentos  específicos:  Atendimento  de  pacientes  na  clínica.  História  da  doença:  história  médica  e  odontológica,
+exames gerais e específicos, imunologia. Regulamentação das normas de Biossegurança em odontologia. Ética odontológica
+e legislação. Execução do diagnóstico e tratamentos endodônticos em dentes unirradiculares e birradiculares. Execução de
+retratamentos  endodônticos.  Remoção  de  núcleos  intrarradiculares.  Treinamento  e  controle  de  contaminação  e  infecção
+durante o procedimento clínico. Indicação de casos para tratamento endodôntico complementar. Noções para o atendimento
+de urgência de dentes traumatizados. Tratamento de perfurações radiculares (casos mais simples). Técnicas aplicadas na
+clínica endodôntica para casos mais complexos e que abrangem fase cirúrgica. Tratamento para elementos com ápice aberto.
+
+CARGO 419 – CIRURGIÃO DENTISTA/ODONTOPEDIATRIA
+
+Conhecimentos  específicos:  Atendimento  de  pacientes  na  clínica.  História  da  doença:  história  médica  e  odontológica,
+exames gerais e específicos, imunologia. Regulamentação das normas de Biossegurança em odontologia. Ética odontológica
+e  legislação.  Crescimento  e  desenvolvimento.  Patologia  bucal  na  infância  e  adolescência.  Ortodontia  preventiva  e
+interceptativa.  Patogênese  e  prevenção  da  doença  cárie  e  doença  periodontal.  Adaptação  comportamental  -  manejo  da
+criança.  Odontologia  restauradora  -  tratamento  das  lesões  de  cárie.  Terapia  pulpar  em  odontopediatria.  Traumatismos  na
+dentição  decídua.  Cirurgia  bucal  pediátrica.  Desenvolvimento  da  oclusão  no  bebê  e  na  infância.  Odontologia  para  bebês.
+Radiologia aplicada à primeira infância. Urgências odontológicas na clínica geral odontológica. Política Nacional de Saúde
+Bucal. Conhecer, aplicar e manter-se atualizado em relação a legislação sanitária.
+
+CARGO 420 – CIRURGIÃO DENTISTA/PACIENTES COM NECESSIDADES ESPECIAIS
+
+Conhecimentos  específicos:  Atendimento  de  pacientes  na  clínica.  História  da  doença:  história  médica  e  odontológica,
+exames gerais e específicos, imunologia. Regulamentação das normas de Biossegurança em odontologia. Ética odontológica
+e  legislação. Conhecimentos  básicos  de  Clínico  Geral  e  Odontopediatria. Conceito  e  classificação  dos  pacientes  com
+
+ Anexo II – Dos conteúdos programáticos – Edital de Abertura nº 001/2020 – Prefeitura Municipal de Serra Página 11 de 22
+
+
+
+necessidades  especiais.  Genética  clínica  e  aplicada.  Deficiências  sensoriais.  Deficiência  mental.  Paralisia  cerebral  e
+deficiências  neuromotoras.  Cardiopatias.  Coagulopatias.  Pacientes  oncológicos.  Doenças  endócrino-metabólicas.  Exames
+laboratoriais e de imagem complementares. Terapêutica medicamentosa. Odontologia preventiva aplicada aos pacientes com
+necessidades  especiais.  Atendimento  do  paciente  especial  no  consultório.  Sedação  e  anestesia  geral.  Pacientes  com
+indicação de internação hospitalar.
+
+CARGO 421 – CIRURGIÃO DENTISTA/PERIODONTISTA
+
+Conhecimentos  específicos:  Atendimento  de  pacientes  na  clínica.  História  da  doença:  história  médica  e  odontológica,
+exames gerais e específicos, imunologia. Regulamentação das normas de Biossegurança em odontologia. Ética odontológica
+e legislação. Anatomia e histofisiologia do periodonto: periodonto de proteção; periodonto de inserção e aspectos radiográficos
+dos dentes  e estruturas  de suporte. Epidemiologia: doença periodontal como problema de saúde  pública; identificação da
+doença periodontal; mortalidade dental no Brasil, América Latina e outras regiões. Etiologia da doença periodontal: fatores
+locais, fatores predisponentes; fatores iatrogênicos; influências sistêmicas e fatores modificadores. Histopatologia periodontal:
+classificação  das  doenças  periodontais,  doenças  crônicas,  doenças  agudas  e  lesões  traumáticas.  Semiologia  Periodontal:
+características de normalidade e anormalidade; exame clínico, exame radiográfico e exame de oclusão. Plano de tratamento
+periodontal: procedimentos básicos; cirurgias gengivais e mucogengivais. Controle e manutenção: medidas realizadas pelo
+profissional e medidas realizadas pelo paciente. Interrelação da Periodontia com outras especialidades: Dentística, Prótese,
+Endodontia  e  outras.  Noções  gerais  sobre  implantes  dentários.  Instrumental,  utilização  e  afiação:  raspagem  e  alisamento
+coronorradicular, índice de placa, técnica de escovação, motivação do paciente, ficha clínica e exame clínico. Execução dos
+procedimentos: raspagem e alisamento coronorradicular, higiene e fisioterapia bucal, cirurgias gengivais e periodontais.
+
+CARGO 422 – CIRURGIÃO DENTISTA/PROTESISTA
+
+Conhecimentos  específicos: Atendimento  de  pacientes  na  clínica.  História  da  doença:  história  médica  e  odontológica,
+exames gerais e específicos, imunologia. Regulamentação das normas de Biossegurança em odontologia. Ética odontológica
+e  legislação.  Oclusão:  anatomia  do  sistema  mastigatório  e  biomecânica,  relação  central,  guia  anterior,  dimensão  vertical,
+estabilidade oclusal, oclusão funcional, determinantes da morfologia oclusal, aparelhos oclusais, terapias oclusais, parafunção.
+Prótese  fixa:  exame,  planejamento,  moldagem  -  técnica  e  materiais,  provisórios,  núcleos  metálicos  e  pré-fabricados,
+remontagem,  personalização  da  mesa  do  A.S.A.,  infraestrutura,  soldagem,  cimentação.  Prótese  total:  exame  do  paciente,
+anatomia e fisiologia em relação à construção de dentadura, moldagens, relações intermaxilares, ajuste estético e funcional,
+articuladores  e  arco  facial,  montagem  de  dentes,  prótese  total  imediata,  fase  laboratorial.  Prótese  parcial  removível:
+indicações,  elementos  constituintes,  classificações,  delineador  e  delineamento,  moldagem,  preparo  prévio,  regras  para
+planejamento de classes I, II, III e IV de Kennedy, prova do metal, moldagem funcional, instalação e controle posterior. Prótese
+sobre implantes: noções de prótese sobre implante, modalidades de tratamento, indicação e contra indicação, componentes
+da prótese sobre implante.
+
+CARGO 423 – CONTADOR
+
+Conhecimentos  específicos:  1.  Contabilidade  Geral.  1.1  Teoria  da  Contabilidade.  1.1.1.  Conceito.  1.1.2.  Objetivo.  1.1.3.
+Objeto. 1.1.2. Técnicas da contabilidade. 1.1.3. CPC 00 (R1) - Estrutura Conceitual para Elaboração e Divulgação de Relatório
+Contábil-Financeiro.  1.2.  Patrimônio.  1.2.1.  Componentes  patrimoniais  (ativo,  passivo  e  patrimônio  líquido).  1.3.  Fatos
+contábeis e respectivas variações patrimoniais. 1.4. Contas patrimoniais e de resultado. 1.4.1. Apuração de resultados. 1.4.2.
+Plano de contas. 1.5. Funções e estrutura das contas e Classificação das contas. 1.6. Regime de competência e regime de
+caixa.  1.7.  Escrituração  Contábil.  Balancete  de  Verificação.  1.8.  Operações  com  Mercadorias.  1.9.  Estoques.  1.10.
+Depreciação. 1.10.1. Amortização. 1.10.2. Exaustão. 1.10.3. Redução ao valor recuperável de ativos. 1.11. Ativos intangíveis.
+1.12. Análise econômico-financeira. 1.12.1. Indicadores de liquidez. 1.12.2. Indicadores de rentabilidade. 1.12.3. Indicadores
+de  lucratividade.  Análise  vertical  e  horizontal.  1.13.  Avaliação  e  contabilização  de  itens  patrimoniais  e  de  resultado  de
+investimentos societários de acordo com a lei 6.404/76 e suas atualizações. 1.14. Elaboração de demonstrações contábeis: de
+acordo a legislação societária e pelos pronunciamentos contábeis do Comitê de Pronunciamentos Contábeis (CPC): Balanço
+patrimonial.  1.14.1.  Demonstração  do  resultado  do  exercício.  1.14.2.  Demonstração  do  Resultado  Abrangente.  1.14.3.
+Demonstração das Mutações do Patrimônio Líquido. 1.14.4. Demonstração do fluxo de caixa. 1.14.5. Demonstração do valor
+adicionado.  1.14.6.  Notas  Explicativas  as  demonstrações  contábeis.  1.15.  Normas  Brasileiras  de  Contabilidade  (NBC´s)
+emitidas pelo Conselho Federal de Contabilidade (CFC). 1.16. Lei n. 6.404, de 15 de dezembro de 1976 e suas atualizações.
+1.17. Pronunciamentos - Comitê de Pronunciamentos Contábeis. 2. Contabilidade Aplicada ao Setor Público. 2.1. Conceito.
+2.1.1.  Campo  de  Aplicação.  2.1.2.  Norma  Brasileira  de  Contabilidade  Aplicada  ao  Setor  Público  (NBC  TSP)  –  Estrutura
+Conceitual. 2.2 Regimes Contábeis: Orçamentário e Patrimonial. 2.3. Normas Brasileira de Contabilidade Aplicadas ao Setor
+Público – NBC – T 16.6 a 16.11. 2.4. Procedimentos Contábeis Orçamentários (PCO). 2.4.1. Receita Orçamentária. 2.4.1.1.
+Conceito,  Classificação  da  Receita  Orçamentária,  Reconhecimento  da  Receita  Orçamentária,  Relacionamento  do  Regime
+Orçamentário  com  o  Regime  Contábil,  Etapas  da  Receita  Orçamentária,  Procedimentos  Contábeis  referentes  à  Receita
+Orçamentária.  2.4.2.  Despesa  Orçamentária:  Conceito,  Classificações  da  Despesa  Orçamentária.  2.4.3.  Créditos
+Orçamentários  Iniciais  e  Adicionais,  Reconhecimento  da  Despesa  Orçamentária,  Etapas  da  Despesa  Orçamentária,
+Procedimentos  Contábeis  referentes  à  Despesa  Orçamentária,  Despesas  de  Exercícios  Anteriores.  2.5.  Procedimentos
+Contábeis Patrimoniais (PCP). 2.5.1. Patrimônio Público: Conceito, Composição, Ativo Passivo e Patrimônio Líquido. 2.5.2.
+Variações Patrimoniais: Qualitativa, Quantitativa e Resultado Patrimonial. 2.5.3. Ativo Imobilizado. 2.5.4. Ativo Intangível. 2.5.5.
+Reavaliação.  2.5.6.  Depreciação.  2.5.7.  Amortização.  2.5.8.  Exaustão.  2.5.9.  Redução  ao  valor  recuperável.  2.5.10.
+Transações  sem  Contraprestação.  2.6.  Plano  de  Contas  Aplicado  ao  Setor  Público  (PCASP).  2.6.1.  Aspectos  Gerais  e
+Estrutura do PCASP. 2.6.2. Classificação e Detalhamento das Contas do PCASP. 2.6.3. Conta contábil. 2.6.4. Natureza de
+
+ Anexo II – Dos conteúdos programáticos – Edital de Abertura nº 001/2020 – Prefeitura Municipal de Serra Página 12 de 22
+
+
+
+Informações. 2.6.5. Registro  Contábil. 2.7. Demonstrações  Contábeis Aplicadas ao Setor  Público  (DCASP). 2.7.1. Balanço
+Orçamentário. 2.7.2. Balanço Financeiro. 2.7.3. Balanço Patrimonial. 2.7.4. Demonstração das Variações Patrimoniais. 2.7.5.
+Demonstração  do  Fluxo  de  Caixa.  2.7.6.  Demonstração  das  Mutações  no  Patrimônio  Líquido.  2.7.7.  Consolidação  das
+Demonstrações Contábeis. 2.8. Registros Contábeis de Operações Típicas. 2.9. Procedimentos Contábeis Específicos (PCE).
+2.9.1 Regimes Próprios de Previdência Privada (RPPS). 2.9.2. Dívida Ativa. 2.9.3. Parcerias Público-Privadas (PPP). 2.9.4.
+Consórcios Públicos. 2.9.5. Operações de Crédito. 2.9.16. Fundeb. 2.9.7. Precatórios em Regime Especial. Noções de SIAFI -
+Sistema de Administração Financeira da Administração Pública Federal Lei Nº 4.320/64.
+
+CARGO 424 – ECONOMISTA
+
+Conhecimentos  específicos:  Análise  Microeconômica:  determinação  das  curvas  de  procura;  curvas  de  indiferença;
+equilíbrio  do  consumidor;  efeitos  preço,  renda  e  substituição;  elasticidade  da  procura;  fatores  de  produção;  produtividade
+média e marginal; lei dos rendimentos decrescentes e Rendimentos de Escala; custos de produção no curto e longo prazo;
+custos  totais,  médios  e  marginais,  fixos  e  variáveis.  Estrutura  de  Mercado:  concorrência  perfeita,  concorrência  imperfeita,
+monopólio,  oligopólio;  dinâmica  de  determinação  de  preços  e  margem  de  lucro;  padrão  de  concorrência;  análise  de
+competitividade; 2. Análise Macroeconômica: Identidades macroeconômicas básicas. Contas Nacionais no Brasil. Agregados
+Monetários.  A  teoria  Keynesiana..  Políticas  Fiscais  e  Monetárias  anticíclicas.  Conceito  de  Déficit  e  Dívida  Pública.
+Financiamento do déficit público no Brasil. A oferta e demanda agregada Relação entre taxas de juros e inflação. Relação
+entre  salários,  inflação  e  desemprego.  Papel  do  Governo  na  economia:  estabilização  econômica,  promoção  do
+desenvolvimento  e  redistribuição  de  renda.  O  Balanço  de  Pagamentos.  Organismos  Internacionais:  FMI,  BIRD,  BID.
+Economia do Setor Público:  conceito de bem público; funções governamentais; princípios gerais de tributação; tendências
+gerais  da  evolução  do  gasto  público  no  mundo.  Conceitos  básicos  da  contabilidade  fiscal:  NFSP,  conceitos  nominais  e
+operacionais  e  resultado  primário.  Noção  de  sustentabilidade  do  endividamento  público.  Economia  Brasileira:  Economia
+Brasileira  contemporânea:  os  planos  de  estabilização  –  Cruzado;  Bresser,  Verão,  Collor  e  Real.  Reformas  estruturais  da
+década de 90. Economia brasileira no pós-Plano Real: concepções, principais problemas, conquistas e desafios. O ajuste de
+1999. O regime de metas de inflação. Evolução do déficit e da dívida pública no Brasil a partir dos anos 80. Instrumentos de
+financiamento do setor público e Parcerias Público-Privadas (PPP). Desenvolvimento Econômico e Social: Transformações
+do papel do Estado nas sociedades contemporâneas e no Brasil, Indicadores Sociais. O Índice de Desenvolvimento Humano e
+o IDHM. O papel das principais agências de fomento no Brasil (BNDES, Banco do Brasil, Caixa Econômica Federal). 6. Lei
+Complementar  n.°  101/2000  (Lei  de  responsabilidade  na  gestão  fiscal).  7.  Lei  Federal  n.°  4.320/64  e  suas  alterações
+(estabelece normas gerais de Direito Financeiro para elaboração e controle dos orçamentos e balanço da União, dos Estados,
+dos Municípios e do Distrito Federal). Estatística descritiva e análise exploratória de dados: Conceitos fundamentais, tipos
+de variáveis, tabelas estatísticas, representação gráfica (gráfico de setores, barras, colunas, linhas; barras, colunas e linhas
+múltiplas; colunas e barras 100% empilhadas), distribuições de frequências, medidas de tendência central e de dispersão:
+média, mediana, moda, variância, desvio padrão, coeficiente de variação, valores  atípicos, histogramas, boxplot e ramo  e
+folhas. Cálculo  de  Probabilidades:  definições  básicas  e  axiomas,  probabilidade  condicional  e  independência,  variáveis
+aleatórias  discretas  e  contínuas,  função  de  distribuição,  função  de  probabilidade,  função  de  densidade  de  probabilidade
+Técnicas  de  Amostragem:  Conceitos  fundamentais,  cálculo  do  tamanho  amostral,  amostragem  aleatória  simples,
+amostragem estratificada, amostragem sistemática, amostragem por conglomerados, principais instrumentos de captação de
+dados  (com  ênfase  ao  questionário)  e  os  cuidados  quando  da  sua  elaboração. Indicadores:  Conceito  e  construção  os
+indicadores; Números índices de preço e quantidade, nas modalidades simples e agregados.
+
+CARGO 425 – ENFERMEIRO
+
+Conhecimentos específicos:  Fundamentos do Exercício da Enfermagem. Lei do Exercício Profissional (Lei n.°7.498/1986–
+Regulamentada  pelo  Decreto  94.406/1987).  Código  de  Ética  e  Deontologia  de  Enfermagem  –  análise  crítica.  Bioética.
+Processo Social de Mudança das Práticas Sanitárias no SUS e na Enfermagem. Administração dos Serviços de Enfermagem.
+Normas,  Rotinas  e  Manuais  –  Elaboração  e  utilização  na  enfermagem.  Enfermeiro  como  líder  e  agente  de  mudança.
+Concepções  teóricas  práticas  da  Assistência  de  Enfermagem.  Sistematização  da  Assistência  de  Enfermagem.  Política
+Nacional de Atenção às Urgências. Assistência de enfermagem em nível ambulatorial. Normas do Ministério da Saúde para
+atuação  nos  Programas  Nacionais  de  Saúde:  imunização,  mulher,  criança,  adolescente,  idoso,  IST/AIDS/Hepatites,
+hanseníase, tuberculose, hipertensão e diabetes. Planejamento da assistência de enfermagem. Processo de enfermagem ‐
+teoria e prática. Consulta de enfermagem. Medidas de higiene e de segurança nos serviços de enfermagem. Emergências
+clínicas  cirúrgicas  e  a  assistência  de  enfermagem.  Primeiros  socorros.  Assistência  integral  de  enfermagem  por  meio  do
+trabalho em equipes multiprofissional e interdisciplinar. Ensino ao paciente ao autocuidado: prevenção e promoção da saúde.
+Portaria  Nº  2.048/2002:  Atendimento  Pré  Hospitalar. Conhecer,  aplicar  e  manter-se  atualizado  em  relação  à  legislação
+sanitária.
+
+CARGO 426 – ENGENHEIRO AMBIENTAL
+
+Conhecimentos  específicos:  Urbanismo  e  meio  ambiente:  planejamento  urbano;  Patrimônio  histórico  e  cultural  urbano.
+Noções  sobre  cartografia  e  mapeamento;  Geoprocessamento;  Noções  de  análise  de  paisagens;  Noções  de  biologia  da
+conservação;  Noções  de  geologia  e  solo;  Intemperismo  e  erosão;  Dinâmica  costeira;  Noções  de  hidrologia;  Noções  de
+liminologia e Ciclo hidrológico; Água subterrânea; Meteorologia e Climatologia; Poluição atmosférica, hídrica e do solo; Ciclo
+do Carbono; Parâmetros de qualidade da água; Gestão, processos e tecnologias de tratamento de efluentes líquidos; Gestão
+de resíduos sólidos; Sistemas Urbanos: sistema viário, sistemas de infraestrutura, sistemas de drenagem, equipamentos e
+serviços urbanos; Recuperação de áreas degradadas (conceitos, métodos e técnicas); Planejamento territorial e instrumentos
+
+ Anexo II – Dos conteúdos programáticos – Edital de Abertura nº 001/2020 – Prefeitura Municipal de Serra Página 13 de 22
+
+
+
+de  controle  do  uso  e  ocupação  do  solo;  Princípios  de  manejo  e  conservação  dos  recursos  naturais  renováveis;  Energias
+renováveis e não renováveis; Noções básicas de sistemas de controle ambiental; Avaliação de impactos ambientais riscos
+ambientais  e  valoração  de  danos;  Noções,  instrumentos  e  ferramentas  de  monitoramento  Ambiental;  Conceitos  em
+demografia.  Indicadores  socioeconômicos.  Questão  agrária.  Espaço  urbano  e  espaço  rural.  Gestão  integrada  do  meio
+ambiente;  Planejamento  e  gestão  ambiental,  vocação  e  uso  do  solo,  urbanismo  ambiental.  Legislação:  Lei  Federal  nº
+6.938/1981  -  Política  Nacional  do  Meio  Ambiente  e  Decreto  Federal  nº.  99.274/1990.  Lei  Federal  nº  9605/98  -  Crimes
+Ambientais  e  Decreto  6.514/08;  com  Federal  nº  9.433/1997  -  Política  Nacional  de  Recursos  Hídricos;  Lei  Federal  nº
+12.651/2012 - Código Florestal; Lei Federal nº 9.985/2000 - Sistema Nacional de Unidades de Conservação da Natureza; Lei
+Estadual nº 7.058/2002 - Fiscalização, Infrações e Penalidades relativas à proteção ao meio ambiente   no Estado do Espírito
+Santo; Lei Estadual nº. 10.179/2014 - Política Estadual de Recursos Hídricos; Lei Municipal nº. 2.199/1999 – Institui o Código
+Municipal  de  Meio  Ambiente  no  Município  da  Serra/ES  e  Decreto  regulamentador  nº  5575/2015,  bem  como  alterações  e
+substitutivos  dessas  Leis  e  Decretos.  Resoluções  do  Conselho  Nacional  de  Meio  Ambiente  -  CONAMA,  Lei  Federal  nº
+6.938/1981.
+
+CARGO 427 – ENGENHEIRO CIVIL
+
+Conhecimentos  específicos:  Lei  Nº  1.947/1996:  Código  de  Obras  e  Posturas  do  município  de  Serra.  RDC/ANVISA Nº
+50/2002  e  Normas  Técnicas  relacionadas  aos  ambientes  de  saúde  ou  de  interesse  à  saúde.  Programação,  Controle  e
+Acompanhamento  de  Obras:  Orçamento  e  composição  de  custos,  levantamento  de  quantitativos, planejamento  e  controle
+físico-financeiro. Acompanhamento e aplicação de recursos (vistorias, emissão de faturas, controle de materiais). Critérios de
+Medição de Obras. BDI e encargos sociais incidentes em orçamentos de obras. Sistema de gestão da qualidade. Orçamento e
+cronograma  de  obras  públicas.  Lei  Nº  8.666/1993  e  Legislação  Complementar:  licitações  e  Contratos  da  Administração
+Pública. Licitação de Obras Públicas: Projeto básico e projeto executivo. Orçamento de referência para licitação. Contratos e
+aditivos. Princípios de planejamento e de orçamento público. Avaliação de Imóveis: Avaliação de imóveis urbanos e rurais com
+o  uso  de  tratamento  científico  segundo  a  NBR  14.653  -  Partes  1,  2, 3  e  4.  Edificações:  Noções  gerais  de  engenharia  e
+arquitetura de edificações públicas para uso administrativo, educacional, esportivo, turístico e cultural, hospitais e unidades de
+saúde,  restaurantes  populares,  cadeias  e  presídios.  Sondagem  e  fundações.  Estrutura.  Instalações  Elétricas.  Instalações
+Hidrossanitárias.  Prevenção  de  incêndios.  Controle  ambiental  das  edificações  (térmico,  acústico  e  luminoso).  Memorial
+descritivo e especificações técnicas de materiais e serviços. Acessibilidade. Construção industrializada. Critérios e parâmetros
+de desempenho (NBR 15.575). Noções de patrimônio histórico e de legislação urbanística. Perícias: Vistoria de obras e de
+edifícios.  Vícios  e  patologias  de  construção.  Recuperação  de  estruturas  e  de  edificações.  Responsabilidade  técnica.
+Saneamento ambiental: Sistemas de abastecimento de água (captação, tratamento, transporte e distribuição). Sistemas de
+esgotamento sanitário (coleta, tratamento e lançamento). Coleta, tratamento e disposição de resíduos sólidos. Sistemas de
+drenagem  urbana  (macrodrenagem  e  microdrenagem).  Marco  regulatório.  Estudos  de  viabilidade  em  saneamento.
+Pavimentação e Terraplenagem: Geometria de vias urbanas e estradas. Especificação e dimensionamento  de pavimentos.
+Vistoria,  recuperação  e  conservação  de  pavimentos.  Corte  e  aterro.  Jazidas  e  bota  fora.  Equipamentos  para  transporte,
+desmonte  e  compactação  de  solo. Planejamento  e  Mobilidade  Urbana:  Noções  de  legislação  e instrumentos  urbanísticos.
+Sistema Viário (caracterização e hierarquização de vias) Transporte Público (modais, planejamento e operação, estudos de
+viabilidade). Urbanização: Parcelamento do solo (condições e restrições para parcelamento). Infraestrutura para urbanização
+de  glebas  (abertura  de  vias,  abastecimento  de  água,  esgoto  sanitário,  pavimentação,  drenagem,  rede  de  distribuição  de
+energia  e  iluminação  pública).  Urbanização  de  assentamentos  precários.  Regularização  fundiária.  Noções  de  sistema
+cartográfico  e  de  geoprocessamento.  Acessibilidade  a  deficientes.  Gestão  de  manutenção  Predial:  Tipos  de  Manutenção
+(preditiva,  preventiva,  corretiva).  Engenharia  de  Manutenção.  Indicadores  de  Performance  de  Manutenção.  Manutenção  e
+gestão  de  ativos  patrimoniais.  Meio  Ambiente:  Licenças  ambientais.  Outorgas  para  uso  de  recursos  hídricos.  Áreas  de
+proteção permanente e de proteção ambiental. Gestão de Projetos: Conceito de projeto, programa e processo. Gerenciamento
+de escopo, tempo, custos e recursos humanos alocados em projetos. Métricas de desempenho do projeto. Noções de análise
+de  risco.  Segurança  do  Trabalho.  Segurança  e  Higiene  do  trabalho.  Segurança  na  Construção  Civil.  Proteção  Coletiva.
+Equipamentos de Proteção Individual (EPI). Ergonomia e Aplicações. 
+
+CARGO 428 – ENGENHEIRO DE TRÂNSITO
+
+Conhecimentos  específicos:  Elaboração,  execução,  implantação  e  avaliação  de  projetos  de  Engenharia  de  Trânsito.
+Fenômenos  que  acarretam  problemas  de  trânsito.  Educação  para  o  Trânsito.  Elaboração  de  Projetos  de  Engenharia  de
+Tráfego.  Conceitos  de  matemática,  de  física  e  de  geologia  aplicados  à  engenharia.  Infraestrutura  básica,  integrando
+topografia, hidrologia, geologia. Fundações e obras de terra. Projetos estruturais. Análise de estruturas à luz de conceitos
+matemáticos e físicos. Projetos de instalação prediais. Técnicas de planejamento, gestão e avaliação de obras.
+
+CARGO 429 – ENGENHEIRO ELÉTRICO
+
+Conhecimentos específicos:  Conhecimento de Grandezas Elétricas: Tensão; corrente; potência e frequência. Medições e
+ligações  (instalação  de  voltímetro,  amperímetro,  frequencímetro,  wattímetro,  megômetro  e  terrômetro).  Conhecimento  de
+Motores Elétricos. Identificação de dados de placa de motores. Tipos de ligação (estrela, delta ou triângulo). Dispositivos de
+partida  (partida  direta, partida estrela triângulo, chave  estática  de partida  suave, noções  de  funcionamento  de inversor de
+frequência).  Instalação  de  motores  e  de  dispositivos  de  partida.  Conhecimento  e  Instalação  de  Componentes  Elétricos:
+Contator, fusível,  disjuntor, relé  de  sobrecarga,  relé  de  tempo, relé  de  falta  de  fase,  relé  de  sequência  de  fase,  lâmpada,
+
+ Anexo II – Dos conteúdos programáticos – Edital de Abertura nº 001/2020 – Prefeitura Municipal de Serra Página 14 de 22
+
+
+
+tomada, reator  de partida, interruptor, capacitor, fotocélula, transformador de  corrente e de  potencial. Aterramento  elétrico.
+Transformadores  de  subestação.  Leitura,  compreensão,  interpretação  e  diagnóstico  de  defeitos  elétricos  de  circuitos  de
+proteção,  controle  e  comando  de  motores.  Identificação,  conceito,  diferenças  e  aplicabilidade  dos  tipos  de  manutenção.
+Corretiva, preventiva e preditiva. Segurança e utilização de Equipamento de Proteção Individual e Coletivo – EPI / EPC e dos
+riscos  inerentes  à  atividade  incluindo  choque  elétrico  e  arco-voltaico.  Conhecimento  da  Norma  Regulamentadora  NR-10
+"Segurança em Instalações e Serviços em Eletricidade", do Ministério do Trabalho e Emprego. 
+
+CARGO 430 – ENGENHEIRO FLORESTAL
+
+Conhecimentos específicos:  Solos de ecossistemas florestais: classificação, fertilidade e relação com a cobertura vegetal.
+Ecologia florestal. Caracterização ambiental dos biomas brasileiros. Fitossociologia. Análise de vegetação. Recuperação de
+áreas degradadas. Desenvolvimento sustentável. Mecanização e exploração florestal. Equipamentos de exploração florestal. A
+exploração de baixo impacto. Estradas e ramais de exploração. Pátio de estocagem. Requisitos para o transporte de produtos
+florestais. Proteção florestal. Incêndios florestais: causas, efeitos, prevenção e combate. Técnicas de manejo e conservação
+do  solo.  Erosão.  Práticas  conservacionistas.  Inventário  florestal.  Processos  de  amostragem.  Planejamento  de  inventários
+florestais. Análise de inventários florestais. Práticas silviculturais. Silvicultura tropical. Classificação dos sistemas silviculturais.
+Tratamentos  silviculturais  aplicados  à  regeneração  natural.  Planejamento  da  regeneração  de  povoamentos  florestais.
+Taxonomia  e  anatomia  para  identificação  vegetal.  Dendrometria.  Métodos  de  estimação  de  volumes  de  madeira.  Manejo
+florestal. Manejo de florestas plantadas. Manejo de florestas tropicais. Estudo de diversidade. Normas e regulamentos dos
+planos de manejo. Hidrologia e manejo de bacias hidrográficas. Influência das florestas no regime dos rios. Influência e efeitos
+do manejo de bacias hidrográficas no controle de enchentes. Mudanças no uso da terra em bacias hidrográficas. Indústria e
+tecnologia  de  madeira.  Planejamento  de  serraria.  Maximização  do  aproveitamento.  Utilização  de  madeira  serrada.
+Industrialização de madeira laminada e compensada. Industrialização de madeira aglomerada. Gestão ambiental. Política e
+legislação  ambiental  (Leis  n.os  4.771/1965,  6.938/1981,  9.433/1997  9.605/1998,  9.985/2000,  Resoluções  CONAMA  n.º
+001/1986,  237/1997,  303/2002).  Aspectos  socioeconômicos  e  ambientais  da  ocupação  dos  biomas  brasileiros.  Política  de
+desenvolvimento florestal. Zoneamento ambiental. Estudos ambientais: tipos e aplicações. Elaboração e avaliação de projetos
+florestais. Geoprocessamento. Geoposicionamento. Princípios de cartografia. Sistemas sensores: características e aplicações.
+
+CARGO 431 – EPIDEMIOLOGISTA
+
+Conhecimentos específicos: Fundamentos, histórico e aplicações. Processo saúde-doença. História natural das doenças e
+agravos à saúde - níveis de prevenção. Determinantes sociais da saúde. Desigualdades em saúde. Medidas de frequência de
+doenças. Prevalência e incidência. Coeficientes e padronização de taxas. Classificação Internacional de Doenças – CID-10.
+Demografia e dinâmica populacional: conceitos, análise e interpretação. Transição epidemiológica, demográfica e nutricional.
+Indicadores básicos para saúde no Brasil: conceitos e aplicações. Sistemas de Informação em Saúde: SINAN, SINASC, SIH,
+SIA, SIM E CNES.  Causas  de  morte  evitáveis  no  SUS.  Epidemiologia  descritiva  –  variáveis  de  tempo,  lugar  e  pessoal –
+padrões de distribuição das doenças – endemia, epidemia e diagrama de controle de doenças. Epidemiologia analítica – tipos
+de  estudos  epidemiológicos:  estudos  transversais,  estudos  de  coorte,  estudos  de  casos  e  controles,  estudos  ecológicos,
+estudos clínicos. Uso de dados primários e secundários em saúde. Doenças e agravos de notificação compulsória nacional. A
+cadeia epidemiológica de transmissão e medidas individuais e coletivas de tratamento e controle de casos. Epidemiologia das
+doenças  transmissíveis  e  não  transmissíveis.  Programa  Nacional  de  Imunização.  Estratégias  de  vacinação.  Avaliação  de
+eficácia e cobertura vacinal. Epidemiologia hospitalar: os núcleos de vigilância epidemiológica e os indicadores hospitalares:
+média pacientes-dia, média de permanência, taxa de ocupação hospitalar, taxa de mortalidade hospitalar, taxa de infecção
+hospitalar. Epidemiologia aplicada à administração e planejamento em saúde. Eficácia, efetividade, eficiência de intervenções
+em  saúde.  Apresentação  gráfica  e  tabular  de  dados.  Noções  básicas  de  amostragem.  Testes  de  hipóteses.  Medidas  de
+tendência central e dispersão. Conceito e medidas de risco. Medidas de associação. Validade de testes diagnósticos. Modelo
+de distribuição normal. 
+
+CARGO 432 – ESTATÍSTICO
+
+Conhecimentos específicos:  Estatística descritiva e análise exploratória de dados: gráficos, diagramas, tabelas, medidas
+descritivas (posição, dispersão, assimetria e curtose). Probabilidade. Definições básicas e axiomas.  Probabilidade condicional
+e independência. Variáveis aleatórias discretas e contínuas. Distribuição de probabilidades. Função de probabilidade. Função
+densidade  de probabilidade. Esperança e momentos. Distribuições especiais.  Distribuições condicionais e  independência.
+Transformação  de  variáveis.  Leis  dos  grandes  números.  Teorema  central  do  limite.  Amostras  aleatórias.  Distribuições
+amostrais.  Inferência  estatística.  Estimação  pontual:  métodos  de  estimação,  propriedades  dos  estimadores,  suficiência.
+Estimação intervalar: intervalos de confiança, intervalos de credibilidade.  Testes de hipóteses: hipóteses simples e compostas,
+níveis de significância e potência de um teste, teste t de Student, teste qui-quadrado. Análise de regressão linear. Critérios de
+mínimos quadrados e de máxima verossimilhança.  Modelos de regressão linear. Inferência sobre os parâmetros do modelo.
+Análise de variância. Análise de resíduos.  Técnicas de amostragem: amostragem aleatória simples, estratificada, sistemática
+e por conglomerados. Tamanho amostral.
+
+CARGO 433 – FARMACÊUTICO
+
+Conhecimentos  específicos: Farmacologia:  farmacocinética  e  farmacodinâmica:  introdução  à  farmacologia,  vias  de
+administração,  absorção,  distribuição  e  eliminação  de  fármacos,  biodisponibilidade  e  bioequivalência  de  medicamentos,
+
+ Anexo II – Dos conteúdos programáticos – Edital de Abertura nº 001/2020 – Prefeitura Municipal de Serra Página 15 de 22
+
+
+
+interação droga receptor, interação e drogas, mecanismos moleculares de ação das drogas, farmacologia do sistema nervoso
+autônomo  e  central,  anestésicos  locais,  antitérmico,  analgésicos,  anti-inflamatórios  não  esteroidais,  antialérgicos,
+antiulcerosos, farmacologia cardiovascular, insulina, antidiabéticos orais, antibióticos, antifúngicos, antivirais, quimioterápicos,
+antiparasitários, anticoagulantes  e  antianêmicos  (Relação  Nacional de  Medicamentos  Essenciais  –  RENAME). Terapêutica
+antirretroviral,  drogas  antirretrovirais  usadas  no  tratamento  de  infecções  pelo  HIV  em  adultos.  Principais  interações
+medicamentosas.  Farmácia  Hospitalar:  estrutura  organizacional  e  administrativa,  funções  clínicas,  padronização  de
+medicamentos para uso hospitalar e ambulatorial, planejamento e controle de estoque de medicamentos correlatos, controle
+de  infecção  hospitalar  sistema  de  distribuição  de  medicamentos,  formas  de  aquisição  de  medicamentos,  central  de
+abastecimento farmacêutico, indicadores de consumo. Ciclo da Assistência Farmacêutica: seleção, programação, aquisição,
+armazenamento, distribuição, utilização de medicamentos. Legislações e suas Atualizações: Lei Nº 5.991/1973, Decreto Nº
+74.170/1974, Lei Nº 6.360/1976, Lei Nº 13.021/2014, Lei Nº 3.820/1960, Decreto Nº 85.878/1981, RDC N 20/2011, Lei Nº
+9.782/1999. Portaria SVS/MS Nº 344/1998, RDC Nº 44/2009, RDC Nº 222/2018, Lei Nº 8.666/1993, Portaria de Consolidação
+Nº  6/2017  –  Financiamento  da  Assistência  Farmacêutica,  Portaria  de  Consolidação  Nº  2/2017  –  Política  Nacional  de
+Medicamentos e Política Nacional de Assistência Farmacêutica.
+
+CARGO 434 – FISCAL DE OBRAS
+
+Conhecimentos específicos: Elaboração de relatórios, croquis, cálculos de áreas e tabelas; leitura de projetos e croquis;
+noções de área de construção civil; conhecimento e aplicação das leis de uso e ocupação de solo. Instrumentos de política e
+gestão  urbana.  Infraestrutura  e  serviços  urbanos.  Assuntos  relativos  à  arquitetura  e  construção  civil.  Bens  Municipais.
+Conceito,  classificação,  uso  e  alienação.  Conhecimento  de  materiais  diversos  utilizados  em  serviços  de  construções,
+ampliações e reformas em imóveis. Conhecimentos gerais sobre: Fiscalização de obras para a liberação de alvarás, licenças e
+de  habite-se;  Fiscalização  do  cumprimento  da  Legislação  sobre  obras  e  edificações  em  toda  área  do  Município,  fazendo
+vistorias, leitura de projetos, conferência de medidas, cálculos de área, autuações, notificações, embargos e aplicando multas.
+Lei  Orgânica  do  Município  de  Serra/ES.  Lei  1947,  De  20  De  Dezembro  De  1996-  Dispõe  Sobre  O  Código  De  Obras  Do
+Município Da Serra, Estado Do Espírito Santo.
+
+CARGO 435 – FISCAL DE POSTURAS
+
+Conhecimentos específicos:  Elaboração de relatórios, croquis, cálculos de áreas e tabelas; leitura de projetos e croquis;
+noções de área de construção civil; conhecimento e aplicação das leis de uso e ocupação de solo. Instrumentos de política e
+gestão  urbana.  Infraestrutura  e  serviços  urbanos.  Assuntos  relativos  à  arquitetura  e  construção  civil.  Bens  Municipais.
+Conceito,  classificação,  uso  e  alienação.  Conhecimento  de  materiais  diversos  utilizados  em  serviços  de  construções,
+ampliações e reformas em imóveis. Conhecimentos gerais sobre: Fiscalização de obras para a liberação de alvarás, licenças e
+de  habite-se;  Fiscalização  do  cumprimento  da  Legislação  sobre  obras  e  edificações  em  toda  área  do  Município,  fazendo
+vistorias, leitura de projetos, conferência de medidas, cálculos de área, autuações, notificações, embargos e aplicando multas.
+Lei Orgânica  do Município  de Serra/ES. Lei 1947, De  20  De Dezembro De 1996  - Dispõe  Sobre  O Código  De Obras  Do
+Município Da Serra, Estado Do Espírito Santo.
+
+CARGO 436 – FISCAL DE SERVIÇOS URBANOS
+
+Conhecimentos específicos:  Elaboração de relatórios, croquis, cálculos de áreas e tabelas; leitura de projetos e croquis;
+noções de área de construção civil; conhecimento e aplicação das leis de uso e ocupação de solo. Instrumentos de política e
+gestão  urbana.  Infraestrutura  e  serviços  urbanos.  Assuntos  relativos  à  arquitetura  e  construção  civil.  Bens  Municipais.
+Conceito,  classificação,  uso  e  alienação.  Conhecimento  de  materiais  diversos  utilizados  em  serviços  de  construções,
+ampliações e reformas em imóveis. Conhecimentos gerais sobre: Fiscalização de obras para a liberação de alvarás, licenças e
+de  habite-se;  Fiscalização  do  cumprimento  da  Legislação  sobre  obras  e  edificações  em  toda  área  do  Município,  fazendo
+vistorias, leitura de projetos, conferência de medidas, cálculos de área, autuações, notificações, embargos e aplicando multas.
+Lei  Orgânica  do  Município  de  Serra/ES.  Lei  1947,  De  20  De  Dezembro  De  1996-  Dispõe  Sobre  O  Código  De  Obras  Do
+Município Da Serra, Estado Do Espírito Santo.
+
+CARGO 437 – FISCAL DE TRANSPORTE COLETIVO
+
+Conhecimentos  específicos: Acompanhamento  e  monitoramento  no  transporte;  O  transporte  coletivo  urbano  e  a
+fiscalização; Qualidade no transporte  coletivo urbano; A importância da  atividade de fiscalização; Motoristas, cobradores  e
+bilheteiros; Atendimento aos usuários e empregados das empresas; O controle dos veículos e dos condutores; O fluxo de
+usuários  e  providências  nas  ocorrências;  O  preenchimento  de  relatórios  e  a  administração  de  valores;  Equipamentos  e
+tecnologias utilizadas para a fiscalização; Competências e características necessárias ao fiscal. Conservação e documentação
+obrigatória atinente à condução do veículo. Segurança Viária. Código de Trânsito Brasileiro.
+
+CARGO 438 – FISCAL VIGILÂNCIA SANITÁRIA
+
+Conhecimentos específicos: Saúde pública; praticas médico-sanitárias e ações preventivas; biossegurança; bioética; riscos
+do  trabalho  da  produção  e  circulação  de  bens  e  da  prestação  de  serviços  de  interesse  da  saúde;  problemas  sanitários,
+
+ Anexo II – Dos conteúdos programáticos – Edital de Abertura nº 001/2020 – Prefeitura Municipal de Serra Página 16 de 22
+
+
+
+médicos  e  sociais; epidemiologia; regulamentação  e  fiscalização  da  saúde; normas  e  padrões  de  interesse  sanitário  e  da
+saúde; aspectos burocrático-normativos em saúde pública; vigilância sanitária, epidemiológica e da saúde; falhas, defeitos,
+ilicitudes e riscos na fabricação, transporte, estocagem e comercialização de alimentos, medicamentos e insumos a indústria e
+comércio;  instrumentalização  legal  e  noções  de  risco  em  saúde  pública;  consciência  sanitária;  sistemas  de  informação,
+monitoramento  e  coleta  de  dados  clínicos  e laboratoriais  em saúde  pública;  conceitos  e  abrangência  em saúde  pública  e
+vigilância  sanitária;  conceitos  e  indicadores  de  nocividade  e  inocuidade;  modelos  assistenciais  e  vigilância  da  saúde,
+normatização  e  controle  de  aspectos  do  meio-ambiente  seu  uso  e  preservação;  tecnologias  em  saúde,  epidemiologia,
+fiscalização e vigilância sanitária, epidemiológica e da saúde; código sanitário municipal.
+
+CARGO 439 – FISCAL MEIO AMBIENTE
+
+Conhecimentos específicos:  Política ambiental níveis de governo (federal, estadual e municipal); Instrumentos de política
+ambiental;  Estado,  Políticas  Públicas  e  Gestão  Ambiental.  Instrumentos  de  Gestão  Ambiental:  instrumentos  na  legislação
+brasileira, licenciamento ambiental, Estudo de Impacto Ambiental – EIA e Relatório de Impacto Ambiental - RIMA, auditoria
+ambiental, plano diretor, zoneamento, sistema de gerenciamento de recursos hídricos: o Sistema Nacional de Gerenciamento
+de Recursos Hídricos. Mercado Verde e Gestão Ambiental de Organizações (Normas ISO 14000). Processo de Avaliação de
+Impacto Ambiental - AIA; Lei de crimes ambientais. Apreensão de produto, instrumento de infração administrativa ou de crime.
+Infração administrativa. Prevenção e combate a incêndios florestais. Conservação de recursos naturais renováveis. Legislação
+Florestal e Política Florestal. Recuperação de áreas degradadas. Conceito de meio ambiente e de Direito Ambiental. Princípios
+de Direito Ambiental. Direito ao meio ambiente ecologicamente equilibrado como direito fundamental. Responsabilidade pelo
+dano ambiental: Responsabilidade administrativa - Poder de polícia, Sanções administrativas. Responsabilidade civil: Conceito
+de  dano  ambiental,  Responsabilidade  objetiva,  excludentes  da  responsabilidade  objetiva, Responsabilidade  do  Estado  por
+dano ao meio ambiente; Proteção à flora; Área de preservação permanente – APP; Reserva legal: conceito e limitações ao
+uso.  Reserva  Florestal:  conceito  e  limitações  ao  uso.  Gerenciamento  Costeiro.  Patrimônio  genético:  Da  convenção  de
+biodiversidade. Da Lei de Biossegurança.
+
+CARGO 440 – FISIOTERAPEUTA
+
+Conhecimentos  específicos:  Fisioterapia:  conceituação,  recursos  e  objetivos.  Reabilitação:  conceituação,  objetivos,
+sociologia, processo e equipe técnica. Papel dos serviços de saúde. Modelos alternativos de atenção à saúde das pessoas
+deficientes.  Processo  de  fisioterapia:  semiologia;  exame  e  diagnóstico,  postura,  diagnósticos  das  anomalias  posturais
+(patomecânica e correção). Cinesiologia e Biomecânica. Processos incapacitantes mais importantes (processo de trabalho,
+problemas  de  atenção  à  saúde  pré, peri,  pós-natal  e na  infância,  doenças  infectocontagiosas, crônico-degenerativas  e as
+condições de vida); papel dos serviços de saúde. Trabalho multidisciplinar em saúde; papel profissional e as instituições de
+saúde.  Fisioterapia  em  Traumato  ortopedia.  Fisioterapia  em  Neurologia.  Fisioterapia  em  Pneumologia.  Fisioterapia  nas
+Afecções  Reumáticas.  Fisioterapia  em  Queimaduras.  Fisioterapia  e  Pediatria.  Fisioterapia  em  Cardiologia  e  Angiologia.
+Fisioterapia em Ginecologia e Reeducação Obstétrica. Fisioterapia em Geriatria. Reabilitação profissional: conceito, objetivos,
+processo  e  equipe  técnica.  Recursos  terapêuticos  em  Fisioterapia.  Prevenção:  modelos  alternativos  de  atenção  à  saúde.
+Fisioterapia em Geriatria. Amputados. CIF: Classificação Internacional de Funcionalidade Incapacitante e Saúde.
+
+CARGO 441 – GEÓGRAFO
+
+Conhecimentos específicos: Geografia: Geografia Geral (Américas, África, Ásia, Europa e Oceania) e Geografia do Brasil; -
+Geografia Física dos Continentes; - Geologia, clima, relevo, vegetação, hidrografia, solos; - Aspectos Econômicos; modo de
+produção;  -  Sistema  Financeiro;  -  Globalização  Econômica  (Formação  de  Blocos  Econômicos);  -  Endividamento  interno  e
+externo;  -  Distribuição  de  Renda,  PIB  e  PNB;  industrialização;  -  Aspectos  Sociais  e  Políticos;  -  Sistemas  de  governo;  -
+População (crescimento vegetativo, emigração, imigração e xenofobia); - IDH; Urbanização; - Meio Ambiente; Transportes;
+Turismo;  Informática  e robótica; - Efeito  Estufa;  El  nino; Buraco  na  Camada  de  Ozônio  e  Chuva  Ácida; - Ecossistemas  e
+Biotecnologia.
+
+CARGO 442 – GESTOR PÚBLICO EM SAÚDE
+
+Conhecimentos específicos: Modelos explicativos de saúde e doença. Medidas da Saúde Coletiva. Epidemiologia aplicada a
+serviços de Saúde. Uso dos sistemas de informação em saúde: Indicadores sociais e de saúde. Atenção Primária à Saúde e
+Vigilância  em  Saúde.  Noções  de  epidemiologia.  Modelo  assistencial  no  SUS:  histórico,  desenvolvimento  e  legislação.
+Princípios básicos do SUS. A Saúde Suplementar no Brasil. O papel regulador do Estado no Sistema de Saúde Suplementar.
+O campo da Saúde Suplementar no Brasil. A ANS (Agência Nacional de Saúde Suplementar) e seus atributos. Gestão em
+saúde:  administração,  análise  de  realidade  de  Saúde,  processo  de  decisão  e  formulação  de  políticas.  Lei Nº  8.666/1993:
+Licitações  e  Contratos.  Lei  Nº  9.637/1998:  Das  organizações  sociais.  Legislação  e  segurança  no  trabalho  em  saúde.
+Características dos modelos e métodos de gestão adotados em instituições de Saúde.  Controle social da gestão em Saúde.
+Gestão em Saúde, no contexto brasileiro e internacional, com especial referência à gestão de serviços públicos e privados,
+assim  como  de  organizações  do  setor  de  Saúde  Supletiva.  Gestão  hospitalar.  Planejamento  e  Programação  de  Saúde:
+planejamento e gestão de sistemas e serviços de Saúde. Conceitos, métodos e tecnologias de planejamento e gestão em
+Saúde.  Diferentes  modelos  de  planejamento:  normativo  e  estratégico.  Métodos,  técnicas  e  parâmetros  de  programação.
+Programação e orçamentação operativa. Processo de elaboração e condução de Planos de Ação, a partir da aplicação de
+métodos e técnicas de processamento de problemas. Acompanhamento e avaliação das ações e serviços de Saúde. Políticas
+Públicas  em  saúde.  Processos  de  Educação  em  Saúde.  Qualidade  em  serviços  de  saúde.  Planejamento  estratégico
+
+ Anexo II – Dos conteúdos programáticos – Edital de Abertura nº 001/2020 – Prefeitura Municipal de Serra Página 17 de 22
+
+
+
+situacional.  Instrumentos  de  gestão  pública:  O  Plano  Plurianual,  Lei  de  Diretrizes  Orçamentárias  e  Lei  Orçamentária.
+Planejamento  no SUS. Métodos de Avalição  em Saúde. Avaliabilidade e  modelagem de programas. Estudos de avaliação
+econômica. Financiamento tripartite do SUS.
+
+CARGO 443 – MÉDICO CARDIOLOGISTA
+
+Conhecimentos  específicos:  Interpretação  do  exame  físico.  Valor  da  História  Clínica.  Interpretação  de  exames
+complementares básicos. Relação médico-paciente. Código de Ética Médica. Anatomia, Fisiologia e Semiologia do Aparelho
+Cardiovascular.  Métodos  Diagnósticos:  eletrocardiografia,  ecocardiografia,  medicina  nuclear,  hemodinâmica,  ressonância
+magnética,  cardiopatias  congênitas  cianóticas  e  acianótica:  diagnóstico  e  tratamento.  Hipertensão  arterial.  Doença
+coronariana.  Doença  reumática.  Valvulopatias:  diagnóstico  e  tratamento.  Miocardiopatias:  diagnóstico  e  tratamento.
+Insuficiência cardíaca congestiva. Doença de Chagas. Arritmias cardíacas: diagnóstico e tratamento. Marca passos artificiais.
+Endocardite  infecciosa.  Hipertensão  pulmonar.  Síncope.  Doenças  do  pericárdio.  Doença  da  aorta.  Infecções  Pulmonares.
+Embolia pulmonar. Hipertensão pulmonar. Cor pulmonale. Programa Nacional de Atenção à Hipertensão Arterial e Diabetes
+Mellitus.
+
+CARGO 444 – MÉDICO CIRURGIÃO GERAL
+
+Conhecimentos  específicos:  Interpretação  do  exame  físico.  Valor  da  História  Clínica.  Interpretação  de  exames
+complementares  básicos.  Relação  médico-paciente.  Código  de  Ética  Médica.  Considerações  fundamentais:  pré  e  pós-
+operatório em cirurgias eletivas e de urgência/emergência e no ciclo gravídico puerperal. Anestesias e anestésicos locais e
+loco  regional.  Resposta  endócrina  e  metabólica  ao  trauma. Reposição  Nutricional e  Hidroeletrolítica  do  paciente  cirúrgico.
+Trauma, politraumatismo, choque. Infecções pós cirúrgicas. . Complicações cirúrgicas no trans e pós operatório. Cicatrização
+das feridas e cuidados com drenos e curativos. Lesões por agentes físicos, químicos, biológicos e queimaduras. Hemorragia
+interna e externa, hemostasia, sangramento cirúrgico e transfusão. Noções importantes para o exercício da Cirurgia Geral
+sobre: oncologia, cirurgias pediátricas, vascular periférica e urológica, ginecologia e obstetrícia. Antibioticoterapia profilática e
+terapêutica,  infecção  hospitalar.  Tétano,  mordeduras  de  animais.  Cirurgias  de  urgência,  lesões  viscerais  intra-abdominais.
+Abdome  agudo  inflamatório,  traumático  penetrante  e  por  contusão.  Sistemas  orgânicos  específicos:  pele  e  tecido  celular
+subcutâneo, tireóide e paratireóide, tumores da cabeça e do pescoço, parede torácica, pleura, pulmão e mediastino. Doenças
+venosa,  linfática  e  arterial  periférica.  Esôfago  e  hérnias  diafragmáticas.  Estômago,  duodeno  e  intestino  delgado.  Cólon,
+apêndice, reto e ânus. Fígado, pâncreas e baço. Vesícula biliar e sistema biliar extra-hepático. Peritonites e abscessos intra-
+abdominais.  Hérnias  da  parede  abdominal.  Parede  abdominal,  epíplon,  mesentério,  retroperitônio.  Urgências
+Cardiorespiratórias. Atendimento Pré Hospitalar. 
+
+CARGO 445 – MÉDICO CLÍNICO GERAL
+
+Conhecimentos específicos: Interpretação do exame físico. Valor da História Clínica. Relação Médico Paciente. Diagnóstico
+sindrômico. Interpretação de exames complementares básicos. Diagnóstico diferencial e tratamento das anemias. Código de
+Ética  Médica.  Cuidados  Gerais  e  tratamento  do  paciente  nas  doenças:  cardiovasculares,  pulmonares,  gastrintestinais  e
+hepáticas, endócrinas, reumáticas, infecciosas, neurológicas, degenerativas e infecciosas do SNC. Diagnóstico e tratamento
+das Arboviroses, IST e infecções pelo HIV. Antibioticoterapia nas Doenças Infecções. Emergências Clínicas. Intercorrências
+Clínicas dos Pacientes Oncológicos. Controle de Infecções hospitalares. Portaria Nº 2.048/2002: Atendimento Pré Hospitalar.
+
+CARGO 446 – MÉDICO DO TRABALHO
+
+Conhecimentos específicos:  Conhecimentos gerais na área médica – saúde pública: A história do Sistema de Saúde no
+Brasil – Sistema Único de Saúde, princípios, diretrizes e financiamento; Organização do Sistema de Saúde; Atenção primária à
+saúde: Conceitos e características; Estratégia de Saúde da Família: Conceito e características; Epidemias – Indicadores da
+Saúde;  Prevenção  de  doenças  e  agravos  à  saúde;  Problemas  de  saúde  pública  no  Brasil;  Programas  de  saúde.
+Conhecimentos  específicos  em  Medicina  do  Trabalho:  A organização  laboratorial  em  anatomia  patológica  e  citopatologia.
+Métodos de obtenção de materiais cito e histopatológicos. Fixação e transporte do material biológico. A gestão da qualidade
+em laboratório de patologia nas fases pré-analítica, analítica e pós. Resolução da Diretoria Colegiada – RDC nº 302, de 13 de
+outubro  de  2005.  Legislação  em  vigilância  sanitária  –  Agência  Nacional  de  Vigilância  Sanitária  –  Ministério  da  Saúde.
+Disponível no site: www.anvisa.gov.br/legis/index.htm. Resolução da Diretoria Colegiada – RDC nº 306, de 07 de dezembro de
+2004. Legislação em 19 vigilância sanitária – Agência Nacional de Vigilância Sanitária – Ministério da Saúde. Disponível no
+site:  www.anvisa.gov.br/legis/index.htm.  Portaria  nº  485,  de  11  de  novembro  de  2005.  Ministério  do  Trabalho  e  Emprego.
+Aprova a norma regulamentadora nº 32 (Segurança e saúde no trabalho em estabelecimentos de saúde). Disponível no site:
+www.anvisa.gov.br/e-legis/. Lei Federal nº 9.782, de 26 de janeiro de 1999 – Define o Sistema Nacional de Vigilância Sanitária,
+cria a Agência Nacional de Vigilância Sanitária. Lei Orgânica de Saúde nº 8.080/90.
+
+CARGO 447 – MÉDICO GINECOLOGISTA OBSTETRA
+
+Conhecimentos  específicos:  Interpretação  do  exame  físico.  Valor  da  História  Clínica.  Interpretação  de  exames
+complementares  básicos.  Relação  médico  paciente.  Código  de  Ética  Médica.  Ginecologia:  princípios  da  assistência  à
+paciente.  Anatomia  e  embriologia.  Dismenorréia  e  tensão  pré-menstrual.  Hemorragia  uterina  disfuncional.  Infecções
+Sexualmente Transmissíveis - IST e AIDS. Amenorréias. Endometriose. Síndrome dos ovários policísticos. Doença inflamatória
+pélvica. Incontinência urinária. Prolapso genital e distúrbios do assoalho pélvico. Contracepção. Climatério. Doenças benignas
+
+ Anexo II – Dos conteúdos programáticos – Edital de Abertura nº 001/2020 – Prefeitura Municipal de Serra Página 18 de 22
+
+
+
+e  malignas  da  mama.  Neoplasias  malignas  do  colo  e  corpo  uterino,  vagina  e  ovários.  Obstetrícia:  assistência  pré-natal.
+Assistência ao parto. Patologia Obstétrica: abortamento, prenhez ectópica, neoplasia trofoblástica gestacional, inserção baixa
+de placenta, descolamento prematuro de placenta, hiperemese gravídica, doença hemolítica perinatal, doença hipertensiva
+específica da gravidez, incompetência istmo-cervical, amniorrexe prematura, prematuridade, gravidez prolongada, crescimento
+intrauterino  retardado, oligodramnia  e  polidramnia, distócias, rotura  uterina, tocotraumatismo  (materno  e  fetal), infecção no
+parto e puerpério, mastite puerperal, sofrimento fetal (na gestação e no parto), mortalidade materna, mortalidade perinatal e
+neonatal,  psicose  puerperal.  Intercorrências  clínico-cirúrgicas  no  ciclo  gravídico-puerperal:  hipertensão  arterial,
+endocrinopatias  e  obesidade,  diabetes,  tromboembolismo,  patologia  venosa  e  coagulopatia,  cardiopatias,  alergopatias,
+pneumopatias,  nefropatias,  neuropatias,  hepatopatias  e  colecistopatias,  distúrbios  gastrointestinais,  pancreatites,
+hematopatias, dermatopatias, oftalmopatias, otorrinolaringopatias, parasitoses, viroses, infecção urinária, IST/AIDS, neoplasias
+ginecológicas  benignas  e  malignas,  abdome  agudo,  traumas,  síndrome  HELLP .  Propedêutica  fetal:  ultrassonografia,
+cardiotocografia,  dopplervelocimetria,  amniocentese,  perfil  biofísico  fetal,  cordocentese,  punção  de  vilosidades  coriônicas,
+TORCH. Incompatibilidade do Sistema Rh. Ginecologia Pediátrica e do Adolescente. Portaria Nº 2.048/2002: Atendimento Pré
+Hospitalar.
+
+CARGO 448 – MÉDICO NEUROLOGISTA
+
+Conhecimentos  específicos:  Interpretação  do  exame  físico.  Valor  da  História  Clínica.  Interpretação  de  exames
+complementares básicos. Relação médico paciente. Código de Ética Médica. Anatomia e fisiologia do sistema nervoso central
+e  periférico.  Patologia  e  fisiopatologia  dos  transtornos  do  Sistema  nervoso  central  e  periférico.  Semiologia  neurológica.
+Grandes  categorias  das  afecções  neurológicas:  demências  e  distúrbios  da  atividade  cortical  superior,  comas  e  outros
+distúrbios do estado da consciência, distúrbios do movimento, distúrbio do sono. Doenças cérebro vasculares e medulares.
+Doenças  neuromusculares  -  nervos,  músculos  e  junção  mioneural,  doenças  tóxicas  e  metabólicas,  tumores,  doenças
+desmielinizantes, doenças infecciosas do sistema nervoso, doença neurológica no contexto da infecção pelo HIV, epilepsias,
+hidrocefalias  e  transtornos  do  fluxo  liquórico,  cefaléias,  disgenesias  do  sistema  nervoso,  manifestações  neurológicas  das
+doenças sistêmicas, neurologia do trauma e urgências em neurologia. Indicações e interpretações da propedêutica armada em
+neurologia:  Líquor,  neuroimagem,  estudos  neurofisiológicos  -  eletroencefalograma,  eletroneuromiografia  e  potenciais
+evocados, medicina nuclear aplicada à neurologia.
+
+CARGO 449 – MÉDICO NEUROPEDIATRA
+
+Conhecimentos  específicos:  Interpretação  do  exame  físico.  Valor  da  História  Clínica.  Interpretação  de  exames
+complementares  básicos.  Relação  médico  paciente.  Código  de  Ética  Médica.  Líquido  cefalorraquidiano  na  infância,
+Cranioestenose, Hidrocefalia congênita, Doenças degenerativas do sistema nervoso central, Encefalopatias crônicas infantis
+não progressivas, Distúrbios motores de instalação aguda. Neuroviroses. Epilepsias na criança. Causas neuromusculares de
+hipotonia. Sono normal e distúrbios do sono. Desenvolvimento normal da criança. Aprendizado escolar. Transtornos do déficit
+de  atenção/hiperatividade.  Oncologia:  diagnóstico  precoce  das  neoplasias  mais  comuns  da  infância.  Afecções  do  sistema
+nervoso central: síndrome convulsiva, meningites e encefalites. Cefaléias. Autismo. Distúrbios dos movimentos. Malformação
+cerebral e medular. Paralisia cerebral. Traumatismo cranioencefálico. Síndrome de Guillan-Barré. Noções de farmacologia.
+
+CARGO 450 – MÉDICO PEDIATRA
+
+Conhecimentos  específicos:  Interpretação  do  exame  físico.  Valor  da  História  Clínica.  Interpretação  de  exames
+complementares básicos. Relação médico paciente. Código de Ética Médica. Avaliação da idade gestacional. Saúde do feto e
+perinatal. Puericultura. A criança com baixo peso ao nascer. Estudo da morbidade e mortalidade do recém-nascido. Exame
+físico  do  recém-nascido.  Prematuridade.  Pós  maturidade.  Primeiros  cuidados. Anóxia  perinatal. Perturbações  respiratórias.
+Síndrome  da  Insuficiência  Respiratória.  Distúrbios  hidroeletrolíticos  do  RN.  Hipoglicemia  (filho  de  diabética).  Toco
+traumatismos.  Icterícia  neonatal.  Incompatibilidade  sanguínea  feto  materna.  Infecções  congênitas.  Infecções  pós-natais.
+Terapêutica neonatal. Sinais clínicos e neurológicos do RN. Desenvolvimento pondo estatural do RN e lactente. Alimentação
+do  prematuro,  RN  normal,  patológico  e  lactente.  Nutrição  da  criança  e  do  adolescente.  Alimentação  no  1o  ano  de  vida.
+Equilíbrio hidroeletrolítico. Desidratação Desnutrição. Diarréias. Hipovitaminoses. Protozooses e helmintíases. Viroses comuns
+na infância. Coqueluche, difteria, tétano e insuficiência renal aguda. Hematúrias. Asma brônquica e bronquiolite. Tuberculose.
+Pneumopatias.  Febre  reumática.  Artrite  reumatóide.  Tumores  na  infância.  Deficiência  de  ferro  na  infância  e  adolescência.
+Anemias.  Coagulopatias.  Neuropatias.  AIDS.  Intoxicações  exógenas.  Pediatria  Social:  etiologia  geral  da  morbidade  e
+mortalidade. Acidentes na infância. Crescimento e desenvolvimento. Abordagem de problemas neuropsiquiátricos na criança e
+no adolescente. Promoção da segurança da criança e do adolescente. Imunização da criança e do adolescente. Maus tratos a
+crianças. Reconhecimento  de  situações  de  risco  à saúde e risco de  morte  na  criança  e no  adolescente. Questões éticas,
+bioéticas e legais na assistência à saúde. Relação entre o médico e o paciente pediátrico. STORCHs. Zika Vírus. Doenças
+Exantemáticas. Portaria Nº 2.048/2002: Atendimento Pré Hospitalar.
+
+CARGO 451 – MÉDICO PSIQUIÁTRICO
+
+Conhecimentos  específicos:  Interpretação  do  exame  físico.  Valor  da  História  Clínica.  Interpretação  de  exames
+complementares  básicos.  Relação  médico  paciente.  Código  de  Ética  Médica.  Semiologia  psiquiátrica.  Psicopatologia.
+Psiquiatria  clínica.  Delírium.  Demências.  Intoxicações.  Dependências  as  drogas.  Esquizofrenia.  Transtornos  delirantes.
+Transtornos  de  humor.  Transtornos  de  ansiedade.  Transtornos  do  pânico.  Distúrbios  alimentares  e  distúrbios  do  sono.
+Distúrbios da personalidade. Deficiência mental. Urgências/Emergências em psiquiatria. Psiquiatria geriátrica. Psicoterapias.
+
+ Anexo II – Dos conteúdos programáticos – Edital de Abertura nº 001/2020 – Prefeitura Municipal de Serra Página 19 de 22
+
+
+
+Psicofarmacoterapia. Terapêuticas biológicas. Legislação em saúde mental. Reforma Psiquiátrica.
+
+CARGO 452 – NUTRICIONISTA
+
+Conhecimentos  específicos:  Nutrição  Fundamental:  Digestão,  biodisponibilidade,  absorção  e  metabolismo  de
+macronutrientes  e  micronutrientes.  Necessidades  nutricionais  e  deficiências.  Avaliação  Nutricional:  Indicadores
+antropométricos,  bioquímicos,  dietéticos  e  clínicos.  Dietoterapia  e  patologia  dos  sistemas  gastrointestinal,  circulatório,
+endócrino, respiratório e renal. Desnutrição e Obesidade. Nutrição Materno infantil. Nutrição de todas as fases do ciclo de vida:
+criança, adolescente, adulto, idoso e  gestante. Modificação da dieta  normal, terapia  nutricional (dieta enteral). Transtornos
+comportamentais que afetam a ingestão de alimentos. Exames laboratoriais. Nutrição e Dietética. Nutrição e Atividade Física.
+Alimentos: propriedades físico químicas; tecnologia de alimentos, higiene, microbiologia e controle de qualidade. Legislação de
+alimentos: boas práticas de fabricação, rotulagem, informação nutricional obrigatória, informação nutricional complementar e
+alimentos funcionais. Evolução nutricional, transição epidemiológica, transição epidemiológica nutricional, perfil nutricional e
+consumo alimentar da população brasileira. Fatores determinantes do estado nutricional da população. Carências nutricionais
+de  maior  prevalência no Brasil. Padrão de morbidade  no  Brasil. Papel do  nutricionista  nos  diferentes níveis  de  Atenção  à
+Saúde. Segurança Alimentar e Nutricional (SAN). Conceito de Vigilância Alimentar e Nutricional (VAN). Avaliação Nutricional.
+Vigilância  em Saúde.  Política  Nacional  de  Alimentação  e  Nutrição.  Legislação  Profissional. Conhecer,  aplicar  e  manter-se
+atualizado em relação à legislação sanitária.
+
+CARGO 453 – PROFESSOR DE LIBRAS
+
+Conhecimentos específicos:  O professor bilíngue e a noção de trabalho colaborativo; O currículo e a inclusão escolar de
+surdos; Interpretação/tradução; Legislação sobre a Libras e suas implicações; educação infantil para as crianças surdas, ou
+com deficiência auditiva; O Ensino Fundamental para estudantes surdos, ou com deficiência Auditiva; A articulação do trabalho
+do/a Professor/a DA e Professor LIBRAS e as professores/as da Educação Infantil; A articulação do trabalho do/a Professor/a
+DA e Professor LIBRAS e os/as professores/as do Ensino Fundamental; A inclusão escolar bilíngue dos/as estudantes surdos,
+ou  com deficiência Auditiva: princípios, história, políticas e perspectivas do Ensino  de surdos  na  escola  regular, no Brasil;
+Atuação do professor ouvinte na relação com o/a estudante surdo/a; As interações da criança surda no diferentes tempos e
+espaço da Unidade de Ensino; A língua de sinais como primeira língua; Bilinguismo e surdez: a evolução dos conceitos no
+domínio da linguagem; questões contemporâneas sobre a educação de surdos no Brasil.
+
+CARGO 454 – PROFESSOR MaPA – EDUCAÇÃO ESPECIAL/DA
+
+Conhecimentos específicos:  O professor bilíngue e a noção de trabalho colaborativo; O currículo e a inclusão escolar de
+surdos; Interpretação/tradução; Legislação sobre a Libras e suas implicações; educação infantil para as crianças surdas, ou
+com deficiência auditiva; O Ensino Fundamental para estudantes surdos, ou com deficiência Auditiva; A articulação do trabalho
+do/a Professor/a DA e Professor LIBRAS e as professores/as da Educação Infantil; A articulação do trabalho do/a Professor/a
+DA e Professor LIBRAS e os/as professores/as do Ensino Fundamental; A inclusão escolar bilíngue dos/as estudantes surdos,
+ou  com deficiência Auditiva: princípios, história, políticas e perspectivas do Ensino  de surdos  na  escola  regular, no Brasil;
+Atuação do professor ouvinte na relação com o/a estudante surdo/a; As interações da criança surda no diferentes tempos e
+espaço da Unidade de Ensino; A língua de sinais como primeira língua; Bilinguismo e surdez: a evolução dos conceitos no
+domínio da linguagem; questões contemporâneas sobre a educação de surdos no Brasil.
+
+CARGO 455 – PROFESSOR MaPA – EDUCAÇÃO ESPECIAL/DM
+
+Conhecimentos específicos: A deficiência intelectual/mental como produção social; Inclusão Escolar, formação continuada;
+Dificuldades  de  aprendizagem;  O  cotidiano  na  sala  de  aula;  O  sujeito  com  deficiência  intelectual/mental:  processos  de
+aprendizagem  na  Educação  Infantil  e  Ensino  Fundamental;  Transtornos  Globais  do  Desenvolvimento,  educação,
+interdisciplinaridade, transdisciplinaridade; Deficiência Física, Deficiência Múltipla e os desafios da aprendizagem.
+
+CARGO 456 – PROFESSOR MaPA – EDUCAÇÃO ESPECIAL/DV
+
+Conhecimentos específicos: Políticas e Práticas na educação de Pessoas com Deficiência Visual ; A Educação Especial na
+Perspectiva da Inclusão Escolar; Caracterização do Atendimento Educacional Especializado na Área de Deficiência Visual;
+Cegueira  e  baixa  visão;  Etapas  de  aprendizagem  do  Braille;  Conhecimento  e  aplicação  dos  recursos  ópticos;  Soroban;
+Orientação e mobilidade; Normas técnicas para a produção de textos em Braille; Grafia Braille para a Língua Portuguesa;
+Orientação e Mobilidade; audiodescrição.
+
+CARGO 457 – PROFESSOR MaPA – EDUCAÇÃO INFANTIL
+
+Conhecimentos específicos:  Educação como direito na primeira infância; Proposta Pedagógica e Diversidades; Processos
+de ensino-aprendizagem na educação infantil; Rotina escolar na educação infantil; Currículo na educação infantil; Avaliação na
+educação  infantil;  Eixos  do  trabalho  pedagógico  na  educação  infantil:  o  cuidar  e  o  educar;  Componentes  curriculares  da
+educação infantil: o brincar, o movimento e o conhecimento de si e do outro; Articulação dos conceitos: infância, brincadeira,
+ludicidade, desenvolvimento e aprendizagem; Alfabetização; O trabalho com projetos na educação infantil.
+
+ Anexo II – Dos conteúdos programáticos – Edital de Abertura nº 001/2020 – Prefeitura Municipal de Serra Página 20 de 22
+
+
+
+CARGO 458 – PROFESSOR MaPA – SÉRIES INICIAIS
+
+Conhecimentos específicos: Práticas de linguagem: oralidade, leitura/escuta, produção (escrita e multissemiótica) e análise
+linguística/semiótica;  Alfabetização;  Currículo;  Avaliação  do/no  processo  de  alfabetização;  Conceito  de  Ensino  e
+Aprendizagem;  Noções  de  Planejamento  de  Ensino:  Objetivos,  Conteúdos,  Estratégias,  Recursos  e  Avaliação;  Didática  e
+Metodologia do Ensino em Anos Iniciais; As inovações tecnológicas e sua utilização no processo de ensino-aprendizagem;
+Educação integral e educação em tempo Integral; Números e operações: uso do sistema numérico, números naturais, análise,
+interpretação e resolução de situações-problema, compreendendo a soma, a subtração, a multiplicação e a divisão. 
+
+CARGO 459 – PROFESSOR MaPB – ASSESSORAMENTO PEDAGÓGICO
+
+Conhecimentos específicos: A educação escolar e o ensino de qualidade como direito de todos; A dimensão cooperativa e
+integradora do trabalho do pedagogo nos espaços intra e interescolares; Planejamento e organização curricular; Estratégias
+pedagógicas, gestão e avaliação de práticas educacionais; Gestão democrática e autonomia da escola; Interdisciplinaridade e
+transversalidade; O conselho de classe no processo avaliativo; Educação integral e educação em tempo Integral; Didática e
+práticas  de  ensino  -  gestão  e  organização  da  sala  de  aula;  Planejamento  educacional,  materiais  curriculares  e  recursos
+didáticos; As inovações tecnológicas e sua utilização no processo de ensino-aprendizagem. 
+
+CARGO 460 – PROFESSOR MaPB – EDUCAÇÃO ARTÍSTICA
+
+Conhecimentos específicos: História da arte: movimentos artísticos e o trabalho educativo na escola; Processo de criação:
+conceito,  protagonismo,  mediação  e  avaliação  no  Ensino  da  Arte;  Relações  e  inter-relações  da  arte,  das  culturas  e  da
+sociedade contemporânea; Dança e expressão artística e cultural: história da dança, papel da dança na educação, e estrutura
+e funcionamento do corpo para a dança; Técnicas de expressão; Educação integral e educação em tempo Integral. 
+
+CARGO 461 – PROFESSOR MaPB – EDUCAÇÃO FÍSICA
+
+Conhecimentos específicos: Objetivos e conteúdo da Educação Física em função do nível de desenvolvimento e aprendiza -
+gem da criança e do adolescente; Fases do desenvolvimento da criança; Aprendizagem motora e cognitiva; Organização des -
+portiva: torneios, campeonatos, competições; Didática e Prática do Ensino da Educação Física; Recreação: conceito e finalida -
+des; Jogo: conceito e valor; Desportos: técnicas fundamentais e regras oficiais; Técnicas e instrumentos de medida e avalia -
+ção em Educação Física; Métodos e técnicas da Educação Física; As novas tendências da Educação Física: Educação Física
+Humanista, Educação Física Progressista e a Cultura Corporal.  Jogos Cooperativos; Educação  Física  Escolar: diferentes
+abordagens; Fisiologia do exercício.
+
+CARGO 462 – PSICÓLOGO
+
+Conhecimentos específicos: Código de Ética profissional do Psicólogo. A saúde mental no contexto da Saúde Pública: níveis
+de  assistência  e  sua  integração.  Atuação  do  Psicólogo  nos  programas  de  Saúde  e  em  equipes  multiprofissionais,
+interdisciplinares e a clínica ampliada nas instituições públicas de saúde. Política Nacional de Saúde Mental. RAPS – Rede de
+Atenção  Psicossocial.  Reintegração  social:  aspectos  clínicos,  educacionais,  sociais  e  organizacionais.  Concepções  sobre
+grupos  e  instituições.  Fundamentos  e  técnicas  de  exame  psicológico  e  psicodiagnóstico.  Noções  sobre  desenvolvimento
+psicológico e psicodinâmico, segundo as principais teorias. Critérios de normalidade, concepção de saúde e doença mental.
+Reforma Psiquiátrica no Brasil. Nova lógica assistencial em Saúde Mental. Reabilitação psicossocial, clínica da subjetividade,
+compreensão  do  sofrimento  psíquico  e  interdisciplinaridade.  Psicologia  Social.  Terapia  Breve.  Psicopatologia  e
+Psicofarmacologia. Álcool, tabagismo e outras drogas. Princípios da intersetorialidade. Mediação de Conflitos. Elaboração de
+Relatórios,  pareceres,  laudos  e  outros  documentos  psicossociais.  Lei  Nº  8069/90  e  alterações:  Estatuto  da  Criança  e  do
+Adolescente. Lei Nº 10741/2003: Estatuto do Idoso. Lei Nº 13.146/2015: Estatuto da Pessoa com Deficiência. Referências
+Técnicas para atuação do psicólogo no CRAS/SUAS. Modos de subjetivação contemporânea e as práticas de saber/poder: A
+produção de exclusão social, desvio, culpabilização familiar, marginalidade, desfiliação. Vulnerabilidade social e da instituição
+da violência. Estudos de casos. Recursos Psicossociais no trabalho com as famílias, seus membros e indivíduos, com grupos
+e redes sociais. Abordagem sistêmica e estratégias de atendimento e acompanhamento das famílias. Educação em Saúde. 
+
+CARGO 463 – SANITARISTA
+
+Conhecimentos  específicos:  Noções de  Vigilância  em Saúde: Vigilância epidemiológica, sanitária, ambiental e saúde do
+trabalhador. Comportamentos epidemiológicos das doenças e agravos à Saúde de interesse Municipal, Estadual e Federal.
+Transição epidemiológica e demográfica. Uso de Dados e Indicadores de natalidade, mortalidade e morbidade. Planejamento
+baseado  em  coleta  de  dados  e  análise  da  situação  de  saúde.  Noções  de  Planejamento,  Gestão  e  Avaliação  em  Saúde.
+Promoção,  Vigilância  e  Educação  em  Saúde.  Noções  de  Gerenciamento  e  Coordenação  de  equipes  multiprofissionais  e
+interdisciplinares.
+
+CARGO 464 – TÉCNICO DE NÍVEL SUPERIOR – PROFESSOR DE EDUCAÇÃO FÍSICA
+
+Conhecimentos  específicos:  Educação  Física  e  Saúde  Coletiva.  Práticas  corporais,  atividade  física  e  lazer.  Programa
+Academia  da  Saúde.  Prescrição  de  Exercícios  para  a  saúde.  Atividade  Física  para  Grupos  Especiais.  Atividade  Física  e
+Envelhecimento. Educação Física Adaptada e Inclusão. Práticas corporais, atividade física e saúde mental. Princípios básicos
+
+ Anexo II – Dos conteúdos programáticos – Edital de Abertura nº 001/2020 – Prefeitura Municipal de Serra Página 21 de 22
+
+
+
+de Fisiologia do Exercício. Princípios básicos de Biomecânica. Princípios básicos de Cineantropometria. Noções de Suporte
+Básica de Vida. Treinamento de Força na 3ª Idade.
+
+CARGO 465 – TERAPEUTA OCUPACIONAL
+
+Conhecimentos específicos:  O terapeuta ocupacional como agente de saúde e no processo de educação popular em um
+programa  comunitário.  Dinâmica  de  terapia  ocupacional  na  assistência  comunitária  e  nos  grupos  populares.  O  papel  do
+terapeuta ocupacional na equipe multiprofissional e interdisciplinar no processo de prevenção primária e seus programas de
+ação.  Terapia  Ocupacional  aplicada  às  disfunções  físicas,  neurológicas  e  intelectuais.  Terapia  Ocupacional  aplicada  às
+deficiências múltiplas e severas. A comunidade e a abordagem sociocultural na terapia ocupacional nesse processo. A criança,
+o  adolescente  e  o  idoso.  Marginalização  e  a  atuação  do  terapeuta  ocupacional.  Análise  de  atividades  profissionais  para
+detecção e encaminhamento de doenças ocupacionais. Intervenção da terapia ocupacional psiquiátrica. Reforma psiquiátrica
+e reabilitação psicossocial. Papel do terapeuta ocupacional na equipe interdisciplinar em saúde mental. A terapia ocupacional
+em grupo: questões teóricas e técnicas. O terapeuta ocupacional na orientação familiar e como agente multiplicador frente à
+comunidade. O terapeuta ocupacional e sua atuação nos programas de prevenção e assistência à excepcionalidade. Apoio
+matricial  e  clínica  ampliada:  projetos  terapêuticos  singulares.  Código  de  Ética  Profissional.  Fundamentos  históricos  e
+epistemológicos da terapia ocupacional. Prática profissional do terapeuta ocupacional. Relação da terapia ocupacional com os
+sistemas de saúde. Educação em Saúde.
+
+ Anexo II – Dos conteúdos programáticos – Edital de Abertura nº 001/2020 – Prefeitura Municipal de Serra Página 22 de 22
+
+

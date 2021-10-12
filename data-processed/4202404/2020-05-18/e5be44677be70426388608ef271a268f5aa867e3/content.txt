@@ -1,0 +1,63 @@
+FUNDAÇÃO UNIVERSIDADE REGIONAL DE BLUMENAU
+
+Extrato nº. 159/2020
+PARTES:
+FUNDAÇÃO UNIVERSIDADE REGIONAL DE BLUMENAU
+
+e a empresa
+PROJURIS SISTEMAS LTDA.
+ADITIVO DE PRORROGAÇÃO E REAJUSTE 
+TERMO ADITIVO Nº 004 AO CONTRATO Nº 080/2016
+OBJETO: Contratação de serviços de ampliação das licenças do software ProJuris, incluindo a prestação de serviços de implantação (migração, parametrização e treinamento de equipe técnica) e suporte em garantia (com permissão de acesso às futuras atualizações de correções e melhorias lançadas e execução de suporte às dúvidas/erros mediante SLA (Service Level Agreement ou Acordo de Nível de Serviço)) para a Universidade.
+FUNDAMENTO LEGAL: Pregão Presencial nº 019/2016 e Contrato nº. 080/2016, firmado em 23 de maio de 2016.
+
+CLÁUSULA PRIMEIRA - DA PRORROGAÇÃO: 
+O prazo de vigência previsto na Cláusula Primeira, Item 1.3. – “b” do Contrato nº. 080/2016 fica prorrogado por mais 12 (doze) meses, a contar de 23 de maio de 2020 até 22 de maio de 2021, totalizando 60 (sessenta) meses contratados, atingindo a referida prorrogação somente o Item 3, previsto na Cláusula Primeira, Item 1.2.
+
+CLÁUSULA SEGUNDA – DA INCLUSÃO DE NOVO ITEM: 
+
+Fica registrado para o presente Termo, a inclusão da prestação de serviços de visita técnica, com o intuito de treinamento, qualificação/requalificação da equipe técnica da Divisão de Tecnologia da Informação e Núcleo de Prática Jurídica, conforme proposta apresentada, constante dos autos. 
+
+CLÁUSULA TERCEIRA – DO PREÇO: 
+
+A Cláusula Primeira, Item 1.2 do Contrato nº. 080/2016 passa a ter a seguinte redação, a partir da assinatura do presente Termo Aditivo:
+
+1.2. Pelo objeto contratado, a CONTRATANTE pagará o preço global de R$ 12.206,88 (doze mil, duzentos e seis reais e oitenta e oito centavos), constante na tabela abaixo, de acordo com a proposta apresentada pela CONTRATADA para o presente Aditivo. 
+
+	Item
+	Código FURB
+	Qtde.
+	Und.
+	Descrição do Item
+	Preço Unitário (em R$)
+	Preço Total do Item (em R$)
+
+	3
+	37374
+	1
+	Serviço
+	Serviços especializados de suporte em garantia de software, que incluem acesso às últimas atualizações de correções e melhorias, além de suporte a dúvidas e erros mediante Acordo de Nível de Serviço.
+	10.170,68
+	10.170,68
+
+	4
+	40074
+	1
+	Serviço
+	Visita técnica presencial de um consultor(a) Projuris, para treinamento/requalificação da equipe de usuários FURB. Item inclui: deslocamento, diárias, alimentação e hospedagem
+	2.036,21
+	2.036,21
+
+
+CLÁUSULA QUARTA – DA SUBSTITUIÇÃO PARCIAL DA GESTAO CONTRATUAL:  
+
+Altera-se a Cláusula terceira do contrato em questão, que passa a ter a seguinte redação: 
+
+A execução do presente contrato será acompanhada e fiscalizada pelos servidores - Sr. Oldair Jacinto e Sr. Hélio Ricardo Naumann, o quais serão denominados neste instrumento como GESTOR e GESTOR SUBSTITUTO, sendo especialmente designados para tanto na forma dos artigos 67 e 73 da Lei Federal nº 8666/93. (...).
+
+CLÁUSULA QUINTA – DA MANUTENÇAÕ DAS DEMAIS CLÁUSULAS: 
+
+Permanecem inalteradas as demais cláusulas e condições previstas no Contrato nº. 080/2016 e aditivos nº 01ª 03, que não colidirem com o presente Termo Aditivo.
+
+DATA: 06 de maio de 2020.
+

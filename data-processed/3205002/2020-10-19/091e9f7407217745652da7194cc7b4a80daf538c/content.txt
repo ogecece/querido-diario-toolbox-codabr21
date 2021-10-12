@@ -1,0 +1,268 @@
+
+Prefeitura Municipal da Serra 
+Espirito Santo 
+
+DECRETO Nº 6802/202 
+O PREFEITO MUNICIPAL DA SERRA, ESPÍRITO SANTO, usando de suas atribuições legais, e com base no artigo 9º inciso 
+I da Lei nº 5.155/2020 de 10/01/2020; 
+
+D E C R E T A: 
+Art. 1º. Ficam suplementadas no orçamento vigente as dotações orçamentárias constantes do Anexo I. 
+Art. 2º. Para efeito das suplementações constante no Artigo anterior, ficam anuladas as dotações orçamentárias, indicada 
+no anexo II. 
+Art. 3º. Este Decreto entra em vigor na data de sua publicação, revogadas as disposições em contrário 
+
+Palácio Municipal, em Serra, em 16 de outubro de 2020 
+AUDIFAX CHARLES PIMENTEL BARCELOS 
+
+Prefeito Municipal 
+LAURIETE CANEVA 
+
+Secretária de Planejamento Estratégico 
+CRÉDITO ADICIONAL SUPLEMENTAR - ANEXO I - SUPLEMENTAÇÃO 
+
+R$ 1,00 
+
+CÓDIGO ESPECIFICAÇÃO NATUREZA FR VALOR 
+
+06.00.00 SEC. DE PLANEJAMENTO ESTRATÉGICO    
+
+06.01.00 Sec. de Planejamento Estratégico    
+
+19.126.0080.2145 Aquisição e Manutenção de Equipamentos de Informát 4.4.90.52.00 1.920.0010.0000 358.000 
+
+08.00.00 SECRETARIA DE OBRAS    
+
+08.01.00 Secretaria de Obras    
+
+15.451.0100.1129 Recuperar ou Urbanizar Áreas Degradadas 4.4.90.51.00 1.001.0000.0000 116.000 
+
+15.451.0100.2130 Urbanizar, Ampliar, Revitalizar e Melhorar as Vias 4.4.90.51.00 1.520.0272.0000 70.000 
+
+15.451.0100.2130 Urbanizar, Ampliar, Revitalizar e Melhorar as Vias 4.4.90.93.00 1.001.0000.0000 40.000 
+
+09.00.00 SECRETARIA DE SERVIÇOS    
+
+09.01.00 Secretaria de Serviços    
+
+15.452.0110.2084 Fortalecer, Intensificar e Manter Áreas Verdes na 3.3.90.92.00 1.001.0000.0000 417.000 
+
+10.00.00 SEC. TURISMO, CULTURA, ESPORTE E LAZER    
+
+10.01.00 Sec. Turismo, Cultura, Esporte e Lazer    
+
+27.813.0140.2218 Construir, Manter e Conservar Equipamentos Esporti 3.3.90.30.00 1.001.0000.0000 44.500 
+
+27.813.0140.2218 Construir, Manter e Conservar Equipamentos Esporti 4.4.90.52.00 1.001.0000.0000 478.700 
+
+11.00.00 SECRETARIA DE EDUCAÇÃO    
+
+11.01.00 Secretaria de Educação    
+
+12.122.0530.2002 Manutenção dos Serviços Administrativos Gerais 3.3.90.93.00 1.190.0000.0000 3.000 
+
+12.122.0530.2003 Manutenção e Conservação de Bens Imóveis 3.3.90.93.00 1.111.0000.0000 50.000 
+
+12.361.0170.2035 Garantir e Manter a Aprendizagem na Educação Infan 4.4.90.52.00 1.111.0000.0000 836.000 
+
+12.361.0180.2097 Construção, Manutenção, Reforma e Ampliação das Un 4.4.90.51.00 1.111.0000.0000 370.000 
+
+12.361.0180.2097 Construção, Manutenção, Reforma e Ampliação das Un 4.4.90.51.00 1.120.0000.0000 300.000 
+
+12.361.0180.2099 Garantir e manter as atividades administrativas e 3.3.90.39.00 1.111.0000.0000 300.000 
+
+12.361.0180.2099 Garantir e manter as atividades administrativas e 4.4.90.52.00 1.111.0000.0000 830.000 
+
+12.361.0530.2003 Manutenção e Conservação de Bens Imóveis 3.3.90.93.00 1.111.0000.0000 181.000 
+
+12.361.0530.2003 Manutenção e Conservação de Bens Imóveis 3.3.90.93.00 2.001.0000.0000 77.000 
+
+12.365.0180.2097 Construção, Manutenção, Reforma e Ampliação das Un 4.4.90.51.00 1.111.0000.0000 819.000 
+
+12.365.0180.2099 Garantir e manter as atividades administrativas e 3.3.90.39.00 1.111.0000.0000 200.000 
+
+12.365.0180.2099 Garantir e manter as atividades administrativas e 4.4.90.52.00 1.111.0000.0000 400.000 
+
+12.365.0180.2283 Garantir e manter as atividades administrativas e 4.4.90.52.00 1.111.0000.0000 650.000 
+
+12.00.00 SECRETARIA DE SAUDE    
+
+12.01.00 Fundo Municipal de Saúde    
+
+10.122.0530.2001 Pagamento de Pessoal e Encargos 3.1.90.96.00 1.211.0000.0000 20.000 
+
+10.301.0240.2205 Ampliar e Melhorar a Qualidade do Acesso na Atençã 3.3.90.34.00 1.214.2100.0000 900.000 
+
+10.302.0190.2192 Manter a oferta de atendimento psicossocial. 3.3.50.92.00 2.001.0000.0000 110.000 
+
+10.302.0190.2195 Manter a rede de urgência e emergência. 3.3.50.39.00 1.211.0000.0000 95.000 
+
+13.00.00 SECRETARIA DE ASSISTÊNCIA SOCIAL    
+
+13.03.00 Fundo Munic. Infância Adolescência    
+
+08.244.0270.2016 Apoiar técnica financeiramente as organizações soc 4.4.50.42.00 2.990.0000.0000 12.100 
+
+21.00.00 SEC. ESPECIAL AGRIC, AGROT, AQUIC. E PESCA    
+
+21.01.00 Sec. Especial Agric. Agrot. Aquic. e Pesca    
+
+20.608.0450.2022 Fortalecer os Produtores da Agropecuária, Agricult 3.3.90.39.00 1.001.0000.0000 70.650 
+  TOTAL  7.747.950 
+
+ 
+
+
+
+CRÉDITO ADICIONAL SUPLEMENTAR - ANEXO II - ANULAÇÃO 
+R$ 1,00 
+
+CÓDIGO ESPECIFICAÇÃO NATUREZA FR VALOR 
+
+03.00.00 PROCURADORIA GERAL    
+
+03.01.00 Procuradoria Geral    
+
+04.122.0530.2001 Pagamento de Pessoal e Encargos 3.3.90.36.00 1.001.0000.0000 13.000 
+
+05.00.00 SEC. ADM. E RECURSOS HUMANOS    
+
+05.01.00 Sec. Adm. e Recursos Humanos    
+
+04.122.0530.2001 Pagamento de Pessoal e Encargos 3.3.90.36.00 1.001.0000.0000 70.000 
+
+06.00.00 SEC. DE PLANEJAMENTO ESTRATÉGICO    
+
+06.01.00 Sec. de Planejamento Estratégico    
+
+04.122.0530.2001 Pagamento de Pessoal e Encargos 3.3.90.36.00 1.001.0000.0000 30.000 
+
+19.126.0080.1150 Reestruturar e manter o Datacenter 4.4.90.39.00 1.920.0010.0000 358.000 
+
+08.00.00 SECRETARIA DE OBRAS    
+
+08.01.00 Secretaria de Obras    
+
+04.122.0530.2001 Pagamento de Pessoal e Encargos 3.3.90.36.00 1.001.0000.0000 25.000 
+
+04.122.0530.2002 Manutenção dos Serviços Administrativos Gerais 3.3.90.39.00 1.001.0000.0000 790.000 
+
+15.451.0100.2130 Urbanizar, Ampliar, Revitalizar e Melhorar as Vias 4.4.90.51.00 1.520.0412.0000 70.000 
+
+10.00.00 SEC. TURISMO, CULTURA, ESPORTE E LAZER    
+
+10.01.00 Sec. Turismo, Cultura, Esporte e Lazer    
+
+04.122.0530.2001 Pagamento de Pessoal e Encargos 3.3.90.36.00 1.001.0000.0000 5.000 
+
+27.813.0140.2222 Fomentar, Promover e Apoiar o Esporte e Lazer nas 3.3.50.43.00 1.001.0000.0000 523.200 
+
+11.00.00 SECRETARIA DE EDUCAÇÃO    
+
+11.01.00 Secretaria de Educação    
+
+12.122.0180.1102 Realização de Concurso Público 3.3.90.39.00 1.190.0000.0000 94.000 
+
+12.122.0530.2001 Pagamento de Pessoal e Encargos 3.3.90.36.00 1.111.0000.0000 601.000 
+
+12.361.0180.2096 Alimentação Escolar 3.3.90.34.00 1.120.0000.0000 300.000 
+
+12.361.0180.2103 Transporte Escolar 3.3.90.39.00 1.111.0000.0000 1.675.000 
+
+12.361.0530.2003 Manutenção e Conservação de Bens Imóveis 3.3.90.39.00 1.111.0000.0000 110.000 
+
+12.365.0180.2097 Construção, Manutenção, Reforma e Ampliação das Un 4.4.90.51.00 2.001.0000.0000 77.000 
+
+12.365.0180.2281 Alimentação Escolar - Pré-Escola 3.3.90.30.00 1.190.0000.0000 389.000 
+
+12.00.00 SECRETARIA DE SAUDE    
+
+12.01.00 Fundo Municipal de Saúde    
+
+10.122.0530.2001 Pagamento de Pessoal e Encargos 3.3.90.36.00 1.211.0000.0000 140.000 
+
+10.302.0190.2194 Manter a rede de serviços especializada. 3.3.90.30.00 2.001.0000.0000 110.000 
+
+10.302.0190.2195 Manter a rede de urgência e emergência. 3.3.50.39.00 1.214.2100.0000 900.000 
+
+10.303.0210.2190 Manter as Ações da Assistência Farmacêutica 3.3.90.32.00 1.211.0000.0000 95.000 
+
+13.00.00 SECRETARIA DE ASSISTÊNCIA SOCIAL    
+
+13.01.00 Secretaria de Assistência Social    
+
+08.122.0530.2001 Pagamento de Pessoal e Encargos 3.3.90.36.00 1.001.0000.0000 110.000 
+
+13.03.00 Fundo Munic. Infância Adolescência    
+
+08.244.0270.2016 Apoiar técnica financeiramente as organizações soc 3.3.50.43.00 2.990.0000.0000 12.100 
+
+14.00.00 SECRETARIA DE MEIO AMBIENTE    
+
+14.01.00 Secretaria de Meio Ambiente    
+
+04.122.0530.2001 Pagamento de Pessoal e Encargos 3.3.90.36.00 1.001.0000.0000 10.000 
+
+16.00.00 SECRETARIA DE DESENV. URBANO    
+
+16.01.00 Secretaria de Desenv. Urbano    
+
+04.122.0530.2001 Pagamento de Pessoal e Encargos 3.3.90.36.00 1.001.0000.0000 10.000 
+
+17.00.00 SEC. DE DIREITOS HUMANOS E CIDADANIA    
+
+17.01.00 Sec. de Direitos Humanos e Cidadania    
+
+04.122.0530.2001 Pagamento de Pessoal e Encargos 3.3.90.36.00 1.001.0000.0000 20.000 
+
+18.00.00 SECRETARIA DE HABITAÇÃO    
+
+18.01.00 Secretaria de Habitação    
+
+04.122.0530.2001 Pagamento de Pessoal e Encargos 3.3.90.36.00 1.001.0000.0000 10.000 
+
+20.00.00 SECRETARIA DE COMUNICAÇÃO    
+
+20.01.00 Secretaria de Comunicação    
+
+04.122.0530.2001 Pagamento de Pessoal e Encargos 3.3.90.36.00 1.001.0000.0000 3.000 
+
+21.00.00 SEC. ESPECIAL AGRIC, AGROT, AQUIC. E PESCA    
+
+21.01.00 Sec. Especial Agric. Agrot. Aquic. e Pesca    
+
+20.605.0450.1023 Implantar Hortas Comunitárias, Urbanas e Escolares 3.3.90.30.00 1.001.0000.0000 8.000 
+
+20.605.0460.1047 Estruturar Locais para Beneficiamento e Comerciali 3.3.90.39.00 1.001.0000.0000 10.000 
+
+20.605.0460.2046 Apoiar e Qualificar Atividades de Aquicultura e Pe 3.3.90.30.00 1.001.0000.0000 5.000 
+
+
+
+CRÉDITO ADICIONAL SUPLEMENTAR - ANEXO II - ANULAÇÃO 
+R$ 1,00 
+
+CÓDIGO ESPECIFICAÇÃO NATUREZA FR VALOR 
+
+20.605.0460.2046 Apoiar e Qualificar Atividades de Aquicultura e Pe 3.3.90.39.00 1.001.0000.0000 5.000 
+
+20.605.0460.2048 Melhoria das Estruturas de Trabalho dos Pescadores 3.3.50.41.00 1.001.0000.0000 10.000 
+
+20.605.0460.2048 Melhoria das Estruturas de Trabalho dos Pescadores 3.3.90.39.00 1.001.0000.0000 10.000 
+
+20.608.0450.2022 Fortalecer os Produtores da Agropecuária, Agricult 3.3.50.41.00 1.001.0000.0000 20.000 
+
+20.608.0450.2022 Fortalecer os Produtores da Agropecuária, Agricult 3.3.90.30.00 1.001.0000.0000 2.650 
+
+24.00.00 ENCARGOS GERAIS DO MUNICIPIO    
+
+24.01.00 Rec. Sob Supervisão Sefa/Proger    
+
+28.841.0000.3288 Juros, Amortização e Encargos da Dívida Pública 3.2.90.21.00 1.001.0000.0000 457.000 
+
+28.841.0000.3288 Juros, Amortização e Encargos da Dívida Pública 4.6.90.71.00 1.001.0000.0000 670.000 
+  TOTAL  7.747.950 
+
+ 
+
+

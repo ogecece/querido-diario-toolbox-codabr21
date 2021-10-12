@@ -1,0 +1,1825 @@
+
+
+
+ PUBLICADO NO D.O.M./SC
+                                                                                                               Edição:__________
+	  De: ____/____/____
+
+
+DECRETO Nº 13333/2020
+
+REGULAMENTA A CARTILHA DA CALÇADA ACESSÍVEL E DÁ OUTRAS PROVIDÊNCIAS.
+
+A PREFEITA MUNICIPAL DE SÃO JOSÉ, no uso das atribuições que lhe confere o Artigo 62, incisos IV e VI, da Lei Orgânica Municipal, e
+
+CONSIDERANDO o § 1º do art. 2º, da Lei Municipal Ordinária nº 5.547 de 04 de fevereiro de 2016, que estabelecenormas gerais e critérios básicos para a promoção da acessibilidade, mediante a supressão de barreiras e de obstáculos nas vias e espaços públicos, no mobiliário urbano, garantindo a inclusão plena;
+
+CONSIDERANDO a Lei Federal nº 10.098 de 19 de dezembro de 2000, que estabelece as normas gerais e os critérios básicos para a promoção da acessibilidade;
+
+CONSIDERANDO a Norma Brasileira 9050/2015, que dispõe sobre a acessibilidade a edificações, mobiliário, espaços e equipamentos urbanos;
+
+CONSIDERANDO a Norma Brasileira 16537/2016, que dispõe sobre as diretrizes para a elaboração de projeto e instalação da sinalização tátil no piso;
+
+CONSIDERANDO os princípios do desenho universal;
+
+CONSIDERANDO aimportância de viabilizar informação técnica atualizada para a construção e manutenção de calçadas no Município de São José;
+
+DECRETA:
+
+Art. 1º Fica estabelecida a Cartilha da Calçada Acessível, que é parte integrante deste decreto, na esfera da rede de espaços públicos no município de São José que possui a finalidade de facilitar a compreensão das informações contidas nas normas de acessibilidade vigentes, contendo orientações para a execução e para a manutenção das calçadas.
+§ 1º A partir da vigência deste Decreto, os projetos aprovados e as obras licenciadas deverão seguir as instruções contidas na Cartilha.
+§ 2º A partir de 1º de junho de 2020, os empreendimentos licenciados que não apresentarem habite-se expedido, deverão adequar a solução de calçada às orientações contidas na Cartilha, ressalvados os casos que comprovem aexecução da calçada de acordo com projeto aprovado anterior à vigência deste Decreto.
+
+
+Art. 2ºCabe à Secretaria de Planejamento e Assuntos Estratégicos e a Secretaria de Urbanismo e Serviços Públicos, promover e atualizarquanto ao uso da Cartilha da Calçada Acessível.
+
+Art. 3º Cabe à Secretaria de Urbanismo e Serviços Públicos notificar as obras licenciadasque não possuam habite-se expedido para regularizar o projeto da calçada de acordo com a Cartilha da Calçada Acessível, assim como fiscalizar e orientar acerca da padronização e a execução das calçadas no Município.
+
+Art. 4ºEste Decreto entra em vigor na data de sua publicação.
+
+Paço Municipal em São José (SC), 14 de maio de 2020.
+
+
+
+ADELIANA DAL PONT
+Prefeita Municipal
+
+
+
+LUIZ FERNNANDO DE AQUINO
+Secretário Municipal de Planejamento e Assuntos Estratégicos
+
+
+
+
+GUSTAVO DUARTE DO VALLE PEREIRA
+Secretário Interino de Urbanismo e Serviços Públicos
+
+
+
+
+
+
+	
+Prefeitura Municipal de São José
+Av. Acioni Souza Filho, 403
+São José SC CEP 88.103-790
+(48) 33810050   www.pmsj.sc.gov.br
+
+
+ 
+
+APRESENTACAO
+
+Importancia da acessibilidade do espago
+publico
+
+Observando o atual censrio dos espagos
+urbanos, é notbria a falta de adequagao com as novas
+normas e legislagdes referentes ao assunto, 0 que
+dificulta a inclusdo das pessoas com deficiéncia.
+
+Os obstdculos arquitetonicos normalmente
+sdo causados por execugdes incorretas, ocasionados
+por falta de conhecimento das normas e também por
+faltademanutencao.
+
+Desta forma, é preciso ficar atento
+acessibilidade, que procura promover o pleno
+exercicio de cidadania e presenga ativa de todos nos
+mais diversos campos de atvidades dasociedade.
+
+Proporcionando qualidade e integragao
+social, a todos, garantindo oportunidades iguais com
+condicGesdesegurangae conforto.
+
+A acessibilidade & sindnimo de dignidade
+plena, independéncia e mais autonomia a todos os
+cidadaos.
+
+Quem 6 responsavel pela execugao e
+manutengo da calcada?
+
+A responsabilidade da construgao e
+conservagdo da calgada é do proprietirio do imovel.
+Sendo incumbido a este também, os servigos de
+conservagso e limpeza da calada assim como de
+sarjetas que se encontrem fronteirigas a sua
+propriedade, seja ela residencial ou comercial.
+
+No entanto, se 0 responsavel do bem n3o
+realizar a conservagdo de maneira adequada, ¢
+atribuigdo do Poder PGblico (Municipic) fiscalizar e
+exigir que sejam feitas as melhorias necessdrias. Se
+apesar disso 0 responsivel ndo agir, compete a0
+Municipio a realizagso das benfeitorias, podendo
+efetuar cobrangas ao proprietério.
+
+Para quem esta apostila é direcionada?
+
+Esta cartiiha engloba informagoes retiradas
+de normas técnicas brasileiras, legislagso vigente no
+municipio de S&o José e no Brasil. Ela apresenta
+diretrizes bisicas sobre acessibilidade em calcadas, de
+forma facil, possibilitando a consulta tanto por
+profissionais da construga civil como pelos cidadaos
+quenecessitam destesesclarecimentos.
+
+0 objetivo desta, 6 colaborar para a difusdo
+do desenho universal, que garante condigoes de
+utlizag3o dos espagos publicos a todas as pessoas, de
+forma auténoma, segura e confortavel, respeitando a
+diversidade humana. Funcionando como importante
+instrumento de inclusao social.
+
+Caigada Acessivel | mm soopsescgont
+
+ 
+
+GLOSSARIO
+
+Exposigo de termos e conceitos ligados as questGes
+de acessiblidade das vias publicas:
+
+Acessibilidade: Assegurar a completa mobilidade e
+condigdes de uso dos espagos urbanos, por todos os
+usudrios, inclusive aqueles portadores de deficiencia
+ou commobilidadereduzida.
+
+Pessoa com deficiéncia: Aquela que possui alguma
+limitagSo ou incapacidade a longo prazo de natureza
+fisica, intelectual ou sensorial, para 0 desemperho de
+atividades, que em contato com diversas barreiras
+pode obstruir sua participagdo plena e efetiva na
+sociedade em igualdade de condicSes com as demais
+pessoas.
+
+Pessoa com mobilidade reduzida: Aquela que
+possui tempordria ou permanente, limitagdo na
+capacidade de relagdo e utilizagdo do meio, por
+exemplo pessoa idosa, gestante, lactante, pessoa com
+criangadecoloe pessoa obesa.
+
+Barreiras Urbanisticas: Qualquer obsticulo que
+limite 0 movimento ou a possibilidade de circulag$o
+segura das pessoas, presentes nos espagos e vias
+piblicas.
+
+Calgada: Parte da via destinada ao transito de
+pedestres, e quando vivel a implantagso de
+sinalizag3o, mobilirio evegetagao.
+
+Passelo: Parte livre da calcada, destinada a circulaga0
+exclusiva de pedestres.
+
+Mobilidrio Urbano: Objetos implantados nas vias e
+espagos piblicos, usados para benefico da populagao,
+tais como bancos, telefones, lixeiras, marquises,
+postes de sinalizagao, seméforos, entre outros.
+
+Inclinagdo Longitudinal: £ a inclinagso de toda a
+calgada acompanhando 0 3ngulo do leito carrocével,
+em que esté inserida. E imprescindivel que a calcada
+seja continua, sem a presenca de degraus ou
+obsticulos que impecam a passagem de pessoas com
+deficiencia, dispositivos com rodas, mobilidade
+reduzida, entre outros.
+
+Inclinagio Transversal: £ a inclinagso na faba livve
+das calgadas que serve para o escoamento das aguas
+pluviais, de maneira que n3o aconteca 0 acimulo de
+dgua em melo ao passeio, gerando um ambiente
+seguro para os pedestres. Esta mesma inclinagao, é
+usada na faka de servigo, neste caso comumente
+denominada «rampa de acesso», que garante 0
+acesso dos usudrios a faixa livre.
+
+Caigada Acessivel | mm soopsescgont
+
+ 
+
+CALCADAS
+
+As calcadas fazem parte da via e sa0 destinadas a
+irculagao de pedestres, devendo compor rotas
+acessiveis com dimensoes adequadas e um
+deslocamento fécil e seguro, permitindo a integracho
+entre as edificagdes, os equipamentos e mobiliirios
+urbanos, 0 comércio e os espagos piblicos em geral.
+
+murmumt?
+ui
+
+o#
+
+ 
+
+As calcadas devem atender as seguintes
+caracteristicas:
+
+As calcadas, passeios ou vias exclusivas de pedestres
+devem ter superticie regular, firme, continua, estavel
+e antiderrapante sob quaisquer condigoes
+climdticas, evitando trepidagGes para dispositives
+com rodas;
+
+Local ie de obstculos, com largura recomendada
+de 1,50 m, sendo a minima admitida de 1,20 m e
+altura livee minima de 2,10 m;
+
+As inclinagGes longitudinais devem acompanhar a
+inclinagao do leito carrogével existente, e 6
+obrigatério que 0 passeio seja livee de degraus.
+
+As indinagGes transversais da faixa livre devem ter
+no maximo 3% de angulacao para pisos externos,
+inclinagdes acima de 5% sa0 consideradas rampas.
+J6 as inclinagGes transversais da faixa de servico
+devem ter no méximo 8,33% de decividade.
+
+Para n8o comprometer a inclinago transversal de
+calgadas, passelos e vias exclusivas de pedestres, os
+ajustes de soleiras devem ser executados sempre
+dentro dos lotes ou na faixa de acesso, quando
+possuir largura maior que 2,00m.
+
+Caigada Acessivel | mm soopsescgont
+
+Composicao
+
+Para a realizado de calgadas de diferentes dimensoes é preciso
+
+compreender a sua estruturag$o. Neste capitulo s30 apresentados
+sua constituicao, dimensdes adequadas e usos especificos.
+
+ 
+
+ESTRUTURA (TIPOS DE FAIXAS)
+
+Faixa de servigo: Espaco destinado a implantagso de rampas de acesso tanto
+de velculos como de pessoas com deficiéncia, drvores, sinalizagdo de transito,
+postes de iluminagao e mobiligrio urbano, como bancos, telefones, lixeiras e
+floreiras,
+
+Faixa livee: Area da calcada reservada especialmente para & circulagdo de
+pedestres, devem ser totalmente desobstruidas e isentas de interferéncias.
+
+Faixa de acesso: £ uma drea de apoio a propriedade, localizado em frente ao
+imével ou terreno, que pode conter rampas, propagandas, toldos, vegetagoes
+e/ou mobilidrio, como floreiras e mesas méveis, desde que ndo impecam seu
+acesso.
+
+hy + 4
+
+ 
+
+  
+  
+
+ 
+
+Faba de servico —
+Rampas de acesso,contaros,
+places desinaleacdo postes de
+uminagte e mobiiGris urbanos
+
+ 
+
+       
+
+Faia de fabade
+Senio Fatalire Acsso
+
+       
+
+oo
+
+    
+ 
+
+  
+
+  
+
+Melofforebatado
+
+Exemplo de estrutura da calgada (servigo + lvre + acesso)
+
+ 
+
+ 
+
+ 
+
+Fabka livre —— Fabka de atesso ——
+Greulagto de pedestes| | Areadeapoloapropdedade /. |
+| | |
+
+  
+
+Calgada Acessivel | mmsoopsescgovtr
+
+DIMENSIONAMENTO
+
+ima entre 1,20m e 1,50m:
+i estudar a possiblidade de ampliado. Se n3o houver possibilidade, a
+calcada deve apresentar acessiblidade total em pelo menos um dos lados da via.
+
+ 
+ 
+
+Calgada 2 1,90m:
+Recomenda—se ainserc8o de falxa de servico, minima de 0,70 m, e obriga—se a faixa
+livre, minimade 1,20m.
+
+Calgada 22,30m:
+E possivel ainsergdo das trés faixas:falxa de acesso, falxa livre e faixa de servigos.
+
+    
+   
+
+    
+
+Snalzagto
+
+ 
+ 
+
+Incinaglo
+mbess
+
+Alrhamentopredal
+
+  
+ 
+
+Caneiro
+
+ 
+
+ 
+
+ 
+
+i
+
+ 
+
+arom 120m
+
+120m
+Larpur dacaada
+
+Exemplo de calgada minima
+entre 1,20m e 1,50m.
+
+Exemplo de calgada 2 1,90m
+(faixa de servigo + fabxa livre).
+
+Inclinages:
+
+1. Na faixa livre, ainclinagdo longitudinal das calcadas deve sempre acompanhar a
+inclinagao da via adjacente, sem a presenga de degraus que impegam a circulago
+s pessoas com deficiéncia ou dispositivos com rodas. J4 a inclinago transversal
+desta faixa, ndo deveser superior a 3%
+
+2. Nas faixas de acesso e servico, a inclinagko transversal da calgada pode ser de
+até 8,33% de caimento, equivalendo a proporg30 de 1/12, diferentemente das
+rampas de dentro do lote, que servem para vencer 0 desnivel entre 0 passeio e a
+edificagho.
+
+    
+
+luminagl
+
+  
+
+Alntomenta predal
+
+ 
+ 
+
+Cantero
+
+ 
+
+Exemplo de calgada 2 2,30m
+(faixa de servigo + faixa livre + falxa de acesso).
+
+Caigada Acessivel | mmsoopsescgovtr
+
+ 
+
+Caminhabilidade
+
+Para 0 deslocamento de pessoas entre as diferentes regies da
+
+cidade é importante o uso de elementos que auxiliem seu
+direcionamento. Estes elementos s0 aqui apresentados como
+linhas de orientaga0, sinalizago tatil mudangas de diregao &
+obstdculos.
+
+Caminhabilidade
+DIRETRIZES
+
+Mobilidade é 0 termo usado para designar a locomogao de pessoas entre as
+diferentes regides da cidade, e para isso torna—se essencial a criagao de regras
+para um bom fundionamento das vias publicas, que assegurem e facilitem a vida
+dos cidadaos.
+
+A moblidade urbana esta ligada diretamente a qualidade de vida, e a falta de
+acessibilidade nas calcadas é um problema para muitos pedestres,
+principalmente para pessoas com deficiencia(PCD) ou com mobilidade reduzida.
+
+Para proporcionar uma locomog3o segura e confortavel aos usudrios, deve—se
+seguirasseguintes regras:
+
+1. As calcadas, passelos ou vias exclusivas de pedestres devem ter superficie
+regular, firme, continua, estével e antiderrapante sob quaisquer condigGes
+diméticas, evitando trepidagdes para pessoas com dispositivos com rodas.
+
+2. Percurso Ivre de obstaculos, com largura recomendada de 1,50 m, sendo a
+minima admitida de 1,20 m e altura livre minima de 2,10 m;
+
+3. Uso desinalizagdesfixadas em locais visivels ao piblico que promova seguranca
+eorientag3o aos usudrios;
+
+4. Uso ordenado de obstéculos, como telefones, postes e bancos em locais
+apropriados sem causar risco aos pedestres.
+
+ 
+
+Caminhabilidade
+
+LINHAS DE ORIENTACAO DIRECIONAL
+
+Linhaguia & qualquer elemento natural ou edificado que possa servir de
+refer@ncia para a orientagao direcional por todas as pessoas, especialmente as
+com deficiéncia visual. Para definir claramente os imites da drea de circulagao de
+pedestres, a guia de balizamento pode ser de alvenaria ou outro material
+alternativo, com a mesma finalidade, com altura minima de 5 cm.
+
+ 
+
+Exemplo de calgadas descontinuadas de fachadas ou muretas
+
+ 
+
+Caminhabilidade
+
+SINALIZACAO TATIL
+
+Branco
+Cinza escuro
+Preto
+Marrom
+Pink
+
+Verde
+Laranja
+
+Acul
+Amarelo
+Vermetho
+
+ 
+
+Bege
+
+   
+
+Vermetho
+Amarelo
+A sinalizago tétil de piso é um recurso que auxilia as pessoas com deficiencia Acul
+visual ou baixa visdo, quanto ao seu posicionamento na drea da calgada. Esta Laranja
+sinalizacao podeserdealerta oudirecional. Verde
+Lilds
+0 piso tétil deve possuir contraste de cor e textura com relag30 ao pavimento da Pink
+calcada, para que possa ser perceptivel por pessoas com deficiéncia visual parcial Marrom
+ou total. 0 padrdo recomendado pela Prefeitura de 5&0 José dd—se 0 piso tétil no Preta
+tamanho 45 X 45cm na cor vermelha, por ser claramente identificavel com 0 uso Cinza escuro Aceitavel
+ds lajotas e do concreto cinza claro muito difundido pela cidade, mesmo quando B’S’E‘gz NJ No user
+
+estes estiverem molhados
+
+Para quea composi¢do das cores sejavisivel, necessdrio 0 uso do contraste claro—
+
+escuro,independentedas cores utlizadas.
+
+Piso tatil direcional
+caracteristicas e aplicagoes
+
+Este piso 6 utilizado quando h
+inexistencia oudescontinuidade da linha—
+guia identificavel, portanto serve para
+direcionar as pessoas com deficincia
+visual ou baixa visdo. Esta faixa deve ser
+utiizada em dreas de circulagso em
+ambientes internos ou externos, ou
+quando houver caminhos preferencials
+de circulago e ainda em espagos amplos
+como pragas, sagudes e calcadas. Sua
+instalagdo & sempre no sentido do
+deslocamento das pessoas. Padrdo
+estabelecidopelaABNTNBR16537.
+
+ 
+
+Piso itil direcional consttudo por um
+conjunto derelaws Incores barras\
+
+ 
+
+Tabela de contrastes recomendados
+
+Piso ttilalerta
+caracteristicas e aplicagoes
+
+Este tipo é utilizado para alertar as
+pessoas, situagées que envolvam risco
+de seguranca permanente ou desniveis.
+S8o usados na identificagao de travessia
+de pedestres, mudangas de dirego ou
+opgSes de percursos, infcio e término de
+rampas, escadas fixas, escadas rolantes,
+junto a porta de elevadores e desniveis
+de plataforma, palco ou similares, para
+indicar risco de queda. Sua instalagso é
+sempre perpendicular a0 sentido de
+deslocamento. Padrdo estabelecido pela
+ABNT NBR 16537.
+
+ 
+
+Piso ttilalerta, consttuiio por um
+conjunto e relvestronco cinicos
+(boinhas,
+
+Caigada Acessivel | mm soopsescgout
+
+  
+
+C
+
+MUDANCAS DE DIRECAO
+
+Quando houver a necessidade da mudanga de direcdo ou encontros de camninhos
+no percurso da sinalizagdo ttil de piso, deve—se seguir os pardmetros técnicos
+contidosna NBR 16537 os quais estdo lustrados de forma simplificada a segui
+
+aminhabilidade
+
+Duas direcdes ——
+Paradnguas maloresque 150
+opiso alertanio énecessirio
+
+ 
+
+150° <Xs 180
+
+    
+   
+
+ 
+
+Duay diregbes ——————
+Para dngulos enre90‘ 2150
+deveser uilzadoum conjunto
+compostopor4 psosalerta.
+
+ 
+
+90° s Xs 150°
+
+ 
+
+Exemplos da aplicagdo das mudangas de diregto
+
+ 
+   
+   
+
+Tres diregbes —————
+Deveserutizado um con}
+compostopor6 psosalerta
+
+ 
+
+Quatro direcGes——
+Deveser uilzadoum coniunto
+compostopor9psosalerta
+
+Caminhabilidade
+OBSTACULOS
+
+Telefones
+
+5 telefones inseridos em locas piblicos, necessitam ser sinalizados com piso titi
+de alerta, posicionados 0,60m além da linha de projecso, devido ao fato de
+possufrem um volume superior maior que o valume da base, sendo assim torna—se
+imprescindivel a sua sinalizago para evitar possivels acidentes aos pedestres com
+deficiéncia visual. De acordo com a NBR 9050/15, é obrigatério o uso do piso tétil
+de alerta no contorno da projeg3o dos elementos que apresentem alturas de 0,6m
+a2,10m
+
+Aso it sera
+
+Linh de proeciodo telone
+
+ 
+
+Exemplo da insergdo da linha—guia 2 0,6m da projecdo do telefone
+
+Postes /Placas
+
+Os mobilidrios urbanos existentes nas vias e espagos piblicos, como postes e
+placas, n8o devern impedir a circulag3o nas calgadas, e quando posicionados nas
+esquinas ou préximo delas, prejudicam a intervisibilidade entre pedestres e
+veiculos e comprometem 0 deslocamento das pessoas, em especial aquelas com
+deficienciaounobilidadereduzida
+
+As placas e postes ndo devem ser sinalizados com piso tétil de alerta, pois n3o
+possuem uma diferenciago de tamanho e largura e portanto s8o obstdculos
+detectaveis por bengala.
+
+ 
+
+NGo h sinalzagto em
+abstécules sem dferenca
+e tamanho elorgura
+
+ 
+
+Caigada Acessivel | mm soobsescgout
+
+Camin'habilidade
+OBSTACULOS
+
+Abrigos para embarque e desembarque de transporte coletivo
+
+Os abrigos devem obrigatoriamente possuir acessibilidade para pessoas
+portadoras de deficiéncia, sendo que n3o pode haver interferéncias na crculag30
+dos pedestres e na conexd0 entre vefculo e usudrio. Se 0 abrigo estiver em um
+local alto, ou plataforma elevatoria, deverd conter uma rampa de acesso. 0 piso
+tatil e alerta deve estar localizado a 0,50m da guia, em toda sua extensa0, sendo
+que a falxa de piso tatil deve conter 0,40m. Os abrigos devem conter pelo menos
+umespago de 0,80m x1,20m para que se possa acomodar uma cadeira derodas.
+
+Eimportante destinar junto aos bancos situados em rotas acessiveis um local
+livre para o usudrio de cadeiras de rodas, com largura minima de 0,80m e
+comprimento de 1,20m, de modo a n3o interferir na circulagso.
+
+Acesso a escadarias
+
+De acordo com a NBR 16537/16 existem diversas formas de usar o piso tatil em
+escadas. Estas devem possuir sinalizag3o no seu comego e fim, e caso haja uma
+abertura no patamar, este também deve apresentar piso tatil alerta nas
+extremidades. Além disto, se houver patamares com quebra, também ha a
+necessidade de alerta.
+
+ 
+
+ 
+
+Pavimentacao
+
+A pavimentago deve possulr caracteristicas que garantam que
+qualquer pessoa possa se movimentar com total autonomia e
+independéncia. Sendo assim, s8o aqui apresentados os materiais
+adequados e 0 modo correto de execuga0.
+
+Pavimentacs
+CONCEITOS E DIRETRIZES IMPORTANTES
+
+Na circulagao horizontal deve—se garantir que qualquer pessoa possa se
+movimentar, na pavimentagao onde se encontra, com total autonomia e
+independéncia. Para isso, os percursos devern ser livres de barreiras, e atender as
+caracteristicas referentes a pavimentag3o adequada.
+
+Os pisos devem atender as seguintes caracteristicas
+
+1. Possuir superfice regular,firme, estavel e antiderrapante sob qualquer condigio,
+ndo provocar trepidacdo em pessoas usando carrinhos de bebé ou cadeiras de
+rodas;
+
+2. Os materiais a serem utlizados devem apresentar caracteristicas de durabilidade
+minima de cinco anos e resisténcia suficiente para suportar o fluxo dos pedestres &
+veculos nos acessos a garagens e estacionamentos. A colocagao dos pisos deve
+respeltar as tipologias d existentes, mantendo as caracteristicas do entorno.
+
+ 
+
+TIPOS DE PISO
+
+Caracteristicas fisicas:
+
+1. Ladrilho hidrdulico: Placas de concreto com 0 minimo de textura (iso ou com
+desenhos pouco profundos) e rejunte fino ou junta seca, assentadas com
+argamassa sobre base de concreto, de alta resisténcia ao desgaste. Desde que
+respeitadas suas caracteristicas possul uma boa durabilidade. Apresentam uma
+amplavariedade de cores,texturas e formas
+
+2. Placa de concreto: Placas pré—fabricadas de concreto com 0 minimo de textura
+(liso o com desenhos pouco profundos) e rejunte fino ou junta seca, que podem
+ser fixas no solo ou méveis. Possuem diversas cores e aceitam acabamentos
+superficiais. Altamente durdveis e antiderrapantes s&o produzidas com
+dimensoes diversas
+
+    
+
+Placa de concreto sem textura
+
+Ladritho hidrdulico com pouca textura
+
+  
+
+Sitks.— &
+Intertravado sem chantros nas juntas
+
+  
+
+Concreto moldado in foco
+
+3. Concreto moldado in loco: Produzido na prépria obra, normalmente liso mas
+com acabamento abrasivo e poroso, pode ser fabricado com uma grande
+variedade de texturas e cores, obtidos com formas para estampagem e
+endurecedores de superficie coloridos
+
+4. Pavimento permedvel de concreto: pavimentos dotados de estrutura porosa,
+onde ocorre a detencdo tempordria das guas pluviais. Podem ser executados de
+tres maneiras, com placas de concreto, com blocos intertravados e concreto usinado
+moldado n loco. 0 ipo de material aplicado afeta na forma como a 4gua éabsorvida
+
+Materiais utilizados (adequados einadequados):
+
+Os materials adequados consistem em placas de concreto lisas e antiderrapantes,
+que no devem possuir desenhos, pisos drenantes com junta seca, ladriiho
+hidrdulico, pisos intertravados sem chanfros e concreto moldado no local. J4 os
+pisos que ndo devem ser utilizados s30 aqueles escorregadios, rregulares, com
+texturas que geram trepidagho, e com padronagens contrastantes. Todo esse
+cuidado para que n3o haja dificuldade no andar da pessoa com deficiéncia
+
+Intertravado com chanfros nas juntas .. Bloco intertravado com muito contraste
+
+ 
+
+Caigada Acessivel | mm soopsescgoutr
+
+Pavimentagao
+
+RECOMENDACOES PARA EXECUCAO
+
+Queprofissionais contratar?
+
+Eimportante contratar profissionais da rea da construgdo civil que irdo realizar 0
+projeto da calgada dentro das dimensGes legalmente indicadas, prevendo a
+implantag3o de guias titeis e rampas de acesso quando necessdrias, realizando a
+definigdo de materiais a serem utlizados, e a presenga o n3o de mobiidrio
+urbano e vegetagd0, a fim de garantir um passeio livre de obstculos e dentro das
+normas de acessibilidade.
+
+Desvio para pedestres
+taguraminmade120m
+
+   
+
+Exemplos corretos de obras em calgadas
+
+Como utilizar avia durante a obra?
+
+As intervencGes realizadas na calada devem ser devidamente sinalizadas e
+isoladas, assegurando aos pedestres a largura minima de 1,20m para
+circulaglo, conforme resolugao 690/17 CONTRAN. Do contrario deve—se realizar
+desvio pelo leito carrogével da via, dispondo de rampa provisoria, com largura
+minima de 1,00m e inclinagdo maxima de 10%. Além disso, 6 importante que
+durante as obras as tampas das concessiondrias (rede de esgoto, telefone e agua)
+fiquem lvres para visita e manutencdo, que os materials e entulhos gerados pela
+obra n3o fiquem no passeio e que o tapume ndo avance mais do que metade da
+largura da calgada.
+
+   
+
+Exemplos corretos de obras em calgadas
+
+Caigada Acessivel | mmsoopsescgovtr
+
+CaigadaAcessivel | mmisogsescgoutr
+
+As travessias de pedestres nas vias publicas, com circulagho de
+veiculos, podem ser feitas através de elementos construtivos
+diversos. Estes elementos s80 aqui caracterizados como
+rebaixamento de calgada, estreitamento da via através do
+alargamento de calgadas e mesmo 0 deslocamento em nivel
+através de faixas elevadas
+
+REBAIXAMENTO PARA CALCADAS LARGAS
+
+0 rebaixamento das calgadas 6 um artificio utilizado para melhorar 0
+deslocamento dos pedestres, principalmente aqueles que possuem mobilidade
+reduzida, garantindo conforto e seguranga na travessia. & importante que 0
+rebaixamento seja feito junto a faixa de travessia, de forma a garantir a
+continuidade do trajeto, exceto quando 0 passeio possuir alguma caracteristica
+queimpossibilite sua realizagdo, como a presenca de declives e/ou obstdculos n3
+removiveis. Em calgadas com 3,00m ou mais de largura, pode—se utilizar um
+rebalxamento parcial da calgada como no exemploilustrado nesta se 30. Salienta—
+se que este mesmo rebaixo é utilizado no acesso a vagas de estacionamento para
+pessoas com deficiEncia, garantindo circulag3o da faixa adicional a calcada
+
+A
+
+* Arampa deveconter piso tétl de alerta
+ofestado5Ocm doseuinicio;
+
+* A rampa deve conter piso tatil =—>
+direcional que oriente o pedestre até 0
+linho—guiamaisproxima;
+
+* Oacessoda rampa deveser construido
+nadirecho do fluxo de pedestrese paralelo
+aoalinhamento dafairade travessi;
+
+# A rampa principal deve conter uma
+
+largura minimace 1,50me umaiindinagto
+
+méima de 8,33%, de acordo com a NBR {
+
+sosons; \ —
+
+# As rampas das abas laterais também |
+devem possuir inlinagao mdxima de (4 3
+833% e ndo podem apresentar cantos (
+sallentessabre onivel o passeio.
+
+ 
+
+ 
+
+ 
+  
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Linhaguia |
+& alntamento do imb
+& excparede /muro Imurcta
+C e
+y ©
+s _6 a|€
+2°2 HB
+& ~\f
+Meiosio _5 *
+f m
+Fabka de pedestres
+Via
+
+Piso titil direcional
+Pso drecionalseque até
+Inha guia eustente
+
+Abas laterals
+
+Abas lateris davem
+possulr mestma inclnacto
+da rempa prindpa
+
+Piso titil alerta
+Aso aletmem tode a
+lagur doreboio
+
+Rebaixamento para calgadas largas
+
+Linha—guia
+4pnredeymumymx}:as)
+
+   
+
+| imesoojosescgpubr
+
+Caigada cessiv
+
+RAMPAS PARA CALCADAS ESTREITAS
+
+Quando a largura da calgada n3o pode comportar rampa e faixa livre com
+dimensdo minima de 1,20m, é necessario que seja feito orebaixo total do passeio,
+cujo tamanho corresponderd a largura da faixa de travessia, ou, a dimensao
+minima de 1,50m. As rampas laterais devem possuir inclinagao menor ou igual a
+833%, de acordo com a norma ABNT NBR 16537/16. 0 rebaixo central deve
+possuir sinalizagdo de piso tétilalerta a 0,50m do meio—fio, e apresentar inclinagdo
+méxima de 3%,a fim de garantir 0 escoamento pluvial.
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Tnhaguia
+s .€|
+§.6 Calgada
+&
+2150m en Wesie
+Va
+Rebaixamento para calcadas estreitas
+Piso tétil direcinal — — Piso tatil alerta
+Pio drecional seque até | Pio aleta em toda a
+lnha guin eistete largura d calcodo |
+| Linha—guia
+(poredesmurosimuretes) |
+
+ 
+
+Piso titil alerta —
+Pisilaleto em todo a
+Torgita io rebaio
+
+Rampas laterais— _
+
+ 
+
+Asrampos bteras dvem
+possur lagure Ieoal a da
+
+Eagode e inclnacto s B3a%
+
+ 
+
+Calgada Acessivel | mmisoopsescgovbr
+
+RAMPAS DE ESQUINAS
+
+Alocagdo do rebaixamento de calcadas nas esquinas, ndo deve interferir no raio
+degiro dos veiculos enem permitia travessia dos pedestres em diagonal
+
+0 acesso principal deve ser efetuado sempre alinhado ao estremo da faixa de
+travessia de pedestres e oposto ao prolongamento do meio—fio da via transversal.
+As rampas devem ser implantadas em ambas as extremidades da faka de
+travessia de pedestres, de forma a garantir a continuidade do percurso dos
+usudrios.
+
+  
+
+ 
+
+ 
+
+Disposiho corretados
+
+Rebahas iihados oo fino de pedestes
+
+ 
+
+ 
+
+RampaAcesso Passelo —
+Pérmiteuma devagto suave desde
+aviarebaiadaatéopasseo
+
+Faixa de Pedestres
+Afaradepedistresetemina
+ofurode pasagemsabre av
+
+ 
+
+ 
+
+Disposigio incorreta dos
+Rebaivosesainhades oo flrodepedestres
+
+ 
+
+ 
+
+Linha—guia ;
+(poredesimurosmuretas) |
+
+Caigada Acessivel | mm soopsescgoutr
+
+RAMPAS NA LARGURA DA FAIXA DE PEDESTRE
+
+Sempre que possivel é recomendado estender 0 rebaixamento por toda a largura
+da faixa de pedestres. Geralmente utiiza—se este tipo de estrutura em locais de
+grandefluxo depessoas.
+
+t Abas laterais
+Abas ateras devem
+
+—possiir mesma incnagto
+
+AN — da rampa prinaioa
+
+   
+
+ 
+
+c
+
+2120m g
+
+ 
+  
+ 
+
+Linhaguia
+alnhament do imove
+
+ 
+
+excparedeImuro/ murca
+
+ 
+
+tm (080m,
+
+ 
+
+ 
+
+ 
+
+&
+3|
+
+Piso titil direcinal
+Pio drecionalseque até
+lnha guia evstente
+
+ 
+
+Rampa na largura da faixa de pedestre
+
+Linhaguia
+predestmurostmurets
+
+ 
+
+Piso ttil alerta
+An alerto em todo a
+Jorgura do rebato
+
+ 
+
+ 
+
+Calgada Acessivel | mtsoobsescgovtr
+
+RAMPAS COM ESTREITAMENTO DA VIA
+
+0 alargamento da calcada é permitido em esquinas, locais proibides para 0
+estacionamento de veculos de acordo com 0 Cédigo Brasileiro de Transito. Desta
+forma, os pedestres tem maior visibilidade dos veiculos, assim como s&o vistos
+mais faciimente por eles. Balizas e canteiros garantem a seguranca e orientaso
+de todos. Além disso, 0 alargamento diminui 0 tempo da travessia de pedestres e
+comisso dd maisfluidezaotréfego de verculos
+
+) _oncne —
+
+ 
+
+ 
+
+ 
+
+ 
+
+   
+
+ 
+
+is Aomade okeh 3 s
+ga i sobre a via gs
+C3
+5 8 5
+
+Fabade
+
+Nebto
+
+Rampas com estreitamento da via
+
+Faixa Avangada Linha—guia
+PossibiraBaumento dalergura (poredestmurosmures
+dascalgadas em pontsespecfcos
+
+ 
+
+Rampa Acesso Passelo
+Pertelimg dlevacto suove desde
+aviarébaradactéo passeio
+
+Calgada cessivel | mm soopsescgorbr
+
+FAIXA ELEVADA
+
+As faixas elevadas so sugeridas para locais de travessia, em que se deseja
+incentivar a circulagdo de pedestres, como pontos comerciais e espagos
+exclusivamente residenciais. A sinalizagao tatil das faixas elevadas deve atender
+aos seguintes critérios:
+
+Alerta: Estar fixada a 0,50m do meio—fo acompanhando toda a extens0 da faixa
+de pedestres;
+
+Direcional: Ser posicionada junto a sinalizagao tatil de alerta, fazendo a ligago
+desta com alinha—guia mais préxima, para encaminhamento dos pedestres
+
+Rampa Fabxa elevada =~
+Rampa para passagem de vkivos 1
+mds
+
+Plataforma elevada ;
+Elevagto do via pora posstiltar . | |
+umatransi¢to enire as calgadas
+
+em mesmo nie!
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Linhaguia
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Rampa na largura da faixa de pedestre
+
+Piso titil direcinal ————————— Linha—guia —
+Piso drecional seque até (poredesimuresrurews)
+liha guia exstente
+
+Piso titil alerta—
+Pfibolect em todo a
+Jorgura dod@b@dapedesres
+
+ 
+
+ 
+
+   
+   
+
+ 
+
+Calgada Acessivel | mmsoopsescgovtr
+
+CaigadaAcessivel | mmisogsescgoutr
+
+s acessos de vefculos situados nas vias publicas devem ser feitos
+através de elementos construtivos. Estes elementos s30 aqui
+apresentados como rebaixos do melo—fio e rampas para acesso a
+postos de gasolina e similares.
+
+ 
+
+Entrada de Veiculos
+
+REBAIXO PARA ACESSO DE VEICULOS
+
+0 rebaixamento do meio—fio tem se comprimento de rampa ditado por sua
+altura. Desta maneira, 0 acesso de verculos na calgada deve respeitar a proporg30
+databela abaixo:
+
+Rampa para acesso de velculos
+comprimento da rampa = 1,5 x altura
+
+Alura meiofio () Comprimento da rampa (U
+
+10cm 15 cm
+1scm _ ~225 n _
+17.cm 255 am
+20cm 30 cm
+
+* Conforme Lein® 160571985, Arvgo 82e
+Incso § 23 fiea defiid que em qualquer
+usoouatvidade,asrampas e acessopara
+veiculos deverdo obedecer recuo de 2,00m
+a parti do alnhamento do terreno, com
+indinagho mdxima de 20%. (Redacto doda
+pelatein37502001)
+
+# Para os rebairos de veiculos, devese
+obedecer 0 dimensionamento da tabela a
+sequir
+
+Larguras para rebaixo de veiculos
+25m |Para residéncios geminadas
+3m | Para atender até 30 vages*
+Sm |Pora atender de 31 a 60 vagos*
+6m |Pora atender mais de 60 vagos*
+* Vagos deestacionomento.
+
+ 
+
+ 
+
+ 
+
+Figura ... Rebaixo para acessos de veiculos.
+
+Linhaguia
+_ We <
+w
+
+aire d meo t
+
+h=
+
+   
+
+ 
+
+Vegetagcao
+
+& importante para a melhoria da qualidade urbana a implantagso
+de drvores nas calcadas. Sendo assim, s8o apresentadas aqui as
+dimensoes minimas e os tipos de vegetagao mais adequados para
+a aplicagao em passeios.
+
+A vegetacao contribui para minimizar a poluicdo atmosférica e sonora,
+contribuindo no sombreamento das dreas, e mantendo uma temperatura mais
+agradavel para os pedestres. A escolha correta das &rvores deve levar em
+consideracao a interferencia destas sobre a rede de Agua e esgoto, a rede elétrica,
+o calgamento das ruas ea irculag 30 de pedestres ecarros.
+
+Para facilitar a etapa de seleq30 das drvores adequadas para plantio nos canteiros
+sobre as calcadas e vias, é recomendado consultar a Fundagao Municipal do Melo
+Ambiente e Desenvolvimento Sustentével (FMDAS).
+
+Exemplo de calgada com canteiro
+
+ 
+
+ 
+
+Exemplos Praticos
+
+E indispensivel para o entendimento a demostragdo de exemplos
+que ocorrem no municipio. Desta forma, aqui so expostos grafico
+e textualmente solugoes adequadas de calgadas para casos
+incorretos e situagoes atipicas.
+
+Exemplos Praticos
+
+PROBLEMAS E SOLUCOES
+
+Proporcionar espagos de qualidade aos pedestres & uma das principais metas dos
+projetos de qualificagdo urbana nas cidades.
+
+Sendo assim, este guia determina as referéncias mais relevantes sobre a
+construgdo de calcadas que atendam as necessidades do planejamento urbano, e
+de infraestrutura de qualidade para os pedestres, apresentando as mudangas das
+normas de sinalizag3o de calcadas com exposicdo grafica e textual de solugoes
+para casos reais que necessitem da aplicaco dos parametros, evidenciando as
+vantagens daimplantagao correta dos elementos
+
+— Problema
+
+ 
+
+A continuidade ds calgodas éuma
+coracteritica fundemental pore a
+acessibiidade. 0 acesso vicular e
+
+mesmo de pedestres aos otes em locas
+
+com rues muto indnadas, agumas
+veres pode provwcer a descontinuidade
+do fuxo d calsode.
+
+Solugio
+
+0s acess devem ser previtos no
+mamento do projet, tanto quents 0
+desenho da caada adjacente. Se ndo
+hourer a possibidade de maner a
+innagto contiua do percurso,devese
+fazer os gjuses tont no alnhamento
+do passei, quanto dentro do loe
+
+ 
+
+Nivelamento corretivo
+
+ 
+
+Problema
+
+A utieagt de po it do tpo
+irecional, em uma cigada pouco
+descontnuade é desnecessdr. Um pio
+trepidante, com ranhuras e frsos
+salentes, ndo daveser empregodo. 0
+rebabo para vekules ndo deve aterar 0
+passeio e nem nvade a rea do sorew
+
+Solugio
+
+0 pso titl drecinal pode ser
+empregodo nosfasas em que aInho:
+gua é descontinuada. Am dito, a
+utleagto de po adequodo e rebaso
+parn veicues conforme as normas
+vigentes, trmam as caladas mas
+fimpas de informagtes e mais ccessie‘s
+
+Configuragdo mais limpa e eficiente
+
+... ammmmmmmmmmm.....«. BrORI0NIS
+
+Autiizagdo de grmodos ou blcos do
+t toncregrama" noo se enquactom
+como pavimentagto reguar e
+antiderapante. Eistem tpos de pisos
+absorventes que favorecem ainfiroxdo
+dda dgua clém de possur coracteriticas
+faverdvis a acessibiidade dos passeios.
+
+— Solugo
+
+Come vite no capttle que trt da
+Pavimentagdo, 0 tpo de materal
+uleado pora recabir a calgada deve
+possur superfce requar e
+antidempante. A acessbiidede dove ser
+preservada sem que on trepidagtes ou
+descontinuidades na superf¢ie do piso
+
+y
+Substituigdo por pisos mais favordveis
+
+Caigada Acessivel | mmsoopsescgovtr
+
+CaigadaAcessivel | mmisogsescgoutr
+
+Na realizacho de projetos de calgadas é importante conhecer as
+diferentes dimensGes dos varios usudrios em potencial. 5o
+apresentados aqui as dimensoes minimas de circulagso de
+pedestres, idosos e pessoas com deficiéncia (PCD).
+
+DIMENSOES ANTROPOMETRICAS
+
+Na elaborag3o de projetos arguitetonicos e urbanisticos, & importante considerar
+as diferentes limitagdes do homem. As orientagoes a seguir referem—se a alguns
+padroes adotados para atender a necessidade da diversidade humana
+
+ 
+
+Pessoas com deficigncia ou mobilidade reduzida: Devido a adversidade
+humana e suas limitagGes, pessoas com deficiéncia se deslocam, em geral, com a
+ajuda de equipamentos auxiliares, como por exemplo: bengalas, muletas,
+andadores, cadeiras de rodas ou com ajuda de ces guias treinados, no caso de
+pessoas com deficiéncia visual. Por isso, 6 necessdrio considerar 0 espago de
+circulag o juntamente com 0s equipamentos que as acompanham.
+
+bualys
+
+120m 08tm 00m 030m
+
+ 
+
+ 
+
+| I | | I
+Mueus Bengal deapco Woles '— Ghogue
+
+Dimensses referenciais para destocamento de
+pessoas com muletas, bengala e cao—guia
+
+DimensGes bdsicas de cadeiras de rodas: O modulo de projeg3o da cadeira de
+rodas com seu usudrio (médulo de referéncia: 0,80 x 1,20m) é 0 espago minimo
+necessério para sua mobilidade. Sendo assim, deve—se considerar ainda o espago
+demandado para movimentagdo, transferencias e rotagao da cadeira de rodas.
+
+As medidas necessdrias para o deslocamento em linha reta de pessoas em cadeira
+derodas s8o:
+
++ 80cmpara umapessoaem cadeiraderodas;
+
++~ 1,20m a 1,50m paraumpedestree umapessoa em cadeira de rodas;
++ 1,50m a 1,80m paraduas pessoas emcadeiras de rodas.
+
+L M
+
+00m 150m 180m
+
+I I I
+Uma pessosen Un pessoa emcadera uas pessoas en cadeiras derodas
+
+caderde rodas e rodas mais um pedeste
+
+Dimensio para destocamento em linha reta com 0 uso de cadeira de rodas
+
+Caigada Acessivel | mm soopsescgontr
+
+ 
+
+LEIS E NORMAS
+
+Legislagao Municipal:
+
+Lei n° 1.605, de 17/05/1985 — DispGe Sobre 0
+Zoneamento de Uso e Ocupagao do Territério do
+Municipio de S3o José — SC.
+
+Lei Ordindria n° 5§47/2016, de 04/02/2016 — Cria o
+projeto 5&0 José acessivel e dé outras providencias.
+
+Legislagao Estadual:
+
+Lei n° 17.292, de 19/10/2017 — Consolida a
+legislag&o que dispGe sobre os direitos das pessoas
+com deficiencia.
+
+Legislacao Federal:
+
+Lei n 7.405, de 12/11/1985 — Torna obrigatéria a
+colocagdo do ‘Simbolo Internacional de Acesso" em
+todos s locais e servigos que permitam sua
+utilizag&o por pessoas portadoras de deficiéncia e dé
+outras providencias.
+
+Resolugao n° 690, de 28/09/2017 — Aprova 0 Volume
+V — Sinalizagdo tempordria, do manual brasileiro de
+sinalizago de transito.
+
+Lel n° 9.503, de 23 de setembro de 1997 — Codigo
+Brasileiro de Transito.
+
+Lei n° 10.098 de 19/1272000 — Estabelece as normas
+gerais e critérios basicos para a promogao de
+acessibilidade das pessoas portadoras de deficiéncia
+ou com mobilidade reduzida, e da outras
+provid€ncias.
+
+Lel n° 13.146, de 06/07/2015 — Institui a Lei
+Brasileira de Inclusso da Pessoa com Deficigncia
+(Estatuto da Pessoa com Deficiéncia).
+
+Decreto n° 3.298, de 20/12/1999 — Regulamenta a
+Lei7.853 de 24/10/1989, dispde sobre a Politica
+Nacional para a Integragdo da Pessoa Portadora de
+Defici@ncia, consolida as normas de protegso, e dé
+providencias.
+
+Normas Técnicas:
+
+NBR 9050/2015 — Acessibilidade a Edificages,
+Mobilidrio, Espagos e Equipamentos Urbanos.
+
+NBR 1653772016 — Acessibilidade — Sinalizagso tatl
+no piso — diretrizes para elaboragdo de projetos e
+instalagho.
+
+Caigada Acessivel | mm soopsescgont
+
+ 
+
+DUVIDAS FREQUENTES
+
+Linha guia, o que 62 E o que deve ser feito
+quando n&o houver?
+
+R.: Qualquer elemento edificado acima de 5 cm jé é
+considerado uma linha guia, como muros e
+canteiros. Quando n3o houver a presenca destes, 6
+necessfria a utlizacio do piso tatil direcional, para
+gular a continuidade do passelo as pessoas com
+necessidades especiais.
+
+Como executar calcadas em terreno de esquina?
+
+R.: Por ser um espago de intensa circulagso e parada
+de pedestres, a esquina 6 0 principal ponto da
+calgada, por isso, deve ser um local ivre de
+obstdculos. Além disso, toda calgada em terreno de
+esquina deve apresentar rebaixamento em rampas
+com largura de 1,50m e abas laterais com largura de
+0,50m construidas junto a meio—fio. & em
+determinadas situagGes, a calcada pode ser alargada
+nas esquinas, de forma a reduzir 0 espago de
+passagem de veculos e aumentar 0 espago dos
+pedestres, apenas mediante aprovagso da
+Prefeitura.
+
+0 que estabelecer no projeto de calgadas
+estreitas?
+
+.: E preciso buscar um profissional responsivel na
+prefeitura da sua cidade e se informar sobre o que
+pode ser feito. Deve—se sempre pensar que 0
+importante é ter a faixa livre de ciculaga0, dentro
+dos padrbes definidos. Desta maneira, a prefeitura
+deve emitir um parecer sobre a sua obra.
+
+0 que s0 pisos trepidantes? E qual tipo de piso eu devo utilizar?
+
+R.: S3o tipos de piso que possuem irregularidades ou texturas em sua
+superficie, e por essas caracteristicas geram algum tipo de risco aos
+pedestres, como dificuldade de mobilidade de idosos, pessoas deficientes,
+gestantes, mies com carrinhos, etc.
+
+Como proceder quando a calgada possuir obstaculos de largura
+constante, como placas/postes?
+
+R: Ao redor de obstéculos de largura constante, como placas e postes n3o
+se deve colocar piso podottil alerta, pois os pedestres que possuem
+
+deficiBncia visual entendem 0 elemento com 0 uso da bengala e n3o s30
+
+surpreendidos por nenhum objeto suspenso. No entanto, se houver C
+qualquer elemento suspenso em altura menor que 2,10m a calgada deve
+
+apresentar sinalizagao alerta.
+
+Como executar a calgada se a minha rua é inclinada?
+
+R: Em ruas inclinadas a calgada deve acompanhar a mesma inclinagso da
+rua, tanto na transversal como na longitudinal. A faba de circulag30 deve
+possuir largura minima de 1,20m e as rampas de acesso de veculos devem
+ser executadas dentro do lote, passados 2 metros da linha do terreno. &
+importante que a calgada de cada edificagao apresente continuidade com as
+calgadas dos terrenos vizinhos, de modo que ndo se crie nenhum tipo de
+barreira ou degrau. 0 pedestre deve ser privilegiado.
+
+Caigada Acessivel | mm soopsescgont
+
+DUVIDAS FREQUENTES
+
+Tenho a obrigagao de executar muro e calgada Para limpeza e corte de mato crescendo em guia/sarjeta, qual nimero
+em frente ao meu imovel? A falta de calgada e eu devo ligar?
+
+q
+murofrontal pode gorar nutineadt #: Aresponsabilidade de manter as calcedas limpas e em bom estado é do
+
+R.: De acordo com a Lei n° 2.766 de 09/05/1995, Art. proprio proprietdrio, no entanto a Prefeitura possul o programa Cidade
+
+1° os proprietdrios ficam obrigados a construir Limpa em que equipes da Secretaria de Infraestrutura fazem a limpeza de
+passelo ou calgada na fachada de seus iméveis, onde calgadas, guias e sarjetas de toda a cidade, realizando a rogagem de mato.
+a Prefeitura tenha colocado guia o melo—fo, no Secretaria de Infraestrutura — Telefone: (48) 3281—6700.
+
+prazo mdximo de sessenta dias. Segundo 0 Art. 4° da
+
+mesma Iei, o ndo cumprimento das determinagoes Posso depositar entulho na calcada? Ou material de construgao?
+
+incidirso em mukta, que serd aplicada ao proprietério
+pela municipalidade, de acordo com a legislag3o em
+vigor.
+
+R.: A calcada foi felta para o livre transito de pedestres, e apesar de ser
+responsabilidade do proprietrio, ela é parte da via piblica e n3o pode ser
+usada para fins proprios. 0 deposito de entulhos e materiais obstrui a
+Quais os valores da autuagho? utlizagdo do passeio, atrapalhando o fluxo de pedestres, portanto é vedada
+esse tipo de utlizago ao local.
+R.: Conforme a Lei n° 3.123, de 10/12/1997 as
+infragoes pela ndo construgao de calcadas ou pela Tenho um restaurante e gostaria de saber se posso colocar mesas e
+ndo edificagdo de muros, independente dos demais cadeiras na calgada?
+
+di tivos I rtinente téria, serd
+
+inoredo ecoreoraisnc amhs ecchalmes 2 R.: De acordo com a Lei 606 de 30/12/1966 — Cédigo de Posturas, Art. 120, os
+
+To Prop I proprietrios de restaurantes e bares podem ocupar, com cadeiras e mesas
+M a parte da calgada correspondente a testada do edificio desde que fique
+
+Caso nSo regularize a situagho, poderel ser livre para a circulago de pedestres uma faixa de passeio minima de 2,00m.
+
+autuado novamente?
+
+R.; Sim. Segundo a Lel n° 3.123, de 10/1271997, Art.
+1° Em casos de repetico especifica da infragho,
+acarretaré ao infrator a aplicagao de nova multa,
+tantas quantas forem necessdrias, para 0
+cumprimento das exigéncias legais, obedecido os
+critérios de fiscalizacao.
+
+Como as caixas de inspeco devem ser instaladas nas calcadas?
+
+R.: As tampas de grethas,juntas e cabxas de inspecdo, instaladas nas
+calgadas, devem ficar locadas fora da faixa livre de circulaga0, de
+preferencia, e estar niveladas com o piso em seu entorno imediato. E se as
+grethas e juntas forem inseridas na faixa de circulagd, os vsos n3o podem
+ser superiores a 15mm.
+
+ 
+
+Caigada Acessivel | mm soopsescgont
+
+ 
+
+EXPEDIENTE
+
+Prefeitura Municipal de So José
+
+— Adeliana Dal Pont
+Prefeta
+
+Secretaria de Planejamento e Assuntos
+Estratégicos
+— Rodrigo de Andrade
+
+Secretino
+— Norma Warmling
+Secretia Aduinca
+
+Equipe Técnica SEPAE:
+
+— Aline Rachadel Arouca
+Arcuteta e Urbanista / Criagdo de conteddo tetual e griico
+
+— JoGo Alexandre Rodrigues Knoll
+Arguteto e Urbanista / Criaco de conteido / Diagramagio
+
+— julia da Silva Tasca
+Aecuiteta e Urbanista / Ciagho de conteddo textuale gritico
+
+—Jilio Cézar da Silva
+Engenhero Chil/ Suportetécnco
+
+— Luiz Fernando de Aquino
+Arguteto e Urbanista/Suporte tcnico
+
+Secretaria de Urbanismo e Servigos Piblicos (Suporte Técnico e Revisio)
+
+—Matson Luis Cé
+Secretiro
+
+—Michael Pedro Rosanelli
+Secretiro Adjunto
+
+Secretaria de Seguranga, Defesa Social e Transito (Suporte Técnico)
+
+—Andréa Pacheco
+Secretirin
+
+— Vanio Luiz Dalmarco
+Secretiro Adjunto
+
+Secretaria Executiva de Comunicagao Social (Suporte Técnico)
+
+—Fabiano Marques
+Secretino
+
+Realizagao
+
+—Prefeitura Municipal de S&o José
+Avenida Aconi Souza Fiho, 403
+€EP88.103790 — Centro— Sto Jos/SC
+fone: (as) a381—0000
+
+1° Edicio
+margo de 2020
+
+ 
+
+Caigada Acessivel | mm soopsescgont
+
+"Uma boa calcada éaquela que passa despercebida ao caminhar."
+
+—— Foztrans—Institutode Transportes e Trnsito de Foz do Iguagu.
+
+ 
+
+Guia para a construcao da sua calcada
+
+ 
+
+ 
+
+SUMARIO
+
+Apresentagao
+
+Importiincia das calcadas e definigo dos
+responsivels por sua execucdo e conservagho.
+Glossario
+
+Definigtes de termos utiizados nesta apostla.
+
+Calgadas
+
+Definigtes e suas caracteristicas importantes.
+
+Composigao
+
+Consttuico e dimensionamento ds calcadas, além
+da defini¢ao de suas faixas de uso.
+Caminhabilidade
+
+Diretrizes e orientaces para sinalizag3o e ocupagho
+ds calcadas.
+
+Pavimentagao
+
+Uso de materials adequados e 0 modo correto de
+execug8o das calcadas.
+
+Travessia de Pedestres
+
+Caracterizago dos tipos de sinalizagdo e rampas em
+diferentes stuagbes de travessia.
+
+II
+01
+03
+05
+11
+25
+33
+
+4
+
+51
+55
+59
+63
+65
+60
+
+Entrada de Veiculos
+
+Descricio d tipos de rebaixo e acessos de veiculos
+situados nas vias pblicas.
+
+Vegetagao
+
+Caracterizag3o dos tipos adequados de vegetagso e
+
+formas de implantacao sobre as calgadas.
+
+Exemplos Praticos
+
+Exposigto grifica de exemplos reais de calcadas no
+municipio.
+
+Referencial Técnico
+
+Dimensionamento minimo dos diferentes tpos de
+usudrios de calgadas.
+
+Leis e Normas
+
+Bibliografia base para o dimensionamento correto e
+
+sinalizago adequada das calcadas.
+
+Dividas Frequentes
+
+Resolugho de dividas recorrentes sobre as calcadas.
+
+Expediente
+Exposico da equipe técnica que elaborou esta
+cartina.
+
+Caigada Acessivel | mm soopsescgont
+
+
+ 
+
+Secretariada . J@la SAOJOSE
+Casa Civil LCEA PREFEITURA
+
+ 
+
+, SAOJOSE
+asprae 4we prCrET URA
+

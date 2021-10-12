@@ -1,0 +1,303 @@
+
+Prefeitura Municipal da Serra
+Estado  Espirito Santo
+
+DECRETO Nº 7117/2020
+
+O PREFEITO MUNICIPAL DA SERRA, ESPÍRITO SANTO, usando de suas atribuições legais, e com base no artigo 9º inciso I da Lei nº
+
+5.155/2020 de 10/01/2020;
+
+D E C R E T A:
+
+Art. 1º. Ficam suplementadas no orçamento vigente as dotações orçamentárias constante do Anexo I.
+
+Art. 2º. Para efeito das suplementações constante no Artigo anterior, ficam anuladas as dotações orçamentárias, indicada no anexo II.
+
+Art. 3º. Este Decreto entra em vigor na data de sua publicação, revogadas as disposições em contrário
+
+Palácio Municipal, em Serra, em 21 de dezembro de 2020
+
+AUDIFAX CHARLES PIMENTEL BARCELOS
+Prefeito Municipal
+
+LAURIETE CANEVA
+Secretária de Planejamento Estratégico
+
+CRÉDITO ADICIONAL SUPLEMENTAR - ANEXO I - SUPLEMENTAÇÃO
+
+R$ 1,00
+
+CÓDIGO ESPECIFICAÇÃO NATUREZA FR VALOR
+
+02.00.00 COORDENADORIA DE GOVERNO
+
+02.01.00 Coordenadoria de Governo
+
+04.122.0530.2001 Pagamento de Pessoal e Encargos 3.1.90.11.00 1.001.0000.0000 322.000
+
+04.122.0530.2001 Pagamento de Pessoal e Encargos 3.1.90.13.00 1.001.0000.0000 13.000
+
+03.00.00 PROCURADORIA GERAL
+
+03.01.00 Procuradoria Geral
+
+04.122.0530.2001 Pagamento de Pessoal e Encargos 3.1.90.11.00 1.001.0000.0000 358.000
+
+04.00.00 CONTROLADORIA GERAL DO MUNICÍPIO
+
+04.01.00 Controladoria Geral do Município
+
+04.122.0530.2001 Pagamento de Pessoal e Encargos 3.1.90.11.00 1.001.0000.0000 112.000
+
+05.00.00 SEC. ADM. E RECURSOS HUMANOS
+
+05.01.00 Sec. Adm. e Recursos Humanos
+
+04.122.0530.2001 Pagamento de Pessoal e Encargos 3.1.90.11.00 1.001.0000.0000 76.000
+
+06.00.00 SEC. DE PLANEJAMENTO ESTRATÉGICO
+
+06.01.00 Sec. de Planejamento Estratégico
+
+04.122.0530.2001 Pagamento de Pessoal e Encargos 3.1.90.11.00 1.001.0000.0000 95.000
+
+07.00.00 SECRETARIA DA FAZENDA
+
+07.01.00 Secretaria da Fazenda
+
+04.122.0530.2001 Pagamento de Pessoal e Encargos 3.1.90.11.00 1.001.0000.0000 77.000
+
+08.00.00 SECRETARIA DE OBRAS
+
+08.01.00 Secretaria de Obras
+
+04.122.0530.2001 Pagamento de Pessoal e Encargos 3.1.90.11.00 1.001.0000.0000 257.000
+
+09.00.00 SECRETARIA DE SERVIÇOS
+
+09.01.00 Secretaria de Serviços
+
+04.122.0530.2001 Pagamento de Pessoal e Encargos 3.1.90.11.00 1.001.0000.0000 108.000
+
+10.00.00 SEC. TURISMO, CULTURA, ESPORTE E LAZER
+
+10.01.00 Sec. Turismo, Cultura, Esporte e Lazer
+
+04.122.0530.2001 Pagamento de Pessoal e Encargos 3.1.90.11.00 1.001.0000.0000 130.000
+
+11.00.00 SECRETARIA DE EDUCAÇÃO
+
+11.01.00 Secretaria de Educação
+
+12.361.0530.2001 Pagamento de Pessoal e Encargos 3.1.90.04.00 1.112.0000.0000 1.200.000
+
+1 / 3
+
+
+
+12.00.00 SECRETARIA DE SAUDE
+
+12.01.00 Fundo Municipal de Saúde
+
+10.122.0530.2001 Pagamento de Pessoal e Encargos 3.1.90.11.00 1.211.0000.0000 695.000
+
+10.301.0530.2001 Pagamento de Pessoal e Encargos 3.1.90.04.00 1.214.0000.0000 1.395.000
+
+10.301.0530.2001 Pagamento de Pessoal e Encargos 3.1.90.11.00 1.214.0000.0000 100
+
+10.305.0530.2001 Pagamento de Pessoal e Encargos 3.1.90.11.00 1.214.0000.0000 165.000
+
+13.00.00 SECRETARIA DE ASSISTÊNCIA SOCIAL
+
+13.01.00 Secretaria de Assistência Social
+
+08.122.0530.2001 Pagamento de Pessoal e Encargos 3.1.90.11.00 1.001.0000.0000 53.000
+
+14.00.00 SECRETARIA DE MEIO AMBIENTE
+
+14.01.00 Secretaria de Meio Ambiente
+
+04.122.0530.2001 Pagamento de Pessoal e Encargos 3.1.90.11.00 1.001.0000.0000 210.000
+
+15.00.00 SECRETARIA DE DESENV. ECONÔMICO
+
+15.01.00 Secretaria de Desenv. Econômico
+
+04.122.0530.2001 Pagamento de Pessoal e Encargos 3.1.90.11.00 1.001.0000.0000 45.000
+
+16.00.00 SECRETARIA DE DESENV. URBANO
+
+16.01.00 Secretaria de Desenv. Urbano
+
+04.122.0530.2001 Pagamento de Pessoal e Encargos 3.1.90.11.00 1.001.0000.0000 168.000
+
+17.00.00 SEC. DE DIREITOS HUMANOS E CIDADANIA
+
+17.01.00 Sec. de Direitos Humanos e Cidadania
+
+04.122.0530.2001 Pagamento de Pessoal e Encargos 3.1.90.11.00 1.001.0000.0000 112.000
+
+18.00.00 SECRETARIA DE HABITAÇÃO
+
+18.01.00 Secretaria de Habitação
+
+04.122.0530.2001 Pagamento de Pessoal e Encargos 3.1.90.11.00 1.001.0000.0000 89.000
+
+19.00.00 SECRETARIA DE DEFESA SOCIAL
+
+19.01.00 Secretaria de Defesa Social
+
+04.122.0530.2001 Pagamento de Pessoal e Encargos 3.1.90.11.00 1.001.0000.0000 112.000
+
+04.122.0530.2001 Pagamento de Pessoal e Encargos 3.3.90.08.00 1.001.0000.0000 200
+
+20.00.00 SECRETARIA DE COMUNICAÇÃO
+
+20.01.00 Secretaria de Comunicação
+
+04.122.0530.2001 Pagamento de Pessoal e Encargos 3.1.90.11.00 1.001.0000.0000 89.000
+
+22.00.00 SEC. DE POLÍTICAS PÚBLICAS DA MULHER
+
+22.01.00 Sec. de Politicas Públicas da Mulher
+
+04.122.0530.2001 Pagamento de Pessoal e Encargos 3.1.90.11.00 1.001.0000.0000 24.000
+
+23.00.00 SEC. TRABALHO, EMPREGO E RENDA
+
+23.01.00 Sec. Trabalho, Emprego e Renda
+
+04.122.0530.2001 Pagamento de Pessoal e Encargos 3.1.90.11.00 1.001.0000.0000 44.000
+
+TOTAL 5.949.300
+
+CRÉDITO ADICIONAL SUPLEMENTAR - ANEXO II - ANULAÇÃO
+
+R$ 1,00
+
+CÓDIGO ESPECIFICAÇÃO NATUREZA FR VALOR
+
+02.00.00 COORDENADORIA DE GOVERNO
+
+02.01.00 Coordenadoria de Governo
+
+04.122.0020.1171 Implantar e Manter o Prog. Partic. Públ. Privada 3.3.90.39.00 1.001.0000.0000 42.000
+
+06.00.00 SEC. DE PLANEJAMENTO ESTRATÉGICO
+
+06.01.00 Sec. de Planejamento Estratégico
+
+04.122.0070.1284 Serra Mais Você 3.3.90.39.00 1.001.0000.0000 251.000
+
+19.126.0080.2141 Ampliar e Manter a Rede de Fibra Ótica e Rádio 3.3.90.30.00 1.001.0000.0000 87.000
+
+19.126.0080.2141 Ampliar e Manter a Rede de Fibra Ótica e Rádio 4.4.90.52.00 1.001.0000.0000 129.000
+
+19.126.0080.2142 Reestruturar e Manter os Serviços de Banco de Dado 3.3.90.39.00 1.001.0000.0000 91.000
+
+19.126.0080.2145 Aquisição e Manutenção de Equipamentos de Informát 4.4.90.52.00 1.001.0000.0000 80.000
+
+07.00.00 SECRETARIA DA FAZENDA
+
+07.01.00 Secretaria da Fazenda
+
+04.122.0530.2002 Manutenção dos Serviços Administrativos Gerais 3.3.90.39.00 1.001.0000.0000 157.000
+
+04.123.0090.1092 Gestão do Sistema de TI da Fazenda Municipal 3.3.90.39.00 1.001.0000.0000 193.000
+
+11.00.00 SECRETARIA DE EDUCAÇÃO
+
+11.01.00 Secretaria de Educação
+
+12.365.0530.2286 Pagamento de Pessoal e Encargos - Pré-Escola 3.1.90.11.00 1.112.0000.0000 1.200.000
+
+12.00.00 SECRETARIA DE SAUDE
+
+12.01.00 Fundo Municipal de Saúde
+
+2 / 3
+
+
+
+10.122.0530.2001 Pagamento de Pessoal e Encargos 3.1.90.04.00 1.211.0000.0000 695.000
+
+10.301.0240.2205 Ampliar e Melhorar a Qualidade do Acesso na Atençã 3.3.90.30.00 1.214.0000.0000 195.000
+
+10.302.0190.2194 Manter a rede de serviços especializada. 3.3.90.30.00 1.214.0000.0000 150.000
+
+10.302.0190.2194 Manter a rede de serviços especializada. 3.3.90.39.00 1.214.0000.0000 350.000
+
+10.302.0190.2196 Manter e ampliar o sistema de apoio diagnóstico te 3.3.90.39.00 1.214.0000.0000 850.000
+
+10.303.0210.2190 Manter as Ações da Assistência Farmacêutica 3.3.90.30.00 1.214.0000.0000 15.100
+
+13.00.00 SECRETARIA DE ASSISTÊNCIA SOCIAL
+
+13.01.00 Secretaria de Assistência Social
+
+08.122.0530.2002 Manutenção dos Serviços Administrativos Gerais 3.3.90.39.00 1.001.0000.0000 50.000
+
+08.122.0530.2003 Manutenção e Conservação de Bens Imóveis 3.3.90.36.00 1.001.0000.0000 222.000
+
+08.122.0530.2003 Manutenção e Conservação de Bens Imóveis 3.3.90.39.00 1.001.0000.0000 42.000
+
+08.122.0530.2004 Manutenção dos Serviços de Transporte 3.3.90.93.00 1.001.0000.0000 35.000
+
+14.00.00 SECRETARIA DE MEIO AMBIENTE
+
+14.01.00 Secretaria de Meio Ambiente
+
+18.544.0300.1053 Elaborar e Implementar o Monitoramento dos Recurso 3.3.90.39.00 1.001.0000.0000 105.000
+
+14.02.00 Fundo Municipal Meio Ambiente
+
+18.541.0300.1060 Promover a Recuperação de Áreas Degradas e Arboriz 4.4.90.51.00 1.001.0000.0000 119.000
+
+15.00.00 SECRETARIA DE DESENV. ECONÔMICO
+
+15.01.00 Secretaria de Desenv. Econômico
+
+19.571.0310.1019 Implantar no Município o Pólo de Inovação Tecnológ 3.3.90.39.00 1.001.0000.0000 53.000
+
+15.02.00 Fundo Munic. Apoio Ciência e Tecno
+
+19.571.0310.1018 Fortalecer e Manter o Fundo de Apoio a Ciência e T 3.3.90.39.00 1.001.0000.0000 98.000
+
+16.00.00 SECRETARIA DE DESENV. URBANO
+
+16.01.00 Secretaria de Desenv. Urbano
+
+15.451.0330.2107 Manter, Expandir e Modernizar a Sinalização Horizo 4.4.90.51.00 1.001.0000.0000 147.000
+
+15.452.0080.1140 Ampliar a Oferta de Serviços On-line a Serem Dispo 4.4.90.52.00 1.001.0000.0000 129.000
+
+15.452.0330.2105 Fortalecer e Controlar a Fiscalização de Concessõe 3.3.90.39.00 1.001.0000.0000 117.000
+
+18.00.00 SECRETARIA DE HABITAÇÃO
+
+18.01.00 Secretaria de Habitação
+
+16.482.0410.1213 Elaborar Projeto de Regularização Fundiária 3.3.90.36.00 1.001.0000.0000 173.000
+
+18.02.00 Fundo Munic. Habitação de Interesse Social
+
+16.482.0390.2076 Fomentar o Fundo Municipal de Habitação de Interes 3.3.90.39.00 1.001.0000.0000 45.000
+
+19.00.00 SECRETARIA DE DEFESA SOCIAL
+
+19.02.00 Coordenadoria Municipal de Defesa Civil
+
+06.182.0420.2013 Estruturar e Manter o Monitoramento das Áreas de R 4.4.90.52.00 1.001.0000.0000 100.000
+
+21.00.00 SEC. ESPECIAL AGRIC, AGROT, AQUIC. E PESCA
+
+21.02.00 Fundo Municipal de Desenvolv. Rural Sustentável
+
+20.608.0450.2022 Fortalecer os Produtores da Agropecuária, Agricult 3.3.90.39.00 1.001.0000.0000 29.200
+
+TOTAL 5.949.300
+
+3 / 3
+
+

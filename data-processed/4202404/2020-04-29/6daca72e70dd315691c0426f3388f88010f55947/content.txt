@@ -1,0 +1,44 @@
+
+FUNDAÇÃO UNIVERSIDADE REGIONAL DE BLUMENAU
+
+Extrato nº. 105/2020
+PARTES:
+FUNDAÇÃO UNIVERSIDADE REGIONAL DE BLUMENAU
+E
+
+MÁRCIO GEOVANI JASINSKI
+OBJETO: contratação do professor Márcio Geovani Jasinski para lecionar no curso de pós-graduação Lato Sensu em Data Science promovido pelo Instituto FURB.
+FUNDAMENTO LEGAL: Inexigibilidade nº 058/2020 e Contrato nº 052/2020 firmado em 11 de março de 2020. 
+PREÇO: Pelo objeto contratado, a CONTRATANTE pagará o preço de R$ 2.252,48 (dois mil, duzentos e cinquenta e dois reais e quarenta e oito centavos), conforme constante dos autos do processo de Inexigibilidade de Licitação nº. 058/2020, especialmente quanto a Proposta de folhas 162, sendo este o preço unitário e a descrição do item:
+	Item
+	Código FURB
+	Qtde.
+	Und.
+	Descrição do Item
+	Preço Unitário (em R$)
+
+	01
+
+
+	38037
+	01
+	Despesa
+	Despesa com pagamento a pessoa física por prestação de serviços de educação.
+
+Disciplina: Banco de Dados não Relacionais
+
+Carga horária: 16h
+
+Período: 28/03 e 04/04/2020
+	2.252,48
+
+	Preço Total (em R$)
+	2.252,48
+
+	Preço Total (em reais, por extenso)
+	dois mil, duzentos e cinquenta e dois reais e quarenta e oito centavos
+
+
+PAGAMENTO: O pagamento será em até 10 (dez) dias consecutivos após a efetiva conclusão de cada disciplina, desde que a execução dos trabalhos seja aprovada pelo Gestor designado pela CONTRATANTE e siga acompanhada da respectiva Nota Fiscal Eletrônica (NF-e), através de depósitos bancários (hipótese na qual a NF-e deverá conter os dados bancários do CONTRATADO ou de boletos bancários (caso no qual tais documentos deverão acompanhar a NF-e).
+PRAZO DE VIGÊNCIA: A vigência do presente contrato terá início a partir da data de assinatura do instrumento contratual e encerramento vinculado ao término do respectivo exercício financeiro da prestação do serviço, na forma do caput do artigo 57 da Lei Federal nº. 8.666/93.
+DATA: 16/03/2020

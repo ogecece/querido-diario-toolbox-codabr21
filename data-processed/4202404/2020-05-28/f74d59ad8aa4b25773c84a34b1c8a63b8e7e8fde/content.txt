@@ -1,0 +1,241 @@
+
+FUNDAÇÃO UNIVERSIDADE REGIONAL DE BLUMENAU
+
+Extrato nº. 174/2020
+PARTES:  FUNDAÇÃO UNIVERSIDADE REGIONAL DE BLUMENAU
+
+E
+
+                 REI DOS REIS COMÉRCIO ATACADISTA E VAREJISTA DE EQUIPAMENTOS DE INFORMÁTICA LTDA EPP
+OBJETO: Aquisição de materiais laboratoriais para uso em diversos setores da Universidade.
+FUNDAMENTO LEGAL: Pregão Presencial (SRP) nº 473/2019 e Ata de Registro de Preços nº 072/2020, firmado em 20 de maio de 2020.  
+	Item
+	Código FURB
+	Qtde.
+	Und.
+	Descrição do Item
+	Marca/
+
+Modelo
+	Garantia (se houver, em meses)
+	Preço Unitário (em R$)
+	Preço Total do Item (em R$)
+
+	3
+	33111
+	20
+	Peça
+	Fita de backup LT05 Ultrium, com as seguintes características:
+
+Modelo: LTO5 Ultrium
+
+Capacidade: 1.5/3.0 TB
+
+Compatibilidade: Compatível com drives Ultrium LTO5
+
+Características adicionais:
+
+· Original do fabricante, nova e em embalagem lacrada.
+
+· Não serão aceitas fitas recondicionadas ou remanufaturadas (refurbished).
+
+Garantia mínima: 12 (doze) meses
+
+
+	Sony LTX1500G
+	12 meses
+	179,00
+	3.580,00
+
+	4
+	38046
+	70
+	Peça
+	Fita de backup LT06 Ultrium, com as seguintes características:
+Modelo: LTO6 Ultrium;
+
+Capacidade: 2.5/6,25 TB;
+
+Compatibilidade: Compatível com drives Ultrium LTO6;
+
+Características adicionais:
+
+· Original do fabricante, nova e em embalagem lacrada.
+
+· Não serão aceitas fitas recondicionadas ou remanufaturadas (refurbished)
+
+Garantia mínima: 12 (doze) meses
+
+
+	Sony LTX2500G
+	12 meses
+	219,00
+	15.330,00
+
+	27
+	38373
+	50
+	Peça
+	Rolo de 1Kg de filamento PLA de 1,75 mm para impressora 3D, com as seguintes características:
+
+Tipo: carretel de fio contínuo
+
+Peso mínimo: 1KG sem o carretel (somente fio)
+
+Diâmetro do filamento: 1.75 mm
+
+Material do filamento: PLA (ácido poliático) biodegradável
+
+Tipo do carretel: feito de material resistente (plástico ou acrílico)
+
+Temperatura de impressão: entre 190 e 220 graus
+
+Cores aceitas: amarelo, natural, cristal, azul, branco, cinza, laranja, preto, verde ou vermelho.
+
+Compatibilidade:
+
+· Compatível com impressoras 3D que trabalham com fabricação por filamento fundido (Fused Filament Fabrication - FFF)
+
+· Compatível com dispositivo para alimentação automática de filamentos
+
+Garantia mínima: 03 (três) meses
+
+
+	3D FILA – PLA-AS175
+	03 meses
+	153,00
+	7.650,00
+
+	28
+
+
+	38374
+	20
+	Peça
+	Rolo de 1Kg de filamento ABS de 1,75 mm para impressora 3D, com as seguintes características:
+
+Tipo: carretel de fio contínuo
+
+Peso mínimo: 1KG sem o carretel (somente fio)
+
+Diâmetro do filamento: 1.75 mm
+
+Material do filamento: ABS (acrilonitrila butadieno estireno)
+
+Tipo do carretel: feito de material resistente (plástico ou acrílico)
+
+Temperatura de impressão: entre 200 e 230 graus
+
+Cores aceitas: amarelo, natural, cristal, azul, branco, cinza, laranja, preto, verde ou vermelho.
+
+Compatibilidade:
+· • Compatível com impressoras 3D que trabalham com fabricação por filamento fundido (Fused Filament Fabrication - FFF)
+
+· • Compatível com dispositivo para alimentação automática de filamentos
+
+Garantia mínima: 03 (três) meses
+	3D FILA / ABS PREMIUM
+	03 meses
+	115,00
+	2.300,00
+
+	29
+
+
+	39359
+	10
+	Peça
+	Rolo de 1Kg de filamento HIPS de 1,75 mm para impressora 3D, com as seguintes características:
+
+Tipo: carretel de fio contínuo
+
+Peso mínimo: 1KG sem o carretel (somente fio)
+
+Diâmetro do filamento: 1.75 mm
+
+Material do filamento: HIPS (Poliestirenos de Alto Impacto)
+
+Tipo do carretel: feito de material resistente (plástico ou acrílico)
+
+Temperatura de impressão: entre 220 e 240 graus
+
+Cores aceitas: amarelo, natural, cristal, azul, branco, cinza, laranja, preto, verde ou vermelho.
+
+Compatibilidade:
+· • Compatível com impressoras 3D que trabalham com fabricação por filamento fundido (Fused Filament Fabrication - FFF)
+
+· • Compatível com dispositivo para alimentação automática de filamentos
+
+Garantia mínima: 03 (três) meses
+	3D FILA / HIPS – 175 SOL
+	03 meses
+	185,00
+	1.850,00
+
+	30
+
+
+	39360
+	10
+	Peça
+	Rolo de 1Kg de filamento FLEX de 1,75 mm para impressora 3D, com as seguintes características:
+
+Tipo: carretel de fio contínuo
+
+Peso mínimo: 1KG sem o carretel (somente fio)
+
+Diâmetro do filamento: 1.75 mm
+
+Material do filamento: TPE (Termoplástico Elastómero)
+
+Tipo do carretel: feito de material resistente (plástico ou acrílico)
+
+Temperatura de impressão: entre 215 e 235 graus
+
+Cores aceitas: amarelo, natural, cristal, azul, branco, cinza, laranja, preto, verde ou vermelho.
+
+Compatibilidade:
+· • Compatível com impressoras 3D que trabalham com fabricação por filamento fundido (Fused Filament Fabrication - FFF)
+
+· • Compatível com dispositivo para alimentação automática de filamentos
+
+Garantia mínima: 03 (três) meses
+	3D Fila / FLX301753
+	03 meses
+	200,00
+	2.000,00
+
+	46
+
+
+	39970
+	10
+	peça
+	Licença do Sistema Operacional Microsoft Windows, com as seguintes características:
+
+Versão: WIN HOME 10 SNGL OLP NL Acdmc Legalization GetGenuine
+
+Part Number: KW9-00311
+
+Tipo de licença:
+· • Open AE
+
+· • Não serão aceitas licenças do tipo OEM ou semelhantes.
+
+Característica: Gerenciável através do Portal Microsoft VLSC
+	Microsoft Windows Home 10
+
+Part Number da licença 
+KW9-00311
+	
+	840,00
+	8.400,00
+
+	Preço Total 
+(em R$ e por extenso)
+	41. 110,00 (quarenta e um mil, cento e dez reais)
+
+
+PAGAMENTO: O pagamento será realizado em até 30 (trinta) dias consecutivos após a efetiva entrega (com descarga) dos equipamento(s)/produto(s), desde que estes sejam aprovados pela Gestão Contratual e acompanhados da respectiva Nota Fiscal Eletrônica (NF-e), através de depósito bancário (hipótese na qual a NF-e deverá conter os dados bancários da CONTRATADA) ou de boleto bancário (caso no qual tal documento deverá acompanhar a NF-e).
+PRAZO DE VIGÊNCIA: A presente Ata de Registro de Preços terá a validade de 12 (doze) meses, contados a partir da data de sua assinatura.
+DATA: 27/05/2020.

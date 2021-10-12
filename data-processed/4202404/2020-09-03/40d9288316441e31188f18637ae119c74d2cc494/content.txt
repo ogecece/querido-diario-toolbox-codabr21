@@ -1,0 +1,118 @@
+
+FUNDAÇÃO UNIVERSIDADE REGIONAL DE BLUMENAU
+
+Extrato nº. 355/2020
+PARTES:  FUNDAÇÃO UNIVERSIDADE REGIONAL DE BLUMENAU
+
+e
+                  EXPURGO LAR PRESTADORA DE SERVIÇOS LTDA
+OBJETO: Registro de Preços para contratações futuras de serviços de poda, corte e remoção de árvores, nos diversos Campi da Universidade.
+FUNDAMENTO LEGAL: Pregão Presencial (SRP) nº 043/2020 e Ata de Registro de Preços nº 158/2020, firmado em 28 de agosto de 2020.  
+PREÇO: O preço ofertado pela empresa signatária da presente Ata de Registro de Preços é o abaixo informado, de acordo com a respectiva classificação: 
+	Lote 01
+
+	Item
+	Código FURB
+	Qtde.
+	Und.
+	Descrição do Item
+	Preço Unitário (R$)
+	Preço Total do Item (R$)
+
+	1
+	40002
+	20
+	serviço
+	CORTE DE ÁRVORE DE 5 ATÉ 10 METROS DE ALTURA - SEM DESTOCA E SEM REMOÇÃO DE RESÍDUOS.
+	309,82
+	6.196,40
+
+	2
+	40003
+	20
+	serviço
+	CORTE DE ÁRVORE DE 10 A 20 METROS DE ALTURA - SEM DESTOCA E SEM REMOÇÃO DE RESÍDUOS.
+	441,25
+	8.825,00
+
+	3
+	40004
+	20
+	serviço
+	CORTE DE ÁRVORE ACIMA DE 20 METROS DE ALTURA - SEM DESTOCA E SEM REMOÇÃO DE RESÍDUOS.
+	638,40
+	12.768,00
+
+	4
+	40006
+	10
+	serviço
+	CORTE DE ÁRVORE DE 5 ATÉ 10 METROS DE ALTURA - COM DESTOCA E SEM REMOÇÃO DE RESÍDUOS.
+	431,86
+	4.318,60
+
+	5
+	40007
+	10
+	serviço
+	CORTE DE ÁRVORE DE 10 A 20 METROS DE ALTURA - COM DESTOCA E SEM REMOÇÃO DE RESÍDUOS.
+	685,34
+	6.853,40
+
+	6
+	40008
+	10
+	serviço
+	CORTE DE ÁRVORE ACIMA DE 20 METROS DE ALTURA - COM DESTOCA E SEM REMOÇÃO DE RESÍDUOS.
+	963,86
+	9.638,60
+
+	Preço Total do Lote
+
+ (em reais, por extenso)
+	R$ 48.600,00 (quarenta e nove mil e seiscentos reais)
+
+
+	Lote 02
+
+	Item
+	Código FURB
+	Qtde.
+	Und.
+	Descrição do Item
+	Preço Unitário (R$)
+	Preço Total do Item (R$)
+
+	1
+	40010
+	25
+	serviço
+	PODA DE ÁRVORE DE 5 ATÉ 10 METROS DE ALTURA E ATÉ 5M DE RAIO DE COPA - (SEM REMOÇÃO DE RESÍDUOS)
+	168,41
+	4.210,25
+
+	2
+	40011
+	25
+	serviço
+	PODA DE ÁRVORE DE 10 ATÉ 20 METROS DE ALTURA E RAIO DE COPA ACIMA DE 5M - (SEM REMOÇÃO DE RESÍDUOS)
+	411,66
+	10.291,50
+
+	3
+	40012
+	25
+	serviço
+	PODA DE ÁRVORE ACIMA DE  20 METROS DE ALTURA E RAIO DE COPA ACIMA DE 5M - (SEM REMOÇÃO DE RESÍDUOS)
+	523,93
+	13.098,25
+
+	Preço Total do Lote
+
+ (em reais, por extenso)
+	R$ 27.600,00 (vinte e sete mil e seiscentos reais)
+
+
+PAGAMENTO: O pagamento será realizado em até 30 (trinta) dias consecutivos após a execução dos serviços, desde que estes sejam aprovados pela Gestão Contratual e acompanhados da respectiva Nota Fiscal Eletrônica (NF-e), através de depósito bancário (hipótese na qual a NF-e deverá conter os dados bancários da CONTRATADA) ou de boleto bancário (caso no qual tal documento deverá acompanhar a NF-e).
+PRAZO DE VIGÊNCIA: A presente Ata de Registro de Preços terá a validade de 12 (doze) meses, contados a partir da data de sua assinatura.
+DATA: 01/09/2020.

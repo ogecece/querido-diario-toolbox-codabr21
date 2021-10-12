@@ -1,0 +1,426 @@
+
+FUNDAÇÃO UNIVERSIDADE REGIONAL DE BLUMENAU
+
+Extrato nº. 231/2020
+PARTES:  FUNDAÇÃO UNIVERSIDADE REGIONAL DE BLUMENAU
+
+E
+
+                  E.C. DOS SANTOS COMERCIAL EIRELI
+OBJETO: Registro de Preços para aquisições futuras de materiais odontológicos para a Universidade.
+FUNDAMENTO LEGAL: Concorrência (SRP) nº 069/2020 e Ata de Registro de Preços nº 106/2020, firmado em 10 de julho de 2020.  
+PREÇO: O preço ofertado pela empresa signatária da presente Ata de Registro de Preços é o abaixo informado, de acordo com a respectiva classificação:
+
+	Item
+	Código FURB
+	Qtde.
+	Und.
+	Descrição do Item
+	Marca
+	Preço Unitário 
+
+(em R$)
+	Preço Total do Item 
+
+(em R$)
+
+	1
+	20182
+	15
+	frasco
+	Adesivo autocondicionante fotopolimerizável - Passo único - 5ml - Acondicionado em embalagem original do fabricante, com nome do responsável técnico, o lote, data de fabricação, validade e Registro do Ministério da Saúde.
+	FGM
+	57,77
+	821,55
+
+	24
+	16580
+	10
+	frasco
+	Cariostático (diamino fluoreto de prata a 12%) Fr 10ml - Acondicionado em embalagem original do fabricante, com nome do responsável técnico, o lote, data de fabricação, validade e registro do Ministério da Saúde.
+	Iodontosul
+	14,88
+	148,80
+
+	32
+	17736
+	3
+	kit
+	Cimento cirúrgico curativo periodontal - sem eugenol e sem amianto 180g - Pasta base 90gr e catalizador 90gr - Acondicionado em embalagem original do fabricante, com nome do responsável técnico, o lote, data de fabricação, validade e registro do Ministério da Saúde.
+	Maquira
+	79,66
+	238,98
+
+	35
+	37899
+	1
+	kit
+	Cimento endodôntico Calen PMCC. Kit com 2 tubetes plásticos com 2,7g cada de pasta de hidróxido de cálcio com Paramonoclorofenol canforado, + 2 tubetes plásticos com 2,2g de glicerina. Intruções para uso. Acondicionado em embalagem original do fabricante, com nome do responsável técnico, o lote, data de fabricação, validade e registro do Ministério da Saúde.
+	SSWhite
+	44,77
+	44,77
+
+	41
+	27848
+	10
+	tubo
+	Condicionador ácido fluorídrico 10% - Acondicionado em embalagem original do fabricante, com nome do responsável técnico, o lote, data de fabricação, validade e registro do Ministério da Saúde.
+	Maquira
+	9,77
+	97,70
+
+	42
+	16521
+	100
+	tubo
+	Condicionador Ácido fosfórico a 37% p/ esmalte, dentina (seringas c/ 2,5 ml). Semi gel tixotrópico, em seringa c/ ponteira curva para aplicação. Acondicionado em embalagem original do fabricante, com nome do responsável técnico, o lote, data de fabricação, validade e registro do Ministério da Saúde.
+	Biodinamica
+	1,09
+	109,00
+
+	50
+	26466
+	4
+	caixa
+	Esponja hemostática de fibrina absorvível -cx com 10 unidades - Acondicionado em embalagem original do fabricante, com nome do responsável técnico, o lote, data de fabricação, validade e Registro do Ministério da Saúde.
+	Maquira
+	40,45
+	161,80
+
+	51
+	16604
+	20
+	frasco
+	Eucaliptol, para remoção de obturação endodôntica - Embalagem c/ aproximadamente 10ml - Acondicionado em embalagem original do fabricante, com nome do responsável técnico, o lote, data de fabricação, validade e registro do Ministério da Saúde.
+	Maquira
+	6,06
+	121,20
+
+	52
+	18858
+	15
+	frasco
+	Eugenol vidro c/ 20 ml líquido incolor ou amarelado oleoso pardo ao ar c/ cheiro forte e aromático para misturar com oxido de zinco para fazer curativo provisório. Acondicionado em embalagem original do fabricante, com nome do responsável técnico, o lote, data de fabricação, validade e registro do Ministério da Saúde.
+	Maquira
+	9,50
+	142,50
+
+	53
+	14562
+	50
+	frasco
+	Evidenciador de placa bacteriana - embalagem c/ 60 unid. - Acondicionado em embalagem original do fabricante, com nome do responsável técnico, o lote, data de fabricação, validade e registro do Ministério da Saúde.
+	Biodinamica
+	7,74
+	387,00
+
+	54
+	20021
+	30
+	frasco
+	Evidenciador de placa bacteriana (solução evidenciadora de placa bacteriana à base de fucsina básica, álcool e água deionizada), frasco com 10 ml - Acondicionado em embalagem original do fabricante, com nome do responsável técnico, o lote, data de fabricação, validade e registro do Ministério da Saúde.
+	Maquira
+	4,06
+	121,80
+
+	62
+	20673
+	20
+	frasco
+	Flúor gel 1,23% - 200ml Acidulado - Sabor morango e tutti frutti c/ 200 ml, acondicionado em embalagem original do fabricante, com o nome do responsável técnico, lote, data de fabricação, validade e registro do Ministério da Saúde.
+	Maquira
+	3,44
+	68,80
+
+	64
+	19974
+	10
+	frasco
+	Formocresol - Frasco c/ 10ml - Acondicionado em embalagem original do fabricante, com nome do responsável técnico, o lote, data de fabricação, validade e registro do Ministério da Saúde.
+	Maquira
+	3,31
+	33,10
+
+	73
+	20170
+	6
+	frasco
+	Hemostático líquido - base de cloreto de alumínio (frasco c/ 10ml) - acondicionado em embalagem original do fabricante, com nome do responsável técnico, o lote, data de fabricação, validade e registro do Ministério da Saúde.
+	Maquira
+	12,80
+	76,80
+
+	74
+	29795
+	10
+	frasco
+	Hidróxido de cálcio para uso odontológico/frasco 10g.
+	Maquira
+	3,70
+	37,00
+
+	76
+	16649
+	4
+	kit
+	Ionômero de vidro cimentação pó/ líq. Frascos de 10 gr 8 ml - acondicionado em embalagem original do fabricante, com nome do responsável técnico, o lote, data de fabricação, validade e registro do Ministério da Saúde.
+	FGM
+	17,51
+	70,04
+
+	77
+	16582
+	2
+	kit
+	Ionômero de vidro forração pó/ líq. Frascos de 10 gr 8 ml - acondicionado em embalagem original do fabricante, com nome do responsável técnico, o lote, data de fabricação, validade e registro do Ministério da Saúde.
+	Biodinamica
+	33,01
+	66,02
+
+	80
+	16581
+	15
+	frasco
+	Ionômero de Vidro Restauração Líquido RADIOPACO - (Frascos de 8 ml). Acondicionado em embalagem original do fabricante, com nome do responsável técnico, o lote, data de fabricação, validade e registro do Ministério da Saúde.
+	FGM
+	8,11
+	121,65
+
+	84
+	39441
+	1
+	kit
+	Kit coroas decíduos anteriores e posteriores transparentes (acetato) / Embalagem com 64 unidades 
+	TDV
+	141,56
+	141,56
+
+	86
+	17933
+	2
+	frasco
+	Kit clareador odontológico a base de perborato de sódio / composto de 1 frasco com 10g de perborato de sódio em pó, 1 frasco com 8g de peróxido de hidrogênio a 20%, 1 colher dosadora para pó e instruções para o profissional.
+	FGM
+	26,14
+	52,28
+
+	90
+	26470
+	2
+	frasco
+	Óleo mineral p/ lubrificação de caneta de alta e baixa rotação (uso odontológico) c/ baixa viscosidade, elevado grau de pureza e aditivos especiais que pevinam oxidações e reduzam atrito das partes móveis - Frasco spray c/ 200ml. Acondicionado em embalagem original do fabricante, com nome do responsável técnico, o lote, data de fabricação, validade e registro do Ministério da Saúde.
+	Maquira
+	14,86
+	29,72
+
+	91
+	15692
+	10
+	frasco
+	Óxido de zinco pó - frasco 50g - acondicionado em embalagem original do fabricante, com nome do responsável técnico, o lote, data de fabricação, validade e registro do Ministério da Saúde.
+	Lysanda
+	3,29
+	32,90
+
+	92
+	16696
+	1
+	caixa
+	Papel Articulação Azul - Papel / registro de oclusão com coloração progressiva, espessura 200 micras, caixa com 300 tiras / Acondicionado em embalagem original do fabricante, com nome do responsável técnico, o lote, data de fabricação, validade.
+	Bausch
+	183,83
+	183,83
+
+	93
+	16585
+	6
+	frasco
+	Paramonoclorofenol canforado. Frasco c/ 20 ml para uso odontológico. Acondicionado em embalagem original do fabricante, com nome do responsável técnico, o lote, data de fabricação, validade e registro do Ministério da Saúde.
+	Maquira
+	4,81
+	28,86
+
+	94
+	1664
+	4
+	caixa
+	Passa fio -  hastes flexíveis para auxiliar o uso de fio dental em aparelho ortodôntico, prótese fixa ou removível - embalagem com 50 unid. - Acondicionado em embalagem original do fabricante, com nome do responsável técnico, o lote, data de fabricação e validade.
+	Maquira
+	4,93
+	19,72
+
+	98
+	16685
+	80
+	tubo
+	Pasta Profilática, contendo abrasivos suaves c/ 90 gr, contendo água espessante, lauriusulfato, carbonato de cálcio e aroma artificial. Acondicionado em embalagem original do fabricante, com nome do responsável técnico, o lote, data de fabricação, validade e registro do Ministério da Saúde.
+	Maquira
+	3,71
+	296,80
+
+	104
+	17105
+	500
+	peça
+	Pino simples p/ troquél médio.
+	Talmax
+	0,69
+	345,00
+
+	106
+	15165
+	3
+	kit
+	Posicionador Radiográfico autoclavável (infantil) - kit c/ 4pçs.
+	Maquira
+	47,49
+	142,47
+
+	108
+	15164
+	3
+	kit
+	Posicionador Radiográfico autoclavável (adulto) kit c/ 4 pçs.
+	Maquira
+	47,49
+	142,47
+
+	113
+	39981
+	25
+	frasco
+	Resina acrílica autopolimerizável em pó / cor vermelha / frasco de 80g. Acondicionada em embalagem original do fabricante, com nome do responsável técnico, o lote, data de fabricação, validade e registro do Ministério da Saúde.
+	Dencrilay
+	74,36
+	1.859,00
+
+	116
+	16689
+	10
+	tubo
+	Resina Flow - Composição: Parte orgânica: formulado com monômeros de resinas de metacrilato Bis-GMA, TEGDMA e Bis-EMA. Parte inorgânica: nanopartículas de sílica não-aglomeradas / não-agregadas com e diâmetro de 75nm. Nanopartículas de zircônia não-aglomeradas / não-agregadas com diâmetro entre 5-10nm. Nanoaglomerado de zircônia/sílica, aglomerados unidos livremente, constituídos por aglomerados de partículas primárias de zircônia/sílica, com tamanho entre 5-20nm. O tamanho da partícula agregada varia entre 0.6 e 1.4 micrometros. A porcentagem da carga inorgânica é de aproximadamente 65% em peso (55% em volume). Apresentação: seringas com 2g e 20 pontas aplicadoras. A2 - acondicionado em embalagem original do fabricante, com nome do responsável técnico, o lote, data de fabricação, validade e registro do Ministério da Saúde.
+	3M
+	123,93
+	1.239,30
+
+	153
+	38812
+	20
+	tubo
+	Resina Fotopolimerizável. Matriz orgânica a base de Bis‐GMA, contendo partículas de carga de microglass com alta densidade de carga em volume e peso (58% e 82% respectivamente). Carga: microglass/vidro de bário e alumínio e sílica de alta dispersão. Diamond Cor: OB(Dentina)
+	Charisma Diamond
+	65,38
+	1.307,60
+
+	154
+	38003
+	15
+	tubo
+	Resina Fotopolimerizáve. Matriz orgânica a base de Bis‐GMA, contendo partículas de carga de microglass com alta densidade de carga em volume e peso (58% e 82% respectivamente). Carga: microglass/vidro de bário e alumínio e sílica de alta dispersão. Diamond Cor: CO (Incisal)
+	Charisma Diamond
+	65,38
+	980,70
+
+	155
+	38813
+	15
+	tubo
+	Resina Fotopolimerizáve. Matriz orgânica a base de Bis‐GMA, contendo partículas de carga de microglass com alta densidade de carga em volume e peso (58% e 82% respectivamente). Carga: microglass/vidro de bário e alumínio e sílica de alta dispersão. Diamond Cor: CL (Incisal)
+	Charisma Diamond
+	65,38
+	980,70
+
+	156
+	38814
+	15
+	tubo
+	Resina Fotopolimerizáve. Matriz orgânica a base de Bis‐GMA, contendo partículas de carga de microglass com alta densidade de carga em volume e peso (58% e 82% respectivamente). Carga: microglass/vidro de bário e alumínio e sílica de alta dispersão. Diamond Cor: OM (Incisal)
+	Charisma Diamond
+	65,38
+	980,70
+
+	157
+	38815
+	10
+	tubo
+	Resina Fotopolimerizáve. Matriz orgânica a base de Bis‐GMA, contendo partículas de carga de microglass com alta densidade de carga em volume e peso (58% e 82% respectivamente). Carga: microglass/vidro de bário e alumínio e sílica de alta dispersão. Diamond Cor: YO (Incisal)
+	Charisma Diamond
+	65,38
+	653,80
+
+	158
+	38816
+	10
+	tubo
+	Resina Fotopolimerizáve. Matriz orgânica a base de Bis‐GMA, contendo partículas de carga de microglass com alta densidade de carga em volume e peso (58% e 82% respectivamente). Carga: microglass/vidro de bário e alumínio e sílica de alta dispersão. Diamond Cor: BL 
+	Charisma Diamond
+	65,38
+	653,80
+
+	159
+	38817
+	10
+	tubo
+	Resina Fotopolimerizáve. Matriz orgânica a base de Bis‐GMA, contendo partículas de carga de microglass com alta densidade de carga em volume e peso (58% e 82% respectivamente). Carga: microglass/vidro de bário e alumínio e sílica de alta dispersão. Diamond Cor: BXL 
+	Charisma Diamond
+	65,38
+	653,80
+
+	165
+	18926
+	40
+	kit
+	Silicona de Adição HD - Material de Moldagem a Base de Silicone de Adição - Composição a Base de Vinil Polisiloxano - apresentação: Kit contendo 02 cartuchos de Pasta Fluída, sistema de automistura, com 48 ml, cada um, + 02 Potes de Pasta Densa (550ml) - acondicionado em embalagem original do fabricante, com nome do responsável técnico, o lote, data de fabricação, validade e registro do Ministério da Saúde.
+	3M
+	584,67
+	23.386,80
+
+	169
+	21496
+	10
+	frasco
+	Sistema agente de silano dental fotopolimerizável (solução pré-hidrolisada de fase única) 5ml - acondicionado em embalagem original do fabricante, com nome do responsável técnico, o lote, data de fabricação, validade e registro do Ministério da Saúde.
+	Maquira
+	20,52
+	205,20
+
+	171
+	16676
+	50
+	tubo
+	Spray p/ teste de vitalidade pulpar - 50ºC - inodoro, atóxico e sem fluorcarbobo - frasco 200ml acondicionado em embalagem original do fabricante, com nome do responsável técnico, o lote, data de fabricação e validade.
+	Maquira
+	21,90
+	1.095,00
+
+	172
+	18032
+	1
+	caixa
+	Sugador cirúrgico de sangue descartável / caixa com 20 sugadores.
+	Maquira
+	16,39
+	16,39
+
+	175
+	16218
+	40
+	caixa
+	Tira Lixa metálica (Aço) 4 mm nacional pct com 12 unid. Confeccionada em aço inoxidável e óxido de aluminio, resistente, sem rebarbas. Acondicionado em embalagem original do fabricante, com nome do responsável técnico, o lote, data de fabricação e validade.
+	Biodinamica
+	3,82
+	152,80
+
+	177
+	15688
+	10
+	frasco
+	Tricresol formalina 10ml - acondicionado em embalagem original do fabricante, com nome do responsável técnico, o lote, data de fabricação, validade e registro do Ministério da Saúde.
+	Maquira
+	3,58
+	35,80
+
+
+PAGAMENTO: O pagamento será efetuado em até 30 (trinta) dias consecutivos após a efetiva entrega (com descarga) dos materiais, desde que os mesmos estejam em perfeitas condições de uso, sejam aprovados pelo Gestor designado pela CONTRATANTE e sigam acompanhados da respectiva Nota Fiscal Eletrônica (NF-e), através de depósitos bancários (hipótese na qual a NF-e deverá conter os dados bancários da CONTRATADA) ou de boletos bancários (caso no qual tais documentos deverão acompanhar a NF-e).
+PRAZO DE VIGÊNCIA: A presente Ata de Registro de Preços terá a validade de 12 (doze) meses, contados a partir da data de sua assinatura.
+DATA: 10/07/2020.

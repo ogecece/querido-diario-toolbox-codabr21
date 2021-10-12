@@ -1,0 +1,293 @@
+
+FUNDAÇÃO UNIVERSIDADE REGIONAL DE BLUMENAU
+
+Extrato nº. 524/2020
+PARTES:  FUNDAÇÃO UNIVERSIDADE REGIONAL DE BLUMENAU
+
+E
+
+                  FRANCIELE CRISTINE LAMIM EPP
+OBJETO: Registro de Preços para aquisições futuras de peças e equipamentos de informática para uso de diversos setores da Universidade.
+FUNDAMENTO LEGAL: Pregão Presencial (SRP) nº 263/2020 e Contrato nº 238/2020, firmado em 11 de dezembro de 2020.  
+PREÇO: O preço ofertado pela empresa signatária da presente Ata de Registro de Preços é o abaixo informado, de acordo com a respectiva classificação:
+
+	Item
+	Código FURB
+	Qtde.
+	Und.
+	Descrição do Item
+	Preço Unitário 
+(em R$)
+	Preço Total do Item 
+(em R$)
+
+	1
+	2174
+	20
+	Peça
+	Mousepad com apoio ergonômico em gel, com as seguintes características:
+
+Material: Tecido de Lycra macio e lavável
+
+Dimensões mínimas: 210 x 190 mm
+
+Base: Deverá ser de borracha antiderrapante
+
+Apoio para o pulso:
+
+- Apoio macio obrigatoriamente em silicone gel 
+
+- Não será aceito apoio com espuma ou material similar 
+
+Características: 
+
+- Deverá conter na parte superior, logo marca do fabricante impressa no tecido.
+
+- Deverá ser uma peça única, sem encaixes ou acessórios.
+
+- Não poderá ter estampas ou similares na parte superior, somente a logomarca do fabricante.
+
+Cor: Preta ou azul
+
+Garantia mínima: 03 (três) meses
+	43,00
+	860,00
+
+	Preço Total do Item (em reais, por extenso)
+	Oitocentos e sessenta reais.
+
+	Detalhamento das especificações técnicas
+
+	Marca
+	FORTREK
+
+	Modelo
+	ERG – 102 PRETO
+
+	Garantia (em meses)
+	03 (três) meses
+
+
+	Item
+	Código FURB
+	Qtde.
+	Und.
+	Descrição do Item
+	Preço Unitário 
+(em R$)
+	Preço Total do Item 
+(em R$)
+
+	9
+	28638
+	20
+	Peça
+	Luva de proteção em neoprene para notebook; fechamento com zíper, com as seguintes características:
+
+Material: Neoprene
+
+Fechamento: por meio de zíper 
+
+Cor: preto
+
+Tamanho: deverá ser indicado pelo fabricante para notebooks de 15,6” polegadas 
+
+Embalagem: Original do fabricante, lacrada e intacta.
+
+Garantia mínima: 03 (três) meses
+	68,50
+	1.370,00
+
+	Preço Total do Item (em reais, por extenso)
+	Um mil, trezentos e setenta reais.
+
+	Detalhamento das especificações técnicas
+
+	Marca
+	MULTILASER
+
+	Modelo
+	BO400
+
+	Garantia (em meses)
+	03 (três) meses
+
+
+	Item
+	Código FURB
+	Qtde.
+	Und.
+	Descrição do Item
+	Preço Unitário 
+(em R$)
+	Preço Total do Item 
+(em R$)
+
+	13
+	38899
+	30
+	Peça
+	Cabo HDMI 2.0 4K ultra HD / 19 pinos / com filtro / comprimento 5 metros, com as seguintes características:
+
+Versão do cabo: 2.0
+
+Comprimento do cabo: 5m
+
+Conectores:
+
+- Possuir conector HDMI macho em ambas as pontas.
+
+- Padrão HDMI Standard A
+
+Taxa de transmissão: de até 18 Gbps
+
+Características do cabo
+
+- Montado e testado 100% em fábrica
+
+- Compatibilidade com resoluções 3840x2160 (50/60Hz), 4096x2160 (50/60Hz) e 3D.
+
+- Suportar 2 (dois) fluxos de vídeo simultâneos.
+
+- Compatibilidade com proporção de 21:9
+
+- Transmitir até 4 canais de áudio simultâneos
+
+Embalagem: Embalados individualmente em embalagem original do fabricante, lacrada e intacta.
+
+Garantia mínima: 12 (doze) meses.
+	41,00
+	1.230,00
+
+	Preço Total do Item (em reais, por extenso)
+	Um mil, duzentos e trinta reais.
+
+	Detalhamento das especificações técnicas
+
+	Marca
+	CHIP SCE
+
+	Modelo
+	CABO HDMI GOLD 2.0 – 4K HDR 19P 5M 018-2225
+
+	Garantia (em meses)
+	12 (doze) meses
+
+
+	Item
+	Código FURB
+	Qtde.
+	Und.
+	Descrição do Item
+	Preço Unitário 
+(em R$)
+	Preço Total do Item 
+(em R$)
+
+	14
+	36762
+	60
+	Peça
+	Cabo HDMI 2.0 4K ultra HD / 19 pinos / com filtro / comprimento 10 metros, com as seguintes características:
+
+Versão do cabo: 2.0
+
+Comprimento do cabo: 10m
+
+Conectores:
+
+- Possuir conector HDMI macho em ambas as pontas.
+
+- Padrão HDMI Standard A
+
+Taxa de transmissão: de até 18 Gbps
+
+Características do cabo
+
+- Montado e testado 100% em fábrica
+
+- Compatibilidade com resoluções 3840x2160 (50/60Hz), 4096x2160 (50/60Hz) e 3D.
+
+- Suportar 2 (dois) fluxos de vídeo simultâneos.
+
+- Compatibilidade com proporção de 21:9
+
+- Transmitir até 4 canais de áudio simultâneos
+
+Embalagem: Embalados individualmente em embalagem original do fabricante, lacrada e intacta.
+
+Garantia mínima: 12 (doze) meses.
+	89,00
+	5.340,00
+
+	Preço Total do Item (em reais, por extenso)
+	Cinco mil, trezentos e quarenta reais.
+
+	Detalhamento das especificações técnicas
+
+	Marca
+	CHIP SCE
+
+	Modelo
+	CABO HDMI GOLD 2.0 – 4K HDR 19P 10M 018-2230
+
+	Garantia (em meses)
+	12 (doze) meses
+
+
+	Item
+	Código FURB
+	Qtde.
+	Und.
+	Descrição do Item
+	Preço Unitário 
+(em R$)
+	Preço Total do Item 
+(em R$)
+
+	16
+	37819
+	130
+	Peça
+	Emenda HDMI 19 pinos fêmea x fêmea, com as seguintes características:
+
+Tipo: adaptador
+
+Padrão: HDMI Standard A
+
+Características: Deverá ser plana (180 graus), não podendo ser em curvada (90 graus)
+
+Tipo de sinal: Digital
+
+Conectores:
+
+- Possuir conector Fêmea em ambas as pontas.
+
+Compatibilidade:
+
+- Deverá ser compatível com conexões HDMI 2.0 e versões anteriores.
+
+Embalagem: Embalados individualmente.
+
+Garantia mínima: 3 (três) meses.
+	27,50
+	3.575,00
+
+	Preço Total do Item (em reais, por extenso)
+	Três mil, quinhentos e setenta e cinco reais.
+
+	Detalhamento das especificações técnicas
+
+	Marca
+	XBOM
+
+	Modelo
+	EMENDA HDMI
+
+	Garantia (em meses)
+	03 (três) meses
+
+
+PAGAMENTO: O pagamento será realizado em até 30 (trinta) dias consecutivos após a efetiva entrega (com descarga) do(s) equipamento(s) desde que estas sejam aprovados pela Gestão Contratual e sigam acompanhados da respectiva Nota Fiscal Eletrônica (NF-e), através de depósito bancário (hipótese na qual a NF-e deverá conter os dados bancários da CONTRATADA) ou de boleto bancário (caso no qual tal documento deverá acompanhar a NF-e).
+PRAZO DE VIGÊNCIA: A presente Ata de Registro de Preços terá a validade de 12 (doze) meses, contados a partir da data de sua assinatura.
+DATA: 11/12/2020.

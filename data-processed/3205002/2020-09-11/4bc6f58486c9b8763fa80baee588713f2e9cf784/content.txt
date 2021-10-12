@@ -1,0 +1,137 @@
+
+Prefeitura Municipal da Serra 
+Espirito Santo 
+
+DECRETO Nº 6617/2020 
+O PREFEITO MUNICIPAL DA SERRA, ESPÍRITO SANTO, usando de suas atribuições legais, e com base no artigo 9º inciso 
+I da Lei nº 5.155/2020 de 10/01/2020; 
+
+D E C R E T A: 
+Art. 1º. Ficam suplementadas no orçamento vigente as dotações orçamentárias constantes do Anexo I. 
+Art. 2º. Para efeito das suplementações constante no Artigo anterior, ficam anuladas as dotações orçamentárias, indicada 
+no anexo II. 
+Art. 3º. Este Decreto entra em vigor na data de sua publicação, revogadas as disposições em contrário 
+
+Palácio Municipal, em Serra, em 10 de setembro de 2020 
+AUDIFAX CHARLES PIMENTEL BARCELOS 
+
+Prefeito Municipal 
+LAURIETE CANEVA 
+
+Secretária de Planejamento Estratégico 
+CRÉDITO ADICIONAL SUPLEMENTAR - ANEXO I - SUPLEMENTAÇÃO 
+
+R$ 1,00 
+
+CÓDIGO ESPECIFICAÇÃO NATUREZA FR VALOR 
+
+05.00.00 SEC. ADM. E RECURSOS HUMANOS    
+
+05.01.00 Sec. Adm. e Recursos Humanos    
+
+04.122.0530.2003 Manutenção e Conservação de Bens Imóveis 3.3.90.34.00 1.001.0000.0000 40.000 
+
+04.122.0530.2004 Manutenção dos Serviços de Transporte 3.3.90.39.00 1.001.0000.0000 10.000 
+
+08.00.00 SECRETARIA DE OBRAS    
+
+08.01.00 Secretaria de Obras    
+
+15.451.0100.2122 Construir, Reformar e Ampliar os Equipamentos Espo 4.4.90.93.00 1.001.0000.0000 104.000 
+
+09.00.00 SECRETARIA DE SERVIÇOS    
+
+09.01.00 Secretaria de Serviços    
+
+04.122.0530.2004 Manutenção dos Serviços de Transporte 3.3.90.92.00 1.001.0000.0000 25.000 
+
+11.00.00 SECRETARIA DE EDUCAÇÃO    
+
+11.01.00 Secretaria de Educação    
+
+12.361.0180.2097 Construção, Manutenção, Reforma e Ampliação das Un 4.4.90.92.00 2.120.0000.0000 314.000 
+
+12.361.0180.2099 Garantir e manter as atividades administrativas e 3.3.90.30.00 1.111.0000.0000 31.000 
+
+12.361.0180.2103 Transporte Escolar 3.3.90.92.00 2.120.0000.0000 130.000 
+
+12.365.0180.2097 Construção, Manutenção, Reforma e Ampliação das Un 4.4.90.92.00 2.120.0000.0000 183.000 
+
+12.365.0180.2099 Garantir e manter as atividades administrativas e 3.3.90.30.00 1.111.0000.0000 7.000 
+
+12.365.0180.2281 Alimentação Escolar - Pré-Escola 4.4.90.52.00 1.111.0000.0000 59.000 
+
+12.365.0180.2283 Garantir e manter as atividades administrativas e 3.3.90.30.00 1.111.0000.0000 10.000 
+
+19.00.00 SECRETARIA DE DEFESA SOCIAL    
+
+19.01.00 Secretaria de Defesa Social    
+
+06.183.0440.2253 Estruturar, Ampliar e Manter Guarda Civil Municipal 3.3.90.39.00 1.001.0000.0000 228.000 
+  TOTAL  1.141.000 
+
+ 
+ 
+
+CRÉDITO ADICIONAL SUPLEMENTAR - ANEXO II - ANULAÇÃO 
+R$ 1,00 
+
+CÓDIGO ESPECIFICAÇÃO NATUREZA FR VALOR 
+
+02.00.00 COORDENADORIA DE GOVERNO    
+
+02.01.00 Coordenadoria de Governo    
+
+04.122.0530.2002 Manutenção dos Serviços Administrativos Gerais 3.3.90.39.00 1.001.0000.0000 54.000 
+
+03.00.00 PROCURADORIA GERAL    
+
+03.01.00 Procuradoria Geral    
+
+04.122.0530.2002 Manutenção dos Serviços Administrativos Gerais 3.3.90.39.00 1.001.0000.0000 30.000 
+
+04.00.00 CONTROLADORIA GERAL DO MUNICÍPIO    
+
+04.01.00 Controladoria Geral do Município    
+
+04.122.0530.2002 Manutenção dos Serviços Administrativos Gerais 3.3.90.39.00 1.001.0000.0000 20.000 
+
+05.00.00 SEC. ADM. E RECURSOS HUMANOS    
+
+05.01.00 Sec. Adm. e Recursos Humanos    
+
+04.122.0050.1212 Modernização Tecnológica e Fortalecimento Instituc 3.3.90.39.00 1.001.0000.0000 10.000 
+
+04.122.0060.1285 Recenseamento dos Servidores Públicos Municipais 3.3.90.39.00 1.001.0000.0000 40.000 
+
+09.00.00 SECRETARIA DE SERVIÇOS    
+
+09.01.00 Secretaria de Serviços    
+
+
+
+CRÉDITO ADICIONAL SUPLEMENTAR - ANEXO II - ANULAÇÃO 
+R$ 1,00 
+
+CÓDIGO ESPECIFICAÇÃO NATUREZA FR VALOR 
+
+15.452.0110.2085 Intensificar e Manter os Serviços de Limpeza Urban 4.4.90.52.00 1.001.0000.0000 25.000 
+
+11.00.00 SECRETARIA DE EDUCAÇÃO    
+
+11.01.00 Secretaria de Educação    
+
+12.361.0180.2099 Garantir e manter as atividades administrativas e 3.3.90.34.00 2.120.0000.0000 627.000 
+
+12.361.0180.2103 Transporte Escolar 3.3.90.39.00 1.111.0000.0000 107.000 
+
+19.00.00 SECRETARIA DE DEFESA SOCIAL    
+
+19.01.00 Secretaria de Defesa Social    
+
+06.183.0440.2253 Estruturar, Ampliar e Manter Guarda Civil Municipal 3.3.90.30.00 1.001.0000.0000 228.000 
+  TOTAL  1.141.000 
+
+ 
+
+

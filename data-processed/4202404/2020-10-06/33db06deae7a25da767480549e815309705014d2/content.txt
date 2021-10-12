@@ -1,0 +1,88 @@
+
+FUNDAÇÃO UNIVERSIDADE REGIONAL DE BLUMENAU
+
+Extrato nº. 405/2020
+PARTES:  FUNDAÇÃO UNIVERSIDADE REGIONAL DE BLUMENAU
+
+E
+
+                  SUL SAFETY DISTRIBUIDORA DE MERCADORIAS EIRELI
+OBJETO: Registro de Preço para aquisições futuras de Equipamentos de Proteção Individual (EPI´s) para uso da Universidade.
+FUNDAMENTO LEGAL: Pregão Presencial nº 197/2020 e Ata de Registro de Preços nº 184/2020, firmado em 06 de outubro de 2020.  
+PREÇO: O preço ofertado pela empresa signatária da presente Ata de Registro de Preços é o abaixo informado, de acordo com a respectiva classificação.
+	Item
+	Código FURB
+	Qtde.
+	Und.
+	Descrição do Item
+	Marca
+	Preço Unitário (em R$)
+	Preço Total do Item (em R$)
+
+	2
+	27995
+	20
+	peças
+	Cartucho químico (filtro) multigás - modelo 6006 / para uso em respiradores faciais da marca 3M / aplicação: vapores orgânicos, cloro, ácido clorídrico, dióxido de cloro, dióxido de enxofre, sulfeto de hidrogêncio (apenas fuga), amônia, formaldeído, fluoreto de hidrogênio.
+	3M
+	46,50
+	930,00
+
+	3
+	21728
+	20
+	peças
+	Filtro de carvão ativado / para máscara 3M (Niosh / 6001)
+	3M
+	31,00
+	620,00
+
+	8
+	23942
+	20.000
+	peça
+	Máscara / respirador purificador de ar tipo peça semifacial filtrante para partículas PFF1 - dobrável - com válvula de exalação. Proteção das vias respiratórias do usuário contra poeiras e névoas. Produto com Certificado de Aprovação (CA) válido.(RDC. Resolução da Diretoria Colegiada (RDC) 349/2020.)
+	Air Safety
+	1,75
+	35.000,00
+
+	13
+	7577
+	500
+	peças
+	Óculos de segurança com lente de policarbonato incolor/transparente; tipo esportivo; com tratamento antirriscos; sem tratamento antiembaçante; proteção UVA/UVB; armação e visor confeccionados em uma única peça de policarbonato; com apoio nasal injetado na mesma peça; hastes tipo espátula confeccionadas do mesmo material do visor e articuladas por meio de parafusos metálicos. Produto com Certificado de Aprovação (CA) válido
+	Libus
+	3,49
+	1.745,00
+
+	19
+	545
+	40
+	par
+	Luva de couro para uso em construção civil.
+	Zanel
+	5,90
+	236,00
+
+	23
+	33320
+	300
+	peça
+	Capacete tipo boné / com carneira e sem jugular / tipo classe A / injetados em plástico de polietileno de alta densidade / carneira fixa ao casco por seis pontos de encaixe, com tira absorvente e regulagem simples / para proteção da cabeça contra impactos e penetração.
+	Libus
+	7,00
+	2.100,00
+
+	25
+	37703
+	10
+	peça
+	Luva de silicone para alta temperatura (até 250ºC); produto com Certificado de Aprovação (CA).
+	Danny
+	168,50
+	1.685,00
+
+
+PAGAMENTO: O pagamento será efetuado em até 30 (trinta) dias consecutivos após a efetiva entrega dos materiais, desde que os mesmos sejam aprovados pelo Gestor designado pela CONTRATANTE e sigam acompanhados da(s) respectiva(s) Nota(s) Fiscal(is) Eletrônica(s) (NF-e), através de depósitos bancários (hipótese na qual a NF-e deverá conter os dados bancários da CONTRATADA) ou de boletos bancários (caso no qual tais documentos deverão acompanhar a NF-e).
+PRAZO DE VIGÊNCIA: A presente Ata de Registro de Preços terá a validade de 12 (doze) meses, a partir da data de sua assinatura.
+DATA: 06/10/2020.

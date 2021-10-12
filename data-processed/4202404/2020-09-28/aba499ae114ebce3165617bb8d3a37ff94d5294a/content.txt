@@ -1,0 +1,86 @@
+
+FUNDAÇÃO UNIVERSIDADE REGIONAL DE BLUMENAU
+
+Extrato nº. 388/2020
+PARTES:  FUNDAÇÃO UNIVERSIDADE REGIONAL DE BLUMENAU
+
+E
+
+                  FRANCIELE CRISTINE LAMIM ME
+OBJETO: Aquisição de SSD´S (SOLID-STATE DRIVE) para a Universidade.
+FUNDAMENTO LEGAL: Pregão Presencial nº 194/2020 e Contrato nº 172/2020, firmado em 23 de setembro de 2020.  
+PREÇO: Pelo objeto contratado, a CONTRATANTE pagará o preço constante nas tabelas abaixo, de acordo com a proposta apresentada pela CONTRATADA:
+
+	Item
+	Código FURB
+	Qtde.
+	Und.
+	Descrição do Item
+	Preço Unitário 
+(em R$)
+	Preço Total do Item 
+(em R$)
+
+	01
+	37447
+	2
+	Peça
+	Drive de estado sólido (SSD) / capacidade 120 GB / 2,5" / SATA III, com as seguintes características:
+
+(Transcrever neste espaço a descrição do equipamento, que deverá atender, no mínimo, às características exigidas através do Anexo I (Termo de Referência) do Edital)
+	201,40
+	402,80
+
+	Preço Total do Item (em reais, por extenso)
+	Quatrocentos e dois reais e oitenta centavos.
+
+	Detalhamento das especificações técnicas
+
+	Marca
+	WD
+
+	Modelo
+	WDS120G2G0A
+
+	Garantia (em meses)
+	Mínima de 24 (vinte e quatro) meses
+
+
+	Item
+	Código FURB
+	Qtde.
+	Und.
+	Descrição do Item
+	Preço Unitário 
+(em R$)
+	Preço Total do Item 
+(em R$)
+
+	02
+	37813
+	151
+	Peça
+	Drive de estado sólido (SSD) / capacidade 240GB / 2,5" / SATA III, com as seguintes características:
+
+(Transcrever neste espaço a descrição do equipamento, que deverá atender, no mínimo, às características exigidas através do Anexo I (Termo de Referência) do Edital)
+	284,60
+	43.259,20
+
+	Preço Total do Item (em reais, por extenso)
+	Quarenta e três mil, duzentos e cinquenta e nove reais e vinte centavos.
+
+	Detalhamento das especificações técnicas
+
+	Marca
+	WD
+
+	Modelo
+	WDS240G2G0A
+
+	Garantia (em meses)
+	Mínima de 24 (vinte e quatro) meses
+
+
+PAGAMENTO: O pagamento será realizado em até 20 (vinte) dias consecutivos após a efetiva entrega (com descarga) do(s) produto(s) desde que estas sejam aprovados pela Gestão Contratual e sigam acompanhados da respectiva Nota Fiscal Eletrônica (NF-e), através de depósito bancário (hipótese na qual a NF-e deverá conter os dados bancários da CONTRATADA) ou de boleto bancário (caso no qual tal documento deverá acompanhar a NF-e).
+PRAZO DE VIGÊNCIA: Por se tratar de contratação imediata, este contrato terá início a partir da data de sua assinatura e encerramento vinculado ao término do respectivo exercício financeiro, em conformidade com o descrito no caput do artigo 57 da Lei Federal nº. 8.666/93.
+DATA: 25/09/2020.

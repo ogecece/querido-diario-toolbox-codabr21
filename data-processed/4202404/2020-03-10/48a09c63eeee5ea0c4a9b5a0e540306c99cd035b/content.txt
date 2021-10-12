@@ -1,0 +1,554 @@
+
+
+aodu®
+
+sLuvenau
+
+
+PREFEITURA MUNICIPAL DE BLUMENAU
+
+SECRETARIA MUNICIPAL DE EDUCAÇÃO DE BLUMENAU
+
+Quantidades médias de alimentos por refeição por aluno (per capita)
+	Nº
+	Produto
+	Turma 0-1 ano
+	Educação Infantil
+	Ensino Fundamental
+(Merenda)
+
+	1
+	Abobrinha
+	15g
+	20g
+	30g
+
+	2
+	Abóbora paulista
+	15g
+	20g
+	30g
+
+	3
+	Aipim
+	30g
+	60g
+	80g
+
+	4
+	Alface crespa
+	0
+	10g
+	15g
+
+	5
+	Alho
+	1g
+	2g
+	2g
+
+	6
+	Banana branca
+	120g
+	180g
+	0
+
+	7
+	Banana branca orgânica
+	120g
+	180g
+	0
+
+	8
+	Banana caturra
+	0
+	0
+	150g
+
+	9
+	Batata doce
+	30g
+	60g
+	80g
+
+	10
+	Batata inglesa (inteira)
+	30g
+	60g
+	80g
+
+	11
+	Batata inglesa (purê)
+	70g
+	120g
+	150g
+
+	12
+	Beterraba
+	15g
+	15g
+	20g
+
+	13
+	Brócolis
+	20g
+	30g
+	40g
+
+	14
+	Caqui fuyu
+	100g
+	100g
+	150g
+
+	15
+	Cebola branca
+	5g
+	10g
+	20g
+
+	16
+	Cenoura
+	10g
+	15g
+	20g
+
+	17
+	Chuchu
+	10g
+	20g
+	30g
+
+	18
+	Couve manteiga
+	10g
+	15g
+	30g
+
+	19
+	Couve-flor
+	20g
+	30g
+	40g
+
+	20
+	Espinafre
+	10g
+	10g
+	10g
+
+	21
+	Goiaba vermelha
+	0
+	60g
+	0
+
+	22
+	Laranja pera
+	0
+	150g
+	150g
+
+	23
+	Laranja lima (ml)
+	150ml
+	0
+	0
+
+	24
+	Maçã fuji
+	0
+	150g
+	150g
+
+	25
+	Maçã gala
+	0
+	150g
+	150g
+
+	26
+	Maçã tipo argentina
+	80g
+	0
+	0
+
+	27
+	Mamão formosa
+	40g
+	60g
+	0
+
+	28
+	Manga 
+	40g
+	60g
+	0
+
+	29
+	Melancia (POLPA)
+	0
+	100g
+	150g
+
+	30
+	Pêra argentina
+	80g
+	0
+	0
+
+	31
+	Pepino
+	0
+	30g
+	30g
+
+	32
+	Repolho verde
+	15g
+	25g
+	30g
+
+	33
+	Repolho verde orgânico
+	15g
+	25g
+	30g
+
+	34
+	Tangerina pokan ou mexirica
+	0
+	150g
+	150g
+
+	35
+	Tomate
+	15g
+	20g
+	30g
+
+	36
+	Tomate orgânico
+	15g
+	20g
+	30g
+
+	37
+	Uva Niágara rosa ou branca
+	0
+	80g
+	0
+
+	38
+	Salsinha crespa
+	1g
+	2g
+	3g
+
+	39
+	Carne bovina patinho moído
+	25g
+	40g
+	50g
+
+	40
+	Carne bovina inteira paleta (para assar)
+	25g
+	40g
+	60g
+
+	41
+	Carne bovina patinho bife
+	0
+	0
+	60g
+
+	42
+	Peito de frango sem osso, sem pele
+	30g
+	40g
+	60g
+
+	43
+	Coxa e sobrecoxa sem osso e sem pele 
+	30g
+	40g
+	60g
+
+	44
+	Fígado de galinha
+	25g
+	25g
+	0
+
+	45
+	Ovo de galinha
+	20
+	1(unidade)
+	1(unidade)
+
+	46
+	Queijo mussarela fatiado
+	0
+	15g
+	15g
+
+	47
+	Apresuntado fatiado
+	0
+	15g
+	15g
+
+	48
+	Requeijão
+	0
+	15g
+	15g
+
+	49
+	Leite pasteurizado tipo C
+	0
+	200ml
+	200ml
+
+	50
+	Iogurte
+	0
+	180ml
+	200ml
+
+	51
+	Filé/Posta de cação anjo
+	0
+	60g
+	90g
+
+	52
+	Creme vegetal
+	5g
+	10g
+	10g
+
+	53
+	Caldo de peixe
+	0
+	0
+	100ml
+
+	54
+	Achocolatado em pó
+	0
+	15g
+	15g
+
+	55
+	Açúcar refinado
+	10g
+	15g
+	15g
+
+	56
+	Arroz parboilizado (risoto)
+	25g
+	40g
+	80g
+
+	57
+	Arroz parboilizado/integral (único carboidrato)
+	25g
+	30g
+	50g
+
+	58
+	Arroz parboilizado + 1 carboidrato
+	15g
+	20g
+	30g
+
+	59
+	Arroz branco (sopa)
+	12g
+	15g
+	20g
+
+	60
+	Aveia em flocos médios
+	10g
+	30g
+	0
+
+	61
+	Biscoito (doce ou salgado)
+	0g
+	30g
+	40g
+
+	62
+	Café em pó
+	0
+	8g
+	8g
+
+	63
+	Cuca (farofa, fruta)
+	0
+	50g
+	100g
+
+	64
+	Extrato de tomate
+	10g
+	15g
+	20g
+
+	65
+	Farinha de mandioca
+	0
+	20g
+	30g
+
+	66
+	Farinha de trigo especial (para molhos)
+	5g
+	10g
+	10g
+
+	67
+	Feijão preto
+	12g
+	30g
+	40g
+
+	68
+	Flocos de cereais
+	10g
+	30g
+	0
+
+	69
+	Leite em pó integral enriquecido
+	25g
+	25g
+	0
+
+	70
+	Lentilha
+	0
+	20g
+	0
+
+	71
+	Massa aletria
+	12g
+	10g
+	15g
+
+	72
+	Macarrão/Macarrão integral
+	15g
+	30g
+	70g
+
+	73
+	Mel de abelha
+	0
+	15g
+	15g
+
+	74
+	Melado de cana
+	0
+	15g
+	15g
+
+	75
+	Bolos
+	0
+	50g
+	100g
+
+	76
+	Milho em conserva
+	0
+	5g
+	10g
+
+	77
+	Suco integral natural
+	0
+	150ml
+	200ml
+
+	78
+	Suco natural
+	150ml
+	150ml
+	0
+
+	79
+	Vinagre
+	0
+	1ml
+	2ml
+
+	80
+	Doce de leite/ Doce em pasta
+	0
+	15g
+	15g
+
+	81
+	Pão fatiado integral
+	0
+	25g
+	50g
+
+	82
+	Pão tipo bisnaguinha
+	0
+	35g
+	50g
+
+	83
+	Pão fatiado:aipim/batata/fubá 
+	0
+	25g
+	50g (2 fatias)
+
+	84
+	Pão fatiado trigo 
+	0
+	25g
+	50g (2 fatias)
+
+	85
+	Pão de cachorro quente
+	0
+	50g
+	75g
+
+	86
+	Pizza
+	0
+	120g
+	0
+
+	87
+	Cereal de milho sem açúcar
+	0
+	20g
+	40g
+
+	88
+	Pão de queijo (unidade de 25 gramas)
+	0
+	3g
+	0
+
+	89
+	Rosquinha de polvilho salgada
+	0
+	5g
+	6g
+
+

@@ -1,0 +1,43 @@
+
+FUNDAÇÃO UNIVERSIDADE REGIONAL DE BLUMENAU
+
+Extrato nº. 403/2020
+PARTES:  FUNDAÇÃO UNIVERSIDADE REGIONAL DE BLUMENAU
+
+E
+
+                  MASTERSUL EQUIPAMENTOS DE SEGURANÇA LTDA
+OBJETO: Registro de Preço para aquisições futuras de Equipamentos de Proteção Individual (EPI´s) para uso da Universidade.
+FUNDAMENTO LEGAL: Pregão Presencial nº 197/2020 e Ata de Registro de Preços nº 186/2020, firmado em 06 de outubro de 2020.  
+PREÇO: O preço ofertado pela empresa signatária da presente Ata de Registro de Preços é o abaixo informado, de acordo com a respectiva classificação.
+	Item
+	Código FURB
+	Qtde.
+	Und.
+	Descrição do Item
+	Marca
+	Preço Unitário (em R$)
+	Preço Total do Item (em R$)
+
+	1
+	32087
+	10
+	peça
+	Cartucho para vapores orgânicos e gases ácidos - para respirador purificador de ar tipo peça semifacial. Deve ser compatível com o respirador 3M modelo 6200. Pacote com 02 peças. Produto com certificado de aprovação (CA) válido
+	3M
+	60,75
+	607,50
+
+	17
+	25984
+	400
+	peças
+	Protetor auditivo de segurança, tipo inserção, composto de um eixo com três flanges de dimensões variáveis, para diversos tamanhos de canal auditivo, fabricado em silicone, comprimento único, com cordão de algodão ou poliéster - atenuação mínima de 17 dB (NRRsf). Produto com Certificado de Aprovação (CA) válido
+	Protect
+	1,48
+	592,00
+
+
+PAGAMENTO: O pagamento será efetuado em até 30 (trinta) dias consecutivos após a efetiva entrega dos materiais, desde que os mesmos sejam aprovados pelo Gestor designado pela CONTRATANTE e sigam acompanhados da(s) respectiva(s) Nota(s) Fiscal(is) Eletrônica(s) (NF-e), através de depósitos bancários (hipótese na qual a NF-e deverá conter os dados bancários da CONTRATADA) ou de boletos bancários (caso no qual tais documentos deverão acompanhar a NF-e).
+PRAZO DE VIGÊNCIA: A presente Ata de Registro de Preços terá a validade de 12 (doze) meses, a partir da data de sua assinatura.
+DATA: 06/10/2020.

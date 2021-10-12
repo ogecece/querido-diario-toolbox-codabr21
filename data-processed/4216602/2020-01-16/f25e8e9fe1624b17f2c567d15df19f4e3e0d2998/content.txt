@@ -1,0 +1,104 @@
+ Estado de Santa Catarina  PREFEITURA MUNICIPAL DE SÃO JOSÉ  Secretaria da Saúde de São José   
+
+
+Av. Acioni Souza Filho, 403 3º Andar – Praia Comprida
+São José/SC - CEP 88.103-790
+
+
+   
+
+PREFEI T URA
+
+ 
+
+
+
+
+ 
+
+
+
+TERMO DE RECUSA DA SOLUÇÃO
+
+1. Identificação
+Empresa: CONSULFARMA INFORMÁTICA E ASSESSORIA EM SAÚDE LTDA
+Contratante:  PREFEITURA MUNICIPAL DE SÃO JOSÉ
+Processo: 10612/2019
+
+2. Justificativa/Motivo da Rejeição:
+2.1. Segundo item 9.9 do Termo de Referência, o não atendimento a qualquer funcionalidade constante do termo de referência do edital ensejará a não aprovação da licitante. No presente caso, observa-se que a empresa não cumpriu, ou cumpriu parcialmente com os seguintes itens do Termo de Referência:
+2.1.1. Item 7 do 3.2.2 – Deve ser certificado SSL de comunicação SHA-256bits validada por autoridade certificadora;
+2.1.2 Item 16 do 3.2.3 - Dispor de estatística de faltas de pacientes a consultas e exames com o registro desses motivos pelas ACS com os Tablet´s;
+2.1.3 Item 21 do 3.2.3 – O sistema deverá atender a legislação e obrigações acessórias na esfera municipal, estadual e federal, gerando ou importando arquivos em meio eletrônico para as instâncias com o E-SUS, BPA, SISVAN, Bolsa Família, Hórus, RAAS, CNES, e SIGTAP. Caso alguns dos programas do ministério não possibilite essa integração o sistema deve gerar relatórios para que o operador digite no sistema disponibilizado pelo SUS;
+2.1.4 Item 22 do 3.2.3 - Permitir consultar a posição do usuário SUS na Lista de Espera por especialidades não agendadas. Essa consulta deve ser direta e não possuir login de acesso. As informações apresentadas por questão de sigilo não devem em hipótese alguma identificar o paciente, sendo o mesmo o único a ter essa informação;
+
+
+
+2.1.5 Item 23 do 3.2.3 - Garantir a Importação e manter atualizada automaticamente, sem interação do usuário, a tabela unificada de procedimento SIGTAP; Manter as competências anteriores;
+2.1.6 Item 5 do 3.2.4 - Dispor de um processo do agendamento automatizado da fila de espera com base nas agendas cadastradas, respeitando as regras de prioridade e a posição do paciente;
+2.1.7 item 12 do 3.2.4 - Dispor de Lista de Espera de solicitações (exames e consultas) que devem ser regulados, tendo no mínimo as seguintes opções: 
+Encaminhar paciente para fila de espera com opção de alterar a prioridade com justificativa 
+Possibilitar devolver informando a justificativa; 
+Mostrar a foto do paciente na página de regulação e agendamento; 
+Permitir visualizar o detalhe da solicitação; 
+Permitir consultar o prontuário do paciente; 
+Permitir visualizar encaminhamento/laudo; 
+2.1.7 item 15 do 3.2.4 - Dispor da geração de Malotes pelos estabelecimentos em saúde, para o envio das solicitações de agendamentos (encaminhamentos e exames), para a central do agendamento: 
+Cadastros dos Malotes; 
+Impressão dos Malotes; 
+Confirmar envio com identificação do responsável e data do envio; 
+Permitir cancelar malote pendentes (não enviados); 
+Permitir editar malotes pendentes (não enviados); 
+2.1.8 – item 16 do 3.2.4 - Dispor de recebimento dos Malotes pela central de Agendamento com as seguintes opções: 
+Enviar para regulação ou fila espera; 
+
+Agendar; 
+Devolver para o estabelecimento de origem, informando a justificativa; 
+Imprimir as solicitações que compõe o malote; 
+2.1.9 – item 17 do 3.2.4 - Dispor da geração de Malotes pela Central de Agendamento, para o envio das confirmações de Agendamentos e devoluções das solicitações com as seguintes opções: 
+•	Cadastros dos Malotes com identificação do estabelecimento destino; 
+•	Impressão dos Malotes; 
+Confirmar envio com identificação do responsável e data do envio; 
+Permitir cancelar malote pendentes (não enviados); 
+Permitir editar malotes pendentes (não enviados);
+2.1.10 – item 23 do 3.2.4 - Permite que o responsável configurado receba uma mensagem informando quando uma solicitação de agendamento foi agendada ou quando uma solicitação de agendamento foi devolvida para a unidade do responsável configurado;
+2.1.11 – item 24 do 3.2.4 - Permitir na tela de Agendamento da Lista de Espera e na Recepção visualizar antes de confirmar o agendamento para o paciente, a recomendação cadastrada na agenda;
+2.1.12 – item 2 do 3.2.5 - Garantir que o registro de Pacientes seja totalmente compatível com o Cadastro Nacional de Saúde - Cartão SUS e os dados completos do Cadastro Brasileiro de Ocupações;
+2.1.13 – item 3 do 3.2.5 - Dispor de opção no sistema que unifique quando necessário o cadastro do paciente (CADSUS);
+2.1.14 – item 8 do 3.2.5 - Permitir cadastro e consulta de municípios conforme informações do IBGE;
+2.1.15 – item 4 do 3.2.6 - Dispor de mecanismos para receber o retorno de SMS (Short Message Service) do paciente;
+
+2.1.16 – item 5 do 3.2.6 - Garantir adaptações para Envio Geral de serviços que interessar ao Município, ou seja, deverá ser customizado de acordo com a gestão da secretaria de saúde do município;
+21.17 – item 6 do 3.2.6 - Permitir enviar mensagens personalizadas a um grupo de paciente de uma área e micro área;
+3. Conclusão
+3.1 A solução trazida pela empresa Consulfarma Informática e Assessoria em Saúde Ltda., objetivando ofertar o software para gestão do Sistema de Saúde Pública Municipal, está em desacordo com algumas especificações e condições descritas no Termo de Referência  do  Pregão Eletrônico nº 138/2019.
+3.2 A Comissão entende prescindível dar continuidade à apresentação, uma vez que a empresa deixou de cumprir com os requisitos da Prova de Conceito no primeiro dia de exposição.
+3.3 Considerando que os serviços ofertados não se encontram em condições satisfatórias, em razão da não conformidade resumidamente apresentada neste Termo de Recusa, decide-se NÃO aprovar os sistemas e os respectivos serviços prestados.
+
+São José, 15 de janeiro de 2020
+	
+Fabrícia Martins Silva
+	
+Roni Schmidtke
+
+	Membro
+	Membro
+
+
+
+
+	Geovana Stedile
+	Eduardo Hinnig Chaves
+
+	Membro
+	Membro
+
+
+
+
+	
+Udo Hawerroth
+Presidente
+
+
+

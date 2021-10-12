@@ -1,0 +1,560 @@
+
+FUNDAÇÃO UNIVERSIDADE REGIONAL DE BLUMENAU
+
+Extrato nº. 096/2020
+PARTES:
+FUNDAÇÃO UNIVERSIDADE REGIONAL DE BLUMENAU
+E
+
+LABORCLIN PRODUTOS PARA LABORATÓRIO LTDA
+OBJETO: Registro de preços para aquisições futuras de materiais médico hospitalar e de higiene e beleza para a Universidade.
+FUNDAMENTO LEGAL: Concorrência (SRP) nº 448/2019 e Ata (SRP) nº 029/2020 que será firmada em 16 de março de 2020. 
+PREÇO: O preço ofertado pela empresa signatária da presente Ata de Registro de Preços é o abaixo informado, de acordo com a respectiva classificação:
+	Item
+	Código FURB
+	Qtde.
+	Und.
+	Descrição do Item
+	Marca
+	Preço Unitário 
+
+(em R$)
+	Preço Total do Item 
+
+(em R$)
+
+	21
+	10877
+	6
+	Frasco
+	Álcool acetona gram III / 1000ml
+	Laborclin
+	15,27
+	91,62
+
+	22
+	10648
+	6
+	Litro
+	Álcool ácido (segundo Ziehl)/ frasco de 1 litro
+	Laborclin
+	21,10
+	126,60
+
+	25
+	13796
+	10
+	Frasco
+	Azul de cresil-brilhante 100ml (C.I. 51010)
+	Laborclin
+	22,00
+	220,00
+
+	27
+	10649
+	20
+	Litro
+	Azul de metileno (segundo Ziehl)/ frasco de 1 litro
+	Laborclin
+	18,32
+	366,40
+
+	35
+	19864
+	10
+	Caixa
+	Caldo MTS / NaCl 6,5% / caixa com 10 tubos
+	Laborclin
+	21,55
+	215,50
+
+	36
+	22767
+	30
+	Caixa
+	Caldo raminose / caixa com 10 tubos
+	Laborclin
+	24,26
+	727,80
+
+	48
+	16445
+	20
+	Conjunto
+	Conjunto panótico rápido / frasco de 500ml
+	Laborclin
+	22,90
+	458,00
+
+	49
+	9763
+	6
+	Litro
+	Corante de Giemsa / frasco de 1L
+	Laborclin
+	29,78
+	178,68
+
+	50
+	9762
+	30
+	Frasco
+	Corante de May-Grunwald / frasco de 1L
+	Laborclin
+	15,43
+	462,90
+
+	52
+	13894
+	10
+	Litro
+	Corante Orange G para Papanicolau.
+	Laborclin
+	18,36
+	183,60
+
+	53
+	16447
+	6
+	Frasco
+	Corante panótico rápido número 1 / frasco de 500ml
+	Laborclin
+	9,70
+	58,20
+
+	59
+	19867
+	20
+	Frasco
+	Discos de amicacina / frasco com 50 discos
+	Laborclin
+	7,46
+	149,20
+
+	61
+	19868
+	20
+	Frasco
+	Discos de ampicilina / frasco com 50 discos
+	Laborclin
+	7,46
+	149,20
+
+	64
+	24167
+	20
+	Frasco
+	Discos de azitromicina / frasco com 50 discos
+	Laborclin
+	7,46
+	149,20
+
+	65
+	19869
+	20
+	Frasco
+	Discos de aztreonam / frasco com 50 discos
+	Laborclin
+	7,46
+	149,20
+
+	66
+	19870
+	20
+	Frasco
+	Discos de cefalotina / frasco com 50 discos
+	Laborclin
+	7,46
+	149,20
+
+	67
+	24166
+	20
+	Frasco
+	Discos de cefepime / frasco com 50 discos
+	Laborclin
+	7,46
+	149,20
+
+	68
+	23633
+	20
+	Frasco
+	Discos de cefotaxima 30mg / frasco com 50 discos
+	Laborclin
+	7,46
+	149,20
+
+	69
+	19871
+	20
+	Frasco
+	Discos de cefoxitina / frasco com 50 discos
+	Laborclin
+	7,46
+	149,20
+
+	70
+	23634
+	20
+	Frasco
+	Discos de ceftazidima 30mg / frasco com 50 discos
+	Laborclin
+	7,46
+	149,20
+
+	71
+	24165
+	20
+	Frasco
+	Discos de ceftriaxona / frasco com 50 discos
+	Laborclin
+	7,46
+	149,20
+
+	72
+	22134
+	20
+	Frasco
+	Discos de ciprofloxacina / frasco com 50 frascos
+	Laborclin
+	7,46
+	149,20
+
+	73
+	24775
+	20
+	Frasco
+	Discos de clindamicina / frasco com 50 discos
+	Laborclin
+	7,46
+	149,20
+
+	74
+	19876
+	20
+	Frasco
+	Discos de cloranfenicol / frasco com 50 discos
+	Laborclin
+	7,46
+	149,20
+
+	77
+	24168
+	20
+	Frasco
+	Discos de eritromicina / frasco com 50 discos
+	Laborclin
+	7,46
+	149,20
+
+	78
+	19872
+	20
+	Frasco
+	Discos de gentamicina / frasco com 50 discos
+	Laborclin
+	7,46
+	149,20
+
+	79
+	39632
+	20
+	FRASCO
+	Discos de gentamicina / altos níveis / 120 microgramas / frasco com 25 discos
+	Laborclin
+	7,46
+	149,20
+
+	81
+	25370
+	20
+	Frasco
+	Discos de levofloxacina / frasco com 50 discos
+	Laborclin
+	7,46
+	149,20
+
+	82
+	25876
+	20
+	Frasco
+	Discos de meropenem / frasco com 50 discos
+	Laborclin
+	7,46
+	149,20
+
+	83
+	19873
+	20
+	Frasco
+	Discos de nitrofurantoína / frasco com 50 discos
+	Laborclin
+	7,46
+	149,20
+
+	84
+	19874
+	20
+	Frasco
+	Discos de norfloxacina / frasco com 50 discos
+	Laborclin
+	7,46
+	149,20
+
+	85
+	10654
+	20
+	Frasco
+	Discos de novobiocina (para identificação de Staphylococcus) / frasco com 25 discos
+	Laborclin
+	7,46
+	149,20
+
+	86
+	8450
+	20
+	Frasco
+	Discos de oxacilina 1mg / frasco com 50 discos
+	Laborclin
+	7,46
+	149,20
+
+	87
+	23069
+	20
+	Frasco
+	Discos de penicilina G / frasco com 50 discos
+	Laborclin
+	7,46
+	149,20
+
+	89
+	25875
+	20
+	Frasco
+	Discos de sulfametoxazol + trimetroprim / frasco com 50 discos
+	Laborclin
+	7,46
+	149,20
+
+	90
+	19875
+	20
+	Frasco
+	Discos de sulfazotrim
+	Laborclin
+	7,46
+	149,20
+
+	91
+	19877
+	20
+	Frasco
+	Discos de tetraciclina / frasco com 50 discos
+	Laborclin
+	7,46
+	149,20
+
+	92
+	10736
+	20
+	Frasco
+	Discos de vancomicina / 30 microgramas
+	Laborclin
+	7,46
+	149,20
+
+	93
+	28896
+	20
+	Frasco
+	Discos para antibiograma de linezolida / frasco com 50 discos.
+	Laborclin
+	7,46
+	149,20
+
+	97
+	28702
+	20
+	Litro
+	Eosina amarelada 36 (EA-36) para teste de Papanicolau
+	Laborclin
+	48,00
+	960,00
+
+	98
+	10719
+	6
+	Frasco
+	Escherichia coli (A.T.C.C. 25922) / frasco com 5 discos
+	Laborclin
+	52,50
+	315,00
+
+	105
+	10646
+	6
+	Frasco
+	Fucsina (gram IV) / 1000ml
+	Laborclin
+	14,89
+	98,34
+
+	126
+	24879
+	6
+	Kit
+	Kit de monoteste para mononucleose infecciosa / com 50 testes
+	Laborclin
+	62,89
+	377,34
+
+	151
+	29709
+	6
+	Kit
+	Kit mononucleose; para 50 testes; látex; 1 x 2ml
+	Laborclin
+	62,89
+	377,34
+
+	154
+	22579
+	6
+	Kit
+	Kit para determinação da anti-estreptolisina O (ASO) por aglutinação em látex
+	Laborclin
+	20,59
+	123,54
+
+	155
+	14674
+	10
+	Kit
+	Kit para determinação da proteína "C " reativa (PCR) por aglutinação em látex / com controle
+	Laborclin
+	19,23
+	192,30
+
+	179
+	10475
+	10
+	Kit
+	Kit para dosagem de fator reumatóide por aglutinação em látex / com controle
+	Laborclin
+	19,93
+	169,30
+
+	210
+	10729
+	10
+	Litro
+	Lugol forte / 1L
+	Laborclin
+	44,00
+	440,00
+
+	211
+	10645
+	6
+	Frasco
+	Lugol fraco (Gram I) / frasco de 1000ml
+	Laborclin
+	16,00
+	96,00
+
+	214
+	22764
+	25
+	Caixa
+	Meio de cultura MIO / caixa com 10 tubos
+	Laborclin
+	21,61
+	540,25
+
+	217
+	10651
+	15
+	Frasco
+	Óleo de imersão para microscopia / frasco de 100ml
+	Laborclin
+	7,88
+	118,20
+
+	237
+	33523
+	20
+	Frasco
+	Reagente de Kovac´s frasco 10 ml
+	Laborclin
+	7,78
+	155,60
+
+	241
+	10678
+	6
+	Frasco
+	Reativo de Kovacs pronto para uso / frasco de 10ml
+	Laborclin
+	7,78
+	46,68
+
+	244
+	23371
+	100
+	Sachê
+	Sachê de glicose para curva glicêmica / com sabor / sachê de 75g
+	Laborclin
+	2,83
+	283,00
+
+	255
+	28000
+	10
+	Frasco
+	Soro fetal bovino / frasco de 500ml
+	Laborclin
+	284,56
+	2.845,60
+
+	256
+	10289
+	6
+	Caixa
+	Substrato cromogênico para análise de coliformes totais e Escherichia-coli em amostras de 100 ml de água / resultados em 24 horas  / caixa com 200 unidades
+	Laborclin
+	750,00
+	4.500,00
+
+	257
+	23467
+	6
+	Kit
+	Suplemento VX / kit com 5 unidades de 10ml cada
+	Laborclin
+	69,83
+	418,98
+
+	263
+	10656
+	12
+	Caixa
+	Tiras de oxidase / caixa com 10 tiras
+	Laborclin
+	13,72
+	164,64
+
+	279
+	10644
+	6
+	Frasco
+	Violeta (Gram I) / 1000ml
+	Laborclin
+	20,00
+	120,00
+
+
+PAGAMENTO: O pagamento será efetuado em até 20 (vinte) dias consecutivos após a efetiva entrega (com descarga) dos materiais, desde que os mesmos estejam em perfeitas condições de uso, sejam aprovados pelo Gestor designado pela CONTRATANTE e sigam acompanhados da respectiva Nota Fiscal Eletrônica (NF-e), através de depósitos bancários (hipótese na qual a NF-e deverá conter os dados bancários da CONTRATADA) ou de boletos bancários (caso no qual tais documentos deverão acompanhar a NF-e).
+PRAZO DE VIGÊNCIA: A presente Ata de Registro de Preços terá a validade de 12 (doze) meses, contados a partir da data de sua assinatura.
+DATA: 16/03/2020

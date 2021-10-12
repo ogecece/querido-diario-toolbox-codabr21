@@ -1,0 +1,173 @@
+
+FUNDAÇÃO UNIVERSIDADE REGIONAL DE BLUMENAU
+
+Extrato nº. 098/2020
+PARTES:
+FUNDAÇÃO UNIVERSIDADE REGIONAL DE BLUMENAU
+E
+
+LABORSYS SISTEMAS DIAGNÓSTICOS COMÉRCIO LTDA
+OBJETO: Registro de preços para aquisições futuras de materiais médico hospitalar e de higiene e beleza para a Universidade.
+FUNDAMENTO LEGAL: Concorrência (SRP) nº 448/2019 e Ata (SRP) nº 036/2020 que será firmada em 16 de março de 2020. 
+PREÇO: O preço ofertado pela empresa signatária da presente Ata de Registro de Preços é o abaixo informado, de acordo com a respectiva classificação:
+	Item
+	Código FURB
+	Qtde.
+	Und.
+	Descrição do Item
+	Marca
+	Preço Unitário 
+
+(em R$)
+	Preço Total do Item 
+
+(em R$)
+
+	94
+	33200
+	20
+	Bombona
+	Eluente de sangue CELLPACK / embalagem com 20 litros / para analisador hematológico POCH (Roche Sysmex).
+	Roche
+	232,00
+	4.640,00
+
+	116
+	35827
+	10
+	Kit
+	Kit albumina 400 testes / para uso em analisador bioquímico Roche Cobas C111.
+	Roche
+	236,00
+	2.360,00
+
+	117
+	35828
+	15
+	Kit
+	Kit ALP IFCC HiCo 200 testes / para uso em analisador bioquímico Roche Cobas C111.
+	Roche
+	317,00
+	4.755,00
+
+	118
+	35824
+	10
+	Kit
+	Kit ALT IFCC 400 testes / para uso em analisador bioquímico Roche Cobas C111.
+	Roche
+	222,00
+	2.220,00
+
+	120
+	35825
+	8
+	Kit
+	Kit AST IFCC 400 testes / para uso em analisador bioquímico Roche Cobas C111.
+	Roche
+	181,00
+	1.448,00
+
+	121
+	36940
+	8
+	Kit
+	Kit cálcio 400 testes; para uso em analisador bioquímico Roche Cobas C111.
+	Roche
+	404,00
+	3.232,00
+
+	123
+	32631
+	20
+	Kit
+	Kit de controle hematológico Eightcheck 3WP Sysmex / para uso em analisador hematológico POCH 100 IV Diff / kit composto de três frascos: 3WP-L (nível baixo), 3WP-N (nível normal) e 3WP-H (nível alto).
+	Roche
+	300,00
+	6.000,00
+
+	142
+	36522
+	15
+	Kit
+	Kit GGT IFCC 200 testes / para uso em analisador bioquímico Roche Cobas C111.
+	Roche
+	203,00
+	3.045,00
+
+	143
+	35833
+	8
+	Kit
+	Kit glicose HK 400 testes / para uso em analisador bioquímico Roche Cobas C111.
+	Roche
+	133,00
+	1.064,00
+
+	147
+	35840
+	20
+	Kit
+	Kit ISE desproteinizador / para uso em analisador bioquímico Roche Cobas C111.
+	Roche
+	70,00
+	1.400,00
+
+	148
+	35834
+	6
+	Kit
+	Kit lactato 100 testes / para uso em analisador bioquímico Roche Cobas C111.
+	Roche
+	479,00
+	2.874,00
+
+	198
+	35835
+	6
+	Kit
+	Kit proteina total 400 testes / para uso em analisador bioquímico Roche Cobas C111.
+	Roche
+	178,00
+	1.068,00
+
+	202
+	35837
+	6
+	Kit
+	Kit ureia BUN 400 testes / para uso em analisador bioquímico Roche Cobas C111.
+	Roche
+	159,00
+	954,00
+
+	208
+	35818
+	10
+	Kit
+	Lisante para analisador hematológico POCH (Roche SYSMEX) / Poch Vet pack LVD / kit com 2x250ml.
+	Roche
+	1.436,00
+	14.360,00
+
+	226
+	35841
+	30
+	Frasco
+	Padrão Integra Cleaner / para uso em analisador bioquímico Roche Cobas C111 / frasco de 1000ml.
+	Roche
+	213,00
+	6.390,00
+
+	242
+	36937
+	6
+	Peça
+	Rotor reagente para uso em analisador bioquímico Roche Cobas C111.
+	Roche
+	817,00
+	4.902,00
+
+
+PAGAMENTO: O pagamento será efetuado em até 20 (vinte) dias consecutivos após a efetiva entrega (com descarga) dos materiais, desde que os mesmos estejam em perfeitas condições de uso, sejam aprovados pelo Gestor designado pela CONTRATANTE e sigam acompanhados da respectiva Nota Fiscal Eletrônica (NF-e), através de depósitos bancários (hipótese na qual a NF-e deverá conter os dados bancários da CONTRATADA) ou de boletos bancários (caso no qual tais documentos deverão acompanhar a NF-e).
+PRAZO DE VIGÊNCIA: A presente Ata de Registro de Preços terá a validade de 12 (doze) meses, contados a partir da data de sua assinatura.
+DATA: 16/03/2020

@@ -1,0 +1,92 @@
+
+FUNDAÇÃO UNIVERSIDADE REGIONAL DE BLUMENAU
+
+Retificação do Extrato nº. 177/2020
+PARTES:  FUNDAÇÃO UNIVERSIDADE REGIONAL DE BLUMENAU
+
+E
+
+                 LUIZ FERNANDO CUNHA GRENIER ME
+OBJETO: Registro de Preços para aquisições futuras de equipamentos e produtos de informática para diversos setores da Universidade.
+FUNDAMENTO LEGAL: Pregão Presencial (SRP) nº 473/2019 e Ata de Registro de Preços nº 074/2020, firmado em 22 de junho de 2020.  
+	Item
+	Código FURB
+	Qtde.
+	Und.
+	Descrição do Item
+	Marca/
+
+Modelo
+	Garantia (se houver, em meses)
+	Preço Unitário (em R$)
+	Preço Total do Item (em R$)
+
+	45
+
+
+	32266
+	20
+	peça
+	Monitor LED para microcomputador / tamanho 23" (polegadas), com as seguintes características:
+
+Tamanho mínimo da tela: 23” widescreen
+
+Tipo da tela: LED ou superior.
+
+Tempo de Resposta Máximo: 5 milissegundos
+
+Ângulo de Visão mínimo: 160 graus
+
+Resolução mínima: 1920 x 1080 em 60Hz
+
+Suporte mínimo de Cores: 16 Milhões
+
+Conectores mínimos:
+· • 1 x analógico (RGB)
+
+· • 1 x HDMI
+
+Alimentação: automática entre 100 e 220 VAC
+Teclas mínimas no Painel: Mínimo de uma tecla que possibilite regular as configurações de imagem, sem a necessidade de uso de software adicional.
+
+Base: Deverá ser móvel e possuir inclinação vertical mínima de 90º permitindo o ajuste do ângulo de visão da tela (função Pivot)
+
+Autenticidade: Deverá conter impresso no produto ou em selo adesivo do fabricante:
+
+· • Marca
+
+· • Modelo
+
+· • Número de série
+
+Acessórios inclusos:
+· • Cabo VGA.
+
+· • Cabo DVI ou HDMI, conforme a conexão existente no monitor.
+
+· • Cabo de alimentação padrão NBR14136.
+
+· • Fonte externa (se houver) com cabo de alimentação padrão NBR14136.
+
+Embalagem: Original do fabricante, lacrada e intacta.
+
+Compatibilidade: Windows 8 ou superior.
+
+Garantia mínima: 12 meses, original do fabricante.
+
+
+	LG 23MB35PH – 
+
+Part Number: 23MB35PH
+	12 meses
+	800,00
+	16.000,00
+
+	Preço Total 
+(em R$ e por extenso)
+	16.000,00  (dezesseis mil reais)
+
+
+PAGAMENTO: O pagamento será realizado em até 30 (trinta) dias consecutivos após a efetiva entrega (com descarga) dos equipamento(s)/produto(s), desde que estes sejam aprovados pela Gestão Contratual e acompanhados da respectiva Nota Fiscal Eletrônica (NF-e), através de depósito bancário (hipótese na qual a NF-e deverá conter os dados bancários da CONTRATADA) ou de boleto bancário (caso no qual tal documento deverá acompanhar a NF-e).
+PRAZO DE VIGÊNCIA: A presente Ata de Registro de Preços terá a validade de 12 (doze) meses, contados a partir da data de sua assinatura.
+DATA: 22/06/2020.

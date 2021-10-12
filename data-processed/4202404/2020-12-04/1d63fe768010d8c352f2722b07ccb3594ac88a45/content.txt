@@ -1,0 +1,303 @@
+FUNDAÇÃO UNIVERSIDADE REGIONAL DE BLUMENAU
+
+Extrato nº. 522/2020
+PARTES:
+FUNDAÇÃO UNIVERSIDADE REGIONAL DE BLUMENAU
+
+e a empresa
+S. SCHNEIDER EIRELI
+ADITIVO DE INCLUSÃO DE ITEM
+TERMO ADITIVO Nº 001 À ATA DE REGISTRO DE PREÇOS Nº. 090/2020
+OBJETO: Registro de Preços para aquisições futuras de material de expediente para Universidade.
+FUNDAMENTO LEGAL: Concorrência Pública (SRP) nº.471/2019 e Ata de Registro de Preços nº.090/2020, firmada em 02 de junho de 2020.
+
+CLÁUSULA PRIMEIRA – DA INCLUSÃO: 
+
+Fica alterada a Cláusula Primeira, Item 1.3, da Ata de Registro de Preços nº. 090/2020, acrescentando os seguintes Itens no rol de produtos registrados para a empresa S. Schneider EIRELI, com as características que seguem:
+	Item
+	Cód. FURB
+	Saldo
+	Und.
+	Descrição do Item
+	Marca
+	Preço Unitário (em R$)
+	Preço Total do Item 
+
+(em R$)
+
+	2
+	27417
+	100
+	Peça
+	Agarrador Binder Clips 19mm
+	Brw
+	0,22
+	22,00
+
+	5
+	24930
+	50
+	Peça
+	Agarrador Binder Clips 51mm
+	Brw
+	1,42
+	71,00
+
+	16
+	3596
+	275
+	Peça
+	Bateria 9V alcalina (6LR61) / Blíster com uma unidade / validade mínima de 07 anos após a entrega.
+	Alfacel
+	8,60
+	2.365,00
+
+	30
+	1197
+	85
+	Peça
+	Borracha para lápis / comum / macia / número 40 / cor branca
+	Red Bor
+	0,20
+	17,00
+
+	32
+	1782
+	10
+	Peça
+	Caderno universitário de 96 folhas / com espiral e capa dura
+	Credeal
+	5,50
+	55,00
+
+	33
+	12119
+	625
+	Peça
+	Caixa de arquivo morto de papelão / tamanho 13cm x 25cm x 36cm
+	Passarela
+	1,54
+	962,50
+
+	74
+	1332
+	326
+	Peças
+	Cola em bastão / composta de glicerina, resinas e água / forte adesividade / embalagem 10g
+	Leo
+	0,70
+	228,20
+
+	77
+	1321
+	135
+	Peças
+	Cola líquida branca de boa qualidade / embalagem de plástico resistente com 40g / à base de PVA / atóxica / lavável / forte adesividade / áreas de aplicação: papel; cartão; tecidos; feltro; fotos; cortiça; vidro; madeira; couro; metal; plástico e material de espuma.
+	Injex
+	0,69
+	93,15
+
+	79
+	13855
+	150
+	Tubos
+	Cola para EVA e isopor / tubo com aproximadamente 40g.
+	Acrilex
+	2,00
+	300,00
+
+	106
+	14394
+	30
+	Rolo
+	Fita adesiva "silver tape" / rolo de 48mm x 5 metros.
+	Adelbras
+	9,36
+	280,80
+
+	126
+	27840
+	45
+	Caixas
+	Grampo para grampeador / material metal / tratamento galvanizado / tamanho 23/10 / caixa com 1.000 grampos
+	Leo
+	4,70
+	211,50
+
+	127
+	28430
+	10
+	Caixa
+	Grampo para grampeador / material metal / tratamento galvanizado / tamanho 23/13 / caixa com 1.000 grampos
+	Leo
+	5,30
+	53,00
+
+	131
+	1236
+	10
+	Caixa
+	Grampo para grampeador tipo Rapid / tamanho 9/14mm / caixa com 5000 grampos.
+	Leo
+	20,00
+	200,00
+
+	135
+	1390
+	100
+	Peça
+	Lâmina para estilete grande/largo / largura 18mm
+	Ndl
+	0,63
+	63,00
+
+	136
+	1389
+	40
+	Peça
+	Lâmina para estilete pequeno/estreito / largura 9mm
+	Ndl
+	0,56
+	22,40
+
+	139
+	167
+	200
+	Peça
+	Lápis 2B / corpo em madeira
+	Tris
+	0,90
+	180,00
+
+	166
+	1372
+	40
+	Metro
+	Papel contact colorido (descrever cor)
+	Polifix
+	4,19
+	167,60
+
+	173
+	1795
+	38
+	Bloco
+	Papel milimetrado tamanho A4 / Bloco com 50 folhas
+	Pan
+	5,30
+	201,40
+
+	188
+	13577
+	180
+	Peça
+	Pasta "L" / material plástico / tamanho ofício
+	Chies
+	0,70
+	126,00
+
+	194
+	1251
+	250
+	Peça
+	Pasta de papelão com abas, elásticos e ilhós (pasta Brasil)
+	Icl
+	1,76
+	440,00
+
+	196
+	23900
+	145
+	Peças
+	Pasta plástica com abas e com elástico / lombo de 20 a 30mm / cores diversas
+	Alaplast
+	2,00
+	290,00
+
+	198
+	28615
+	100
+	Peça
+	Pasta plástica com grampo e sem elástico.
+	Dello
+	1,65
+	165,00
+
+	199
+	1284
+	75
+	Peça
+	Pasta plástica sanfonada / com elástico e 12 divisórias / transparente
+	Dello
+	17,20
+	1.290,00
+
+	200
+	1268
+	90
+	Peça
+	Pasta plástico polionda 55mm / com abas e elástico
+	Alaplast
+	2,29
+	206,10
+
+	202
+	1213
+	15
+	Caixa
+	Percevejos latonados / caixa com 100 percevejos
+	Leo
+	2,00
+	30,00
+
+	222
+	17768
+	15
+	Peça
+	Pincel redondo número 00 / para uso artístico e escolar (guache, aquarela)
+	Atlas
+	1,20
+	18,00
+
+	229
+	1402
+	10
+	Peça
+	Porta fita adesiva / tamanho pequeno
+	Carbrink
+	10,65
+	106,50
+
+	253
+	1385
+	77
+	Peça
+	Tesoura bolso/escolar em aço inox / sem ponta / com cabo plástico e rebite reforçado em aço inox / tamanho aproximado 13cm
+	Leo
+	1,30
+	100,10
+
+	255
+	116
+	22
+	Jogo
+	Tinta guache / cores diversas / caixa com 6 cores
+	Splash
+	2,45
+	53,90
+
+	259
+	12819
+	10
+	Peça
+	Grampeador profissional / tratamento superficial pintado / material metal e plástico / para grampos 23/6 até 23/24 / capacidade 240 folhas
+	Like
+	84,10
+	841,00
+
+
+CLÁUSULA SEGUNDA – DA RATIFICAÇÃO:
+
+Permanecem inalteradas as demais cláusulas e condições previstas na Ata de Registro de Preços               nº 090/2020, que não colidirem com o presente termo.
+
+DATA: 25 de novembro de 2020.

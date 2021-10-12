@@ -1,0 +1,117 @@
+
+FUNDAÇÃO UNIVERSIDADE REGIONAL DE BLUMENAU
+
+Extrato nº. 130/2020
+PARTES:  FUNDAÇÃO UNIVERSIDADE REGIONAL DE BLUMENAU
+
+E
+
+                 WFL COMERCIO E SERVIÇOS ESPECIALIZADOS EIRELI
+OBJETO: Registro de Preços para aquisições futuras de baterias estacionárias para diversos equipamentos e sistemas gerenciados pela Universidade.
+FUNDAMENTO LEGAL: Pregão Presencial (SRP) nº 485/2019 e Ata nº 054/2020, a ser firmada em 16 de março de 2020.  
+PREÇO: O preço ofertado pela empresa signatária da presente Ata de Registro de Preços é o abaixo informado, de acordo com a respectiva classificação:
+
+	Lote: 02
+
+	Item
+	Código FURB
+	Qtde.
+	Und.
+	Descrição do Item
+	Preço Unitário (em R$)
+	Preço Total do Item (em R$)
+
+	1
+	24335
+	110
+	Peça
+	Bateria selada, não automotiva, VRLA 6V 4,5Ah em regime de descarga de 20h (C20) e 25ºC. Livre de manutenção. Tipo Eletrólito absorvido (AGM). Dimensões máximas da bateria (C x L x A) 71mm x 49mm x 107mm. Modelo de referência: Unipower UP645. 
+
+MARCA/MODELO: GETPOWER GP 06-4,5
+	49,30
+	5.423,00
+
+	2
+	37897
+	20
+	Peça
+	Bateria selada, não automotiva, VRLA 12V 2,3Ah em regime de descarga de 20h (C20) e 25ºC. Livre de manutenção. Tipo Eletrólito absorvido (AGM). Dimensões máximas da bateria (C x L x A) 180mm x 36mm x 67mm. Modelo de referência: Unipower UP1223
+
+MARCA/MODELO: GETPOWER GP 12-02,3
+	66,90
+	1.338,00
+
+	3
+	32220
+	50
+	Peça
+	Bateria selada, não automotiva, VRLA 12V 5Ah em regime de descarga de 20h (C20) e 25ºC. Livre de manutenção. Tipo Eletrólito absorvido (AGM). Dimensões máximas da bateria (C x L x A) 91mm x 72mm x 108mm. Modelo de referência: Unipower UP1250
+
+MARCA/MODELO: GETPOWER GP 12-005
+	75,63
+	3.781,50
+
+	4
+	26243
+	200
+	Peça
+	Bateria selada, não automotiva, VRLA 12V 7Ah em regime de descarga de 20h (C20) e 25ºC. Livre de manutenção. Tipo Eletrólito absorvido (AGM). Dimensões máximas da bateria (C x L x A) 152mm x 66mm x 102mm. Modelo de referência: Unipower UP1270E
+
+MARCA/MODELO: GETPOWER GP 12-007
+	83,64
+	16.728,00
+
+	5
+	36892
+	60
+	Peça
+	Bateria selada, não automotiva, VRLA 12V 9Ah em regime de descarga de 20h (C20) e 25ºC. Livre de manutenção. Tipo Eletrólito absorvido (AGM). Dimensões máximas da bateria (C x L x A) 152mm x 66mm x 102mm. Modelo de referência: Unipower UP1290
+
+MARCA/MODELO: GETPOWERGP 12-009
+	105,21
+	6.312,60
+
+	6
+	29593
+	40
+	Peça
+	Bateria selada, não automotiva, VRLA 12V 40Ah em regime de descarga de 20h (C20) e 25ºC. Livre de manutenção. Tipo Eletrólito absorvido (AGM). Dimensões máximas da bateria (C x L x A) 200mm x 168mm x 174mm. Modelo de referência: Unipower UP12400
+
+MARCA/MODELO: GETPOWER GP 12-040
+	481,34
+	19.253,60
+
+	7
+	37930
+	30
+	Peça
+	Bateria selada, não automotiva, VRLA 12V 18Ah em regime de descarga de 20h (C20) e 25ºC. Livre de manutenção. Tipo Eletrólito absorvido (AGM). Dimensões máximas da bateria (C x L x A) 183mm x 80mm x 170mm. Modelo de referência: Unipower UP12180
+
+MARCA/MODELO: GETPOWER GP 12-018 S
+	231,95
+	6.958,50
+
+	8
+	39494
+	20
+	Peça
+	Bateria selada, não automotiva, VRLA 6V 12Ah em regime de descarga de 20h (C20) e 25ºC. Livre de manutenção. Tipo Eletrólito absorvido (AGM). Dimensões máximas da bateria (C x L x A) 152mm x 51mm x 102mm. Modelo de referência: Unipower UP6120
+
+MARCA/MODELO: GETPOWER GP 06-12
+	100,24
+	2.004,80
+
+	Garantia (em meses)
+	24 meses a contar da emissão da NF
+
+	Preço Total do Lote 02 (em R$)
+	61.800,00
+
+	Preço Total do Lote 02 (em reais, por extenso)
+	Sessenta e um mil e oitocentos reais
+
+
+PAGAMENTO: O pagamento será efetuado em até 30 (trinta) dias consecutivos após a efetiva entrega (com descarga) dos produtos, desde que os mesmos estejam em perfeitas condições de uso, sejam aprovados pelo Gestor designado pela CONTRATANTE e sigam acompanhados da respectiva Nota Fiscal Eletrônica (NF-e), através de depósitos bancários (hipótese na qual a NF-e deverá conter os dados bancários da CONTRATADA) ou de boletos bancários (caso no qual tais documentos deverão acompanhar a NF-e).
+
+PRAZO DE VIGÊNCIA: A presente Ata de Registro de Preços terá a validade de 12 (doze) meses, contados a partir da data de sua assinatura.
+DATA: 23/04/2020.

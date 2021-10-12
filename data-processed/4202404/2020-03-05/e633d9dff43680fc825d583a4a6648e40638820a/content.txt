@@ -1,0 +1,315 @@
+
+FUNDAÇÃO UNIVERSIDADE REGIONAL DE BLUMENAU
+
+Extrato nº. 042/2020
+PARTES:
+FUNDAÇÃO UNIVERSIDADE REGIONAL DE BLUMENAU
+E
+
+ALTERMED MATERIAL MÉDICO HOSPITALAR LTDA
+OBJETO: Registro de preços para aquisições futuras de materiais médico hospitalar e de higiene e beleza para a Universidade.
+FUNDAMENTO LEGAL: Concorrência (SRP) nº 455/2019 e Ata (SRP) nº 011/2020 firmado em 05 de março de 2020. 
+PREÇO: O preço ofertado pela empresa signatária da presente Ata de Registro de Preços é o abaixo informado, de acordo com a respectiva classificação:
+	Item
+	Código FURB
+	Qtde. Estimada
+	Und.
+	Descrição dos Produtos
+	Marca e Modelo
+	Preço
+
+Unitário
+	Preço Total do Item
+
+	02
+	28822
+	30
+	Pacote
+	Abaixador de língua pediátrico em plástico liso / aromatizado / descartável / embalado individualmente em filme plástico transparente / embalagem com 40 unidades.
+	Agaplastic
+	21,84
+	655,20
+
+	03
+	8943
+	3
+	Peça
+	Afastador Farabeuf / para cirurgias em geral / em aço inox cirúrgico / tamanho 15cm/ constar na embalagem os dados de identificação, procedência e rastreabilidade/ fabricado conforme registro da ANVISA.
+	ABC
+	15,56
+	46,68
+
+	15
+	5715
+	40
+	Pacote   
+	Algodão hidrófilo / tipo bola
+	Euromed
+	2,97
+	118,80
+
+	40
+	8845
+	10
+	Peça      
+	Cabo para bisturi número 3 / em aço inox cirúrgico / para lâminas 10-14
+	Cassiflex
+	7,53
+	75,30
+
+	41
+	8846
+	10
+	Peça     
+	Cabo para bisturi número 4 / em aço inox cirúrgico / para lâminas 15-24
+	Cassiflex
+	7,53
+	75,30
+
+	59
+	28373
+	100
+	Peça      
+	Clorexidina aquosa 0,2% / frasco 100 ml / almotolia descartável
+	Vic Pharma
+	1,49
+	149,00
+
+	60
+	28375
+	100
+	Frasco    
+	Clorexidina degermante 2% / frasco 100 ml / almotolia descartável
+	Vic Pharma
+	2,21
+	221,00
+
+	74
+	15012
+	10
+	Peça
+	Eletrodo cardiológico precordial / adulto / completo (sucção + pera)
+	Missouri
+	15,22
+	152,20
+
+	85
+	10209
+	5
+	Pacote  
+	Espátula de Ayres em madeira / pacote com 100 unidades
+	Theoto
+	4,80
+	24,00
+
+	107
+	35800
+	20
+	Caixa
+	Fixador X-Omat para 38L / caixa com 2 frasco para preparar 38L / acondicionado em embalagem original do fabricante, com nome do responsável técnico, o lote, data de fabricação, validade e registro do Ministério da Saúde.
+	Silpachem
+	134,31
+	2.686,20
+
+	112
+	20482
+	5
+	Peça
+	Guia metálico para intubação / para sonda endotraquial
+	Oxigel
+	33,55
+	167,75
+
+	135
+	16010
+	10
+	Bobina  
+	Papel grau cirúrgico / medidas 0,08m x 100m
+	Hospflex
+	30,39
+	303,90
+
+	137
+	23078
+	20
+	Bobina  
+	Papel grau cirúrgico / medidas 0,20m x 100m
+	Hospflex
+	75,84
+	1.516,80
+
+	139
+	10294
+	10
+	Peça
+	Pera de insuflação em látex / sem válvula / para esfigmomanômetro aneróide e coluna de mercúrio.
+	Glicomed
+	5,07
+	50,70
+
+	141
+	10215
+	10
+	Peça
+	Pêra para eletrocardiograma pediátrico.
+	Missouri
+	2,40
+	24,00
+
+	168
+	35799
+	10
+	Caixa
+	Revelador X-Omat para 38L / caixa com 2 frasco para preparar 38L / acondicionado em embalagem original do fabricante, com nome do responsável técnico, o lote, data de fabricação, validade e registro do Ministério da Saúde.
+	Silpachem
+	249,83
+	2.498,30
+
+	189
+	39302
+	20
+	Frasco
+	Solução de Manitol 20%; bolsa de 250ml.
+	JP
+	4,81
+	96,20
+
+	221
+	8832
+	30
+	Peça   
+	Sonda uretral em PVC / descartável / siliconizada / atóxica / apirogênica / esterilizada / tamanho 14.
+	Biosani
+	0,45
+	13,50
+
+	229
+	33508
+	80
+	Peça
+	Tala de papelão para imobilização / tamanho P - 30x20cm / confeccionada em papelão tipo polionda.
+	Resgate SP
+	0,70
+	56,00
+
+	231
+	33510
+	80
+	Peça
+	Tala de papelão para imobilização / tamanho G - 70x20cm / confeccionada em papelão tipo polionda.
+	Resgate SP
+	1,22
+	121,60
+
+	233
+	33873
+	2
+	Peça
+	Tambor para armazenamento de gazes / fabricado em aço inox / tamanho 16x14cm.
+	Fami
+	101,68
+	203,36
+
+	256
+	31593
+	20
+	Peça   
+	Vaselina Líquida (óleo mineral)/ frasco plástico com bico reto de 100ml
+	Vic Pharma
+	3,95
+	79,00
+
+	257
+	14977
+	20
+	Frasco
+	Vaselina sólida / frasco de 500 g. Acondicionado em embalagem original do fabricante, com nome do responsável técnico, o lote, data de fabricação, validade e registro do Ministério da Saúde.
+	Vic Pharma
+	19,69
+	393,80
+
+	261
+	36065
+	20
+	Peça
+	Faixa elástica para exercícios físicos de reabilitação e fortalecimento / resistência extra forte (cor azul) / largura aproximada de 15 cm / comprimento aproximado de 100 cm.
+	Macrolife
+	24,32
+	486,40
+
+	262
+	36067
+	20
+	Peça
+	Faixa elástica para exercícios físicos de reabilitação e fortalecimento / resistência forte especial (cor preta) / largura aproximada de 15 cm / comprimento aproximado de 100 cm.
+	Macrolife
+	20,79
+	415,80
+
+	268
+	9709
+	20
+	Peça
+	Estetoscópio adulto duplo / auscultador e tubo de latão / mola de aço SAE 1050 / tubo unificado / cromado / olivas e anel em PVC
+	Bioland
+	12,67
+	253,40
+
+	269
+	9891
+	10
+	Peça
+	Estetoscópio pediátrico
+	Bioland
+	10,47
+	104,70
+
+	274
+	24808
+	5
+	Peça
+	Laringoscópio com lâminas; fabricado em aço inoxidável com tratamento antioxidante; alta luminosidade; tamanho adulto; engate para lâmpada universal; composição: com cabo e jogo de lâminas curvas (tamanhos 0,1,2,3,4) e lâminas retas (tamanhos 0,1,2,3,4), ambas com extremidade distal com acabamento redondo; embalagem em estojo próprio.
+	Agrupador
+	830,29
+	4.151,45
+
+	275
+	9724
+	80
+	Blister
+	Aparelho de barbear descartável / sem troca de lâmina / blister com 2 aparelhos.
+	Maxicor
+	1,34
+	107,20
+
+	277
+	8271
+	200
+	Caixa
+	Hastes plásticas flexíveis com pontas de algodão / tamanho 13cm / caixa com 75 unidades. Acondicionado em embalagem original do fabricante, com nome do responsável técnico, o lote, data de fabricação, validade e registro do Ministério da Saúde.
+	Higie Top
+	0,93
+	186,00
+
+	283
+	37280
+	40
+	Bisnaga
+	Protetor solar (FPS-30) com filtro UVA-UVB hipoalergênico e não comedogênico / Bisnaga de 120g
+	Nutriex
+	7,29
+	291,60
+
+	285
+	29257
+	20
+	Frasco
+	Repelente de insetos em spray.
+	Farmax
+	6,79
+	135,80
+
+
+PAGAMENTO: O pagamento será realizado em até 30 (trinta) dias consecutivos após a efetiva entrega (com descarga) do(s) material(is), desde que estes sejam aprovados pela Gestão Contratual e acompanhados da respectiva Nota Fiscal Eletrônica (NF-e), através de depósito bancário (hipótese na qual a NF-e deverá conter os dados bancários da CONTRATADA) ou de boleto bancário (caso no qual tal documento deverá acompanhar a NF-e)
+PRAZO DE VIGÊNCIA: A presente Ata de Registro de Preços terá a validade de 12 (doze) meses, contados a partir da data de sua assinatura.
+DATA: 05/03/2019

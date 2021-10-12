@@ -1,0 +1,263 @@
+
+Prefeitura Municipal da Serra 
+Espirito Santo 
+
+DECRETO Nº 6827/2020 
+O PREFEITO MUNICIPAL DA SERRA, ESPÍRITO SANTO, usando de suas atribuições legais, e com base no artigo 9º inciso 
+I da Lei nº 5.155/2020 de 10/01/2020; 
+
+D E C R E T A: 
+Art. 1º. Ficam suplementadas no orçamento vigente as dotações orçamentárias constantes do Anexo I. 
+Art. 2º. Para efeito das suplementações constante no Artigo anterior, ficam anuladas as dotações orçamentárias, indicada 
+no anexo II. 
+Art. 3º. Este Decreto entra em vigor na data de sua publicação, revogadas as disposições em contrário 
+
+Palácio Municipal, em Serra, em 23 de outubro de 2020 
+AUDIFAX CHARLES PIMENTEL BARCELOS 
+
+Prefeito Municipal 
+LAURIETE CANEVA 
+
+Secretária de Planejamento Estratégico 
+CRÉDITO ADICIONAL SUPLEMENTAR - ANEXO I - SUPLEMENTAÇÃO 
+
+R$ 1,00 
+
+CÓDIGO ESPECIFICAÇÃO NATUREZA FR VALOR 
+
+05.00.00 SEC. ADM. E RECURSOS HUMANOS    
+
+05.01.00 Sec. Adm. e Recursos Humanos    
+
+04.122.0530.2001 Pagamento de Pessoal e Encargos 3.1.91.13.00 1.001.0000.0000 200.000 
+
+04.122.0530.2003 Manutenção e Conservação de Bens Imóveis 3.3.90.34.00 1.001.0000.0000 50.000 
+
+04.122.0530.2004 Manutenção dos Serviços de Transporte 3.3.90.39.00 1.001.0000.0000 94.000 
+
+07.00.00 SECRETARIA DA FAZENDA    
+
+07.01.00 Secretaria da Fazenda    
+
+04.122.0530.2001 Pagamento de Pessoal e Encargos 3.1.90.13.00 1.001.0000.0000 50.000 
+
+09.00.00 SECRETARIA DE SERVIÇOS    
+
+09.01.00 Secretaria de Serviços    
+
+04.122.0530.2003 Manutenção e Conservação de Bens Imóveis 3.3.90.34.00 1.001.0000.0000 41.019 
+
+15.452.0110.2079 Ampliar a Coleta Seletiva dos Resíduos Sólidos (in 4.4.90.93.00 1.001.0000.0000 175.525 
+
+15.452.0110.2083 Fortalecer e Ampliar a Gestão de Necrópoles. 3.3.90.39.00 1.540.0000.0000 25.421 
+
+10.00.00 SEC. TURISMO, CULTURA, ESPORTE E LAZER    
+
+10.01.00 Sec. Turismo, Cultura, Esporte e Lazer    
+
+04.122.0530.2003 Manutenção e Conservação de Bens Imóveis 3.3.90.34.00 1.001.0000.0000 62.553 
+
+04.122.0530.2004 Manutenção dos Serviços de Transporte 3.3.90.39.00 1.001.0000.0000 100 
+
+11.00.00 SECRETARIA DE EDUCAÇÃO    
+
+11.01.00 Secretaria de Educação    
+
+12.361.0530.2001 Pagamento de Pessoal e Encargos 3.1.90.04.00 1.112.0000.0000 4.250.000 
+
+12.365.0530.2286 Pagamento de Pessoal e Encargos - Pré-Escola 3.1.90.04.00 1.113.0000.0000 330.000 
+
+12.365.0530.2286 Pagamento de Pessoal e Encargos - Pré-Escola 3.1.90.13.00 1.112.0000.0000 150.000 
+
+12.365.0530.2286 Pagamento de Pessoal e Encargos - Pré-Escola 3.1.90.13.00 1.113.0000.0000 50.000 
+
+12.00.00 SECRETARIA DE SAUDE    
+
+12.01.00 Fundo Municipal de Saúde    
+
+10.122.0530.2001 Pagamento de Pessoal e Encargos 3.1.90.04.00 1.211.0000.0000 5.450.000 
+
+10.122.0530.2001 Pagamento de Pessoal e Encargos 3.1.90.11.00 1.211.0000.0000 4.000.000 
+
+10.122.0530.2003 Manutenção e Conservação de Bens Imóveis 3.3.90.34.00 1.211.0000.0000 650.000 
+
+10.302.0190.2192 Manter a oferta de atendimento psicossocial. 3.3.50.92.00 2.001.0000.0000 263.060 
+
+10.305.0530.2001 Pagamento de Pessoal e Encargos 3.1.90.11.00 1.214.0000.0000 500.000 
+
+13.00.00 SECRETARIA DE ASSISTÊNCIA SOCIAL    
+
+13.01.00 Secretaria de Assistência Social    
+
+08.122.0530.2003 Manutenção e Conservação de Bens Imóveis 3.3.90.34.00 1.001.0000.0000 30.430 
+
+16.00.00 SECRETARIA DE DESENV. URBANO    
+
+16.01.00 Secretaria de Desenv. Urbano    
+
+04.122.0530.2001 Pagamento de Pessoal e Encargos 3.1.90.13.00 1.001.0000.0000 50.000 
+
+19.00.00 SECRETARIA DE DEFESA SOCIAL    
+
+19.01.00 Secretaria de Defesa Social    
+
+04.122.0530.2001 Pagamento de Pessoal e Encargos 3.1.90.16.00 1.001.0000.0000 380.000 
+
+20.00.00 SECRETARIA DE COMUNICAÇÃO    
+
+20.01.00 Secretaria de Comunicação    
+
+04.122.0530.2001 Pagamento de Pessoal e Encargos 3.1.91.13.00 1.001.0000.0000 5.000 
+
+22.00.00 SEC. DE POLÍTICAS PÚBLICAS DA MULHER    
+
+22.01.00 Sec. de Politicas Públicas da Mulher    
+
+
+
+CRÉDITO ADICIONAL SUPLEMENTAR - ANEXO I - SUPLEMENTAÇÃO 
+R$ 1,00 
+
+CÓDIGO ESPECIFICAÇÃO NATUREZA FR VALOR 
+
+14.422.0470.2154 Realizar Campanhas Informativas e Atividades Educa 3.3.90.93.00 1.520.0252.0000 25.700 
+  TOTAL  16.832.808 
+
+CRÉDITO ADICIONAL SUPLEMENTAR - ANEXO II - ANULAÇÃO 
+R$ 1,00 
+
+CÓDIGO ESPECIFICAÇÃO NATUREZA FR VALOR 
+
+02.00.00 COORDENADORIA DE GOVERNO    
+
+02.01.00 Coordenadoria de Governo    
+
+04.122.0530.2001 Pagamento de Pessoal e Encargos 3.1.90.04.00 1.001.0000.0000 5.000 
+
+05.00.00 SEC. ADM. E RECURSOS HUMANOS    
+
+05.01.00 Sec. Adm. e Recursos Humanos    
+
+04.122.0530.2001 Pagamento de Pessoal e Encargos 3.1.90.11.00 1.001.0000.0000 300.000 
+
+04.122.0530.2001 Pagamento de Pessoal e Encargos 3.3.90.39.00 1.001.0000.0000 50.000 
+
+07.00.00 SECRETARIA DA FAZENDA    
+
+07.01.00 Secretaria da Fazenda    
+
+04.122.0530.2001 Pagamento de Pessoal e Encargos 3.3.90.39.00 1.001.0000.0000 24.000 
+
+09.00.00 SECRETARIA DE SERVIÇOS    
+
+09.01.00 Secretaria de Serviços    
+
+04.122.0530.2001 Pagamento de Pessoal e Encargos 3.3.90.39.00 1.001.0000.0000 31.019 
+
+04.122.0530.2002 Manutenção dos Serviços Administrativos Gerais 4.4.90.52.00 1.001.0000.0000 10.000 
+
+15.452.0110.2085 Intensificar e Manter os Serviços de Limpeza Urban 3.3.90.39.00 1.540.0000.0000 25.421 
+
+15.452.0110.2085 Intensificar e Manter os Serviços de Limpeza Urban 3.3.90.92.00 1.001.0000.0000 175.525 
+
+10.00.00 SEC. TURISMO, CULTURA, ESPORTE E LAZER    
+
+10.01.00 Sec. Turismo, Cultura, Esporte e Lazer    
+
+04.122.0530.2002 Manutenção dos Serviços Administrativos Gerais 3.3.90.14.00 1.001.0000.0000 5.000 
+
+04.122.0530.2002 Manutenção dos Serviços Administrativos Gerais 3.3.90.30.00 1.001.0000.0000 3.660 
+
+04.122.0530.2002 Manutenção dos Serviços Administrativos Gerais 3.3.90.33.00 1.001.0000.0000 5.000 
+
+04.122.0530.2002 Manutenção dos Serviços Administrativos Gerais 3.3.90.39.00 1.001.0000.0000 23.893 
+
+04.122.0530.2002 Manutenção dos Serviços Administrativos Gerais 4.4.90.52.00 1.001.0000.0000 20.000 
+
+04.122.0530.2004 Manutenção dos Serviços de Transporte 3.3.90.92.00 1.001.0000.0000 100 
+
+13.392.0150.2227 Criar e manter o Fundo Municipal da Cultura. 3.3.90.30.00 1.001.0000.0000 5.000 
+
+11.00.00 SECRETARIA DE EDUCAÇÃO    
+
+11.01.00 Secretaria de Educação    
+
+12.361.0530.2001 Pagamento de Pessoal e Encargos 3.1.90.16.00 1.112.0000.0000 300.000 
+
+12.365.0530.2001 Pagamento de Pessoal e Encargos 3.1.90.04.00 1.112.0000.0000 2.500.000 
+
+12.365.0530.2001 Pagamento de Pessoal e Encargos 3.1.90.04.00 1.113.0000.0000 330.000 
+
+12.365.0530.2001 Pagamento de Pessoal e Encargos 3.1.90.11.00 1.112.0000.0000 750.000 
+
+12.365.0530.2001 Pagamento de Pessoal e Encargos 3.1.90.13.00 1.112.0000.0000 200.000 
+
+12.365.0530.2001 Pagamento de Pessoal e Encargos 3.1.90.16.00 1.112.0000.0000 100.000 
+
+12.365.0530.2286 Pagamento de Pessoal e Encargos - Pré-Escola 3.1.90.11.00 1.112.0000.0000 600.000 
+
+12.00.00 SECRETARIA DE SAUDE    
+
+12.01.00 Fundo Municipal de Saúde    
+
+10.301.0240.2205 Ampliar e Melhorar a Qualidade do Acesso na Atençã 3.3.90.30.00 1.211.0000.0000 100.000 
+
+10.301.0240.2208 Ofertar à População Serviços e Ações de Saúde na A 3.3.90.18.00 2.001.0000.0000 263.060 
+
+10.301.0240.2208 Ofertar à População Serviços e Ações de Saúde na A 3.3.90.18.00 1.211.0000.0000 100.000 
+
+10.301.0530.2001 Pagamento de Pessoal e Encargos 3.1.90.04.00 1.214.0000.0000 500.000 
+
+10.302.0190.2194 Manter a rede de serviços especializada. 3.3.90.30.00 1.211.0000.0000 100.000 
+
+10.302.0190.2195 Manter a rede de urgência e emergência. 3.3.50.39.00 1.211.0000.0000 350.000 
+
+13.00.00 SECRETARIA DE ASSISTÊNCIA SOCIAL    
+
+13.01.00 Secretaria de Assistência Social    
+
+08.122.0530.2003 Manutenção e Conservação de Bens Imóveis 3.3.90.92.00 1.001.0000.0000 30.430 
+
+14.00.00 SECRETARIA DE MEIO AMBIENTE    
+
+14.01.00 Secretaria de Meio Ambiente    
+
+04.122.0530.2001 Pagamento de Pessoal e Encargos 3.3.90.39.00 1.001.0000.0000 40.000 
+
+16.00.00 SECRETARIA DE DESENV. URBANO    
+
+16.01.00 Secretaria de Desenv. Urbano    
+
+
+
+CRÉDITO ADICIONAL SUPLEMENTAR - ANEXO II - ANULAÇÃO 
+R$ 1,00 
+
+CÓDIGO ESPECIFICAÇÃO NATUREZA FR VALOR 
+
+04.122.0530.2001 Pagamento de Pessoal e Encargos 3.3.90.39.00 1.001.0000.0000 30.000 
+
+19.00.00 SECRETARIA DE DEFESA SOCIAL    
+
+19.01.00 Secretaria de Defesa Social    
+
+04.122.0530.2001 Pagamento de Pessoal e Encargos 3.1.90.04.00 1.001.0000.0000 380.000 
+
+22.00.00 SEC. DE POLÍTICAS PÚBLICAS DA MULHER    
+
+22.01.00 Sec. de Politicas Públicas da Mulher    
+
+14.422.0470.2154 Realizar Campanhas Informativas e Atividades Educa 3.3.90.39.00 1.520.0252.0000 25.700 
+
+24.00.00 ENCARGOS GERAIS DO MUNICIPIO    
+
+24.01.00 Rec. Sob Supervisão Sefa/Proger    
+
+28.841.0000.3288 Juros, Amortização e Encargos da Dívida Pública 3.2.90.21.00 1.001.0000.0000 4.000.000 
+
+28.841.0000.3288 Juros, Amortização e Encargos da Dívida Pública 4.6.90.71.00 1.001.0000.0000 5.450.000 
+  TOTAL  16.832.808 
+
+ 
+
+

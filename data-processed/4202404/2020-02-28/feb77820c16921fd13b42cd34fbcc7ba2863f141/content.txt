@@ -1,0 +1,337 @@
+          PREFEITURA MUNICIPAL DE BLUMENAU
+
+
+ANEXO III
+	CREDOR:
+	FAST VEICULOS LTDA
+
+	DOCUMENTO
+	Processo 2018/20133
+
+	DATA:
+	29/08/2018
+
+	ORIGEM DA DESPESA:
+	Referente ao processo 2018/20133, para a viatura placa QHL0618, que visa a restituição de despesa com manutenção de veículo locado, em decorrência de acidente, conforme orçamento anexo e de acordo com termos do contrato 318/2015 e concorrência 2015/17.
+
+	DOTAÇÃO:
+	8
+
+	FONTE DE RECURSO:
+	0102.00000
+
+	VALOR:
+	R$ 19.244,00
+
+	CREDOR:
+	Associação Renal Vida 
+
+	DOCUMENTO:
+	Memorando n° 018/2020/CMCAA-SEMUS
+
+	DATA:
+	18/02/2020
+
+	ORIGEM DA DESPESA:
+	Pagamento referente ao incremento temporário do limite financeiro da assistência de média e alta complexidade (MAC), através de repasse, conforme portarias:
+
+N° 4.242 de 27 de Dezembro de 2018 - Emenda 81785125;
+
+N° 2.908 de 07 de Novembro de 2019 - Emenda 38240002;
+
+N° 3.154 de 02 de Dezembro de 2019 - Emenda 71260002 e
+
+N° 3.776 de 02 de Dezembro de 2019 - Emenda de programação.
+
+	DOTAÇÃO:
+	88
+
+	FONTE DE RECURSO:
+	0238.00065
+
+	VALOR:
+	R$ 703.004,00
+
+	CREDOR:
+	Fundação Hospitalar de Blumenau
+
+	DOCUMENTO:
+	Memorando n° 018 e 019/2020/CMCAA-SEMUS
+
+	DATA:
+	18/02/2020
+
+	ORIGEM DA DESPESA:
+	Pagamento referente ao incremento temporário do limite financeiro da assistência de média e alta complexidade (MAC), através de repasse, conforme portarias:
+
+N° 4.242 de 27 de Dezembro de 2018 - Emenda 81785125;
+
+N° 2.908 de 07 de Novembro de 2019 - Emenda 38240002 e
+
+N° 3.154 de 02 de Dezembro de 2019 - Emenda 71260002.
+
+Atenção a saúde da população para procedimentos no Mac, conforme portaria n° 3.339 de 17 de Dezembro de 2019.
+
+	DOTAÇÃO:
+	88
+
+	FONTE DE RECURSO:
+	0238.00065
+
+	VALOR:
+	R$ 1.634.899,00
+
+	CREDOR:
+	Associação Hospitalar Beneficente Misericórdia de Vila Itoupava
+
+	DOCUMENTO:
+	Memorando n° 018/2020/CMCAA-SEMUS
+
+	DATA:
+	18/02/2020
+
+	ORIGEM DA DESPESA:
+	Pagamento referente ao incremento temporário do limite financeiro da assistência de média e alta complexidade (MAC), através de repasse, conforme portarias:
+
+N° 1.630 de 26 de Junho de 2019 - Emenda 36890021, 28500002 e 38240002 e
+
+N° 2.908 de 07 de Novembro de 2019 - Emenda 38240002.
+
+	DOTAÇÃO:
+	88
+
+	FONTE DE RECURSO:
+	0238.00065
+
+	VALOR:
+	R$ 650.000,00
+
+	CREDOR:
+	Associação Congregação de Santa Catarina
+
+	DOCUMENTO:
+	Memorando n° 019/2020/CMCAA-SEMUS
+
+	DATA:
+	18/02/2020
+
+	ORIGEM DA DESPESA:
+	Pagamento referente a Atenção a saúde da população para procedimentos no Mac, conforme portaria n° 3.339 de 17 de Dezembro de 2019.
+
+	DOTAÇÃO:
+	88
+
+	FONTE DE RECURSO:
+	0238.00065
+
+	VALOR:
+	R$ 490.650,00
+
+	CREDOR:
+	ORCALI SERVIÇOS DE SEGURANÇA LTDA
+
+	DOCUMENTO:
+	Processo Web 2019/10648
+
+	DATA:
+	30/04/2019
+
+	ORIGEM DA DESPESA:
+	Prestação de serviços de vigilância eletrônica (alarme) aos Ambulatórios Gerais e Estratégias Saúde da Família no período de outubro e novembro de 2018.
+
+	DOTAÇÃO:
+	54
+
+	FONTE DE RECURSO:
+	0238.00064
+
+	VALOR:
+	R$ 38.117,99
+
+	CREDOR:
+	ORCALI SERVIÇOS DE SEGURANÇA LTDA
+
+	DOCUMENTO:
+	Processo Web 2019/10648
+
+	DATA:
+	30/04/2019
+
+	ORIGEM DA DESPESA:
+	Prestação de serviços de vigilância eletrônica (alarme) a Policlínica e ao Centro de Saúde Rosania Machado no período de outubro e novembro de 2018.
+
+	DOTAÇÃO:
+	87
+
+	FONTE DE RECURSO:
+	0102.00000
+
+	VALOR:
+	R$ 1.337,48
+
+	CREDOR:
+	ORCALI SERVIÇOS DE SEGURANÇA LTDA
+
+	DOCUMENTO:
+	Processo Web 2019/10648
+
+	DATA:
+	30/04/2019
+
+	ORIGEM DA DESPESA:
+	Prestação de serviços de vigilância eletrônica (alarme) aos CAPS’s no período de outubro e novembro de 2018.
+
+	DOTAÇÃO:
+	73
+
+	FONTE DE RECURSO:
+	0238.00065
+
+	VALOR:
+	R$ 2.674,95
+
+	CREDOR:
+	ORCALI SERVIÇOS DE SEGURANÇA LTDA
+
+	DOCUMENTO:
+	Processo Web 2019/10648
+
+	DATA:
+	30/04/2019
+
+	ORIGEM DA DESPESA:
+	Prestação de serviços de vigilância eletrônica (alarme) ao CEREST no período de outubro e novembro de 2018.
+
+	DOTAÇÃO:
+	77
+
+	FONTE DE RECURSO:
+	0238.00065
+
+	VALOR:
+	R$ 668,74
+
+	CREDOR:
+	ORCALI SERVIÇOS DE SEGURANÇA LTDA
+
+	DOCUMENTO:
+	Processo Web 2019/10648
+
+	DATA:
+	30/04/2019
+
+	ORIGEM DA DESPESA:
+	Prestação de serviços de vigilância eletrônica (alarme) ao CEDAP e Vigilância Epidemiológica no período de outubro e novembro de 2018.
+
+	DOTAÇÃO:
+	121
+
+	FONTE DE RECURSO:
+	0238.00066
+
+	VALOR:
+	R$ 1.337,48
+
+	CREDOR:
+	ORCALI SERVIÇOS DE SEGURANÇA LTDA
+
+	DOCUMENTO:
+	Processo Web 2019/10648
+
+	DATA:
+	30/04/2019
+
+	ORIGEM DA DESPESA:
+	Prestação de serviços de vigilância eletrônica (alarme) a Vigilância Sanitária no período de outubro e novembro de 2018.
+
+	DOTAÇÃO:
+	114
+
+	FONTE DE RECURSO:
+	0206.00000
+
+	VALOR:
+	R$ 668,74
+
+	CREDOR:
+	ORCALI SERVIÇOS DE SEGURANÇA LTDA
+
+	DOCUMENTO:
+	Processo Web 2019/10648
+
+	DATA:
+	30/04/2019
+
+	ORIGEM DA DESPESA:
+	Prestação de serviços de vigilância eletrônica (alarme) ao Laboratório Municipal no período de outubro e novembro de 2018.
+
+	DOTAÇÃO:
+	81
+
+	FONTE DE RECURSO:
+	0238.00065
+
+	VALOR:
+	R$ 668,74
+
+	CREDOR:
+	ORCALI SERVIÇOS DE SEGURANÇA LTDA
+
+	DOCUMENTO:
+	Processo Web 2019/10648
+
+	DATA:
+	30/04/2019
+
+	ORIGEM DA DESPESA:
+	Prestação de serviços de vigilância eletrônica (alarme) ao Bem Estar Animal e ETSUS no período de outubro e novembro de 2018.
+
+	DOTAÇÃO:
+	8
+
+	FONTE DE RECURSO:
+	0102.00000
+
+	VALOR:
+	R$ 1.337,48
+
+	CREDOR:
+	Associação Congregação de Santa Catarina
+
+	DOCUMENTO:
+	Autos nº 5008693-54.2019.8.24.0008
+
+	DATA:
+	30/09/2019
+
+	ORIGEM DA DESPESA:
+	Pagamento referente Stent intracraniano LCIS JR 25x23 - microvention fornecido em favor de  Nair Sabel Floriano em cirurgia realizada junto ao Hospital Santa Isabel, em razão dos autos nº 5008693-54.2019.8.24.0008 na data de 30/09/2019.
+
+	DOTAÇÃO:
+	8
+
+	FONTE DE RECURSO:
+	0102.00000
+
+	VALOR:
+	R$ 12.500,00
+
+	VALOR A RECONHECER
+	R$ 3.557.108,60 (Três milhões quinhentos e cinqüenta e sete mil cento e oito reais e sessenta centavos)
+
+
+Reconheço as despesas desta relação.     
+Blumenau, 07 de Fevereiro de 2020.                             
+
+
+WINNETOU MICHEL KRAMBECK
+                 Secretário Municipal de Promoção da Saúde/
+
+                 Gestor do Fundo Municipal de Saúde
+
+
+
+
+Prefeitura Municipal de Blumenau – Praça Victor Konder, 2 – CEP 89010-904 – Centro – Blumenau – Santa Catarina - Brasil
+
+

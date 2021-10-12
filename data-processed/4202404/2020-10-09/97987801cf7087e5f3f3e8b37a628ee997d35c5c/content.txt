@@ -1,0 +1,802 @@
+
+FUNDAÇÃO UNIVERSIDADE REGIONAL DE BLUMENAU
+
+Extrato nº. 409/2020
+PARTES:  FUNDAÇÃO UNIVERSIDADE REGIONAL DE BLUMENAU
+
+E
+
+                  PHLAB PRODUTOS PARA LABORATÓRIOS LTDA
+OBJETO: Registro de Preços para aquisições futuras de material laboratorial para utilização em diversos setores da Universidade.
+FUNDAMENTO LEGAL: Concorrência (SRP) nº 164/2020 e Ata de Registro de Preços nº 187/2020, firmada em 09 de outubro de 2020.  
+PREÇO: O preço ofertado pela empresa signatária da presente Ata de Registro de Preços é o abaixo informado, de acordo com a respectiva classificação:
+
+	Item
+	Código FURB
+	Qtde.
+	Und.
+	Descrição dos Materiais
+	Marca
+	Preço Unitário 
+
+(em R$)
+	Preço Total (em R$)
+
+	4
+	10144
+	5
+	peça
+	Alcoolômetro sem termômetro / conforme Gay-Lussac / temperatura 20°C / escala 0/100 / divisão 10/45 / comprimento 300mm
+	Incoterm
+	76,30
+	381,50
+
+	5
+	18954
+	30
+	peça
+	Almotolia plástica transparente, capacidade 250ml, com bico reto e longo; confeccionada em plástico ou similar apropriado, resistente e flexível; composta de 3 partes (bisnaga, bico rosqueador e tampa); tampa acoplada ao frasco; bisnaga inteiriça, com par
+	Prolab
+	2,55
+	76,50
+
+	9
+	25361
+	7
+	peça
+	Balão de fundo redondo / 2 bocas / com saída angular / volume 2L / gargalo (haste) curto / juntas 24/40 / vidro borossilicato branco.
+	Uniglas
+	91,17
+	638,19
+
+	10
+	9439
+	5
+	peça
+	Balão volumétrico / volume 100ml / rolha de polietileno número 13 / classe A / vidro borossilicato branco
+	Phox
+	22,52
+	112,60
+
+	11
+	21281
+	6
+	peça
+	Balão volumétrico / volume 10ml / rolha de polietileno número 9 / classe A / vidro borossilicato
+	Phox
+	16,99
+	101,94
+
+	12
+	9438
+	5
+	peça
+	Balão volumétrico / volume 1Litro / rolha de polietileno número 22 / classe A / vidro borossilicato branco
+	Phox
+	52,23
+	261,15
+
+	14
+	9440
+	5
+	peça
+	Balão volumétrico / volume 250ml / rolha de polietileno número 16 / classe A / vidro borossilicato branco
+	Phox
+	29,02
+	145,10
+
+	15
+	9431
+	5
+	peça
+	Balão volumétrico / volume 25ml / rolha de polietileno número 9 / classe A / vidro borossilicato branco
+	Phox
+	19,17
+	95,85
+
+	16
+	21280
+	15
+	peça
+	Balão volumétrico / volume 5ml / rolha de polietileno número 9 / classe A / vidro borossilicato
+	Phox
+	17,55
+	263,25
+
+	20
+	9900
+	3
+	peça
+	Barrilete para água / volume 10L / em PVC rígido / dimensões 200mm x 450mm
+	ACS
+	128,84
+	386,52
+
+	21
+	10021
+	30
+	peça
+	Bastão de vidro / 300mm de comprimento e 6mm de diâmetro
+	Phox
+	2,19
+	65,70
+
+	22
+	10454
+	30
+	peça
+	Bastão de vidro / 300mm de comprimento e 8mm de diâmetro
+	Phox
+	2,65
+	79,50
+
+	23
+	9558
+	60
+	peça
+	Bico Bunsen / com registro para gás / regulagem de entrada de ar / base pintada / tubo em latão polido
+	Metalic
+	36,45
+	2.187,00
+
+	24
+	9524
+	35
+	peça
+	Bureta graduada / volume 25ml / classe A / com torneira Teflon / em vidro borosilicato / 1/10
+	Phox
+	87,48
+	3.061,80
+
+	25
+	9525
+	40
+	peça
+	Bureta graduada / volume 50ml / classe A / com torneira Teflon/ em vidro borosilicato branco / 1/10
+	Phox
+	95,74
+	3.829,60
+
+	26
+	34843
+	25
+	peça
+	Cadinho de porcelana / forma alta / volume 250ml.
+	Unilab
+	44,13
+	1.103,25
+
+	39
+	21850
+	5
+	peça
+	Copo de Griffin (Becker) / volume 1L / graduado / em polipropileno
+	Nalgon
+	8,30
+	41,50
+
+	40
+	24112
+	12
+	peça
+	Copo de Griffin (Becker) / volume 1L / graduado / forma baixa / em polipropileno (plástico)
+	Nalgon
+	8,30
+	99,60
+
+	42
+	21851
+	5
+	peça
+	Copo de Griffin (Becker) / volume 2L / graduado / em polipropileno (plástico)
+	Nalgon
+	12,55
+	62,75
+
+	45
+	10241
+	10
+	peça
+	Copo de Griffin (Becker) / volume 4L / graduado / forma baixa / em vidro borossilicato branco
+	Uniglas
+	108,04
+	1.080,40
+
+	46
+	24111
+	12
+	peça
+	Copo de Griffin (Becker) / volume 500ml / graduado / forma baixa / em polipropileno (plástico)
+	Phox
+	8,00
+	96,00
+
+	51
+	28698
+	4
+	caixa
+	Cubeta em acrílico para espectrofotômetro / capacidade total de volume de 1,5 ml  / volume de amostra de 1,4ml / caixa com 100 unidades
+	Olen
+	79,09
+	316,36
+
+	52
+	34200
+	7
+	peça
+	Densímetro (areômetro) para massa específica / escala 1,000 a 1,500 mm / divisão 5/5mm / comprimento 300mm.
+	Incoterm
+	84,77
+	593,39
+
+	53
+	16228
+	7
+	peça
+	Densímetro para determinação de porcentagem de álcool por volume (segundo Gay-Lussac)
+	Incoterm
+	76,30
+	534,10
+
+	54
+	29942
+	5
+	peça
+	Densímetro para massa específica / escala 1,000 a 2,000 g/ml / divisão 0,01 g/ml / comprimento 29 cm.
+	Incoterm
+	84,77
+	423,85
+
+	58
+	8858
+	15
+	peça
+	Eletrodo combinado universal / com corpo de vidro para pHmetro / com junção cerâmica pontual e orifício de preenchimento para reposição do eletrólito / sistema referencial: prata/cloreto de prata / faixa de temperatura: 0 a 90ºC / faixa de pH: 0 a 14
+	Phox
+	214,50
+	3.217,50
+
+	59
+	25683
+	7
+	peça
+	Eletrodo combinado universal de vidro para pHmetro / referência interna Ag/AgCl com junção cerâmica / faixa de medição de 0 a 14 pH e temperatura 0°C e 80°C
+	Phox
+	214,50
+	1.501,50
+
+	60
+	34043
+	20
+	frasco
+	Eosina amarelada para histologia / frasco de 1 litro.
+	Dinâmica
+	75,00
+	1.500,00
+
+	61
+	19033
+	5
+	peça
+	Escova / diâmetro 10mm / comprimento escova 85mm, cabo 125mm, pincel 25mm / comprimento total 235mm
+	Prolab
+	5,20
+	26,00
+
+	62
+	19105
+	12
+	peça
+	Escova para limpeza de copos Becker.
+	Prolab
+	6,00
+	72,00
+
+	63
+	19101
+	3
+	peça
+	Escova para limpeza de pipetas.
+	Prolab
+	12,00
+	36,00
+
+	64
+	17632
+	7
+	peça
+	Escova para limpeza de proveta de 500ml / diâmetro 40mm / comprimento total 470mm
+	Prolab
+	11,18
+	78,26
+
+	65
+	9150
+	22
+	peça
+	Escova para tubo de ensaio / diâmetro 15mm x 150mm de comprimento
+	Prolab
+	4,99
+	109,78
+
+	66
+	9569
+	40
+	peça
+	Espátula em chapa de aço inox / com colher / comprimento 15cm
+	Metalic
+	7,70
+	308,00
+
+	67
+	9574
+	25
+	peça
+	Espátula em chapa de aço inox / com colher / comprimento 18cm
+	Metalic
+	11,20
+	280,00
+
+	68
+	13794
+	5
+	peça
+	Estante em arame revestido com PVC / para tubos de ensaio / capacidade de 48 tubos de 16mm
+	Metalic
+	28,98
+	144,90
+
+	69
+	15969
+	10
+	peça
+	Extrator Soxhlet completo (com corneta, condensador e valão) volume 250ml
+	Phox
+	232,42
+	2.324,20
+
+	74
+	22787
+	5
+	peça
+	Frasco de vidro / para reagentes / graduado / volume 100ml / com tampa rosqueável azul e dispositivo anti-gotas
+	Phox
+	16,06
+	80,30
+
+	75
+	22788
+	5
+	peça
+	Frasco de vidro / para reagentes / graduado / volume 250ml / com tampa rosqueável azul e dispositivo anti-gotas
+	Phox
+	19,96
+	99,80
+
+	76
+	23575
+	10
+	peça
+	Frasco de vidro / para reagentes / graduado / volume 500ml / com tampa rosqueável azul e dispositivo anti-gotas.
+	Phox
+	26,13
+	261,30
+
+	82
+	9393
+	30
+	peça
+	Frasco Erlenmeyer / volume 125ml / graduado / boca larga / em vidro borossilicato branco
+	Uniglas
+	11,28
+	338,40
+
+	88
+	9013
+	30
+	peça
+	Frasco lavador (pisseta) / volume 500ml / translúcido / com bico curvo
+	Nalgon
+	5,60
+	168,00
+
+	91
+	9607
+	15
+	peça
+	Funil de vidro liso / volume 250ml / haste curta / diâmetro da boca 120mm / em vidro alcalino
+	Uniglas
+	29,20
+	438,00
+
+	92
+	9509
+	10
+	peça
+	Gral (almofariz) com pistilo / volume 100ml / em porcelana
+	Phox
+	27,44
+	274,40
+
+	93
+	10558
+	10
+	peça
+	Grampo de madeira / tamanho 20cm
+	Metalic
+	2,10
+	21,00
+
+	97
+	14686
+	5
+	caixa
+	Lâmina de vidro lapidada para microscopia / tamanho 26mm x 76mm.
+	Kasvi
+	6,18
+	30,90
+
+	98
+	9761
+	20
+	caixa
+	Lâmina para microscopia / de vidro / tamanho 26mm x 76mm / caixa com 50 unidades
+	Kasvi
+	5,44
+	108,80
+
+	107
+	14684
+	15
+	caixa
+	Lamínula para microscopia / de vidro / tamanho 24mm x 40mm / caixa com 100 unidades
+	Olen
+	5,90
+	88,50
+
+	116
+	9536
+	40
+	caixa
+	Papel filtro qualitativo / quadrado / peso 80g / tamanho 40cm x 40cm / caixa com 100 folhas
+	Prolab
+	43,67
+	1.746,80
+
+	117
+	14908
+	5
+	caixa
+	Papel filtro qualitativo / tamanho 50cm x 50cm / caixa com 100 folhas
+	Prolab
+	65,30
+	326,50
+
+	118
+	10372
+	5
+	caixa
+	Papel filtro quantitativo / faixa azul / diâmetro 12,5cm / caixa com 100 folhas
+	Prolab
+	50,52
+	252,60
+
+	119
+	9639
+	6
+	caixa
+	Papel filtro quantitativo / faixa branca / diâmetro 15cm / caixa com 100 folhas
+	Prolab
+	66,62
+	399,72
+
+	121
+	9638
+	20
+	caixa
+	Papel filtro quantitativo / faixa preta / diâmetro 15cm / caixa com 100 folhas
+	Prolab
+	66,62
+	1.332,40
+
+	122
+	10217
+	40
+	caixa
+	Papel filtro quantitativo / faixa preta / diâmetro 9cm / caixa com 100 folhas
+	Prolab
+	26,62
+	1.064,80
+
+	124
+	9301
+	4
+	caixa
+	Papel tornassol azul / caixa com 100 tiras
+	Prolab
+	19,79
+	79,16
+
+	125
+	9225
+	4
+	caixa
+	Papel tornassol vermelho / caixa com 100 tiras
+	Prolab
+	19,79
+	79,16
+
+	126
+	10363
+	7
+	peça
+	Picnômetro / sem termômetro / volume 50ml / junta padrão / vidro borossilicato
+	Phox
+	31,75
+	222,25
+
+	130
+	8594
+	30
+	peça
+	Pinça para condensador / sem mufa / em alumínio / garras ovais revestidas em PVC / abertura 60mm.
+	Metalic
+	22,40
+	672,00
+
+	131
+	8592
+	7
+	peça
+	Pinça tipo Tenaz / para cadinhos / em arame de aço inox 304 / comprimento 500mm.
+	Metalic
+	72,80
+	509,60
+
+	150
+	9089
+	80
+	peça
+	Pipetador de segurança (pêra de sucção) / confeccionado em PVC / 3 vias / esfera em polipropileno / volume 60ml
+	Prolab
+	13,58
+	1.086,40
+
+	151
+	19880
+	500
+	peça
+	Placa de Petri / completa / com divisão / descartável / diâmetro 90mm / altura 15mm
+	Prolab
+	0,48
+	240,00
+
+	153
+	17626
+	70
+	peça
+	Placa de Petri / completa / de vidro / sem divisão / diâmetro 150mm / altura 20mm
+	Uniglas
+	24,84
+	1.738,80
+
+	154
+	9630
+	20
+	peça
+	Placa de Petri / completa / diâmetro 100 mm / altura 20 mm / em vidro
+	Phox
+	10,66
+	213,20
+
+	156
+	9743
+	50
+	peça
+	Placa de Petri / completa / diâmetro 100mm / altura 15mm / em vidro
+	Phox
+	8,26
+	413,00
+
+	157
+	9516
+	20
+	peça
+	Placa de Petri / completa / diâmetro 80mm / altura 15mm / em vidro
+	Uniglas
+	5,25
+	105,00
+
+	176
+	20660
+	25
+	peça
+	Proveta plástica / graduada / capacidade 100ml
+	Prolab
+	5,91
+	147,75
+
+	177
+	24117
+	7
+	peça
+	Proveta plástica / graduada / capacidade 500 ml.
+	Prolab
+	14,77
+	103,39
+
+	193
+	8533
+	5
+	peça
+	Tela de arame galvanizado / com disco refratário / isento de amianto / tamanho 140mm x 140mm.
+	Metalic
+	8,40
+	42,00
+
+	194
+	10009
+	25
+	peça
+	Tela de arame galvanizado / com disco refratário / isento de amianto / tamanho 180mm x 180mm
+	Metalic
+	12,60
+	315,00
+
+	195
+	10617
+	9
+	peça
+	Termo higrômetro digital de máxima e mínima; faixa de medição de temperatura de -20ºC a 70ºC (-4F a 158ºF)
+	Prolab
+	63,83
+	574,47
+
+	197
+	26323
+	5
+	peça
+	Termômetro digital / haste em aço inox com terminal pontiagudo (tipo espeto) de 15cm / escala de -50ºC a +300°C (marca Incoterm / modelo 9791)
+	Incoterm
+	105,42
+	527,10
+
+	198
+	21282
+	15
+	peça
+	Tetina de silicone para Pipeta Pasteur / capacidade de 3ml
+	Unilab
+	5,65
+	84,75
+
+	199
+	19931
+	40
+	peça
+	Tripé de ferro para bico de Bunsen / arco de ferro / diâmetro de 120mm / altura de 200mm
+	Metalic
+	12,60
+	504,00
+
+	201
+	15892
+	5
+	pacote
+	Tubo de centrífuga / volume 15ml / com tampa / em polipropileno / pacote com 40 peças
+	Prolab
+	32,13
+	160,65
+
+	203
+	18994
+	200
+	peça
+	Tubo de ensaio / de vidro / diâmetro de 12mm / comprimento de 75mm
+	Uniglas
+	0,31
+	62,00
+
+	204
+	9216
+	250
+	peça
+	Tubo de ensaio / diâmetro de 15mm / comprimento de 100mm.
+	Uniglas
+	0,43
+	107,50
+
+	205
+	18985
+	150
+	peça
+	Tubo de ensaio / diâmetro de 15mm / comprimento de 150mm
+	Uniglas
+	0,51
+	76,50
+
+	206
+	9192
+	100
+	peça
+	Tubo de ensaio com orla / diâmetro de 20mm / comprimento de 150mm
+	Uniglas
+	0,89
+	89,00
+
+	207
+	9155
+	100
+	peça
+	Tubo de ensaio sem orla / diâmetro de 20mm / comprimento de 200mm
+	Uniglas
+	1,25
+	125,00
+
+	208
+	33616
+	10
+	pacote
+	Tubo de Eppendorf (microtubo) / volume 0,5ml / fabricados em polipropileno / pacote com 1000 unidades.
+	Olen
+	17,01
+	170,10
+
+	215
+	15758
+	30
+	pacote
+	Tubo tipo Falcon / volume 15ml / estéril / pacote com 40 unidades
+	Prolab
+	36,38
+	1.091,40
+
+	218
+	18617
+	5
+	peça
+	Vidro de relógio / diâmetro 180mm
+	Phox
+	12,91
+	64,55
+
+	219
+	15227
+	10
+	peça
+	Vidro de relógio / diâmetro 50mm
+	Phox
+	2,70
+	27,00
+
+	220
+	9846
+	50
+	peça
+	Vidro de relógio / diâmetro 80mm
+	Phox
+	4,81
+	240,50
+
+	221
+	9502
+	10
+	peça
+	Vidro de relógio / diâmetro 90mm
+	Phox
+	4,95
+	49,50
+
+	223
+	39636
+	2
+	peça
+	Termômetro digital de máxima e mínima interno/externo, com alarme; ponta e sensor em aço inox; faixa de medição de -50ºC a 70ºC; resolução de 0,1ºC; calibrado nos pontos 8,10,15, 20, 25 e 30ºC.
+	Incoterm
+	451,80
+	903,60
+
+
+PAGAMENTO: O pagamento será efetuado em até 30 (trinta) dias consecutivos após a efetiva entrega (com descarga) dos materiais, desde que os mesmos estejam em perfeitas condições de uso, sejam aprovados pelo Gestor designado pela CONTRATANTE e sigam acompanhados da respectiva Nota Fiscal Eletrônica (NF-e), através de depósitos bancários (hipótese na qual a NF-e deverá conter os dados bancários da CONTRATADA) ou de boletos bancários (caso no qual tais documentos deverão acompanhar a NF-e).
+PRAZO DE VIGÊNCIA: A presente Ata de Registro de Preços terá a validade de 12 (doze) meses, contados a partir da data de sua assinatura.
+DATA: 09/10/2020.

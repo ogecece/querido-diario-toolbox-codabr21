@@ -1,0 +1,370 @@
+ 
+
+
+
+MUNICÍPIO DE GUARAPARI
+ESTADO DO ESPÍRITO SANTO
+Secretaria Municipal da Saúde
+
+PROTOCOLO PARA MANUSEIO MEDICAMENTOSO PRECOCE DE PACIENTES COM DIAGNÓSTICO DA COVID-19
+2020
+INTRODUÇÃO
+Considerando que cabe ao Ministério da Saúde acompanhar, controlar e avaliar as ações e os serviços de saúde, respeitadas as competências estaduais e municipais, nos termos da Constituição Federal e da Lei Nº 8.080/1990;
+Considerando que até o momento não existem evidências científicas robustas que possibilitem a indicação de terapia farmacológica específica para a COVID-19;
+Considerando que alguns Estados, Municípios e Hospitais já estabeleceram protocolos próprios de uso da Cloroquina e da Hidroxicloroquina para tratamento da COVID-19;
+Considerando a necessidade de uniformização da informação para os profissionais da saúde no âmbito do Sistema Único de Saúde;
+Considerando a larga experiência do uso da Cloroquina e da Hidroxicloroquina no tratamento de outras doenças infecciosas e de doenças crônicas no âmbito do Sistema Único de Saúde, e que não existe, até o momento, outro tratamento eficaz disponível para a COVID-19;
+Considerando a necessidade de orientar o uso da Cloroquina e da Hidroxicloroquina no âmbito do Sistema Único de Saúde pelos profissionais médicos;
+Considerando a necessidade de reforçar que a auto prescrição dos medicamentos aqui orientados pode resultar em prejuízos à Saúde e/ou redução da oferta para pessoas com indicação precisa para o seu uso;
+Considerando a necessidade de avaliação dos pacientes através de anamnese, exame físico e exames complementares nos equipamentos de saúde do Sistema Único de Saúde;
+Considerando que o Conselho Federal de Medicina (CFM) propôs a consideração da prescrição da Cloroquina e da Hidroxicloroquina pelos médicos, em condições excepcionais, mediante o livre consentimento esclarecido do paciente;
+Considerando a RDC 351/2020 da Agência Nacional de Vigilância Sanitária (ANVISA), que estabelece em seu Art. 2º que os medicamentos à base de Cloroquina e Hidroxicloroquina ficam sujeitos a receita de Controle Especial em 2 vias, sendo a 1ª via retida pela farmácia e a 2ª via devolvida ao paciente;
+Considerando a obrigatoriedade no preenchimento do Termo de Ciência e Consentimento para a utilização dos medicamentos à base de Cloroquina e da Hidroxicloroquina, 1 (uma) via fica retida no prontuário do paciente; 1 (uma) via entregue para o paciente e 1 (uma) via deve ser anexada à Receita de Controle Especial para que o paciente retire os medicamentos na Farmácia Municipal determinada.
+NOTAS
+Apesar de serem medicações utilizadas em diversos protocolos e de possuírem atividade in vitro demonstrada contra o coronavírus, ainda não há meta-análises de ensaios clínicos multicêntricos, controlados, cegos e randomizados que comprovem o benefício inequívoco dessas medicações para o tratamento da COVID-19. É necessário que o paciente declare vontade e ciência comprovada, através do modelo em anexo.
+O uso das medicações está condicionado à avaliação médica, com realização de anamnese, exame físico e exames complementares na Unidade de Pronto Atendimento (UPA 24H), a fim de acompanhar estes pacientes para segmento clínico e medicamentoso.
+Os critérios clínicos para início do tratamento em qualquer fase da doença não excluem a necessidade de confirmação laboratorial e radiológica.
+São contraindicações absolutas ao uso da Hidroxicloroquina: Gravidez, Retinopatia/Maculopatia secundária ao uso do fármaco já diagnosticada, Hipersensibilidade ao fármaco e Miastenia grave.
+Avaliar a necessidade de ajuste da dose de Hidroxicloroquina para pacientes com Insuficiência Renal ou Insuficiência Hepática.
+Não coadministrar a Hidroxicloroquina com Amiodarona e Flecainida. Há interação moderada da Hidroxicloroquina com: digoxina, ivabradina e propafenona, etexilato de dabigatrana, edoxabana. Há interações leves com Verapamil e Ranolazina.
+Cloroquina deve ser usada com precaução em pacientes portadores de doenças cardíacas, hepáticas ou renais, hematoporfiria e doenças mentais.
+Cloroquina deve ser evitada em associação com: Clorpromazina, Clindamicina, Estreptomicina, Gentamicina, Heparina, Indometacina, Tiroxina, Isoniazida e digitálicos.
+RECOMENDAÇÕES
+Deverá ser feita a notificação e coleta de materiais para diagnóstico da COVID-19, conforme NOTA TÉCNICA COVID-19 Nº 29/2020 – GEVS/SESA/ES.
+Deverá orientar o isolamento social para o paciente e todos os contatos que moram no mesmo domicílio por até 14 dias conforme Portaria N° 454/2020 e fazer o preenchimento dos documentos abaixo:
+
+1- Termo de Consentimento Livre e Esclarecido de que trata o parágrafo 4º do Art. 3º da Portaria GM/MS Nº 356/2020, em 3 (três) vias os termos abaixo, sendo que 1 (uma) via fica retida no prontuário do paciente; 1 (uma) via entregue para o paciente e 1 (uma) via deve ser anexada à Receita de Controle Especial para que o paciente retire os medicamentos na Farmácia Municipal
+
+2 – Termo de declaração, contendo a relação das pessoas que residam ou trabalhem no mesmo endereço.
+Mediante avaliação médica e consentimento do paciente, deverá ser preenchido o Termo de Consentimento Livre e Esclarecido sobre o uso deste protocolo por ainda não haver comprovação científica dessas medicações para o tratamento da COVID-19.
+Pacientes com síndrome respiratória que tem indicação para tratamento com Oseltamivir (TAMIFLU®), deverá seguir a prescrição conforme Protocolo para Influenza.
+É de responsabilidade do médico prescritor fazer a monitorização dos pacientes que o mesmo indicar o tratamento com Cloroquina ou Hidroxicloroquina:
+
+1- Realização de Eletrocardiograma e a monitorização da Função Renal e Hepática antes do início do tratamento, no terceiro dia e no quinto dia de tratamento;
+Esta Comissão de Farmácia e Terapêutica reconhece que não há evidências científicas de comprovação para tratamento específico para a COVID-19 e poderá alterar este documento mediante as alterações e novas evidências científicas.
+DEFINIÇÃO DE CASO
+	Caso suspeito
+	· Paciente com sintomas compatíveis com COVID-19 na ausência de outra etiologia que possa explicar completamente a situação clínica, mesmo na ausência de contato caso conhecido.
+· Antecedente de contato com paciente com COVID-19 em período menor que 14 dias.
+
+	Sintomas inespecíficos
+	· Temperatura maior ou igual a 37,8ºC
+· Tosse seca
+· Anorexia
+· Astenia
+· Odinofagia
+· Dor de cabeça persistente
+· Diarreia
+· Calafrios
+· Mialgia
+· Artralgia
+· Pouca ou nenhuma secreção de vias aéreas superiores
+· Rash cutâneo ou manifestações cutâneas inespecíficas
+· Conjuntivite
+· Outros sintomas gastrintestinais: náuseas, vômitos, dor abdominal
+· Hipotermia
+
+	Sintomas característicos com alta probabilidade diagnóstica
+	· Anosmia
+· Ageusia
+· Dificuldade respiratória
+· Sensação de bolus na garganta
+· Peso ou opressão na região esternal
+· Lesões vasculares nas extremidades
+
+	· A combinação dos inespecíficos com um dos sintomas de alta probabilidade praticamente faz o diagnóstico clínico.
+· A presença de sintomas inespecíficos com ou sem um dos sintomas de alta probabilidade em pessoa que teve contato com paciente positivo para COVID-19 ou que resida na mesma casa de paciente positivo para COVID-19 faz o diagnóstico clínico. Durante uma pandemia o diagnóstico clínico passa a ser o mais sensível.
+
+	Casos confirmados
+	· Pacientes com swab nasofaríngeo e/ou orofaríngeo positivo para pesquisa de SARS-COV-2 por RT-PCR independente de sinais e sintomas clínicos
+· Paciente com alta suspeita clínica e imagem radiológica característica com swab nasofaríngeo e/ou orofaríngeo negativo
+· O tratamento deve ser iniciado antes do resultado do teste que pode demorar ou ter sensibilidade baixa. Durante uma pandemia o diagnóstico clínico passa a ser o mais sensível.
+
+
+FASES DA DOENÇA
+	INCUBAÇÃO: de 4 a 14 dias em seguida à exposição.
+
+	FASE 1
+	Viral
+	Duração média de até 5 dias
+	
+	Ambulatorial
+
+	FASE 2
+	Fase inflamatória 2A
+	A partir do 5º dia
+	Sem hipóxia
+	Ambulatorial
+
+	
+	Fase inflamatória 2B
+	A partir do 7º dia
+	Com hipóxia
+	Preferencialmente hospitalar
+
+	FASE 3
+	Hiperinflamatória
+	A partir do 10º dia
+	Obrigatoriamente hospitalar
+	Obrigatoriamente hospitalar
+
+
+	RECOMENDAÇÃO
+
+	Isolamento domiciliar obrigatório por 14 dias desde o início dos sintomas que deve ser prolongado por no mínimo 72h após o desaparecimento dos sintomas clínicos.
+
+
+	ALTA DO PACIENTE AMBULATORIAL
+
+	· Resolução dos sintomas e normalização dos exames laboratoriais mais importantes
+· Alguns exames podem permanecer alterados, especialmente os que indicam inflamação
+· A resolução das lesões em vidro fosco pulmonares pode demorar, as lesões em vidro fosco podem desaparecer parcialmente ou podem permanecer como cicatrizes/fibrose pulmonar
+· Ver as recomendações acima sobre o isolamento domiciliar e alta clínica.
+
+
+DEFINIÇÃO DAS FASES
+	FASE 1 - VIRAL
+	Duração média de até 5 dias
+
+	FORMAS DE APRESENTAÇÃO
+	Sintomas, sinais e exames indicados
+
+	ASSINTOMÁTICO
+	Nesse período o indivíduo, sem restrições na vida normal, é responsável pela maior disseminação da doença
+
+	SINTOMÁTICO
+	· Temperatura maior ou igual a 37,8ºC
+· Cefaleia resistente a drogas analgésicas comuns
+· Astenia
+· Anosmia
+· Ageusia
+
+	EXAMES LABORATORIAIS
+	Leucopenia, leucocitose e linfopenia leve.
+Linfopenia é o achado mais comum em mais de 80% dos casos descritos.
+Outros exames laboratoriais em geral são normais.
+Aumento da gama-GT pode ser anterior ao aumento das transaminases (transaminite).
+O D-dímero se aumentado nessa fase indica início da FASE 2A.
+Relação neutrófilo/linfócito é um marcador de inflamação subclínica.
+
+	RADIOGRAFIA DE TÓRAX
+	Os achados não são específicos e o exame pode ser normal na fase inicial da doença em até 70% dos casos.
+
+	TOMOGRAFIA COMPUTADORIZADA DE TÓRAX
+	Normal ou opacidades em vidro fosco com distribuição subpleural, periférica, de localização variável, difusa ou com discreta predominância nas bases pulmonares.
+Adenomegalia hilar ou mediastinal muito rara.
+Derrame pleural pouco presente. Se presente é pequeno ou moderado.
+
+	REPLICAÇÃO VIRAL CRESCENTE AO LONGO DOS DIAS. RESPOSTA IMUNOLÓGICA INICIAL.
+
+
+	FASE 2A – SEM HIPÓXIA
+	A partir do 5º dia
+
+	FORMAS DE APRESENTAÇÃO
+	· Tosse seca (sem dispneia)
+· Temperatura maior que 37,8ºC
+· Mialgia
+· Artralgia
+· Calafrios
+· Hipotermia
+· Saturação de Oxigênio normal
+
+	EXAMES LABORATORIAIS
+	· Linfopenia mais acentuada
+· Plaquetopenia discreta
+· Aumento progressivo de D-dímero e marcadores inflamatórios
+· Aumento das transaminases
+· Aumento moderado de IL-6, procalcitonina e troponina
+
+	RADIOGRAFIA DE TÓRAX
+	O acometimento pulmonar é subestimado pela baixa sensibilidade.
+Os achados nessa fase incluem opacidades de espaço aéreo (alveolar) ou infiltrado alvéolo-intersticial, multilobares e bilaterais.
+
+	TOMOGRAFIA COMPUTADORIZADA DE TÓRAX
+	Opacidade em vidro fosco bilaterais, periféricas, multilobares, em qualquer segmento pulmonar.
+Opacidade em vidro fosco associada a consolidação, ainda periférica, espessamento de septo inter e intralobular, caracterizando o aspecto de pavimentação em mosaico irregular (PMI)
+
+	DIMINUIÇÃO DE REPLICAÇÃO VIRAL E INTENSIFICAÇÃO DA RESPOSTA INFLAMATÓRIA.
+
+
+	FASE 2B – COM HIPÓXIA
+	A partir do 7º dia
+
+	FORMAS DE APRESENTAÇÃO
+	· Limitação física para atividades normais
+· Aumento da frequência respiratória >24ipm (incursões por minuto)
+· Dispneia leve
+· Arritmia cardíaca, taquicardia ou crises hipertensivas súbitas
+· Hipóxia
+· Saturação de Oxigênio <96% para jovens e <93% para idosos.
+
+	EXAMES LABORATORIAIS
+	· Linfopenia maior
+· Plaquetopenia
+· Aumento de transaminases
+· Aumento moderado de CPK, DHL e PCR
+· Aumento progressivo do D-dímero e outros marcadores inflamatórios
+· Aumento de fibrinogênio
+· Aumento moderado de troponina
+
+	RADIOGRAFIA DE TÓRAX
+	Opacidade alveolar multilobares e bilaterais melhor individualizadas.
+
+	TOMOGRAFIA COMPUTADORIZADA DE TÓRAX
+	Opacidade em vidro fosco bilaterais, periféricas, multilobares, em segmentos pulmonares associadas a consolidação, ainda periféricas. O espaço aéreo pode ser inundado e atingir porções mais centrais dos pulmões.
+Espessamento do septo inter e intralobular.
+Lesões do tipo “sinal de halo”.
+As opacidades em vidro fosco podem ser referidas em percentuais ou escores que estão relacionados à severidade da doença.
+
+	FINALIZAÇÃO DA REPLICAÇÃO VIRAL COM INFLAMAÇÃO PULMONAR E HIPÓXIA
+
+
+	FASE 3 - HIPERINFLAMATÓRIA
+	A partir do 10º dia
+
+	FORMAS DE APRESENTAÇÃO
+	· Síndrome Respiratória Aguda Grave
+· Insuficiência cardíaca e renal
+· Linfohistiocitose hemofagocítica secundária (LHS)
+· Hepatomegalia e esplenomegalia
+· Aumento dos linfonodos
+· Rash cutâneo
+· Sepse
+· Sangramento anormal
+· Febre acima de 38,5ºC
+· Complicações cardíacas
+· Choque
+· Microtrombose sistêmica
+· Alterações hematológicas
+
+	EXAMES LABORATORIAIS
+	· Citopenias progressivas
+· Plaquetopenia
+· Alteração das funções hepática e renal
+· Aumento da troponina
+· Aumento da CPK
+· Aumento dos marcadores inflamatórios
+· Aumento do D-dímero
+· Saturação de Oxigênio <96% para jovens e <93% para idosos.
+
+	RADIOGRAFIA DE TÓRAX
+	Opacidade alveolar multilobares e bilaterais melhor visualizadas.
+
+	TOMOGRAFIA COMPUTADORIZADA DE TÓRAX
+	Pico do envolvimento parenquimatoso.
+Opacidade em vidro fosco e consolidativas bilaterais ainda predominantes na periferia, gradativamente ocupando todos os segmentos. O grau de insuficiência renal e congestão pulmonar se relaciona ao grau de acometimento intersticial, podendo haver derrame pleural e bandas parenquimatosas residuais.
+Sinal de halo invertido, com característica de vidro fosco no centro, delimitado total ou parcialmente, por um anel de consolidação infere pneumonia em organização.
+A partir do 14º dia as características são da fase de absorção: o padrão de PMI atende a desaparecer, as opacidades tipo vidro fosco e espessamento brônquico podem desaparecer paulatinamente ou evoluir para fibrose.
+O grau de sequela no parênquima pulmonar será observado no segmento evolutivo.
+
+	INTENSIFICAÇÃO DA RESPOSTA INFLAMATÓRIA E CASCATA DE COAGULAÇÃO
+
+
+TRATAMENTO
+	FASE 1 e FASE 2A
+	POSOLOGIA
+	RECOMENDAÇÕES
+
+	SULFATO DE HIDROXICLOROQUINA
+OU
+	D1: 400mg via oral de 12/12 horas
+D2 ao D5: 400mg via oral de 24/24 horas
+Tempo de uso de 5 a 10 dias
+OU
+	Recomendamos Eletrocardiograma prévio.
+Considerar a mudança da dose em pacientes portadores de doenças crônicas hepáticas ou renais e em pacientes com maior risco de arritmias cardíacas. 
+
+	DIFOSFATO DE CLOROQUINA
+	D1: 500mg via oral de 12/12 horas (300mg de CLOROQUINA BASE)
+D2 ao D5: 500mg via oral de 24/24 horas (300mg de CLOROQUINA BASE)
+Tempo de uso de 5 a 10 dias
+	
+
+	AZITROMICINA
+	1 CP de 500mg diariamente por 5 dias.
+	Evitar uso com Taxa de Filtração Glomerular abaixo de 10mg/dL. Não administrar com amiodarona e sotalol. Pode aumentar os níveis de digoxina. Não administrar junto com a Hidroxicloroquina.
+
+
+Avaliar caso a caso as contraindicações destas medicações para cada paciente. Avaliar a necessidade de novos Eletrocardiogramas (ECG) durante o período de tratamento, sobretudo em pacientes de risco.
+As medicações HIDROXICLOROQUINA e AZITROMICINA deverão ser administradas em horários diferentes do dia.
+Fica a critério do médico a prescrição de medicamentos sintomáticos.
+A dispensação de HIDROXICLOROQUINA OU CLOROQUINA será realizada através da disponibilização dos medicamentos pelo Ministério da Saúde e Secretaria Estadual de Saúde, conforme OFICIO/SESA Nº 343/2020 e disponibilidade na Farmácia.
+Deverá ser avaliado pelo profissional a prescrição destes medicamentos para gestantes e pacientes pediátricos.
+É de responsabilidade do médico prescritor fazer a monitorização dos pacientes que o mesmo indicar o tratamento com Cloroquina ou Hidroxicloroquina:
+
+1- Realização de Eletrocardiograma e a monitorização da Função Renal e Hepática antes do início do tratamento, no terceiro dia e no quinto dia de tratamento;
+	FASE 2B e FASE 3
+	POSOLOGIA
+	RECOMENDAÇÕES
+
+	INDICAMOS INTERNAÇÃO HOSPITALAR.
+Acompanhado de exames prévios e atualizados, acompanhado de Eletrocardiograma prévio e atualizado.
+Se realizado Raio-X, encaminhar em anexo e atualizar.
+
+
+ANEXO I
+DEFINIÇÃO DE PACIENTES DE RISCO:
+· Pacientes acima de 60 anos;
+· Pacientes com relato de cardiopatia e uso de medicações que pode prolongar o intervalo QT;
+· Pacientes com frequência cardíaca inferior a 60 bpm;
+· Anorexia;
+· Inanição;
+· Feocromocitoma;
+· Pós parada cardiorrespiratória;
+· Pós hemorragia subaracnoidea;
+· Acidente Vascular Cerebral.
+Esse perfil de paciente de risco deve realizar ECG e, caso sejam encontradas alterações que possam predispor a arritmia, deve ser solicitada avaliação do médico cardiologista. Após avaliação adequada, considerar terapia com paciente hospitalizado. Na impossibilidade de acesso ao cardiologista, calcular o QT corrigido pela frequência Cardíaca:
+· Intervalo QTC <450ms pode-se indicar HIDROXICLOROQUINA/CLOROQUINA e AZITROMICINA;
+· Intervalo QTC entre 450 a 500ms fazer somente HIDROXICLOROQUINA;
+· Intervalo QTC > 500ms encaminhar para internação e não prescrever HIDROXICLOROQUINA/CLOROQUINA e AZITROMICINA.
+ANEXO II
+TERMO DE CIÊNCIA E CONSENTIMENTO
+Hidroxicloroquina/Cloroquina em associação com Azitromicina para COVID-19
+DIAGNÓSTICO E TRATAMENTO
+Fui devidamente informado(a), em linguagem clara e objetiva pelo médico(a), de que as avaliações médicas ou laboratoriais revelaram possibilidade ou comprovação de diagnóstico:
+COVID-19 causada pelo coronavírus SARS-COV-2
+E com base neste diagnóstico me foi orientado o seguinte tratamento/procedimento:
+Cloroquina ou Hidroxicloroquina em associação com Azitromicina.
+OS PROCEDIMENTOS, SEUS BENEFÍCIOS, RISCOS E ALTERNATIVAS
+Fui devidamente informado(a), em linguagem clara e objetiva pelo médico(a), que:
+1. A Cloroquina e a Hidroxicloroquina são medicamentos disponíveis há muitos anos para a prevenção e tratamento da malária e também para o tratamento de algumas doenças reumáticas como artrite reumatoide e Lupus. Investigadores chineses demonstraram a capacidade dessas drogas de inibir a replicação do coronavírus em laboratório (in vitro). Um estudo francês mostrou que a eliminação do coronavírus da garganta de portadores da COVID-19 se deu de forma mais rápida com a utilização da combinação de Hidroxicloroquina e o antibiótico Azitromicina, quando comparados a pacientes que não usaram as drogas. Entretanto, não há, até o momento, estudos suficientes para garantir certeza de melhora clínica dos pacientes com COVID-19 quando tratados com Cloroquina ou Hidroxicloroquina;
+2. A Cloroquina e a Hidroxicloroquina podem causar efeitos colaterais como a redução dos glóbulos brancos, disfunção do fígado, disfunção cardíaca e arritmias, e alterações visuais por danos na retina.
+Compreendi, portanto, que não existe garantia de resultados positivos para a COVID-19 e que o medicamento proposto pode inclusive apresentar efeitos colaterais;
+Estou ciente de que o tratamento com Cloroquina ou Hidroxicloroquina associada à Azitromicina pode causar os efeitos colaterais descritos acima e outros menos graves ou menos frequentes, os quais podem levar à disfunção de órgãos, ao prolongamento da internação, à incapacidade temporária ou permanente e até ao óbito.
+Também fui informado(a) que, independente do uso da Cloroquina ou Hidroxicloroquina associada à Azitromicina, será mantido o tratamento padrão e comprovadamente benéfico para minha situação, que pode incluir medidas de suporte da respiração e oxigenação, ventilação mecânica, drogas para sustentar a pressão e fortalecer o coração, hemodiálise e antibióticos, entre outras terapias oferecidas a pacientes que estão criticamente doentes.
+AUTORIZAÇÃO DO PACIENTE OU RESPONSÁVEL
+Por livre iniciativa, aceito correr os riscos supramencionados e dou permissão/autorização voluntária para que os medicamentos sejam utilizados da forma como foi exposto no presente termo;
+Esta autorização é dada ao(à) médico(a) abaixo identificado(a), bem como ao(s) seu(s) assistente(s) e/ou outro(s) profissional(is) por ele selecionado(s);
+Tive a oportunidade de esclarecer todas as minhas dúvidas relativas ao(s) procedimento(s), após ter lido e compreendido todas as informações deste documento, antes de sua assinatura;
+Apesar de ter entendido as explicações que me foram prestadas, de terem sido esclarecidas todas as dúvidas e estando plenamente satisfeito(a) com as informações recebidas, reservo-me o direito de revogar este consentimento antes que o(s) procedimento(s), objeto deste documento, se realize(m).
+Guarapari-ES, ____ de _______________ de ______                     _____:_____ (hh:min)
+PACIENTE
+Nome:_________________________________________________________________________
+Nascimento: ____/______/______
+Nome da Mãe: __________________________________________________________________
+Telefone: (    )_________________
+Endereço: ______________________________________________________________________
+RESPONSÁVEL
+Nome:_________________________________________________________________________
+Nascimento: ____/______/______
+Nome da Mãe: __________________________________________________________________
+Telefone: (    )_________________
+Endereço: ______________________________________________________________________
+DECLARAÇÃO DO MÉDICO RESPONSÁVEL
+CONFIRMO que expliquei detalhadamente para o(a) paciente e/ou seu(s) familiar(es), ou responsável(eis), o propósito, os benefícios, os riscos e as alternativas para o tratamento(s)/procedimento(s) acima descritos, respondendo às perguntas formuladas pelos mesmos, e esclarecendo que o consentimento que agora é concedido e firmado poderá ser revogado a qualquer momento antes do procedimento. De acordo com o meu entendimento, o paciente ou seu responsável, está em condições de compreender o que lhes foi informado.
+Guarapari-ES, ____ de _______________ de ______                     _____:_____ (hh:min)
+Nome do médico: ______________________________________________ CRM: _____________
+Carimbo e Assinatura: _____________________________________________________________
+REFERÊNCIAS
+ORIENTAÇÕES DO MINISTÉRIO DA SAÚDE PARA MANUSEIO MEDICAMENTOSO PRECOCE DE PACIENTES COM DIAGNÓSTICO DA COVID-19. Disponível em: https://saude.gov.br/images/pdf/2020/June/18/COVID-FINAL-16JUNHO-LIvreto-1-V3.pdf . 
+Rua Adamastor Antônio da Silva, s/nº, Muquiçaba – Guarapari/ES
+CEP: 29.200-000 – Tel: 27 3262-9533
+
+
+
+
+
+   
+                                                                                                                                                   Página 16 de 16
+

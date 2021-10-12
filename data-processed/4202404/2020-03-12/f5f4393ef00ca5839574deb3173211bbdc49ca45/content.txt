@@ -1,0 +1,136 @@
+FUNDAÇÃO UNIVERSIDADE REGIONAL DE BLUMENAU
+
+Extrato nº. 090/2020
+PARTES:
+FUNDAÇÃO UNIVERSIDADE REGIONAL DE BLUMENAU
+
+e
+
+
+ENG. COMÉRCIO DE COMPUTADORES LTDA-EPP
+ADITIVO DE PRORROGAÇÃO E REVISÃO DE PREÇOS AO CONTRATO Nº. 082/2018 
+ TERMO ADITIVO Nº. 002.
+OBJETO: Aquisição de licenças para o software Autodesk Autocad para diversos setores da FURB. 
+FUNDAMENTO LEGAL: Pregão Presencial nº 581/2017 e Contrato nº 082/2018, firmado em 09 de abril de 2018.  
+
+CLÁUSULA PRIMEIRA – Da Prorrogação da Vigência: 
+
+O prazo de vigência previsto na Cláusula Primeira do Contrato nº. 082/2018, Item 1.3 fica prorrogado por mais 12 (doze) meses, a contar de 09 de abril de 2020 até 08 de abril de 2021, o que totalizará 36 (trinta e seis) meses contratados. 
+
+CLÁUSULA SEGUNDA – Do Preço: 
+
+ “1.2
+Pelo objeto contratado, a CONTRATANTE pagará o preço global de R$ 54.078,00 (cinquenta e quatro mil e setenta e oito reais), constante na tabela abaixo, de acordo com a proposta apresentada pela CONTRATADA para a vigência do presente aditivo. 
+	Lote 02 - Autodesk
+	
+
+	Item
+	código
+	Quantidade
+	Unidade
+	Descrição básica
+	Preço Unitário em R$ 
+
+	3
+	38660
+	1
+	Licença
+	Architecture Engineering Construction Collection IC Multi-user Annual Subscription with Basic Support (REF. 022092), com as seguintes características:
+
+Tipo de licenciamento: obrigatoriamente de ponto flutuante
+
+Softwares inclusos:
+
+· Autodesk AutoCAD
+
+· Autodesk Revit
+
+· Autodesk AutoCAD Architecture
+
+· Autodesk AutoCAD Civil 3D
+
+· Autodesk AutoCAD Electrical
+
+· Autodesk AutoCAD Map 3D
+
+· Autodesk AutoCAD Plant 3D
+
+· Autodesk AutoCAD MEP
+
+· Autodesk AutoCAD Raster Design
+
+· Autodesk Navisworks Manage
+
+· Autodesk 3ds Max
+
+· Vehicle Tracking
+
+· Autodesk Advance Steel
+
+· Autodesk Fabrication CADmep
+
+· Autodesk Robot Structural Analysis Professional
+
+· Autodesk Dynamo Studio
+
+· Autodesk Revit Live
+
+· Autodesk Structural Bridge Design
+
+· Autodesk ReCap Pro
+
+· AutoCAD mobile app
+
+· Formit Pro
+
+· Infraworks
+
+· Insight
+
+· Rendering in A360
+
+· Structural Analisys for Revit
+
+· Storage (25GB)
+
+Duração do licenciamento: 12 (doze) meses
+
+Suporte técnico: por meio de telefone ou e-mail ou internet em horário comercial.
+
+Atualizações: permitir a instalação da última versão do software, além de correções lançadas pelo fabricante do software, durante toda a vigência contratual, sem custos adicionais para a CONTRATANTE.
+	R$ 15.819,00
+
+	4
+	38659
+	3
+	Licença
+	Autodesk AutoCAD 2017 New Multi-user Annual Subscription with Basic Support ELD WIN (REF. 021047), com as seguintes características:
+
+Tipo de licenciamento: obrigatoriamente de ponto flutuante
+
+Softwares inclusos:
+
+· Autodesk AutoCAD
+
+Duração do licenciamento: 12 (doze) meses
+
+Suporte técnico: por meio de telefone ou e-mail ou internet em horário comercial.
+
+Atualizações: permitir a instalação da última versão do software, além de correções lançadas pelo fabricante do software, durante toda a vigência contratual, sem custos adicionais para a CONTRATANTE.
+	R$ 12.753,00
+
+
+CLÁUSULA QUARTA – Da Fiscalização:
+
+Altera-se a Cláusula Terceira, conforme a seguir:  
+
+“CLAUSULA TERCEIRA
+
+A execução do presente Contrato será acompanhada e fiscalizada pelos servidores: Sergio de Souza , denominado gestor principal, Hélio Ricardo Naumann e Sra.  Luciana Peixoto Campos, estes dois últimos, denominados gestores substitutos, tendo poderes para: [...] ” 
+
+CLÁUSULA QUINTA - Da ratificação das demais cláusulas:
+
+Permanecem inalteradas as demais cláusulas e condições previstas no Contrato nº. 082/2018 e aditivo nº 001, que não colidirem com o presente Termo. 
+
+Blumenau, 10 de março de 2020. 
+

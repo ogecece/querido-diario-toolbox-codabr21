@@ -1,0 +1,113 @@
+
+FUNDAÇÃO UNIVERSIDADE REGIONAL DE BLUMENAU
+
+Extrato nº. 359/2020
+PARTES:  FUNDAÇÃO UNIVERSIDADE REGIONAL DE BLUMENAU
+
+e
+                  AVALIAR PSICOLOGIA EIRELLI EPP
+OBJETO: Aquisição de materiais químicos e psicológicos para uso de diversos setores da Universidade.
+FUNDAMENTO LEGAL: Pregão Presencial nº 174/2020 e Contrato nº 166/2020, firmado em 09 de setembro de 2020.  
+PREÇO: O preço ofertado pela empresa signatária do presente Contrato é o abaixo informado, de acordo com a respectiva classificação: 
+	Item
+	Código FURB
+	Qtde.
+	Und.
+	Descrição do Item
+	Marca 
+	Preço Unitário (em R$)
+	Preço Total do Item
+
+ (em R$)
+
+	5
+	39993
+	1
+	kit
+	Teste psicológico CPM RAVEN - Matrizes Progressivas Coloridas de Raven (KIT) / composto por: 1 manual técnico, 2 cadernos de aplicação, 2 blocos de folha de respostas e 1 crivo de correção
+	PEARSON
+	408,25
+	408,25
+
+	6
+	39994
+	2
+	kit
+	Teste psicológico G-38 - Teste Não Verbal de Inteligência (KIT) / composto por: 1 livro de instruções (manual), 1 livro de exercícios, 2 blocos com 25 folhas e 2 crivos de correção
+	VETOR
+	221,28
+	442,56
+
+	10
+	39995
+	4
+	peça
+	Teste psicológico G-36 Manual do Teste (livro de instruções)
+	VETOR
+	80,85
+	323,40
+
+	11
+	40123
+	4
+	exemplar
+	Teste psicológico AC - Livro de instruções (manual)
+	VETOR
+	75,95
+	303,80
+
+	12
+	39997
+	6
+	peça
+	Teste psicológico Quati Livro de Aplicação (Folhas de Respostas) / Bloco com 25 folhas
+	VETOR
+	36,60
+	219,60
+
+	13
+	39998
+	70
+	peça
+	Teste psicológico Palográfico Roteiro de Avaliação
+	VETOR
+	6,28
+	439,60
+
+	14
+	39999
+	1
+	kit
+	Teste psicológico "Palográfico" composto por 4 blocos de aplicação I com 25 folhas
+	VETOR
+	170,45
+	170,45
+
+	15
+	40124
+	1
+	kit
+	Teste psicológico IPSF (Inventário de Percepção de Suporte Familiar) / Kit com 1 livro de instruções, 1 bloco com 25 folhas e 1 crivo de correção
+	VETOR
+	143,20
+	143,20
+
+	17
+	40000
+	1
+	kit
+	Teste psicológico MMSE-2 (Coleção Expandida) Mini Exame do Estado Mental / composto por: 1 manual, bloco com 25 folhas de aplicação (expandida - azul), bloco com 25 folhas de aplicação (expandida - vermelha), par de crivos para correção (1 azul  e 1 vermelho) e guia portátil
+	HOFREFE
+	488,28
+	488,28
+
+	Preço Total (em R$)
+	2.939,14
+
+	Preço Total (em reais, por extenso)
+	Dois mil, novecentos e trinta e nove reais e quatorze centavos.
+
+
+PAGAMENTO: O pagamento será realizado em até 30 (trinta) dias consecutivos após a efetiva entrega (com descarga) do(s) produto(s) desde que estas sejam aprovados pela Gestão Contratual e sigam acompanhados da respectiva Nota Fiscal Eletrônica (NF-e), através de depósito bancário (hipótese na qual a NF-e deverá conter os dados bancários da CONTRATADA) ou de boleto bancário (caso no qual tal documento deverá acompanhar a NF-e).
+PRAZO DE VIGÊNCIA: Por se tratar de contratação imediata, este contrato terá início a partir da data de sua assinatura e encerramento vinculado ao término do respectivo exercício financeiro, em conformidade com o descrito no caput do artigo 57 da Lei Federal nº. 8.666/93.
+DATA: 09/09/2020.

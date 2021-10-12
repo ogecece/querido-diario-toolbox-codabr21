@@ -1,0 +1,254 @@
+
+FUNDAÇÃO UNIVERSIDADE REGIONAL DE BLUMENAU
+
+Extrato nº. 389/2020
+PARTES:  FUNDAÇÃO UNIVERSIDADE REGIONAL DE BLUMENAU
+
+E
+
+                  SUPERAR EIRELI EPP
+OBJETO: Contratação de empresa para compra de aparelhos de ar-condicionado, com serviços de instalação e fornecimento de materiais, referentes a 3ª Etapa do Centro de Inovação de Blumenau.
+FUNDAMENTO LEGAL: Pregão Presencial nº 200/2019 e Contrato nº 177/2020, firmado em 28 de setembro de 2020.  
+PREÇO: Pelo objeto contratado, a CONTRATANTE pagará o preço constante nas tabelas abaixo, de acordo com a proposta apresentada pela CONTRATADA:
+	Item
+	Código FURB
+	Qtde.
+	Und.
+	Descrição do Item
+	Preço Unitário (em R$)
+	Preço Total do Item  
+
+(em R$)
+
+	1
+	39560
+	1
+	Unid.
+	Ar condicionado Split, capacidade mínima de 12.000 BTU's, ciclo frio, com controle remoto, conjunto com unidades evaporadora e condensadora, selo PROCEL classe A, com instalação, com as seguintes características mínimas:
+
+Condicionador de ar (evaporador + condensador).
+•   Tipo: Split system composto de unidade condensadora externa e unidade evaporadora interna do tipo hi-wall para montagem aparente no ambiente condicionado, com controle remoto sem fio.
+
+•   Capacidade nominal mínima: 12.000 BTU
+
+•   Capacidade nominal sensível mínima: 8.400 BTU
+
+•   Vazão de ar mínima: 550 m3/h (Conforme fabricante)
+
+•   Evaporador: Composto de serpentina confeccionada com tubos de cobre sem costura e aletas de alumínio fixadas aos tubos por expansão mecânica de forma a obter-se um perfeito contato. Fluxo do ar em corrente cruzada. A serpentina deverá sofrer teste de fábrica contra vazamentos a uma pressão de 350 psi.
+
+•   Ventilador evaporador: Centrífugo, rotor tipo sirocco pás voltadas para frente, dupla aspiração, acionamento direto no eixo do motor sendo um ou mais motores e rotores. Confeccionado em material termoplástico, deve ser balanceado estática e dinamicamente. A operação deverá ser silenciosa, pois a unidade ficará no ambiente condicionado. Deve possuir a função swing.
+
+•   Dispositivo de expansão: tubo capilar.
+
+•   Gabinete evaporador: Estrutura em perfis metálicos galvanizados ou zincado, com acabamento externo em termoplástico injetado. Internamente deverá ser isolado com material termoacústico onde apropriado.
+
+•   Ventilador condensador: Tipo axial acoplado diretamente ao eixo do motor elétrico. Descarga horizontal.
+
+•   Compressor: Scroll, montado na unidade condensadora.
+
+•   Temperatura de entrada do ar de condensação: 35°C
+
+•   Condensador: Na unidade externa, composto de serpentina confeccionada com tubos de cobre sem costura e aletas de alumínio fixadas aos tubos por expansão mecânica de forma a obter-se um perfeito contato. Fluxo do ar em corrente cruzada. A serpentina deverá sofrer teste de fábrica contra vazamentos a uma pressão de 350 psi. Conforme o fabricante esta poderá envolver toda ou parcialmente a unidade. A serpentina deve ser protegida contra corrosão por maresia.
+
+•   Gabinete condensador: Constituído por estrutura metálica com painéis de chapa de aço carbono galvanizado, fechamento em termoplástico, partes metálicas pintadas com tinta esmalte sintético sobre “primer” anticorrosivo. Os painéis são do tipo removível para permitir fácil acesso ao interior da unidade. A unidade deve estar preparada para ser instalada ao tempo.
+
+•   Tensão de trabalho: 220V, 1F, 60 Hz, potência conforme fabricante.
+
+•   Classificação PROCEL: classificação mínima exigida Classe A.
+
+•   Bandeja de condensação: Deverá ser fabricado em poliestireno de alto impacto ou material não metálico. Da bandeja haverá uma saída com conexão em PVC para interligação à espera na parede para escoamento da água gerada.
+
+•   Filtro de ar: Do tipo tela permanente e lavável, instalado frontalmente no gabinete da unidade evaporadora a montante da serpentina do evaporador, classe padrão G1.
+
+•   No caso de falta de energia elétrica, o equipamento deve possuir rearme automático, retornando aos parâmetros configurados antes da falta.
+
+•   Suporte metálico adequado para a unidade condensadora (tipo mão-francesa), o suporte deve ser protegido contra oxidação através de galvanização ou pintura eletrostática.
+
+Garantia mínima total de 1 ano para defeitos de fabricação e/ou instalação.
+Marca: Elgin
+Modelo: HVFI12B2IA / HVFE12B2IA
+
+
+	2.500,00
+	2.500,00
+
+	2
+	39555
+	1
+	Unid.
+	Ar condicionado Split tipo cassete, capacidade mínima de 35.000 BTU's, ciclo frio, com controle remoto, conjunto com unidades evaporadora e condensadora, selo PROCEL classe B ou mais eficiente, com instalação, com as seguintes características mínimas:
+
+Condicionador de ar (evaporador + condensador)
+
+•   Tipo: Split system composto de unidade condensadora externa e unidade evaporadora interna do tipo K-7 para montagem aparente no ambiente condicionado insuflamento para 4 lados, com controle remoto sem fio.
+
+•   Capacidade nominal mínima: 35.000 BTU
+
+•   Capacidade nominal sensível mínima: 28.800 BTU
+
+•   Vazão de ar mínima: 1.285 m3/h (Conforme fabricante)
+
+•   Evaporador: Composto de serpentina confeccionada com tubos de cobre sem costura e aletas de alumínio fixadas aos tubos por expansão mecânica de forma a obter-se um perfeito contato. Fluxo do ar em corrente cruzada. A serpentina deverá sofrer teste de fábrica contra vazamentos a uma pressão de 350 psi. Montagem em forma de um quadrado sendo que a serpentina ocupa a área periférica e o centro fica disponível para a montagem do ventilador, sistema de comando e retorno de ar.
+
+•   Ventilador evaporador: Centrífugo, simples aspiração, acionamento direto no eixo do motor. Confeccionado em material termoplástico, deve ser balanceado estática e dinamicamente. A operação deverá ser silenciosa, pois a unidade ficará no ambiente condicionado.
+
+•   Dispositivo de expansão: orifício restritor, sistema “piston” ou válvula de expansão.
+
+•   Gabinete evaporador: Estrutura em perfis metálicos galvanizados ou zincado, com acabamento externo em termoplástico injetado. Internamente deverá ser isolado com material termoacústico onde apropriado. A própria serpentina faz parte da estrutura da unidade. Deve haver um fechamento da unidade em chapa de aço galvanizado, isolado externamente.
+
+•   Ventilador condensador: Tipo axial acoplado diretamente ao eixo do motor elétrico. Descarga vertical com chapa defletora.
+
+•   Compressor: Scroll, montado na unidade condensadora.
+
+•   Temperatura de entrada do ar de condensação: 35°C
+
+•   Condensador: Na unidade externa, composto de serpentina confeccionada com tubos de cobre sem costura e aletas de alumínio fixadas aos tubos por expansão mecânica de forma a obter-se um perfeito contato. Fluxo do ar em corrente cruzada. A serpentina deverá sofrer teste de fábrica contra vazamentos a uma pressão de 350 psi. A serpentina envolve a unidade, fazendo parte de sua estrutura de sustentação. Na parte central está montado o compressor e o ventilador do condensador. Prever proteção contra maresia.
+
+•   Gabinete condensador: Constituído por estrutura metálica com painéis de chapa de aço carbono galvanizado ou em termoplástico, pintado com tinta esmalte sintético sobre “primer” anticorrosivo. A unidade deve estar preparada para ser instalada ao tempo. Modelo barril.
+
+•   Tensão de trabalho: 220V, 1F, 60 Hz, potência conforme fabricante, admite-se 380V, 3F, 60Hz.
+
+•   Classificação PROCEL: classificação mínima exigida Classe C.
+
+•   Deve possuir válvula de serviço na sucção e na descarga original de fábrica.
+
+•   Bandeja de condensação: Deverá ser fabricado em poliestireno de alto impacto ou material não metálico. Da bandeja haverá uma saída com conexão em PVC para interligação à espera na parede para escoamento da água gerada devido à condensação.
+
+•   Filtro de ar: Pré-filtro do tipo tela permanente e lavável.
+
+Garantia mínima total de 1 ano para defeitos de fabricação e/ou instalação.
+Marca: Komeco
+
+Modelo: KOC36FC 2LX / KOCP36FC 2LX / KOC36FCQCG4/1LX/2LX
+
+
+	9.000,00
+	9.000,00
+
+	3
+	39561
+	6
+	Unid.
+	Ar condicionado Split tipo cassete, capacidade mínima de 46.000 BTU's, ciclo frio, com controle remoto, conjunto com unidades evaporadora e condensadora, selo PROCEL classe B ou mais eficiente, com instalação, com as seguintes características mínimas:
+
+Condicionador de ar (evaporador + condensador)
+
+•          Tipo: Split system composto de unidade condensadora externa e unidade evaporadora interna do tipo K-7 para montagem aparente no ambiente condicionado insuflamento para 4 lados, com controle remoto sem fio.
+
+•          Capacidade nominal mínima: 46.000 BTU
+
+•          Capacidade nominal sensível mínima: 38.400 BTU
+
+•          Vazão de ar mínima: 1.600 m3/h (Conforme fabricante)
+
+•          Evaporador: Composto de serpentina confeccionada com tubos de cobre sem costura e aletas de alumínio fixadas aos tubos por expansão mecânica de forma a obter-se um perfeito contato. Fluxo do ar em corrente cruzada. A serpentina deverá sofrer teste de fábrica contra vazamentos a uma pressão de 350 psi. Montagem em forma de um quadrado sendo que a serpentina ocupa a área periférica e o centro fica disponível para a montagem do ventilador, sistema de comando e retorno de ar.
+
+•          Ventilador evaporador: Centrífugo, simples aspiração, acionamento direto no eixo do motor. Confeccionado em material termoplástico, deve ser balanceado estática e dinamicamente. A operação deverá ser silenciosa, pois a unidade ficará no ambiente condicionado.
+
+•          Dispositivo de expansão: orifício restritor, sistema “piston” ou válvula de expansão.
+
+•          Gabinete evaporador: Estrutura em perfis metálicos galvanizados ou zincado, com acabamento externo em termoplástico injetado. Internamente deverá ser isolado com material termoacústico onde apropriado. A própria serpentina faz parte da estrutura da unidade. Deve haver um fechamento da unidade em chapa de aço galvanizado, isolado externamente.
+
+•          Ventilador condensador: Tipo axial acoplado diretamente ao eixo do motor elétrico. Descarga vertical.
+
+•          Compressor: Scroll, montado na unidade condensadora.
+
+•          Temperatura de entrada do ar de condensação: 35°C
+
+•          Condensador: Na unidade externa, composto de serpentina confeccionada com tubos de cobre sem costura e aletas de alumínio fixadas aos tubos por expansão mecânica de forma a obter-se um perfeito contato. Fluxo do ar em corrente cruzada. A serpentina deverá sofrer teste de fábrica contra vazamentos a uma pressão de 350 psi. A serpentina envolve a unidade, fazendo parte de sua estrutura de sustentação. Na parte central está montado o compressor e o ventilador do condensador. Prever proteção contra maresia.
+
+•          Gabinete condensador: Constituído por estrutura metálica com painéis de chapa de aço carbono galvanizado ou em termoplástico, pintado com tinta esmalte sintético sobre “primer” anticorrosivo. A unidade deve estar preparada para ser instalada ao tempo. Modelo barril.
+
+•          Tensão de trabalho: 380V, 3F, 60 Hz, potência conforme fabricante.
+
+•          Classificação PROCEL: classificação mínima exigida Classe C.
+
+•          Deve possuir válvula de serviço na sucção e na descarga original de fábrica.
+
+•          Bandeja de condensação: Deverá ser fabricado em poliestireno de alto impacto ou material não metálico. Da bandeja haverá uma saída com conexão em PVC para interligação à espera na parede para escoamento da água gerada devido à condensação.
+
+•          Filtro de ar: Pré-filtro do tipo tela permanente e lavável.
+
+•          O split deve possuir dispositivo de proteção contra inversão de fases e contra falta de fase incorporado ao próprio equipamento.
+
+Garantia mínima total de 1 ano para defeitos de fabricação e/ou instalação.
+Marca: Komeco
+
+Modelo: KOC48FC 2LX / KOCP48FC 2LX 380V / KOC48FCQCG4/1LX/2LX
+
+
+	9.500,00
+	57.000,00
+
+	4
+	39559
+	4
+	Unid.
+	Ar condicionado Split tipo cassete, capacidade mínima de 54.000 BTU's, ciclo frio, com controle remoto, conjunto com unidades evaporadora e condensadora, selo PROCEL classe B ou mais eficiente, com instalação, com as seguintes características mínimas:
+
+Item: Condicionador de ar (evaporador + condensador)
+
+•              Tipo: Split system composto de unidade condensadora externa e unidade evaporadora interna do tipo K-7 para montagem aparente no ambiente condicionado insuflamento para 4 lados, com controle remoto sem fio.
+
+•              Capacidade nominal mínima: 54.000 BTU
+
+•              Capacidade nominal sensível mínima: 48.000 BTU
+
+•              Vazão de ar mínima: 1.600 m3/h (Conforme fabricante)
+
+•              Evaporador: Composto de serpentina confeccionada com tubos de cobre sem costura e aletas de alumínio fixadas aos tubos por expansão mecânica de forma a obter-se um perfeito contato. Fluxo do ar em corrente cruzada. A serpentina deverá sofrer teste de fábrica contra vazamentos a uma pressão de 350 psi. Montagem em forma de um quadrado sendo que a serpentina ocupa a área periférica e o centro fica disponível para a montagem do ventilador, sistema de comando e retorno de ar.
+
+•              Ventilador evaporador: Centrífugo, simples aspiração, acionamento direto no eixo do motor. Confeccionado em material termoplástico, deve ser balanceado estática e dinamicamente. A operação deverá ser silenciosa, pois a unidade ficará no ambiente condicionado.
+
+•              Dispositivo de expansão: orifício restritor, sistema “piston” ou válvula de expansão.
+
+•              Gabinete evaporador: Estrutura em perfis metálicos galvanizados ou zincado, com acabamento externo em termoplástico injetado. Internamente deverá ser isolado com material termoacústico onde apropriado. A própria serpentina faz parte da estrutura da unidade. Deve haver um fechamento da unidade em chapa de aço galvanizado, isolado externamente.
+
+•              Ventilador condensador: Tipo axial acoplado diretamente ao eixo do motor elétrico. Descarga vertical.
+
+•              Compressor: Scroll, montado na unidade condensadora.
+
+•              Temperatura de entrada do ar de condensação: 35°C
+
+•              Condensador: Na unidade externa, composto de serpentina confeccionada com tubos de cobre sem costura e aletas de alumínio fixadas aos tubos por expansão mecânica de forma a obter-se um perfeito contato. Fluxo do ar em corrente cruzada. A serpentina deverá sofrer teste de fábrica contra vazamentos a uma pressão de 350 psi. A serpentina envolve a unidade, fazendo parte de sua estrutura de sustentação. Na parte central está montado o compressor e o ventilador do condensador. Prever proteção contra maresia.
+
+•              Gabinete condensador: Constituído por estrutura metálica com painéis de chapa de aço carbono galvanizado ou em termoplástico, pintado com tinta esmalte sintético sobre “primer” anticorrosivo. A unidade deve estar preparada para ser instalada ao tempo. Modelo barril.
+
+•              Tensão de trabalho: 380V, 3F, 60 Hz, potência conforme fabricante.
+
+•              Classificação PROCEL: classificação mínima exigida Classe C.
+
+•              Deve possuir válvula de serviço na sucção e na descarga original de fábrica.
+
+•              Bandeja de condensação: Deverá ser fabricado em poliestireno de alto impacto ou material não metálico. Da bandeja haverá uma saída com conexão em PVC para interligação à espera na parede para escoamento da água gerada devido à condensação.
+
+•              Filtro de ar: Pré-filtro do tipo tela permanente e lavável.
+
+•              O split deve possuir dispositivo de proteção contra inversão de fases e contra falta de fase incorporado ao próprio equipamento.
+
+Garantia mínima total de 1 ano para defeitos de fabricação e/ou instalação.
+Marca: Elgin
+Modelo: KEFI60B2NC / OUFE60B4CB / 45KEZP00B2DA
+
+	12.000,00
+	48.000,00
+
+	5
+	40140
+	1
+	serviço
+	Serviço completo de instalação de 12 equipamentos de refrigeração, incluindo materiais elétricos, hidráulico, refrigeração, andaimes e ART de projeto e execução
+	
+	10.000,00
+
+	Preço Total Global (em reais)
+	R$ 126.500,00
+
+	Preço Total Global (em reais, por extenso)
+	Cento e vinte e seis mil e quinhentos reais.
+
+
+PAGAMENTO: O pagamento será efetuado em até 30 (trinta) dias consecutivos após a entrega dos equipamentos com instalação à Administração, desde que os serviços sejam aprovados pelo Gestor designado pela CONTRATANTE e sigam acompanhados da(s) respectiva(s) Nota(s) Fiscal(is) Eletrônica(s) (NF-e), através de depósitos bancários (hipótese na qual a NF-e deverá conter os dados bancários da CONTRATADA) ou de boletos bancários (caso no qual tais documentos deverão acompanhar a NF-e).
+PRAZO DE VIGÊNCIA: O contrato gerado em decorrência deste Edital terá vigência a contar de sua assinatura, até o término deste exercício financeiro (2020), em conformidade com o disposto no caput do artigo 57 da Lei Federal nº 8.666/93.
+DATA: 28/09/2020.

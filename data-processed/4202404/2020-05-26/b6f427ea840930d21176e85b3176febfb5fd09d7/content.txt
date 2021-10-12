@@ -1,0 +1,278 @@
+
+FUNDAÇÃO UNIVERSIDADE REGIONAL DE BLUMENAU
+
+Extrato nº. 167/2020
+PARTES:  FUNDAÇÃO UNIVERSIDADE REGIONAL DE BLUMENAU
+
+E
+
+                  RD COMÉRCIO DE FERRAMENTAS EIRELI ME
+OBJETO: Registro de Preços para aquisições futuras de ferro, chapas de aço e outros metais para o uso em manutenções da Universidade.
+FUNDAMENTO LEGAL: Pregão Presencial (SRP) nº 067/2020 e Ata de Registro de Preços nº 092/2020, a ser firmado em 29 de maio de 2020.  
+PREÇO: O preço ofertado pela empresa signatária da presente Ata de Registro de Preços é o abaixo informado, de acordo com a respectiva classificação:
+
+	Lote 05
+
+	Item
+	Código FURB
+	Qtde.
+	Und.
+	Descrição do Item
+	Preço Unitário (em R$)
+	Preço Total do Item (em R$)
+
+	1
+	23894
+	10
+	peça
+	Curva de 90º de aço carbono preto, diâmetro externo de 2'' de raio longo, com espessura de parede de 2,50mm e com chanfro para solda.
+
+Marca: Kiferro
+	16,61
+	166,10
+
+	2
+	36419
+	10
+	peça
+	Curva de 90º de aço carbono preto, diâmetro externo de 1.1/2'' de raio longo, com espessura de parede de 2,50mm e com chanfro para solda.
+
+Marca: Kiferro
+	10,51
+	105,10
+
+	3
+	38597
+	50
+	peça
+	Curva de 90º de aço carbono preto, diâmetro externo de 1'' de raio longo, com espessura de parede de 2,50mm e com chanfro para solda.
+
+Marca: Kiferro
+	9,74
+	487,00
+
+	4
+	38598
+	50
+	peça
+	Curva de 90º de aço carbono preto, diâmetro externo de 1'.1/4' de raio longo, com espessura de parede de 2,50mm e com chanfro para solda.
+
+Marca: Kiferro
+	11,41
+	570,50
+
+	5
+	28170
+	5
+	peça
+	Gonzo de aço carbono de 5/8''.
+
+Marca: Kiferro
+	4,26
+	21,30
+
+	Preço Total do Lote
+
+ (em reais, R$)
+	1.350,00
+
+	Preço Total do Lote
+
+ (em reais, por extenso)
+	Mil trezentos e cinquenta reais
+
+
+	Lote 07
+
+	Item
+	Código FURB
+	Qtde.
+	Und.
+	Descrição do Item
+	Preço Unitário (em R$)
+	Preço Total do Item (em R$)
+
+	1
+	6472
+	10
+	barra
+	Tubo de ferro preto 20 x 40 x 1,5mm. Comprimento da barra: 6 metros. Material conforme norma SAE 1020.
+
+Marca: Kiferro 
+	83,15
+	831,50
+
+	2
+	21543
+	10
+	barra
+	Tubo de ferro preto 40 x 40 x 2mm. Comprimento da barra: 6 metros. Material conforme norma SAE 1020.
+
+Marca: Kiferro
+	126,54
+	1.265,40
+
+	3
+	21319
+	20
+	barra
+	Tubo de ferro preto 40 x 60 x 2mm. Comprimento da barra: 6 metros. Material conforme norma SAE 1020.
+
+Marca: Kiferro
+	170,82
+	3.416,40
+
+	4
+	18544
+	10
+	barra
+	Cano de ferro preto 1'', parede 1,5mm. Comprimento da barra: 6 metros. Material conforme norma SAE 1020.
+
+Marca: Kiferro
+	53,33
+	533,30
+
+	5
+	28183
+	20
+	barra
+	Cano de ferro preto 1.1/2'', parede 1,5mm. Comprimento da barra: 6 metros.  Material conforme norma SAE 1020.
+
+Marca: Kiferro
+	79,54
+	1.590,80
+
+	6
+	28184
+	20
+	barra
+	Cano de ferro preto 1.1/4'', parede 1,5mm. Comprimento da barra: 6 metros. Material conforme norma SAE 1020.
+
+Marca: Kiferro
+	65,07
+	1.301,40
+
+	7
+	28185
+	20
+	barra
+	Cano de ferro preto 2'', parede 1,5mm. Comprimento da barra: 6 metros. Material conforme norma SAE 1020.
+
+Marca: Kiferro
+	103,94
+	2.078,80
+
+	8
+	28186
+	5
+	barra
+	Cano de ferro preto 3/4'', parede 1,5mm. Comprimento da barra: 6 metros. Material conforme norma SAE 1020.
+
+Marca: Kiferro
+	39,77
+	198,85
+
+	9
+	28187
+	5
+	barra
+	Cano de ferro preto 5/8'', parede 1,5mm. Comprimento da barra: 6 metros. Material conforme norma SAE 1020.
+
+Marca: Kiferro
+	37,05
+	185,25
+
+	10
+	28188
+	5
+	barra
+	Cano de ferro preto, parede 1,5mm 7/8''. Comprimento da barra: 6 metros. Material conforme norma SAE 1020.
+
+Marca: Kiferro
+	45,20
+	226,00
+
+	11
+	28189
+	50
+	barra
+	Tubo de ferro zincado 30 x 40 x 2mm. Comprimento da barra: 6 metros. Material conforme norma SAE 1020.
+
+Marca: Kiferro
+	133,78
+	6.689,00
+
+	12
+	27272
+	10
+	barra
+	Tubo de ferro zincado 40 x 60 x 2mm. Comprimento da barra: 6 metros. Material conforme norma SAE 1020.
+
+Marca: Kiferro
+	188,90
+	1.889,00
+
+	13
+	28190
+	30
+	barra
+	Tubo de ferro zincado 50 x 50 x 2mm. Comprimento da barra: 6 metros. Material conforme norma SAE 1020.
+
+Marca: Kiferro
+	188,90
+	5.667,00
+
+	14
+	28191
+	100
+	barra
+	Cano de ferro zincado 1'', parede 1,55mm. Comprimento da barra: 6 metros. Material conforme norma SAE 1020.
+
+Marca: Kiferro
+	69,59
+	6.959,00
+
+	15
+	22684
+	100
+	barra
+	Cano de ferro zincado 1.1/4'', parede 1,55mm. Comprimento da barra: 6 metros. Material conforme norma SAE 1020.
+
+Marca: Kiferro
+	82,25
+	8.225,00
+
+	16
+	22686
+	100
+	barra
+	Cano de ferro zincado 2'', parede 1,55mm. Comprimento da barra: 6 metros. Material conforme norma SAE 1020.
+
+Marca: Kiferro
+	131,05
+	13.105,00
+
+	17
+	32523
+	30
+	barra
+	Ferro tubular zincado 30 x 50mm com espessura de parede 1,55mm. Comprimento da barra: 6 metros.
+
+Marca: Kiferro
+	144,61
+	4.338,30
+
+	Preço Total do Lote
+
+ (em reais, R$)
+	58.500,00
+
+	Preço Total do Lote
+
+ (em reais, por extenso)
+	Cinquenta e oito mil e quinhentos reais
+
+
+PAGAMENTO: O pagamento será efetuado em até 30 (trinta) dias consecutivos após a efetiva entrega (com descarga) dos materiais/produtos, desde que os mesmos estejam em perfeitas condições de uso, sejam aprovados pelo Gestor designado pela CONTRATANTE e sigam acompanhados da respectiva Nota Fiscal Eletrônica (NF-e), através de depósitos bancários (hipótese na qual a NF-e deverá conter os dados bancários da CONTRATADA) ou de boletos bancários (caso no qual tais documentos deverão acompanhar a NF-e).
+PRAZO DE VIGÊNCIA: A presente Ata de Registro de Preços terá a validade de 12 (doze) meses, contados a partir da data de sua assinatura.
+DATA: 26/05/2020.

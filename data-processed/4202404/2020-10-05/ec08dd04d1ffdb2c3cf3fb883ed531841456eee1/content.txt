@@ -1,0 +1,261 @@
+ATA DE REGISTRO DE PREÇOS N° 2217/2020 – PREGÃO PRESENCIAL Nº. 2224/2020 = SAMAE
+Objeto:. Registro de Preços para prestação de serviços de conserto/manutenção de equipamentos de informática, com fornecimento de peças e componentes, inclusive notebooks e switchs, pelo período de 01 (um) ano - SAMAE.
+Empresa: Franciele Cristine Lamim ME – Novo Rumo Comercial – CNPJ: 23.964.820/0001-07
+
+	Nº Item
+	Qtde
+	Unid.
+	Valor Unitário
+	Valor Total
+
+	9
+	5
+	unid
+	R$ 113,00
+	R$ 565,00
+
+	10
+	5
+	unid
+	R$ 700,00
+	R$ 3.500,00
+
+	11
+	5
+	unid
+	R$ 131,00
+	R$ 655,00
+
+	12
+	5
+	unid
+	R$ 8,00
+	R$ 40,00
+
+	13
+	400
+	unid
+	R$ 0,65
+	R$ 260,00
+
+	14
+	10
+	cx
+	R$ 625,00
+	R$ 6.250,00
+
+	15
+	5
+	unid
+	R$ 11,00
+	R$ 55,00
+
+	16
+	10
+	unid
+	R$ 292,00
+	R$ 2.920,00
+
+	17
+	10
+	unid
+	R$ 53,50
+	R$ 535,00
+
+	18
+	10
+	unid
+	R$ 29,00
+	R$ 290,00
+
+	19
+	60
+	unid
+	R$ 76,00
+	R$ 4.560,00
+
+	20
+	30
+	unid
+	R$ 28,00
+	R$ 840,00
+
+	21
+	40
+	unid
+	R$ 24,00
+	R$ 960,00
+
+	22
+	20
+	unid
+	R$ 470,00
+	R$ 9.400,00
+
+	23
+	5
+	unid
+	R$ 107,00
+	R$ 535,00
+
+	24
+	15
+	unid
+	R$ 176,00
+	R$ 2.640,00
+
+	25
+	10
+	unid
+	R$ 29,00
+	R$ 290,00
+
+	26
+	10
+	unid
+	R$ 319,00
+	R$ 3.190,00
+
+	27
+	50
+	Pç
+	R$ 22,00
+	R$ 1.100,00
+
+	28
+	20
+	unid
+	R$ 94,00
+	R$ 1.880,00
+
+	29
+	5
+	unid
+	R$ 202,00
+	R$ 1.010,00
+
+	30
+	10
+	unid
+	R$ 17,00
+	R$ 170,00
+
+	31
+	10
+	unid
+	R$ 54,00
+	R$ 540,00
+
+	32
+	5
+	unid
+	R$ 353,00
+	R$ 1.765,00
+
+	33
+	10
+	unid
+	R$ 59,00
+	R$ 590,00
+
+	34
+	10
+	unid
+	R$ 114,00
+	R$ 1.140,00
+
+	35
+	15
+	unid
+	R$ 265,00
+	R$ 3.975,00
+
+
+Valor Total R$  49.655,00
+Empresa:MS Tecnologia e Serviços Ltda– CNPJ: 85.305.639/0001-38
+	Nº Item
+	Qtde
+	Unid.
+	Valor Unitário
+	Valor  Total
+
+	1
+	5
+	serv
+	R$ 580,00
+	R$ 2.900,00
+
+	2
+	10
+	serv
+	R$ 250,00
+	R$ 2.500,00
+
+	3
+	10
+	serv
+	R$ 164,80
+	R$ 1.648,00
+
+	4
+	20
+	serv
+	R$ 170,88
+	R$ 3.417,60
+
+	5
+	10
+	serv
+	R$ 345,00
+	R$ 3.450,00
+
+	6
+	10
+	unid
+	R$ 168,83
+	R$ 1.688,30
+
+	7
+	40
+	serv
+	R$ 205,00
+	R$ 8.200,00
+
+	8
+	20
+	serv
+	R$ 440,00
+	R$ 8.800,00
+
+	36
+	2.000
+	valor
+	R$ 1,00
+	R$ 2.000,00
+
+	37
+	4.000
+	valor
+	R$ 1,00
+	R$ 4.000,00
+
+	38
+	3.000
+	valor
+	R$ 1,00
+	R$ 3.000,00
+
+	39
+	5.000
+	valor
+	R$ 1,00
+	R$ 5.000,00
+
+
+Valor Total R$  46.603,90
+Valor total de Pregão Presencial 2224/2020 - R$ 96.258,90
+Base Legal: De acordo com o Pregão Presencial nº 2224/2020 nos termos da Lei nº 10.520/02, Decreto Municipal nº 7.732/04, a Lei complementar 123/06 e suas alterações e subsidiariamente a Lei nº 8.666/93 e alterações, a CLT, em especial art. 551, Súmula 331 do TST, Código Civil e demais legislações aplicáveis à matéria.
+Pagamento: O pagamento será realizado em até 28 (vinte e oito) dias após a entrega,  mediante apresentação da Nota Fiscal Eletrônica, com aceite no verso, o qual será efetuado através de boleto ou depósito bancário na instituição financeira indicada na NF-e com devidas informações (Banco, agência, número conta).
+Prazo de vigência: A presente Ata de Registro de Preços terá a validade de 12 (doze) meses, contados a partir da data de sua assinatura.
+Blumenau – SC, 01 de outubro de 2020
+
